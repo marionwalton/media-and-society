@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 12. Definitionsfor Media & Society
+title: 13. Definitionsfor Media & Society
 ---
 
 Use this page to keep track of the new concepts you are learning in *Media & Society*. 
