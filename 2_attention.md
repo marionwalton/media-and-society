@@ -1,11 +1,6 @@
 ---
-layout: layouts/post.njk
+layout: home
 title: Attention and Influence
-description: Blog post A description
-tags: blog
-date: 2025-03-07
-changefreq: weekly
-priority: 0.8
 ---
 
 ## attention & influence
