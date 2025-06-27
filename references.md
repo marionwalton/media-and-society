@@ -1,10 +1,6 @@
 ---
-title: references
-description: List of references
-date: 2025-05-19
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title: List of references
 ---
 These are some of the important sources used in *Media & Society*. 
 
