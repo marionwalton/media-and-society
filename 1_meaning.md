@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 3. Meaning and meaning-making
+title: 03. Meaning and meaning-making
 ---
 
 ## 2. media & meaning
