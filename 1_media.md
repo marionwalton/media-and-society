@@ -1,11 +1,6 @@
 ---
-layout: layouts/post.njk
+layout: home
 title: Thinking About Media
-description: Blog post A description
-tags: blog
-date: 2025-03-01
-changefreq: weekly
-priority: 0.8
 ---
 
 ## thinking about media 
