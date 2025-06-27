@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 7. Powerful owners
+title: 07. Powerful owners
 ---
 
 ### Powerful owners - mass media
