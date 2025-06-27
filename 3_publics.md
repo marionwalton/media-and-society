@@ -1,10 +1,6 @@
 ---
-title: publics
-description: Media, publics & power
-date: 2025-02-25
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title:  Media, publics & power
 ---
 
 ## media, publics & power
