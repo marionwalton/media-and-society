@@ -2,8 +2,17 @@
 title: Home
 layout: home
 ---
-# Test
 
+# media & society
+
+<img src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/cap.svg?v=1739591315425" class="small">This 
+is your [pocket textbook](/about/) for Media & Society. It's designed as an accessible guide to 
+the ideas we'll explore in more detail in classes and course readings. Follow the links below for an introduction to the ideas we explore in the course.
+
+We're currently testing this format and several of the topics are still under development. 
+We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
+
+## ideas
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
