@@ -1,10 +1,6 @@
 ---
-title: automation
-description: Understanding automation in simulated dialogue
-date: 2025-03-27
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title: Understanding automation
 ---
 
 ## chatbots & automation
