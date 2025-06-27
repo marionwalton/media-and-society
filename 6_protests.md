@@ -1,10 +1,6 @@
 ---
-title: protests 
-description: UCT Protest examples 2025
-date: 2025-05-20
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title: UCT Protest examples 2025
 ---
 
 ## examples
