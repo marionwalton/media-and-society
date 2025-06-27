@@ -1,10 +1,6 @@
 ---
-title: ownership
-description: The power of ownership
-date: 2025-02-26
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title: Powerful owners
 ---
 
 ### Powerful owners - mass media
