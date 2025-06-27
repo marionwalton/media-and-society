@@ -1,10 +1,6 @@
 ---
-title: meaning
-description: Meaning and meaning-making
-date: 2025-02-20
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title: 2. Meaning and meaning-making
 ---
 
 ## media & meaning
