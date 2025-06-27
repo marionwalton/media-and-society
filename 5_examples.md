@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Media examples 2025
+title: 11. Media examples 2025
 ---
 
 ## examples
