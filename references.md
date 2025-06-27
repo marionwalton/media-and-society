@@ -1,6 +1,6 @@
 ---
 layout: home
-title: List of references
+title: 14. List of references
 ---
 These are some of the important sources used in *Media & Society*. 
 
