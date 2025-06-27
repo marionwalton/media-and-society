@@ -1,10 +1,6 @@
 ---
-title: people
-description: People using media
-date: 2025-02-19
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title: People using media
 ---
 
 ## people using media
