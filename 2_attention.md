@@ -1,7 +1,12 @@
 ---
-layout: home
-title: Attention and Influence
+title: attention
+description: Data, attention and influence
+date: 2025-02-26
+tags:
+  - posts
+layout: layouts/post.njk
 ---
+
 
 ## attention & influence
 *By Marion Walton, University of Cape Town*

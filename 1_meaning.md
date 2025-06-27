@@ -1,11 +1,10 @@
 ---
+title: meaning
+description: Meaning and meaning-making
+date: 2025-02-20
+tags:
+  - posts
 layout: layouts/post.njk
-title: Media & Meaning
-description: Blog post A description
-tags: blog
-date: 2025-02-21
-changefreq: weekly
-priority: 0.8
 ---
 
 ## media & meaning
