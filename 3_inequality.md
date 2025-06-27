@@ -1,10 +1,6 @@
 ---
-title: inequality
-description: How media produces and challenges inequalities in society
-date: 2025-02-27
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title: Media & Inequality
 ---
 
 
