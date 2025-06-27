@@ -1,10 +1,6 @@
 ---
-title: verification
-description: Verification in Media & Cultural Studies
-date: 2025-02-28
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title: Verification in Media & Cultural Studies
 ---
 
 ## Verification and the study of media
