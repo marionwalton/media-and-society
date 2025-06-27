@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 9. Verification in Media & Cultural Studies
+title: 09. Verification in Media & Cultural Studies
 ---
 
 ## Verification and the study of media
