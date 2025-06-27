@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  Media, publics & power
+title:  8. Media, publics & power
 ---
 
 ## media, publics & power
