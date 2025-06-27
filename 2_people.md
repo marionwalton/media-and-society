@@ -1,6 +1,6 @@
 ---
 layout: home
-title: People using media
+title: 5. People using media
 ---
 
 ## people using media
