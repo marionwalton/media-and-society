@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 6. Media & Inequality
+title: 06. Media & Inequality
 ---
 
 
