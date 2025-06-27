@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Understanding automation
+title: 10. Chatbots & automation
 ---
 
 ## chatbots & automation
