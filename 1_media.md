@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Thinking About Media
+title: 3. Thinking About Media
 ---
 
 ## thinking about media 
