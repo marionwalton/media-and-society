@@ -1,10 +1,6 @@
 ---
-title: networks
-description: Understanding networks
-date: 2025-02-26
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title: Understanding Networks
 ---
 
 ### understanding networks
