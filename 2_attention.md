@@ -1,6 +1,6 @@
 ---
 layout: home
-description: Data, attention and influence
+title: Data, attention and influence
 ---
 
 
