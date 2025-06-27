@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-# media & society
+# 1. media & society
 
 <img src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/cap.svg?v=1739591315425" class="small">This 
 is your [pocket textbook](/about/) for Media & Society. It's designed as an accessible guide to 
