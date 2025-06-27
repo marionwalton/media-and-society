@@ -1,10 +1,6 @@
 ---
-title: definitions
-description: Important academic key words for Media & Society
-date: 2025-05-19
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title: 12. Definitionsfor Media & Society
 ---
 
 Use this page to keep track of the new concepts you are learning in *Media & Society*. 
