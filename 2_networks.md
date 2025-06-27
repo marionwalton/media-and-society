@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Understanding Networks
+title: 4. Understanding Networks
 ---
 
 ### understanding networks
