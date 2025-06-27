@@ -1,10 +1,6 @@
 ---
-title: examples
-description: Media examples 2025
-date: 2025-05-20
-tags:
-  - posts
-layout: layouts/post.njk
+layout: home
+title: Media examples 2025
 ---
 
 ## examples
