@@ -17,7 +17,7 @@ callouts:
     title: Question
     color: green
   survey:
-    title: Survey
+    title: What do you think?
     color: purple
   example:
     title: Example
