@@ -8,8 +8,7 @@ title: 02. Thinking About Media
 *By Marion Walton, University of Cape Town*
 
 
-![media icons](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/Groupmedia_icons.svg?v=1739011187523)
-
+![media icons](img/Groupmedia_icons.svg)
 
 What did you do when you first opened your eyes this morning? What did you do yesterday evening?  
 
@@ -23,10 +22,10 @@ of a radio or podcast kept you company at some time in the day.
 It's very likely that you used a medium to communicate with others, perhaps an **aural medium** such as  the sound produced when you speak 
 (or sing in the shower\!) or a **visual medium** such as your clothing, facial expressions, gestures or sign language. 
 
-![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small")Because we use various forms of media so often, we may not even be aware of everything that goes into accessing and producing them. 
+![Activity](img/pencilpencil.svg)Because we use various forms of media so often, we may not even be aware of everything that goes into accessing and producing them. 
 When do you first remember using media? What role have different languages and different types of media played in your life so far?   What media industries do you find most interesting?
 
-### What are media?
+## What are media?
 
 In English, the word **media** evolved from the Latin word *medius* which means "in the middle" (<a href="/ideas/references/index.html#harper_nd">Harper, n.d.</a>). 
 In this course we are studying **media of communication**, the physical media, languages and industries which we use to connect with others and to communicate.
@@ -53,7 +52,7 @@ Many other communication technologies have been developed, including print media
 the electromagnetic spectrum (e.g. radio waves and cellphone signals), the internet and generative AI. 
 
 
-### Oramedia
+## Oramedia
 [**Oramedia**](https://media-and-society.glitch.me/ideas/definitions/#oramedia) 
 includes traditionally *oral forms* such as **storytelling, proverbs, folklore, folktales, drama, puppetry 
 and oral poetry** (<a href="https://media-and-society.glitch.me/ideas/references/index.html#ugboajah_1985">Ugbuojah, 1985</a>), many of which are only produced using the human body. 
@@ -61,7 +60,7 @@ and oral poetry** (<a href="https://media-and-society.glitch.me/ideas/references
 These forms often go beyond the spoken word, using vivid performances, improvisation, mimicry, music, dance, the tonal character of many African languages, and the responses of the 
 audience to make the most of the potential affordances of the oral medium ([Finnegan, 2012:5-10](/ideas/references/finnegan_2012))
 
-### What about digital media?
+## Digital media
 
 Today many forms of **digital media** are encoded in different formats and depend on a specific configuration of 
 **technologies and infrastructure** such as electricity, internet connectivity, 
@@ -73,18 +72,18 @@ In the case of the Iziko Rhino, a Wikipedian working at the Africa Centre in Cap
 to [Wikimedia](https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG), a website which allows everyone to contribute and edit
 information in encyclopedic format. Now people around the world can see the image.
 
-### What makes social media different?
+## Social media
 Social media *platforms* bring together *users, content creators and advertisers,* in many cases on a social media
 site or app. Most of these platforms provide tools and functionality for sharing media (text, photos, and videos) with family and friends or 
 for entertainment or professional purposes.
 
-![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small")
+![Activity](img/pencilpencil.svg)
 **Compare the affordances** of posting a message using (1) email and (2) a social media platform. 
 
 - Which affordances do you appreciate most? 
 - Which do you dislike?
 
-### Is AI a form of media?
+## AI and Media
 
 Generative Artificial Intelligence or [Generative AI](/ideas/definitions/#generative_ai) systems are specialised systems to automate media production by computers.
 We call this form of digital media **synthetic media**. Generative AI uses computer [algorithms](/ideas/definitions/index.html#algorithms) to synthesize media using a statistical [*model*](/ideas/definitions/index.html#model),
@@ -94,7 +93,7 @@ such as for example, a Large Language Model ([LLM](/ideas/definitions/index.html
 Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](/ideas/definitions/index.html#provenance). Generative AI can easily be used to bulk generate **spam** or 
 targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
 
-![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small")
+![Activity](img/pencilpencil.svg)
 What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 2 below) and the Iziko Rhino?
 How do you feel when you realise that an image or message was created by AI?
 
@@ -107,11 +106,11 @@ How do you feel when you realise that an image or message was created by AI?
   Dalle-E labelled its own synthetic image incorrectly as "A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.""
 </figure>
 
-### Meanings of "media"
+## Meanings of "media"
 
 When we talk loosely about media, we tend to bundle several senses of the word together - (1) production and distribution (2) communication and (3) media industries or organisations.
 
-#### 1. Media of production, distribution and reception 
+### 1. Media of production, distribution and reception 
 We use a wide range of media to produce, distribute or convey messages to one another. We tend to think of electronic or print media first, 
 but, as in the case of the rhino engraving in Figure 1, humans have used durable materials
 such as rock to communicate with one another throughout history. Other examples of everyday media used to create and distribute
@@ -119,7 +118,7 @@ messages include soundwaves, fabrics and paint.
   
 Popular social media apps such as TikTok are both media of production and reception.
 
-#### 2. Medium (mode) of communication 
+### 2. Medium (mode) of communication 
 The phrase "medium of communication" is often used to refer to **human languages** such as isiXhosa, Afrikaans, and English. We tend to use
 the word "mode" when we refer to other modes of communication, such as **visuals or music**.
 
@@ -134,7 +133,7 @@ Other dimensions of the engraving's meaning are based on the cultural and spirit
  when viewed in a museum or on a website would be very different to seeing it in its original context (when it possibly formed part 
 of a San spiritual ritual). Thus some dimensions of meaning depend heavily on the context in which the message or image is created or encountered.
 
-#### 3. Media industries and organisations
+### 3. Media industries and organisations
 Often when we talk about "the media" we are referring to the **for-profit media industries**
 which have developed around complex media production and distribution networks such as **television broadcasting, news publishers and networks, advertising
 and public relations agencies, or social media platforms**.
@@ -152,7 +151,7 @@ non-commercial media.
 
 Nonetheless, to access Wikimedia we rely on several for-profit industries which produce computers or cellphones or which provide web hosting, electricity and internet access. 
 
-### Check your understanding
+## Check your understanding
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@wehustleclips/video/7469872080104820001" data-video-id="7469872080104820001" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@wehustleclips" href="https://www.tiktok.com/@wehustleclips?refer=embed">@wehustleclips</a> Symbolism in Kendrick Lamar’s Super Bowl half time show. . . . <a title="kendricklamar" target="_blank" href="https://www.tiktok.com/tag/kendricklamar?refer=embed">#kendricklamar</a> <a title="nfl" target="_blank" href="https://www.tiktok.com/tag/nfl?refer=embed">#nfl</a> <a title="superbowl" target="_blank" href="https://www.tiktok.com/tag/superbowl?refer=embed">#superbowl</a> <a title="donaldtrump" target="_blank" href="https://www.tiktok.com/tag/donaldtrump?refer=embed">#donaldtrump</a> <a title="drake" target="_blank" href="https://www.tiktok.com/tag/drake?refer=embed">#drake</a> <a target="_blank" title="♬ original sound - wehustleclips" href="https://www.tiktok.com/music/original-sound-7469872352118606624?refer=embed">♬ original sound - wehustleclips</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
@@ -167,7 +166,7 @@ Answer questions about the clip using the form below:
 ## About this pocket textbook
 This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from **cultural studies** and **social semiotics**.
 
-### Important definitions
+## Important Definitions
 
 As you learn more about media, you will find yourself using language to talk about media in a more specialised way, 
 rather than in the general way used by non-specialists. 
