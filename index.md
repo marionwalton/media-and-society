@@ -61,6 +61,16 @@ Try using all these different opportunities to ensure that you learn actively, r
 Thinking about these questions and taking a few written notes is a great way to apply your understanding and prepare for discussion in class.
 
 <hr>
+
+{: .example}
+A _yellow tag_ introduces an example where you can try to apply the new concepts you've learned to a new media example. Thinking about these new media examples and taking a few written notes about your ideas is a great way to make sure you have something to contribute in class.
+
+Example
+{: .label .label-yellow }
+
+<hr>
+
+{: .definition}
 A _blue tag_ highlights the sections where definitions are provided and important new concepts are introduced.
 You can also find out more about these key concepts by clicking <button popovertarget="definition">Definition</button>. buttons, exploring the page of [definitions](defs) or using the search bar at the top of the page.
 
@@ -103,14 +113,6 @@ A _purple tag_ shows that there is a survey for you to take in the section. This
 
 Survey
 {: .label .label-purple }
-
-<hr>
-
-{: .example}
-A _yellow tag_ introduces an example where you can try to apply the new concepts you've learned to a new media example. Thinking about these new media examples and taking a few written notes about your ideas is a great way to make sure you have something to contribute in class.
-
-Example
-{: .label .label-yellow }
 
 ## Feedback
 

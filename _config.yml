@@ -22,3 +22,6 @@ callouts:
   example:
     title: Example
     color: yellow
+  definition:
+    title: Definition
+    color: blue
