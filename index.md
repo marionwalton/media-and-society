@@ -27,12 +27,15 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 </div>
 
 <div popover id="open">
-  <h2>What is "open access"?</h2>
+## What is "open access"?
   <hr>
-  <p> We intend that anyone should be able to read, download, copy, distribute, print, search for and search within the pocket textbook. The pocket textbook is 'open access' because it has been made available with a [Creative Commons (Attribution - Share Alike)] license. </p>
-      <p>In other words, there are no financial, legal or technical barriers to accessing the textbook, as long as the authors are acknolwedged and any derivative works are also shared under a similar license.   For that reason, it has been made available to be used within the constraints of a ** CC Attribution-ShareAlike 4.0 (BY-SA)** license.</p>
-  <p>We suggest you use the website version when you want to view videos or animations or listen to audio.</p>
-  <button popovertarget="open" popovertargetaction="hide">Close</button>
+The pocket textbook is an open access textbook.
+Anyone should be able to read, download, copy, distribute, print, search for and search within it. 
+- There are no financial, legal or technical barriers to accessing the textbook. 
+- The authors should be acknowledged.
+- Any derivative works are also shared under a similar license.   
+This is known as a ** Creative Commons Attribution-ShareAlike 4.0 (BY-SA)** license.
+<button popovertarget="open" popovertargetaction="hide">Close</button>
 </div>
 
 <details markdown="block">
