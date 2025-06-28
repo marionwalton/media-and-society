@@ -56,11 +56,13 @@ the electromagnetic spectrum (e.g. radio waves and cellphone signals), the inter
 
 ## Oramedia
 [**Oramedia**](https://media-and-society.glitch.me/ideas/definitions/#oramedia) 
-includes traditionally *oral forms* such as **storytelling, proverbs, folklore, folktales, drama, puppetry 
+includes traditionally *oral forms* such as **storytelling, proverbs, folklore, folktales, drama, puppetry, spoken word performance 
 and oral poetry** (<a href="https://media-and-society.glitch.me/ideas/references/index.html#ugboajah_1985">Ugbuojah, 1985</a>), many of which are only produced using the human body. 
 
 These forms often go beyond the spoken word, using vivid performances, improvisation, mimicry, music, dance, the tonal character of many African languages, and the responses of the 
 audience to make the most of the potential affordances of the oral medium ([Finnegan, 2012:5-10](/ideas/references/finnegan_2012))
+
+Illustration needed - spoken word performance
 
 ## Digital media
 
@@ -99,9 +101,7 @@ targeted **dis- or misinformation** and **deepfakes**. Because such messaging ca
 What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 2 below) and the Iziko Rhino?
 How do you feel when you realise that an image or message was created by AI?
 
-<img title="A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model" 
-     alt="A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model" 
-     src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/DALL-E_iziko_rhino?v=1739985803226" />
+![A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model](img/DALL-E_iziko_rhino.png)
 Figure 2: This synthetic image of a rhino was produced by OpenAI's DALL·E model in response to the prompt 'Picture of Iziko Rhino'. 
  Dalle-E labelled its own synthetic image incorrectly as 'A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.'
 
