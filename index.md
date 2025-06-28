@@ -53,26 +53,37 @@ Survey
 
 ## How to use the pocket textbook
 
+You'll learn more by engaging and interacting with the pocket textbook.
+
+<hr>
 This label highlights the sections where important new concepts are introduced.
 You can also find out more about these key concepts by exploring [definitions](defs) or using the search bar at the top of the page.
 
 Concept
 {: .label }
 
+<hr>
+
 This label shows that there is an activity for you to try out in the section. Try it before you click to see an answer.
 
 Activity
 {: .label .label-green }
+
+<hr>
 
 This label shows that there is a survey for you to take in the section. See how your answers and opinions compare to those of other students.
 
 Survey
 {: .label .label-purple }
 
+<hr>
+
 This label introduces an example where you can try to apply the new concepts you've learned.
 
 Example
 {: .label .label-yellow }
+
+<hr>
 
 This label alerts you to important warning information.
 
@@ -81,7 +92,6 @@ Warning
 
 
 ## ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg) Questions
-<hr>
 Activity
 {: .label .label-green }
 
