@@ -65,6 +65,7 @@ A _blue tag_ highlights the sections where definitions are provided and importan
 You can also find out more about these key concepts by clicking <button popovertarget="definition">Definition</button>. buttons, exploring the page of [definitions](defs) or using the search bar at the top of the page.
 
 You should cite any definitions and quotations from the pocket textbook as follows:
+
     Walton, M. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/</p>
 
 {: .label }
@@ -74,11 +75,11 @@ Definitions
   <h2>Definitions</h2>
   <hr>
   <p>Academic terms have specific meanings in particular fields of study.</p>
-    <p>This means you can't use a regular definition to find out what they mean.</p>
+    <p>This means you can't use a regular dictionary to find out what they mean.</p>
     <p>Instead, consult your readings.</p>
     <p>Using the definitions in your pocket textbook is a good start.</p>
-    <p>As you progress, you will be able to find definitions from important scholars in the field.</p>
-      Your pocket textbook provides definitions explaining the specific academic meaning of key terms.</p>
+    <p>Also look for definitions from important scholars in the field.</p>
+    <p>Make sure you always cite the **actual source you used**.</p>
   <button popovertarget="definition" popovertargetaction="hide">Close</button>
 </div>
 
@@ -121,9 +122,6 @@ Survey
 {: .label .label-purple }
 
 ## ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg) Questions
-Question
-{: .label .label-green }
-
 {: .question}
 When should you use the pocket textbook website and when should you use the downloadable pdf?
 
@@ -143,3 +141,6 @@ When should you use the pocket textbook website and when should you use the down
 - [ ] For printing and physical note-taking.
 
 </details>
+
+Question
+{: .label .label-green }
