@@ -10,13 +10,10 @@ layout: home
 This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from **cultural studies** and **social semiotics**.
 
 ## What is a pocket textbook?
-This is your [pocket textbook](/about/) for Media & Society. It's designed as an accessible, <button popovertarget="open">open access</button> guide to 
+This is your *pocket textbook* for Media & Society. It's designed as an accessible, <button popovertarget="open">open access</button> guide to 
 the ideas we'll explore in more detail in classes and course readings. 
 
 The chapters are designed as a short, readable overview of the ideas we explore in the course.
-
-We're currently testing this format and several of the topics are still under development. 
-We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
 
 Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 
@@ -42,6 +39,17 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 
 <button popovertarget="open" popovertargetaction="hide">Close</button>
 </div>
+
+Open Access
+{: .label }
+Pocket Textbook
+{: .label }
+
+We're currently testing this format and several of the topics are still under development. 
+We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
+
+Survey
+{: .label .label-purple }
 
 ## How to use the pocket textbook
 
@@ -73,6 +81,9 @@ Warning
 
 
 ## ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg) Questions
+<hr>
+Activity
+{: .label .label-green }
 
 <details markdown="block">
 Use the website when you are:
@@ -89,6 +100,4 @@ Download the pdf to use it:
 - For printing and physical note-taking.
  <summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
  
-<hr>
-Activity
-{: .label .label-green }
+
