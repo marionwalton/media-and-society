@@ -89,6 +89,6 @@ Download the pdf to use it:
 - For printing and physical note-taking.
  <summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
  
+<hr>
 Activity
 {: .label .label-green }
-<hr>
