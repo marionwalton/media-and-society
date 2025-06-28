@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 03. Discussing Media
+title: 03. Types of Media
 ---
 
-# Meanings of "media"
+# Types of "media"
 {: .no_toc }
 
 *By Marion Walton, University of Cape Town*
@@ -55,9 +55,6 @@ Nonetheless, to access Wikimedia we rely on several for-profit industries which 
 Here are some definitions of terms which will help you talk about media as a media student:
 
 - [Mass media](definitions.html#mass-media){: .btn .btn-blue }
-- [Oramedia](definitions.html#oramedia){: .btn .btn-blue }
-- [Social media](definitions.html#social-media){: .btn .btn-blue }
-- [Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
 
 {: .activity}
 ![Activity](img/pencilpencil.svg)Keep a list of the new words and concepts that you encounter in the course of the semester. What words can you add to the list already?

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 02. Thinking About Media
+title: 02. Defining Media
 ---
 
-# Thinking about Media
+# Defining Media
 {: .no_toc }
 
 *By Marion Walton, University of Cape Town*
@@ -106,7 +106,6 @@ Figure 2: This synthetic image of a rhino was produced by OpenAI's DALL·E model
 
 Here are some definitions of terms which will help you talk about media as a media student:
 
-- [Mass media](definitions.html#mass-media){: .btn .btn-blue }
 - [Oramedia](definitions.html#oramedia){: .btn .btn-blue }
 - [Social media](definitions.html#social-media){: .btn .btn-blue }
 - [Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
