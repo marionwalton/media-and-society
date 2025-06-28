@@ -77,7 +77,7 @@ A _green callout_ shows that there is a question for you to try out in the secti
 
 <details markdown="block">
 <summary>Click here for answer</summary>
-One possible answer.
+You'll see one possible answer!
 </details>
 
 ### Feedback
@@ -114,6 +114,20 @@ When should you use the pocket textbook website and when should you use the down
 - [ ] For printing and physical note-taking.
 
 </details>
+
+{: .question}
+Why is it helpful to try to answer questions and apply concepts to new examples?
+
+<details markdown="block">
+<summary>Answer</summary>
+
+Learning is an **_active process_**, and by interacting with learning material you will:
+- [ ] Find it easier to remember new ideas.
+- [ ] Have interesting things to say in class discussions.
+- [ ] Be able to check your understanding.
+- [ ] Find it easier to concentrate while you complete your readings.
+</details>
+
 
 
 <div popover id="pocket">
