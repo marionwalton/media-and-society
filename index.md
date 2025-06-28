@@ -18,23 +18,6 @@ The chapters are designed as a short, readable overview of the ideas we explore 
 We're currently testing this format and several of the topics are still under development. 
 We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
 
-
-Concept
-{: .label }
-
-Activity
-{: .label .label-green }
-
-Survey
-{: .label .label-purple }
-
-Example
-{: .label .label-yellow }
-
-Warning
-{: .label .label-red }
-
-
 Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 
 <div popover id="pocket">
@@ -60,9 +43,37 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 <button popovertarget="open" popovertargetaction="hide">Close</button>
 </div>
 
-![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)
+## How to use the pocket textbook
+
+This label highlights the sections where important new concepts are introduced.
+You can also find out more about these key concepts by exploring [definitions](defs) or using the search bar at the top of the page.
+
+Concept
+{: .label }
+
+This label shows that there is an activity for you to try out in the section. Try it before you click to see an answer.
+
+Activity
+{: .label .label-green }
+
+This label shows that there is a survey for you to take in the section. See how your answers and opinions compare to those of other students.
+
+Survey
+{: .label .label-purple }
+
+This label introduces an example where you can try to apply the new concepts you've learned.
+
+Example
+{: .label .label-yellow }
+
+This label alerts you to important warning information.
+
+Warning
+{: .label .label-red }
+
+
 ## Questions
-![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)
+![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)
 <details markdown="block"> ![Activity](img/pencilpencil.svg)
 Use the website when you are:
     
