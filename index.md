@@ -51,10 +51,10 @@ You'll learn more by engaging and interacting with the pocket textbook.
 
 Try using all these different opportunities to ensure that you learn actively, remember new concepts and have questions and ideas to share in your tutorials.
 <hr>
-Pencil icons indicate an *open question* of the kind your tutor is likely to ask you in the tutorials.
-Thinking about these questions and taking a few written notes is a great way to apply your understanding and prepare for discussion in class.
 
-![Activity](img/pencilpencil.svg)
+{: .activity}
+![Activity](img/pencilpencil.svg) Pencil icons indicate an *open question* of the kind your tutor is likely to ask you in the tutorials.
+Thinking about these questions and taking a few written notes is a great way to apply your understanding and prepare for discussion in class.
 
 <hr>
 A _blue tag_ highlights the sections where important new concepts are introduced.
@@ -85,7 +85,7 @@ Example
 {: .label .label-yellow }
 
 <hr>
-
+{: .warning}
 A red tag alerts you to important warning information.
 
 Warning
@@ -93,7 +93,6 @@ Warning
 
 ## Feedback
 
-{: .warning }
 We're currently testing this format and several of the topics are still under development. 
 We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
 
@@ -104,8 +103,8 @@ Survey
 Activity
 {: .label .label-green }
 
-<details markdown="block">
 {: .activity}
+<details markdown="block">
 Use the website when you are:
     
 - Viewing video and animations.
