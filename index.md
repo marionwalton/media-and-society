@@ -46,6 +46,9 @@ Example
 
 ### Definitions
 
+As you learn more about media, you will find yourself using language to talk about media in a more specialised way, 
+rather than in the general way used by non-specialists. 
+
 {: .definition}
  A _blue callout_ highlights the sections where new **_definitions_** are provided in the context of a detailed discussion of a new concept. 
 
