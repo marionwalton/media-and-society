@@ -13,3 +13,12 @@ callouts:
   activity:
     title: Activity
     color: yellow
+  question:
+    title: Question
+    color: green
+  survey:
+    title: Survey
+    color: purple
+  example:
+    title: Example
+    color: yellow

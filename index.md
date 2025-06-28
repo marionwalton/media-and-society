@@ -86,7 +86,7 @@ Example
 
 <hr>
 {: .warning}
-A red tag alerts you to important warning information.
+A _red tag_ alerts you to important warning information.
 
 Warning
 {: .label .label-red }
