@@ -152,8 +152,22 @@ Here are some definitions of terms which will help you talk about media as a med
 ### References
 The sources used in this article can be found by following the links on the citations. All sources are included in the [List of references](references.html)
 
+# Questions
+{: .question}
+TikTok is an example of:
+[][Mass media](definitions.html#mass-media)
+[][Oramedia](definitions.html#oramedia)
+[][Social media](definitions.html#social-media)
+[][Synthetic media](definitions.html#synthetic-media)
 
-## Check your understanding
+<details markdown="block">
+<summary>Click here for answer</summary>
+[][Mass media](definitions.html#mass-media)
+[][Oramedia](definitions.html#oramedia)
+[x][Social media](definitions.html#social-media)
+[][Synthetic media](definitions.html#synthetic-media)
+</details>
+
 
 {: .example}
 The video below is a commentary posted on TikTok by @wehustleclips in order to explain the significance of
