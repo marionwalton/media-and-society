@@ -51,9 +51,9 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 <p>Open access means anyone should be able to access a resource. </p>  
 <p>There are no financial, legal or technical barriers to accessing the textbook. </p>
 <p>The authors should be acknowledged. </p>
-<p>Any derivative works are also shared under this license.</p>
+<p>Any derivative works should also have this license.</p>
 
-This is known as a ** Creative Commons Attribution-ShareAlike 4.0 (BY-SA)** license.
+<p>This is known as a ** Creative Commons Attribution-ShareAlike 4.0 (BY-SA)** license.</p>
 
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
@@ -77,6 +77,6 @@ Download the pdf to use it:
 - For focused, uninterrupted reading.
 - For printing and physical note-taking.
 
-<summary>![Activity](img/pencilpencil.svg) When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
+![Activity](img/pencilpencil.svg) <summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
 
 <hr>
