@@ -90,7 +90,9 @@ Definitions
     <p>Using the definitions in your pocket textbook is a good start.</p>
     <p>Also look for definitions from important scholars in the field.</p>
     <p>Make sure you always cite the **actual source you used**.</p>
-  <button popovertarget="definition" popovertargetaction="hide" type="button" name="button" class="btn">Close</button>
+    <p>
+<button popovertarget="definition" popovertargetaction="hide" type="button" name="button" class="btn">Close</button>
+</p>
 </div>
 
 <hr>
@@ -124,6 +126,7 @@ Survey
 {: .label .label-purple }
 
 ## ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg) Questions
+
 {: .question}
 When should you use the pocket textbook website and when should you use the downloadable pdf?
 
