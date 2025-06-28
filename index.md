@@ -22,12 +22,6 @@ The pocket textbook is available as a
  <button popovertarget="pocket" type="button" name="button" class="btn">Pocket textbook</button>
  <button popovertarget="open" type="button" name="button" class="btn">Open access</button>
 
-
-Open Access
-{: .label }
-Pocket Textbook
-{: .label }
-
 ## How to use the pocket textbook
 
 You'll learn more by engaging and interacting with the pocket textbook. 
@@ -62,6 +56,7 @@ You can also find out more about these key concepts by:
 <button popovertarget="definition" type="button" name="button" class="btn">Definition</button>
 
 ![Activity](img/quote-left.svg)
+
 You should cite any definitions and quotations from the pocket textbook as follows:
 
 >Walton, M. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
