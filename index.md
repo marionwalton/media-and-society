@@ -64,21 +64,21 @@ Concept
 {: .label }
 
 <hr>
+{: .question}
+A _green tag_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!
 
-A _green tag_ shows that there is an activity for you to try out in the section. Try it before you click to see an answer, and remember that there are often different perspectives on questions in media and cultural studies!
-
-Activity
+Question
 {: .label .label-green }
 
 <hr>
-
+{: .survey}
 A _purple tag_ shows that there is a survey for you to take in the section. This will help you to see how your answers and opinions compare to those of other students. Your tutor might want to discuss your answers in class.
 
 Survey
 {: .label .label-purple }
 
 <hr>
-
+{: .example}
 A _yellow tag_ introduces an example where you can try to apply the new concepts you've learned to a new media example. Thinking about these new media examples and taking a few written notes about your ideas is a great way to make sure you have something to contribute in class.
 
 Example
