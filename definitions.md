@@ -140,6 +140,9 @@ attention of *large audiences*, which they often sell to *advertisers*. These in
 streaming sites, print and digital publishers and a range of other corporate media producers. This is usually what 
 we mean when we talk about “the media”.
 
+### Mode
+Modes of communication are symbolic systems which include language as well as **visual and other modes** of communication which humans use to make meaning, such as sound, images, clothing, gestures, expressions or music.
+
 ### Network
 A network can be defined as any system of relationships ([Chandler & Munday,2020a](/ideas/references/index.html#chandler_munday_2020a))
 which may represent relationships between people and things, or between words and other semiotic resources.

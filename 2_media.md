@@ -11,23 +11,21 @@ title: 03. Types of Media
 
 ![media icons](img/Groupmedia_icons.svg)
 
-- TOC
-{:toc}
 
 When we talk loosely about media, we tend to bundle several senses of the word together - (1) media of production and distribution (2) medium of communication (mode) and (3) media industries or organisations.
+
+- TOC
+{:toc}
 
 ### Media of production, distribution and reception 
 We use a wide range of media to produce, distribute or convey messages to one another. We tend to think of electronic or print media first,  but, as in the case of the rhino engraving in Figure 1, humans have used durable materials such as rock to communicate with one another throughout history. Other examples of everyday media used to create and distribute messages include soundwaves, fabrics and paint. 
   
 Popular social media apps such as TikTok are both media of production and reception.
 
-### Medium (mode) of communication 
-The phrase "medium of communication" is often used to refer to **human languages** such as isiXhosa, Afrikaans, and English. We tend to use
-the word "mode" when we refer to other modes of communication, such as **visuals or music**.
+### Mode of communication 
+The phrase "medium of communication" is often used to refer to **human languages** such as isiXhosa, Afrikaans, and English. We tend to use the word "mode" when we refer to other modes of communication, such as **visuals or music**.
 
-We learn to use languages to make and share meaningful messages with others who have a shared understanding of the linguistic "code". 
-These symbolic systems go beyond language and also include the **visual and other modes** of communication which humans 
-use to make meaning, such as images, clothing, gestures, expressions or music.
+We learn to use languages to make and share meaningful messages with others who have a shared understanding of the linguistic "code". These symbolic systems go beyond language and also include the **visual and other modes** of communication which humans use to make meaning, such as images, clothing, gestures, expressions or music.
 
 In the case of the Iziko Rhino, the **visual meaning** of the image has many dimensions. 
 Some of these dimensions of meaning are based on resemblance. For this reason, we can still recognise the shape of the rhino
@@ -55,12 +53,7 @@ Nonetheless, to access Wikimedia we rely on several for-profit industries which 
 Here are some definitions of terms which will help you talk about media as a media student:
 
 - [Mass media](definitions.html#mass-media){: .btn .btn-blue }
-
-{: .activity}
-![Activity](img/pencilpencil.svg)Keep a list of the new words and concepts that you encounter in the course of the semester. What words can you add to the list already?
-
-### References
-The sources used in this article can be found by following the links on the citations. All sources are included in the [List of references](references.html)
+- [Mode](definitions.html#mode){: .btn .btn-blue }
 
 # Questions
 
