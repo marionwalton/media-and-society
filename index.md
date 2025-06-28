@@ -66,7 +66,7 @@ You can also find out more about these key concepts by clicking <button popovert
 
 You should cite any definitions and quotations from the pocket textbook as follows:
 
-    Walton, M. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/</p>
+>Walton, M. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
 
 {: .label }
 Definitions
