@@ -108,19 +108,19 @@ Activity
 {: .label .label-green }
 
 {: .activity}
-<details block="markdown">
-    Use the website when you are:
-    
-- Viewing video and animations.
-- Listening to podcasts.
-- Searching for keywords.
-- Using interactive exercises (like this one).
+<details markdown="block">
+<summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
 
-Download the pdf to use it:
-- When you won't have wifi access. 
-- If you want to avoid using mobile data.
-- For focused, uninterrupted reading.
-- For printing and physical note-taking.
- <summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
- 
+ Use the website when you are:
+- [ ] Viewing video and animations.
+- [ ]  Listening to podcasts.
+- [ ] Searching for keywords.
+- [ ] Using interactive exercises (like this one).
 
+ Download the pdf to use it:
+- [ ] When you won't have wifi access. 
+- [ ] If you want to avoid using mobile data.
+- [ ] For focused, uninterrupted reading.
+- [ ] For printing and physical note-taking.
+
+</details>
