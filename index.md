@@ -5,8 +5,8 @@ layout: home
 
 # Media & Society
 
-<img src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/cap.svg?v=1739591315425" class="small">This 
-is your [pocket textbook](/about/) for Media & Society. It's designed as an accessible guide to 
+![Media student](img/cap.svg)
+This is your [pocket textbook](/about/) for Media & Society. It's designed as an accessible guide to 
 the ideas we'll explore in more detail in classes and course readings. 
 
 Work through the chapters for an introduction to the ideas we explore in the course.
@@ -14,16 +14,15 @@ Work through the chapters for an introduction to the ideas we explore in the cou
 We're currently testing this format and several of the topics are still under development. 
 We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
 
-<button popovertarget="mydiv">Click me!</button>
+<button popovertarget="mydiv">Pocket textbook</button>
 
 <div popover id="mydiv">
-  <h2>Popover</h2>
+  <h2>What is a pocket textbook?</h2>
   <hr>
-  <p>A popover is an element that is placed on top of everything else.</p>
-  <p>It can be used when you want to tell something important.</p>
+  <p>Your pocket textbook takes the form of a website that you can use on your phone or download as a pdf.</p>
+  <p>We suggest you use the website version when you want to view videos or animations or listen to audio.</p>
   <button popovertarget="mydiv" popovertargetaction="hide">Close</button>
 </div>
-
 
 <details markdown="block">
 <summary>Shopping list (click me!)</summary>
