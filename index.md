@@ -92,8 +92,9 @@ We'd love your [feedback or suggestions](https://forms.office.com/Pages/Response
 Survey
 {: .label .label-purple }
 
+<hr>
 ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)
-## Question
+## Questions
 
 {: .question}
 When should you use the pocket textbook website and when should you use the downloadable pdf?
@@ -128,7 +129,7 @@ Learning is an **_active process_**, and by interacting with learning material y
 - [ ] Find it easier to concentrate while you complete your readings.
 </details>
 
-
+<hr>
 
 <div popover id="pocket">
   <h2>What is a pocket textbook?</h2>
