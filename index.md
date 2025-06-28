@@ -71,7 +71,6 @@ A _green tag_ shows that there is a question for you to try out in the section. 
 
 <details markdown="block">
 <summary>Question</summary>
-{: .question}
 A possible answer
 </details>
 
@@ -114,8 +113,14 @@ Survey
 Activity
 {: .label .label-green }
 
+{: .question}
+When should you use the pocket textbook website and when should you use the downloadable pdf?
+
+Question
+{: .label .label-green }
+
 <details markdown="block">
-<summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
+<summary>Answer</summary>
 
  Use the website when you are:
 - [ ] Viewing video and animations.
