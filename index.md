@@ -104,8 +104,7 @@ Activity
 {: .label .label-green }
 
 {: .activity}
-
-<details markdown="block">
+<details>
 Use the website when you are:
     
 - Viewing video and animations.
