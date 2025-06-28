@@ -10,40 +10,17 @@ layout: home
 This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from **cultural studies** and **social semiotics**.
 
 ## What is a pocket textbook?
-This is your *pocket textbook* for Media & Society. It's designed as an accessible, <button popovertarget="open" type="button" name="button" class="btn">open access</button> guide to 
+This is your **_pocket textbook_** for Media & Society. It's designed as an accessible, **_open access_**  guide to 
 the ideas we'll explore in more detail in classes and course readings. 
 
 The chapters are designed as a short, readable overview of the ideas we explore in the course.
 
 The pocket textbook is available as a
-- Website 
-- Downloadable pdf (see Amthuba)
+- Website (You're currently using it!)
+- Downloadable pdf (Find it on Amthuba)
 
-Find out more about a <button popovertarget="pocket" type="button" name="button" class="btn">Pocket textbook</button>.
-
-<div popover id="pocket">
-  <h2>What is a pocket textbook?</h2>
-  <hr>
-  <p>Your pocket textbook takes the form of a website that you can use on your phone or download as a pdf.</p>
-  <p>We suggest you use the website version when you want to view videos or animations or listen to audio.</p>
- <p>
-<button popovertarget="pocket" popovertargetaction="hide" type="button" name="button" class="btn">Close</button>
-</p>
-</div>
-
-<div popover id="open">
-<h2>What is "open access"?</h2>
-  <hr>
-<p>Open access means anyone should be able to access a resource. </p>  
-<p>There are no financial, legal or technical barriers to accessing the textbook. </p>
-<p>The authors should be acknowledged. </p>
-<p>Any derivative works should also have this license.</p>
-
-<p>This is known as a ** Creative Commons Attribution-ShareAlike 4.0 (BY-SA)** license.</p>
-
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-
-<button popovertarget="open" popovertargetaction="hide" type="button" name="button" class="btn">Close</button>
+ <button popovertarget="pocket" type="button" name="button" class="btn">Pocket textbook</button>
+ <button popovertarget="open" type="button" name="button" class="btn">open access</button>
 </div>
 
 Open Access
@@ -74,8 +51,14 @@ Example
 ### Definitions
 
 {: .definition}
-A _blue tag_ highlights the sections where definitions are provided and important new concepts are introduced.
-You can also find out more about these key concepts by clicking <button popovertarget="definition" type="button" name="button" class="btn">Definition</button>. buttons, exploring the page of [definitions](defs) or using the search bar at the top of the page.
+A _blue tag_ highlights the sections where **_definitions_** are provided and important new concepts are introduced.
+You can also find out more about these key concepts by:
+
+- Clicking on definition buttons - try out the one in purple text below.
+- Exploring the page of [definitions](definitions.html)
+- Using the search bar at the top of the page to see how we use the word in the pocket textbook.
+
+<button popovertarget="definition" type="button" name="button" class="btn">Definition</button>
 
 You should cite any definitions and quotations from the pocket textbook as follows:
 
@@ -84,19 +67,6 @@ You should cite any definitions and quotations from the pocket textbook as follo
 {: .label }
 Definitions
 
-<div popover id="definition">
-  <h2>Definitions</h2>
-  <hr>
-  <p>Academic terms have specific meanings in particular fields of study.</p>
-    <p>This means you can't use a regular dictionary to find out what they mean.</p>
-    <p>Instead, consult your readings.</p>
-    <p>Using the definitions in your pocket textbook is a good start.</p>
-    <p>Also look for definitions from important scholars in the field.</p>
-    <p>Make sure you always cite the **actual source you used**.</p>
-    <p>
-<button popovertarget="definition" popovertargetaction="hide" type="button" name="button" class="btn">Close</button>
-</p>
-</div>
 
 ### Questions
 
@@ -147,3 +117,43 @@ When should you use the pocket textbook website and when should you use the down
 
 Question
 {: .label .label-green }
+
+
+<div popover id="pocket">
+  <h2>What is a pocket textbook?</h2>
+  <hr>
+  <p>Your pocket textbook takes the form of a website that you can use on your phone or download as a pdf.</p>
+  <p>We suggest you use the website version when you want to view videos or animations or listen to audio.</p>
+ <p>
+<button popovertarget="pocket" popovertargetaction="hide" type="button" name="button" class="btn">Close</button>
+</p>
+</div>
+
+<div popover id="open">
+<h2>What is "open access"?</h2>
+  <hr>
+<p>Open access means anyone should be able to access a resource. </p>  
+<p>There are no financial, legal or technical barriers to accessing the textbook. </p>
+<p>The authors should be acknowledged. </p>
+<p>Any derivative works should also have this license.</p>
+
+<p>This is known as a ** Creative Commons Attribution-ShareAlike 4.0 (BY-SA)** license.</p>
+
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+<button popovertarget="open" popovertargetaction="hide" type="button" name="button" class="btn">Close</button>
+
+<div popover id="definition">
+  <h2>Definitions</h2>
+  <hr>
+  <p>Academic terms have specific meanings in particular fields of study.</p>
+    <p>This means you can't use a regular dictionary to find out what they mean.</p>
+    <p>Instead, consult your readings.</p>
+    <p>Using the definitions in your pocket textbook is a good start.</p>
+    <p>Also look for definitions from important scholars in the field.</p>
+    <p>Make sure you always cite the **actual source you used**.</p>
+    <p>
+<button popovertarget="definition" popovertargetaction="hide" type="button" name="button" class="btn">Close</button>
+</p>
+</div>
+
