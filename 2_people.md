@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 05. People using media
+title: 06. People using media
 ---
 
 ## people using media
@@ -8,6 +8,9 @@ title: 05. People using media
 
 Our everyday rituals and habits around media use and production are linked to the **media practices** that we learn 
 by belonging to various social groups and communities. 
+
+- TOC
+{:toc}
 
 ### Everyday media practices
 

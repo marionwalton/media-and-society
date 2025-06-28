@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 04. Understanding Networks
+title: 05. Understanding Networks
 ---
 
 ### understanding networks
@@ -8,6 +8,9 @@ title: 04. Understanding Networks
 
 We can't understand contemporary media without exploring how people use media in their interpersonal
 networks, and how media products flow around [networks](/ideas/definition/index.html#network) in the process of communication.
+
+- TOC
+{:toc}
 
 ### What is a network?
 

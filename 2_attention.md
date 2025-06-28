@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 03. Data, attention and influence
+title: 04. Data, attention and influence
 ---
 
 
@@ -8,6 +8,9 @@ title: 03. Data, attention and influence
 *By Marion Walton, University of Cape Town*
 
 The ability for millions of people to create and share content with one another has caused a major shift in media industries. 
+
+- TOC
+{:toc}
 
 ### One to many
 

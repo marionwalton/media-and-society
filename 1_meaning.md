@@ -10,6 +10,8 @@ All media are used to communicate **meaning**. Since the earliest days of humani
 evolution (between 100 000 and 30 000 years ago) humans have been developing symbolic communication 
 by using the media at hand, such as spoken language and ochre paint ([Hodgskiss, 2015](/ideas/references/index.html#hodgskiss_2015)). 
 
+- TOC
+{:toc}
 
 ### Semiotic resources
 

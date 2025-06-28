@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  08. Media, publics & power
+title:  09. Media, publics & power
 ---
 
 ## media, publics & power
@@ -11,6 +11,9 @@ Media plays a central role in creating our sense of community, and the feeling o
 experience this sense of being part of a public (rather than an audience) 
 when engaging with others by participating in a protest, tuning into a talk radio show, watching short videos created by other 
 fans of our favourite musicians, or following social media commentary while watching a TV show. 
+
+- TOC
+{:toc}
 
 Media and communication are essential to the kind of active publics known as [**social movements**](/ideas/definitions/index.html#social_movements) ([Walder, 2009](/ideas/references/index.html#walder_2009)). 
 Social movements often arise when people realise that some form of social oppression isn't

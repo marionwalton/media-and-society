@@ -10,6 +10,9 @@ title: 02. Thinking About Media
 
 ![media icons](img/Groupmedia_icons.svg)
 
+- TOC
+{:toc}
+
 What did you do when you first opened your eyes this morning? What did you do yesterday evening?  
 
 There’s a good chance that your morning and evening rituals involved paying attention to some type of **media**. 

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 10. Chatbots & automation
+title: 11. Chatbots & automation
 ---
 
 ## chatbots & automation
@@ -10,6 +10,9 @@ If you’ve used a chatbot such as ChatGPT, Meta AI or Bing chat or if you’ve 
 images you’ve interacted with **Generative Artificial Intelligence (AI) models**. These are marketed as clever 
 chatbots and image generators which respond to text **prompts**. They generate novel output which can potentially 
 be useful. 
+
+- TOC
+{:toc}
 
 Chatbot responses are designed to make us want to trust their responses. Their impressive fluency with language 
 and visual communication give us the impression that the chatbot has a relatively sophisticated understanding. 

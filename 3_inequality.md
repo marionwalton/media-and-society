@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 06. Media & Inequality
+title: 07. Media & Inequality
 ---
 
 
@@ -10,6 +10,9 @@ title: 06. Media & Inequality
 The media both reflect and influence the many intersecting **social inequalities** we experience in the world
 around us. This is particularly obvious if we look at the popular culture exported from the USA to the rest of
 the world. 
+
+- TOC
+{:toc}
 
 Traditionally, Hollywood stories featured very few protagonists of colour. For almost sixty
 years (1937 \- 1992), Disney princesses were exclusively white. Black Panther, one of the first big budget 

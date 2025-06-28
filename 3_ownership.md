@@ -1,12 +1,15 @@
 ---
 layout: home
-title: 07. Powerful owners
+title: 08. Powerful owners
 ---
 
 ### Powerful owners - mass media
 
 Media organisations are often created as a result of **monopolistic** strategies to consolidate their economic power, 
 and then purchased by wealthy individuals, who can use them to promote their own financial and ideological interests.
+
+- TOC
+{:toc}
 
 Wealthy individual media owners such as Rupert Murdoch (News Corp) or Jeff Bezos (*The Washington Post*) have used their 
 media holdings to exert considerable political and economic power around the globe.
