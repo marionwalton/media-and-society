@@ -182,9 +182,11 @@ Kendrick Lamar's 2025 US Superbowl halftime show ([@wehustleclips, 2025](referen
 Example
 {: .label .label-yellow }
 
-{: .example}
+{: .survey}
 Answer questions about the clip using the form below:
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1qfsFKIpwDdcP7nroxNYT1LwZWVqbfp9aImTFke-LG9mDjw/viewform?embedded=true" width="640" height="796" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 What do you think?
 {: .label .label-purple}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1qfsFKIpwDdcP7nroxNYT1LwZWVqbfp9aImTFke-LG9mDjw/viewform?embedded=true" width="640" height="796" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
