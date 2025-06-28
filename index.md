@@ -48,30 +48,18 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 <div popover id="open">
 ## What is "open access"?
   <hr>
-<p>Open access means anyone should be able to access, download it etc. </p>  
+<p>Open access means anyone should be able to access a resource. </p>  
 <p>There are no financial, legal or technical barriers to accessing the textbook. </p>
 <p>The authors should be acknowledged. </p>
 <p>Any derivative works are also shared under this license.</p>
 
 This is known as a ** Creative Commons Attribution-ShareAlike 4.0 (BY-SA)** license.
 
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 <button popovertarget="open" popovertargetaction="hide">Close</button>
 </div>
 
-
-## License
-![CC Attribution-ShareAlike 4.0 (BY-SA)](img/by-sa.png)  
-
-<a href="https://creativecommons.org">Media and Society - A Pocket Textbook</a> © 2025 by <a href="https://creativecommons.org">Marion Walton, Adam Haupt, Martha Evans and Wallace Chuma</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-
-This is a Jekyll website that uses the [Just the Docs] theme. 
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 
 ## Questions
 
