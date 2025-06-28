@@ -7,10 +7,10 @@ layout: home
 
 ![Media student](img/cap.svg)
 
-This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from **cultural studies** and **social semiotics**.
+This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from [cultural studies](definitions.html#cultural-studies){: .btn .btn-blue } and [social semiotics](definitions.html#social-semiotics){: .btn .btn-blue }.
 
-[Cultural studies](definitions.html#cultural_studies){: .btn .btn-blue }
-[Social semiotics](definitions.html#social_semiotics){: .btn .btn-blue }
+[Cultural studies](definitions.html#cultural-studies){: .btn .btn-blue }
+[Social semiotics](definitions.html#social-semiotics){: .btn .btn-blue }
 
 - TOC
 {:toc}
