@@ -62,7 +62,7 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 
 
 ## Questions
-
+![Activity](img/pencilpencil.svg)
 <details markdown="block"> ![Activity](img/pencilpencil.svg)
 Use the website when you are:
     
@@ -76,7 +76,6 @@ Download the pdf to use it:
 - If you want to avoid using mobile data.
 - For focused, uninterrupted reading.
 - For printing and physical note-taking.
-
-![Activity](img/pencilpencil.svg) <summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
+ <summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
 
 <hr>
