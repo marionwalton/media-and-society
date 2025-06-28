@@ -45,12 +45,6 @@ Open Access
 Pocket Textbook
 {: .label }
 
-We're currently testing this format and several of the topics are still under development. 
-We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
-
-Survey
-{: .label .label-purple }
-
 ## How to use the pocket textbook
 
 You'll learn more by engaging and interacting with the pocket textbook.
@@ -90,6 +84,13 @@ This label alerts you to important warning information.
 Warning
 {: .label .label-red }
 
+## Feedback
+
+We're currently testing this format and several of the topics are still under development. 
+We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
+
+Survey
+{: .label .label-purple }
 
 ## ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg) Questions
 Activity
