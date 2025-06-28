@@ -15,6 +15,10 @@ the ideas we'll explore in more detail in classes and course readings.
 
 The chapters are designed as a short, readable overview of the ideas we explore in the course.
 
+The pocket textbook is available as a
+- Website 
+- Downloadable pdf (see Amthuba)
+
 Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 
 <div popover id="pocket">
@@ -58,20 +62,34 @@ Thinking about these questions and taking a few written notes is a great way to 
 
 <hr>
 A _blue tag_ highlights the sections where definitions are provided and important new concepts are introduced.
-You can also find out more about these key concepts by clicking definition buttons, exploring the page of [definitions](defs) or using the search bar at the top of the page.
+You can also find out more about these key concepts by clicking <button popovertarget="definition">Definition</button>. buttons, exploring the page of [definitions](defs) or using the search bar at the top of the page.
 
-Concept
+You should cite any definitions and quotations from the pocket textbook as follows:
+    Walton, M. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/</p>
+
 {: .label }
+Definitions
+
+<div popover id="definition">
+  <h2>Definitions</h2>
+  <hr>
+  <p>Academic terms have specific meanings in particular fields of study.</p>
+    <p>This means you can't use a regular definition to find out what they mean.</p>
+    <p>Instead, consult your readings.</p>
+    <p>Using the definitions in your pocket textbook is a good start.</p>
+    <p>As you progress, you will be able to find definitions from important scholars in the field.</p>
+      Your pocket textbook provides definitions explaining the specific academic meaning of key terms.</p>
+  <button popovertarget="definition" popovertargetaction="hide">Close</button>
+</div>
 
 <hr>
 
 {: .question}
 A _green tag_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!
 
-
 <details markdown="block">
 <summary>Question</summary>
-A possible answer
+A (possible) answer.
 </details>
 
 Question
@@ -80,7 +98,7 @@ Question
 <hr>
 
 {: .survey}
-A _purple tag_ shows that there is a survey for you to take in the section. This will help you to see how your answers and opinions compare to those of other students. Your tutor might want to discuss your answers in class.
+A _purple tag_ shows that there is a survey for you to take in the section. This will help you to see how your answers and opinions compare to those of other students. Your tutor might want to discuss these answers in class, so make sure you participate.
 
 Survey
 {: .label .label-purple }
@@ -93,13 +111,6 @@ A _yellow tag_ introduces an example where you can try to apply the new concepts
 Example
 {: .label .label-yellow }
 
-<hr>
-{: .warning}
-A _red tag_ alerts you to important warning information.
-
-Warning
-{: .label .label-red }
-
 ## Feedback
 
 {: .survey}
@@ -110,14 +121,11 @@ Survey
 {: .label .label-purple }
 
 ## ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg) Questions
-Activity
+Question
 {: .label .label-green }
 
 {: .question}
 When should you use the pocket textbook website and when should you use the downloadable pdf?
-
-Question
-{: .label .label-green }
 
 <details markdown="block">
 <summary>Answer</summary>
