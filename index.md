@@ -58,7 +58,7 @@ This is a Jekyll website that uses the [Just the Docs] theme.
 
 ## Questions
 
-<details markdown="block">
+<details markdown="block"> ![Activity](img/pencilpencil.svg)
 Use the website when you are:
     
 - Viewing video and animations.
@@ -72,6 +72,6 @@ Download the pdf to use it:
 - For focused, uninterrupted reading.
 - For printing and physical note-taking.
 
-<summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
+<summary>![Activity](img/pencilpencil.svg) When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
 
 <hr>
