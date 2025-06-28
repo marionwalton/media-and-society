@@ -26,7 +26,9 @@ Find out more about a <button popovertarget="pocket" type="button" name="button"
   <hr>
   <p>Your pocket textbook takes the form of a website that you can use on your phone or download as a pdf.</p>
   <p>We suggest you use the website version when you want to view videos or animations or listen to audio.</p>
-  <button popovertarget="pocket" popovertargetaction="hide"type="button" name="button" class="btn">Close</button>
+ <p>
+<button popovertarget="pocket" popovertargetaction="hide" type="button" name="button" class="btn">Close</button>
+</p>
 </div>
 
 <div popover id="open">
