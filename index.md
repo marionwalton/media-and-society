@@ -26,7 +26,7 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 </div>
 
 <div popover id="open">
-## What is "open access"?
+<h2>What is "open access"?</h2>
   <hr>
 <p>Open access means anyone should be able to access a resource. </p>  
 <p>There are no financial, legal or technical barriers to accessing the textbook. </p>
@@ -47,45 +47,53 @@ Pocket Textbook
 
 ## How to use the pocket textbook
 
-You'll learn more by engaging and interacting with the pocket textbook.
+You'll learn more by engaging and interacting with the pocket textbook. 
+
+Try using all these different opportunities to ensure that you learn actively, remember new concepts and have questions and ideas to share in your tutorials.
+<hr>
+Pencil icons indicate an *open question* of the kind your tutor is likely to ask you in the tutorials.
+Thinking about these questions and taking a few written notes is a great way to apply your understanding and prepare for discussion in class.
+
+![Activity](img/pencilpencil.svg)
 
 <hr>
-This label highlights the sections where important new concepts are introduced.
-You can also find out more about these key concepts by exploring [definitions](defs) or using the search bar at the top of the page.
+A _blue tag_ highlights the sections where important new concepts are introduced.
+You can also find out more about these key concepts by clicking definition buttons, exploring the page of [definitions](defs) or using the search bar at the top of the page.
 
 Concept
 {: .label }
 
 <hr>
 
-This label shows that there is an activity for you to try out in the section. Try it before you click to see an answer.
+A _green tag_ shows that there is an activity for you to try out in the section. Try it before you click to see an answer, and remember that there are often different perspectives on questions in media and cultural studies!
 
 Activity
 {: .label .label-green }
 
 <hr>
 
-This label shows that there is a survey for you to take in the section. See how your answers and opinions compare to those of other students.
+A _purple tag_ shows that there is a survey for you to take in the section. This will help you to see how your answers and opinions compare to those of other students. Your tutor might want to discuss your answers in class.
 
 Survey
 {: .label .label-purple }
 
 <hr>
 
-This label introduces an example where you can try to apply the new concepts you've learned.
+A _yellow tag_ introduces an example where you can try to apply the new concepts you've learned to a new media example. Thinking about these new media examples and taking a few written notes about your ideas is a great way to make sure you have something to contribute in class.
 
 Example
 {: .label .label-yellow }
 
 <hr>
 
-This label alerts you to important warning information.
+A red tag alerts you to important warning information.
 
 Warning
 {: .label .label-red }
 
 ## Feedback
 
+{: .warning }
 We're currently testing this format and several of the topics are still under development. 
 We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
 
@@ -97,6 +105,7 @@ Activity
 {: .label .label-green }
 
 <details markdown="block">
+{: .activity}
 Use the website when you are:
     
 - Viewing video and animations.
