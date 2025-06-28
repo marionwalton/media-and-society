@@ -104,6 +104,7 @@ Activity
 {: .label .label-green }
 
 {: .activity}
+
 <details markdown="block">
 Use the website when you are:
     
