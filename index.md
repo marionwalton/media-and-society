@@ -7,10 +7,7 @@ layout: home
 
 ![Media student](img/cap.svg)
 
-This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from [cultural studies](definitions.html#cultural-studies){: .btn .btn-blue } and [social semiotics](definitions.html#social-semiotics){: .btn .btn-blue }.
-
-[Cultural studies](definitions.html#cultural-studies){: .btn .btn-blue }
-[Social semiotics](definitions.html#social-semiotics){: .btn .btn-blue }
+This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from **cultural studies** and **social semiotics**.
 
 - TOC
 {:toc}
@@ -51,15 +48,17 @@ Example
 ### Definitions
 
 {: .definition}
- A _blue callout_ highlights the sections where **_definitions_** are provided and important new concepts are introduced.
+ A _blue callout_ highlights the sections where new **_definitions_** are provided in the context of a detailed discussion of a new concept. 
 
-You can also find out more about these key concepts by:
+There are a couple of ways for you to find out more about these key concepts. You can:
 
-- Clicking on definition buttons - try out the one in purple text below.
-- Exploring the page of [definitions](definitions.html)
-- Using the search bar at the top of the page to see how we use the word in the pocket textbook.
+- Click on definition buttons - e.g. the white button with purple text below.
+- Explore the page of [definitions](definitions.html) - e.g. the blue links below.
+- Use the search bar at the top of the page to see how we use the word in the pocket textbook.
 
 <button popovertarget="definition" type="button" name="button" class="btn">Definition</button>
+[Cultural studies](definitions.html#cultural-studies){: .btn .btn-blue }
+[Social semiotics](definitions.html#social-semiotics){: .btn .btn-blue }
 
 ### Citing the pocket textbook
 
