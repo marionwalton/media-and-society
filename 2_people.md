@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 06. People using media
+title: 07. People using media
 ---
 # People using media
 {: .no_toc }

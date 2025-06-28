@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 14. References
+title: 16. References
 ---
 These are the important sources used in *Media & Society*. 
 

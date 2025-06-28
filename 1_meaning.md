@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 03. Meaning and meaning-making
+title: 04. Meaning and meaning-making
 ---
 # Media & Meaning
 {: .no_toc }

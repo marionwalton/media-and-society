@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  09. Media, publics & power
+title:  10. Media, publics & power
 ---
 # Media, publics & power
 {: .no_toc }

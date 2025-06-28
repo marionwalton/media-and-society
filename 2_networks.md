@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 05. Understanding Networks
+title: 06. Understanding Networks
 ---
 # Understanding Networks
 {: .no_toc }

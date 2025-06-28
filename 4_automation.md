@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 11. Chatbots & automation
+title: 12. Chatbots & automation
 ---
 # Chatbots & automation
 {: .no_toc }
