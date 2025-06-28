@@ -56,7 +56,8 @@ Pocket Textbook
 You'll learn more by engaging and interacting with the pocket textbook. 
 
 Try using all these different opportunities to ensure that you learn actively, remember new concepts and have questions and ideas to share in your tutorials.
-<hr>
+
+### Activities and examples
 
 {: .activity}
 ![Activity](img/pencilpencil.svg) Pencil icons indicate an _open question_ of the kind your tutor is likely to ask you in the tutorials.
@@ -70,7 +71,7 @@ A _yellow tag_ introduces an example where you can try to apply the new concepts
 Example
 {: .label .label-yellow }
 
-<hr>
+### Definitions
 
 {: .definition}
 A _blue tag_ highlights the sections where definitions are provided and important new concepts are introduced.
@@ -97,7 +98,7 @@ Definitions
 </p>
 </div>
 
-<hr>
+### Questions
 
 {: .question}
 A _green tag_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!
@@ -110,15 +111,10 @@ One possible answer.
 Question
 {: .label .label-green }
 
-<hr>
+### Feedback
 
 {: .survey}
 A _purple tag_ shows that there is a survey for you to take in the section. This will help you to see how your answers and opinions compare to those of other students. Your tutor might want to discuss these answers in class, so make sure you participate.
-
-Survey
-{: .label .label-purple }
-
-## Feedback
 
 {: .survey}
 We're currently testing this format and several of the topics are still under development. 
@@ -127,7 +123,7 @@ We'd love your [feedback or suggestions](https://forms.office.com/Pages/Response
 Survey
 {: .label .label-purple }
 
-## ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg) Questions
+## ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg) Question
 
 {: .question}
 When should you use the pocket textbook website and when should you use the downloadable pdf?
