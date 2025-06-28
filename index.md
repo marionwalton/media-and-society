@@ -30,11 +30,15 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 ## What is "open access"?
   <hr>
 The pocket textbook is an open access textbook.
+    
 Anyone should be able to read, download, copy, distribute, print, search for and search within it. 
+
 - There are no financial, legal or technical barriers to accessing the textbook. 
 - The authors should be acknowledged.
-- Any derivative works are also shared under a similar license.   
+- Any derivative works are also shared under a similar license.
+
 This is known as a ** Creative Commons Attribution-ShareAlike 4.0 (BY-SA)** license.
+
 <button popovertarget="open" popovertargetaction="hide">Close</button>
 </div>
 
