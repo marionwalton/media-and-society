@@ -89,8 +89,8 @@ Definitions
 A _green tag_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!
 
 <details markdown="block">
-<summary>Question</summary>
-A (possible) answer.
+<summary>Click here for answer</summary>
+One possible answer.
 </details>
 
 Question
