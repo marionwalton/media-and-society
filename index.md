@@ -20,8 +20,8 @@ The pocket textbook is available as a
 - Downloadable pdf (Find it on Amthuba)
 
  <button popovertarget="pocket" type="button" name="button" class="btn">Pocket textbook</button>
- <button popovertarget="open" type="button" name="button" class="btn">open access</button>
-</div>
+ <button popovertarget="open" type="button" name="button" class="btn">Open access</button>
+
 
 Open Access
 {: .label }
@@ -142,6 +142,7 @@ Question
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 <button popovertarget="open" popovertargetaction="hide" type="button" name="button" class="btn">Close</button>
+</div>
 
 <div popover id="definition">
   <h2>Definitions</h2>
