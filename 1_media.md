@@ -44,7 +44,7 @@ We use the term affordance to refer to the potential and constraints of differen
      alt="Iziko Rhino" 
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Iziko_Rhino.JPG/512px-Iziko_Rhino.JPG?20140701092425"/>
 
-Figure 1: "Iziko Rhino" - Rock engraving of rhino from Kinderdam. Credit - <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">Wikimedia Commons</a></caption>
+Figure 1: "Iziko Rhino" - Rock engraving of rhino from Kinderdam. Credit - <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">Wikimedia Commons</a>
 
 Many other communication technologies have been developed, including print media, digital images, audio and video formats,
 the electromagnetic spectrum (e.g. radio waves and cellphone signals), the internet and generative AI. 
@@ -159,8 +159,9 @@ Here are some definitions of terms which you will be using in your work as a med
 - [Social media](https://media-and-society.glitch.me/ideas/definitions/#social_media)
 - [Synthetic media](https://media-and-society.glitch.me/ideas/definitions/#synthetic_media)
 
-Other important new terms are explained briefly in our list of [definxitions](/ideas/definitions/). 
-You should be keeping your own glossary, or list of the new words and concepts that you encounter in the course of the semester.
+Other important new terms are explained briefly in our list of [definitions](/ideas/definitions/). 
+
+Keep a list of the new words and concepts that you encounter in the course of the semester.
 
 ### References
 The sources used in this article can be found by following the links on the citations. All sources are included in the [List of references](/ideas/references/)
@@ -171,8 +172,7 @@ The sources used in this article can be found by following the links on the cita
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@wehustleclips/video/7469872080104820001" data-video-id="7469872080104820001" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@wehustleclips" href="https://www.tiktok.com/@wehustleclips?refer=embed">@wehustleclips</a> Symbolism in Kendrick Lamar’s Super Bowl half time show. . . . <a title="kendricklamar" target="_blank" href="https://www.tiktok.com/tag/kendricklamar?refer=embed">#kendricklamar</a> <a title="nfl" target="_blank" href="https://www.tiktok.com/tag/nfl?refer=embed">#nfl</a> <a title="superbowl" target="_blank" href="https://www.tiktok.com/tag/superbowl?refer=embed">#superbowl</a> <a title="donaldtrump" target="_blank" href="https://www.tiktok.com/tag/donaldtrump?refer=embed">#donaldtrump</a> <a title="drake" target="_blank" href="https://www.tiktok.com/tag/drake?refer=embed">#drake</a> <a target="_blank" title="♬ original sound - wehustleclips" href="https://www.tiktok.com/music/original-sound-7469872352118606624?refer=embed">♬ original sound - wehustleclips</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 The video above is a commentary posted on TikTok by @wehustleclips in order to explain the significance of
-Kendrick Lamar's 2025 US Superbowl halftime show ([@wehustleclips, 2025](/ideas/references/#wehustleclips_2025)). Lamar's performance was viewed live by 
-133.5 million viewers.
+Kendrick Lamar's 2025 US Superbowl halftime show ([@wehustleclips, 2025](/ideas/references/#wehustleclips_2025)). Lamar's performance was viewed live by 133.5 million viewers.
   
 Answer questions about the clip using the form below:
   
