@@ -2,8 +2,9 @@
 layout: home
 title: 11. Chatbots & automation
 ---
+# Chatbots & automation
+{: .no_toc }
 
-## chatbots & automation
 *By Marion Walton, University of Cape Town*
 
 If you’ve used a chatbot such as ChatGPT, Meta AI or Bing chat or if you’ve used Dall-E or Midjourney to generate

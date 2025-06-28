@@ -2,8 +2,7 @@
 layout: home
 title: 10. Verification in Media & Cultural Studies
 ---
-
-# Verification and media
+# Verification & Media
 {: .no_toc }
 
 *By Marion Walton, University of Cape Town*

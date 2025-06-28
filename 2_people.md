@@ -3,7 +3,7 @@ layout: home
 title: 06. People using media
 ---
 
-## People using media
+# People using media
 {: .no_toc }
 
 *By Marion Walton, University of Cape Town*
