@@ -33,7 +33,7 @@ It's very likely that you used a medium to communicate with others, perhaps an *
 
 ## What are media?
 
-In English, the word **media** evolved from the Latin word *medius* which means "in the middle" (<a href="references.htmlindex.html#harper_nd">Harper, n.d.</a>). 
+In English, the word **media** evolved from the Latin word *medius* which means "in the middle" (<a href="references.html#harper_nd">Harper, n.d.</a>). 
 In this course we are studying **media of communication**, the physical media, languages and industries which we use to connect with others and to communicate.
 
 {: .example}
@@ -85,11 +85,11 @@ site or app. Most of these platforms provide tools and functionality for sharing
 
 ## AI and Media
 
-Generative Artificial Intelligence or [Generative AI](/ideas/definitions.html#generative-ai) systems are specialised systems to automate media production by computers.
-We call this form of digital media **synthetic media**. Generative AI uses computer [algorithms](/ideas/definitions.html#algorithms) to synthesize media using a statistical [*model*](/ideas/definitions/index.html#model), such as for example, a Large Language Model ([LLM](/ideas/definitions/index.html#llm)) (e.g. ChatGPT) for generating text or a
-[diffusion model](/ideas/definitions.html#diffusion_model) (e.g. DALL-E) for generating images.
+Generative Artificial Intelligence or [Generative AI](definitions.html#generative-ai) systems are specialised systems to automate media production by computers.
+We call this form of digital media **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media using a statistical [*model*](/ideas/definitions/index.html#model), such as for example, a Large Language Model ([LLM](/ideas/definitions/index.html#llm)) (e.g. ChatGPT) for generating text or a
+[diffusion model](definitions.html#diffusion-model) (e.g. DALL-E) for generating images.
 
-Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](/ideas/definitions/index.html#provenance). Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
+Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](definitions.html#provenance). Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
 
 {: .activity}
 ![Activity](img/pencilpencil.svg) What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 2 below) and the Iziko Rhino?
@@ -129,15 +129,11 @@ which have developed around complex media production and distribution networks s
 and public relations agencies, or social media platforms**.
 
 Media industries tend to be associated with large commercial media organisations which aim to target large audiences
-of people, and are thus known as [mass media](https://media-and-society.glitch.me/ideas/definitions/#mass_media). These are
-businesses which exist to create and sell media products such as news, advertising, entertainment, or data which can be used 
-to target advertising. 
+of people, and are thus known as [mass media](definitions.html#mass_media). These are businesses which exist to create and sell media products such as news, advertising, entertainment, or data which can be used to target advertising. 
 
-In contemporary society, such organisations are usually primarily motivated to make a **profit**, 
-which means they depend on selling subscriptions and advertising. 
+In contemporary society, such organisations are usually primarily motivated to make a **profit**, which means they depend on selling subscriptions and advertising. 
 
-In the case of the Iziko Rhino, the image is published on the Wikimedia Commons, which is funded by a **non-profit** foundation, and is thus an example of 
-non-commercial media.
+In the case of the Iziko Rhino, the image is published on the Wikimedia Commons, which is funded by a **non-profit** foundation, and is thus an example of non-commercial media.
 
 Nonetheless, to access Wikimedia we rely on several for-profit industries which produce computers or cellphones or which provide web hosting, electricity and internet access. 
 
@@ -145,10 +141,10 @@ Nonetheless, to access Wikimedia we rely on several for-profit industries which 
 
 Here are some definitions of terms which will help you talk about media as a media student:
 
-- [Mass media](definitions.html#mass_media){: .btn .btn-blue }
-- [Oramedia](https://media-and-society.glitch.me/ideas/definitions.html#oramedia){: .btn .btn-blue }
-- [Social media](definitions.html#social_media){: .btn .btn-blue }
-- [Synthetic media](definitions.html#synthetic_media){: .btn .btn-blue }
+- [Mass media](definitions.html#mass-media){: .btn .btn-blue }
+- [Oramedia](definitions.html#oramedia){: .btn .btn-blue }
+- [Social media](definitions.html#social-media){: .btn .btn-blue }
+- [Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
 
 {: .activity}
 ![Activity](img/pencilpencil.svg)Keep a list of the new words and concepts that you encounter in the course of the semester.
@@ -161,7 +157,8 @@ The sources used in this article can be found by following the links on the cita
 
 {: .example}
 The video below is a commentary posted on TikTok by @wehustleclips in order to explain the significance of
-Kendrick Lamar's 2025 US Superbowl halftime show ([@wehustleclips, 2025](/ideas/references/#wehustleclips_2025)). Lamar's performance was viewed live by 133.5 million viewers.
+Kendrick Lamar's 2025 US Superbowl halftime show ([@wehustleclips, 2025](references.html#wehustleclips_2025)). Lamar's performance was viewed live by 133.5 million viewers.
+
 Example
 {: .label .label-yellow }
 
