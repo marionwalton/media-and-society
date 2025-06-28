@@ -6,10 +6,12 @@ layout: home
 # Media & Society
 
 ![Media student](img/cap.svg)
+
+## What is a pocket textbook
 This is your [pocket textbook](/about/) for Media & Society. It's designed as an accessible guide to 
 the ideas we'll explore in more detail in classes and course readings. 
 
-Work through the chapters for an introduction to the ideas we explore in the course.
+The chapters are designed as a short, readable overview of the ideas we explore in the course.
 
 We're currently testing this format and several of the topics are still under development. 
 We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
@@ -25,7 +27,18 @@ We'd love your [feedback or suggestions](https://forms.office.com/Pages/Response
 </div>
 
 <details markdown="block">
-<summary>Shopping list (click me!)</summary>
+    * Viewing video and animations.
+    * Listening to podcasts.
+    * Searching for keywords.
+    * Using interactive exercises (like this one).
+<summary>When should you use the pocket textbook website?</summary>
+
+<details markdown="block">
+    * When you won't have wifi access. 
+    * To avoid using mobile data.
+    * For focused, uninterrupted reading.
+    * For printing and physical note-taking.
+<summary>When should you use the pocket textbook pdf?</summary>
 
 ## site
 This is a Jekyll website that uses the [Just the Docs]theme. 
