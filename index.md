@@ -60,9 +60,9 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 <button popovertarget="open" popovertargetaction="hide">Close</button>
 </div>
 
-
+![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)
 ## Questions
-![Activity](img/pencilpencil.svg)
+![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)
 <details markdown="block"> ![Activity](img/pencilpencil.svg)
 Use the website when you are:
     
