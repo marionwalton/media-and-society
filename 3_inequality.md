@@ -2,9 +2,9 @@
 layout: home
 title: 07. Media & Inequality
 ---
+# Media & Inequality
+{: .no_toc }
 
-
-## media & inequality
 *By Marion Walton, University of Cape Town*
 
 The media both reflect and influence the many intersecting **social inequalities** we experience in the world

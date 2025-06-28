@@ -2,9 +2,8 @@
 title: 01. Home
 layout: home
 ---
-
 # Media & Society
-
+{: .no_toc }
 ![Media student](img/cap.svg)
 
 This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from **cultural studies** and **social semiotics**.
@@ -86,7 +85,7 @@ You'll see one possible answer!
 A _purple tag_ shows that there is a survey for you to take in the section. This will help you to see how your answers and opinions compare to those of other students. Your tutor might want to discuss these answers in class, so make sure you participate.
 
 {: .survey}
-We're currently testing this format and several of the topics are still under development. 
+We're currently testing the pocket textbook format and several of the topics are still under development. 
 We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
 
 Survey

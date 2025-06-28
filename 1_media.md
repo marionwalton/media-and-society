@@ -3,7 +3,8 @@ layout: page
 title: 02. Thinking About Media
 ---
 
-# Thinking about Media 
+# Thinking about Media
+{: .no_toc }
 
 *By Marion Walton, University of Cape Town*
 

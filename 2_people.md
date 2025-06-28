@@ -3,7 +3,9 @@ layout: home
 title: 06. People using media
 ---
 
-## people using media
+## People using media
+{: .no_toc }
+
 *By Marion Walton, University of Cape Town*
 
 Our everyday rituals and habits around media use and production are linked to the **media practices** that we learn 

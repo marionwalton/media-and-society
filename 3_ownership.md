@@ -2,8 +2,8 @@
 layout: home
 title: 08. Powerful owners
 ---
-
-### Powerful owners - mass media
+# Powerful owners - mass media
+{: .no_toc }
 
 Media organisations are often created as a result of **monopolistic** strategies to consolidate their economic power, 
 and then purchased by wealthy individuals, who can use them to promote their own financial and ideological interests.

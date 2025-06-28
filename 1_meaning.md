@@ -2,8 +2,9 @@
 layout: home
 title: 03. Meaning and meaning-making
 ---
+# Media & Meaning
+{: .no_toc }
 
-## 2. media & meaning
 *By Marion Walton, University of Cape Town*
 
 All media are used to communicate **meaning**. Since the earliest days of humanity's

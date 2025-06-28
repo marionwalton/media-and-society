@@ -3,7 +3,9 @@ layout: home
 title: 10. Verification in Media & Cultural Studies
 ---
 
-## Verification and the study of media
+# Verification and media
+{: .no_toc }
+
 *By Marion Walton, University of Cape Town*
 
 This week we will explore how we approach trust and verification of scholarly sources in Media and Cultural Studies.

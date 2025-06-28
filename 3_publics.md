@@ -3,7 +3,9 @@ layout: home
 title:  09. Media, publics & power
 ---
 
-## media, publics & power
+# Media, publics & power
+{: .no_toc }
+
 *By Marion Walton, University of Cape Town*
 
 

@@ -3,7 +3,9 @@ layout: home
 title: 05. Understanding Networks
 ---
 
-### understanding networks
+# Understanding Networks
+{: .no_toc }
+
 *By Marion Walton, University of Cape Town*
 
 We can't understand contemporary media without exploring how people use media in their interpersonal
