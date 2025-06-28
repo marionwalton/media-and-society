@@ -79,17 +79,18 @@ site or app. Most of these platforms provide tools and functionality for sharing
 
 {: .activity}
 ![Activity](img/pencilpencil.svg) **Compare the affordances** of posting a message using (1) email and (2) a social media platform. 
-
 - Which affordances do you appreciate most? 
 - Which do you dislike?
 
 ## AI and Media
-
+{: .definition}
 Generative Artificial Intelligence or [Generative AI](definitions.html#generative-ai) systems are specialised systems to automate media production by computers.
 We call this form of digital media **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media using a statistical [*model*](definitions.html#model), such as for example, a Large Language Model ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating text or a
 [diffusion model](definitions.html#diffusion-model) (e.g. DALL-E) for generating images.
 
-Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](definitions.html#provenance). Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
+Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](definitions.html#provenance). GenAI works by generating a likely answer to a prompt, based on what is available in its training data. Responses to prompts are based on statistically sophisticated guesswork, and does not mean they are correct.
+
+Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
 
 {: .activity}
 ![Activity](img/pencilpencil.svg) What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 2 below) and the Iziko Rhino?
@@ -147,7 +148,7 @@ Here are some definitions of terms which will help you talk about media as a med
 - [Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
 
 {: .activity}
-![Activity](img/pencilpencil.svg)Keep a list of the new words and concepts that you encounter in the course of the semester.
+![Activity](img/pencilpencil.svg)Keep a list of the new words and concepts that you encounter in the course of the semester. What words can you add to the list already?
 
 ### References
 The sources used in this article can be found by following the links on the citations. All sources are included in the [List of references](references.html)
