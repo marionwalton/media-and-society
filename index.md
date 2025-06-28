@@ -72,7 +72,7 @@ Warning
 {: .label .label-red }
 
 
-## ![Activity](img/pencilpencil.svg) Questions
+## ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg) Questions
 Activity
 {: .label .label-green }
 <details markdown="block">
