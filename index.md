@@ -72,8 +72,8 @@ Warning
 {: .label .label-red }
 
 
-## Questions
-![Activity](img/pencilpencil.svg)Activity![Activity](img/pencilpencil.svg)
+## ![Activity](img/pencilpencil.svg) Questions
+Activity
 {: .label .label-green }
 <details markdown="block">
 Use the website when you are:
