@@ -27,20 +27,20 @@ Find out more about a <button popovertarget="mydiv">Pocket textbook</button>.
 </div>
 
 <details markdown="block">
-    * Viewing video and animations.
-    * Listening to podcasts.
-    * Searching for keywords.
-    * Using interactive exercises (like this one).
+- Viewing video and animations.
+- Listening to podcasts.
+- Searching for keywords.
+- Using interactive exercises (like this one).
 <summary>When should you use the pocket textbook website?</summary>
 
 <details markdown="block">
-    * When you won't have wifi access. 
-    * To avoid using mobile data.
-    * For focused, uninterrupted reading.
-    * For printing and physical note-taking.
+- When you won't have wifi access. 
+- To avoid using mobile data.
+- For focused, uninterrupted reading.
+- For printing and physical note-taking.
 <summary>When should you use the pocket textbook pdf?</summary>
 
-## site
+## Credits
 This is a Jekyll website that uses the [Just the Docs]theme. 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
