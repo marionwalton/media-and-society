@@ -14,40 +14,8 @@ may be quite different to how the word is used in everyday language.
 *Your readings have been carefully chosen to provide all the important definitions and explanations that you'll need in this course*.
 Where the definitions aren't included in your readings, you should find them below.
 
-
-## Table of Contents
-
-[Artificial Intelligence](#artificial_intelligence)
-
-[AI Generated Content](#ai_generated_content)
-
-[Artificial General Intelligence](#artificial_general_intelligence)
-
-[Cultural Imperialism](#cultural_imperialism)
-
-[Diffusion Model](#diffusion_model)
-
-[Digital Inequality](#digital_inequality)
-
-[Biased models](#biased_models)
-
-[Language Model](#language_model)
-
-[Large Language Model](#large_language_model)
-
-[Mass Media](#mass_media)
-
-[Machine Learning](#machine_learning)
-
-[Media Practices](#media_practices)
-
-[Model](#model)
-
-[Social Media](#social_media)
-
-[Synthetic Media](#synthetic_media)
-
-[Training data](#training_data)
+- TOC
+{:toc}
 
 <a name="affordance"></a> 
 ### Affordance

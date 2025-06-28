@@ -92,7 +92,8 @@ We'd love your [feedback or suggestions](https://forms.office.com/Pages/Response
 Survey
 {: .label .label-purple }
 
-## ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg) Question
+![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)
+## Question
 
 {: .question}
 When should you use the pocket textbook website and when should you use the downloadable pdf?
