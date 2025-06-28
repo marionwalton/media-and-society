@@ -96,6 +96,7 @@ Warning
 
 ## Feedback
 
+{: .survey}
 We're currently testing this format and several of the topics are still under development. 
 We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
 
@@ -107,8 +108,8 @@ Activity
 {: .label .label-green }
 
 {: .activity}
-<details>
-Use the website when you are:
+<details block="markdown">
+    Use the website when you are:
     
 - Viewing video and animations.
 - Listening to podcasts.
