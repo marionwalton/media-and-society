@@ -155,17 +155,19 @@ The sources used in this article can be found by following the links on the cita
 # Questions
 {: .question}
 TikTok is an example of:
-[][Mass media](definitions.html#mass-media)
-[][Oramedia](definitions.html#oramedia)
-[][Social media](definitions.html#social-media)
-[][Synthetic media](definitions.html#synthetic-media)
+- [ ] [Mass media](definitions.html#mass-media)
+- [ ] [Oramedia](definitions.html#oramedia)
+- [ ] [Social media](definitions.html#social-media)
+- [ ] [Synthetic media](definitions.html#synthetic-media)
 
 <details markdown="block">
 <summary>Click here for answer</summary>
-[][Mass media](definitions.html#mass-media)
-[][Oramedia](definitions.html#oramedia)
-[x][Social media](definitions.html#social-media)
-[][Synthetic media](definitions.html#synthetic-media)
+    
+- [ ] [Mass media](definitions.html#mass-media)
+- [ ] [Oramedia](definitions.html#oramedia)
+- [x] [Social media](definitions.html#social-media)
+- [ ] [Synthetic media](definitions.html#synthetic-media)
+      
 </details>
 
 
