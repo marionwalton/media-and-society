@@ -55,11 +55,13 @@ You can also find out more about these key concepts by:
 
 <button popovertarget="definition" type="button" name="button" class="btn">Definition</button>
 
+### Citing the pocket textbook
+
 ![Activity](img/quote-left.svg)
 
 You should cite any definitions and quotations from the pocket textbook as follows:
 
->Walton, M. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
+>Walton, M., et al. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
 
 
 ### Questions

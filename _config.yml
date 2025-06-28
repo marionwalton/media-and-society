@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://marionwalton.github.io/media-and-society/
 heading_anchors: true
 favicon_ico: "/img/avatar.ico"
-footer_content: "Media and Society - A Pocket Textbook © 2025 by Marion Walton, Adam Haupt, Martha Evans and Wallace Chuma is licensed under Creative Commons Attribution-ShareAlike 4.0 International." 
+footer_content: "Media and Society - A Pocket Textbook © 2025 by Marion Walton, Adam Haupt, Martha Evans and Wallace Chuma is licensed under Creative Commons Attribution-ShareAlike 4.0 International. Cite as: Walton, M., et al. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/" 
 callouts:
   warning:
     title: Warning
