@@ -59,19 +59,19 @@ This is a Jekyll website that uses the [Just the Docs] theme.
 ## Questions
 
 <details markdown="block">
+Use the website when you are:
+    
 - Viewing video and animations.
 - Listening to podcasts.
 - Searching for keywords.
 - Using interactive exercises (like this one).
-<summary>When should you use the pocket textbook website?</summary>
 
-<hr>
-
-<details markdown="block">
+Download the pdf to use it:
 - When you won't have wifi access. 
-- To avoid using mobile data.
+- If you want to avoid using mobile data.
 - For focused, uninterrupted reading.
 - For printing and physical note-taking.
-<summary>When should you use the pocket textbook pdf?</summary>
+
+<summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
 
 <hr>
