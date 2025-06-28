@@ -73,8 +73,7 @@ Warning
 
 
 ## Questions
-![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)
-Activity
+![Activity](img/pencilpencil.svg)Activity![Activity](img/pencilpencil.svg)
 {: .label .label-green }
 <details markdown="block">
 Use the website when you are:
