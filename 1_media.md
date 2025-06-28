@@ -175,12 +175,16 @@ TikTok is an example of:
 The video below is a commentary posted on TikTok by @wehustleclips in order to explain the significance of
 Kendrick Lamar's 2025 US Superbowl halftime show ([@wehustleclips, 2025](references.html#wehustleclips_2025)). Lamar's performance was viewed live by 133.5 million viewers.
 
+
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@wehustleclips/video/7469872080104820001" data-video-id="7469872080104820001" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@wehustleclips" href="https://www.tiktok.com/@wehustleclips?refer=embed">@wehustleclips</a> Symbolism in Kendrick Lamar’s Super Bowl half time show. . . . <a title="kendricklamar" target="_blank" href="https://www.tiktok.com/tag/kendricklamar?refer=embed">#kendricklamar</a> <a title="nfl" target="_blank" href="https://www.tiktok.com/tag/nfl?refer=embed">#nfl</a> <a title="superbowl" target="_blank" href="https://www.tiktok.com/tag/superbowl?refer=embed">#superbowl</a> <a title="donaldtrump" target="_blank" href="https://www.tiktok.com/tag/donaldtrump?refer=embed">#donaldtrump</a> <a title="drake" target="_blank" href="https://www.tiktok.com/tag/drake?refer=embed">#drake</a> <a target="_blank" title="♬ original sound - wehustleclips" href="https://www.tiktok.com/music/original-sound-7469872352118606624?refer=embed">♬ original sound - wehustleclips</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
 Example
 {: .label .label-yellow }
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@wehustleclips/video/7469872080104820001" data-video-id="7469872080104820001" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@wehustleclips" href="https://www.tiktok.com/@wehustleclips?refer=embed">@wehustleclips</a> Symbolism in Kendrick Lamar’s Super Bowl half time show. . . . <a title="kendricklamar" target="_blank" href="https://www.tiktok.com/tag/kendricklamar?refer=embed">#kendricklamar</a> <a title="nfl" target="_blank" href="https://www.tiktok.com/tag/nfl?refer=embed">#nfl</a> <a title="superbowl" target="_blank" href="https://www.tiktok.com/tag/superbowl?refer=embed">#superbowl</a> <a title="donaldtrump" target="_blank" href="https://www.tiktok.com/tag/donaldtrump?refer=embed">#donaldtrump</a> <a title="drake" target="_blank" href="https://www.tiktok.com/tag/drake?refer=embed">#drake</a> <a target="_blank" title="♬ original sound - wehustleclips" href="https://www.tiktok.com/music/original-sound-7469872352118606624?refer=embed">♬ original sound - wehustleclips</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-  
+{: .example}
 Answer questions about the clip using the form below:
-  
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1qfsFKIpwDdcP7nroxNYT1LwZWVqbfp9aImTFke-LG9mDjw/viewform?embedded=true" width="640" height="796" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
+What do you think?
+{: .label .label-purple}
