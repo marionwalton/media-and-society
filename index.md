@@ -68,9 +68,10 @@ Concept
 {: .question}
 A _green tag_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!
 
-{: .question}
+
 <details markdown="block">
 <summary>Question</summary>
+{: .question}
 A possible answer
 </details>
 
