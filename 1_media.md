@@ -20,8 +20,8 @@ What did you do when you first opened your eyes this morning? What did you do ye
 
 There’s a good chance that your morning and evening rituals involved paying attention to some type of **media**. 
 
-Perhaps in the morning you checked your [social media](definitions.html#social_media) timelines for updates from friends on Instagram or to see new trends
-on Tiktok, or checked your browser for the news. Perhaps in the evening you settled down to watch a form of [mass media](definitions.html#social_media), 
+Perhaps in the morning you checked your [social media](definitions.html#social-media) timelines for updates from friends on Instagram or to see new trends
+on Tiktok, or checked your browser for the news. Perhaps in the evening you settled down to watch a form of [mass media](definitions.html#mass-media), 
 such as a television series on a broadcast or streaming platform. Probably, if you’re like most South Africans, the sound
 of a radio or podcast kept you company at some time in the day. 
 
