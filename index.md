@@ -18,6 +18,26 @@ The chapters are designed as a short, readable overview of the ideas we explore 
 We're currently testing this format and several of the topics are still under development. 
 We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
 
+
+Default label
+{: .label }
+
+Blue label
+{: .label .label-blue }
+
+Stable
+{: .label .label-green }
+
+New release
+{: .label .label-purple }
+
+Coming soon
+{: .label .label-yellow }
+
+Deprecated
+{: .label .label-red }
+
+
 Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 
 <div popover id="pocket">
