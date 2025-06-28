@@ -9,6 +9,12 @@ layout: home
 
 This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from **cultural studies** and **social semiotics**.
 
+[Cultural studies](definitions.html#cultural_studies){: .btn .btn-blue }
+[Social semiotics](definitions.html#social_semiotics){: .btn .btn-blue }
+
+- TOC
+{:toc}
+
 ## What is a pocket textbook?
 This is your **_pocket textbook_** for Media & Society. It's designed as an accessible, **_open access_**  guide to 
 the ideas we'll explore in more detail in classes and course readings. 
@@ -123,11 +129,10 @@ When should you use the pocket textbook website and when should you use the down
 <h2>What is "open access"?</h2>
   <hr>
 <p>Open access means anyone should be able to access a resource. </p>  
-<p>There are no financial, legal or technical barriers to accessing the textbook. </p>
-<p>The authors should be acknowledged. </p>
-<p>Any derivative works should also have this license.</p>
-
-<p>This is known as a ** Creative Commons Attribution-ShareAlike 4.0 (BY-SA)** license.</p>
+<p>There are no financial, legal or technical barriers to accessing this textbook. </p>
+<p>This book has a ** Creative Commons Attribution-ShareAlike 4.0 (BY-SA)** license.</p>
+<p>That means the authors should be acknowledged. </p>
+<p>Any derivative works should also have the license.</p>
 
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 

@@ -115,6 +115,9 @@ statistical models to predict and synthesize a likely "answer" to the user's pro
 users to humanise or **anthropomorphise** the system (as do terms such as "intelligence" and "training") 
 as a when it is really simply a new form of **automation**.
 
+### Cultural studies
+
+
 <a name="diffusion_model"></a> 
 ### Diffusion model 
 A model which has been trained on a large collection of images that are “diffused” into and out of random noise. 
@@ -278,6 +281,8 @@ Synthetic media refers to media which has been created or modified by algorithmi
 especially through the use of artificial intelligence (AI) such as Large Language Models (LLMs) 
 (e.g. OpenAI's ChatGPT or Google's Gemini). Synthetic media are also known as AI-generated
 media, generative media, personalised media or (considerably less positively!) as "**AI sludge**"
+
+### Social semiotics
 
 <a name="training_data"></a> 
 ### Training data 
