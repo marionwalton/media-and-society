@@ -88,17 +88,23 @@ Generative Artificial Intelligence or [Generative AI](definitions.html#generativ
 We call this form of digital media **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media using a statistical [*model*](definitions.html#model), such as for example, a Large Language Model ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating text or a
 [diffusion model](definitions.html#diffusion-model) (e.g. DALL-E) for generating images.
 
-Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](definitions.html#provenance). GenAI works by generating a likely answer to a prompt, based on what is available in its training data. Responses to prompts are based on statistically sophisticated guesswork, and does not mean they are correct.
+Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](definitions.html#provenance). GenAI works by generating a likely response to a prompt, based on patterns in its training data. These responses are thus based on statistically sophisticated guesswork, which means they are often incorrect and likely to be biased in some way.  When used to generate citations, they are simply fabricated likely-looking sources which follow the pattern of the references in its training data.
 
-Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
+Generative AI can thus easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
 
 {: .activity}
-![Activity](img/pencilpencil.svg) What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 2 below) and the Iziko Rhino?
-How do you feel when you realise that an image or message was created by AI?
+![Activity](img/pencilpencil.svg) What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 2 below) and the Iziko Rhino depicted in Figure 1? How do you feel when you realise that an image or message was fabricated by AI?
 
 ![A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model](img/DALL-E_iziko_rhino.png)
 Figure 2: This synthetic image of a rhino was produced by OpenAI's DALL·E model in response to the prompt 'Picture of Iziko Rhino'. 
  Dalle-E labelled its own synthetic image incorrectly as 'A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.'
+
+ ## Activity
+
+ {: .activity}
+![Activity](img/pencilpencil.svg) Can you identify the factual error in the following AI overview from Google's Search Labs? Why do you think this error came to be generated? How do you approach AI overviews in search engine results when looking for information?
+
+![Screeenshot from Google AI Labs which reads: In 1976, Pink Floyd's song "Another Brick in the Wall (Part 2) became an anthem of resistance during the Soweto Uprising, a student-led protest against the apartheid system in South Africa. The song's lyrics resonated with the students' frustration with the Bantu Eudcation system and their fight for educational equality. While the song was released in 1979, it became a powerful symbol of their struggle and was subsequently banned in South Africa due to its association with the protests.](img/google_ai_labs.png)
 
 ## Meanings of "media"
 
