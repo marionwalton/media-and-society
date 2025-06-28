@@ -51,7 +51,8 @@ Example
 ### Definitions
 
 {: .definition}
-A _blue tag_ highlights the sections where **_definitions_** are provided and important new concepts are introduced.
+ A _blue callout_ highlights the sections where **_definitions_** are provided and important new concepts are introduced.
+
 You can also find out more about these key concepts by:
 
 - Clicking on definition buttons - try out the one in purple text below.
@@ -60,26 +61,21 @@ You can also find out more about these key concepts by:
 
 <button popovertarget="definition" type="button" name="button" class="btn">Definition</button>
 
+![Activity](img/quote-left.svg)
 You should cite any definitions and quotations from the pocket textbook as follows:
 
 >Walton, M. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
-
-{: .label }
-Definitions
 
 
 ### Questions
 
 {: .question}
-A _green tag_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!
+A _green callout_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!
 
 <details markdown="block">
 <summary>Click here for answer</summary>
 One possible answer.
 </details>
-
-Question
-{: .label .label-green }
 
 ### Feedback
 
@@ -114,9 +110,6 @@ When should you use the pocket textbook website and when should you use the down
 - [ ] For printing and physical note-taking.
 
 </details>
-
-Question
-{: .label .label-green }
 
 
 <div popover id="pocket">
