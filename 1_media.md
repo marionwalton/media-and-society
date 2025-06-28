@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: page
 title: 02. Thinking About Media
 ---
 
-## thinking about media 
+# Thinking about Media 
 
 *By Marion Walton, University of Cape Town*
 
