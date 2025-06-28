@@ -74,7 +74,9 @@ Warning
 
 ## Questions
 ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)
-<details markdown="block"> ![Activity](img/pencilpencil.svg)
+Activity
+{: .label .label-green }
+<details markdown="block">
 Use the website when you are:
     
 - Viewing video and animations.
@@ -88,5 +90,6 @@ Download the pdf to use it:
 - For focused, uninterrupted reading.
 - For printing and physical note-taking.
  <summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
-
+Activity
+{: .label .label-green }
 <hr>
