@@ -97,18 +97,15 @@ targeted **dis- or misinformation** and **deepfakes**. Because such messaging ca
 What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 2 below) and the Iziko Rhino?
 How do you feel when you realise that an image or message was created by AI?
 
-<figure>
-<img title="A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model" 
+<figure><img title="A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model" 
      alt="A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model" 
      src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/DALL-E_iziko_rhino?v=1739985803226" 
-     class="illustration"/>
-<figcaption>Figure 2: This synthetic image of a rhino was produced by OpenAI's DALL·E model in response to the prompt "Picture of Iziko Rhino". 
-  Dalle-E labelled its own synthetic image incorrectly as "A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.""
-</figure>
+     class="illustration"/><figcaption> Figure 2: This synthetic image of a rhino was produced by OpenAI's DALL·E model in response to the prompt 'Picture of Iziko Rhino'. 
+  Dalle-E labelled its own synthetic image incorrectly as 'A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.'</figure>
 
 ## Meanings of "media"
 
-When we talk loosely about media, we tend to bundle several senses of the word together - (1) production and distribution (2) communication and (3) media industries or organisations.
+When we talk loosely about media, we tend to bundle several senses of the word together - (1) media of production and distribution (2) medium of communication (mode) and (3) media industries or organisations.
 
 ### 1. Media of production, distribution and reception 
 We use a wide range of media to produce, distribute or convey messages to one another. We tend to think of electronic or print media first, 
@@ -151,20 +148,6 @@ non-commercial media.
 
 Nonetheless, to access Wikimedia we rely on several for-profit industries which produce computers or cellphones or which provide web hosting, electricity and internet access. 
 
-## Check your understanding
-
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@wehustleclips/video/7469872080104820001" data-video-id="7469872080104820001" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@wehustleclips" href="https://www.tiktok.com/@wehustleclips?refer=embed">@wehustleclips</a> Symbolism in Kendrick Lamar’s Super Bowl half time show. . . . <a title="kendricklamar" target="_blank" href="https://www.tiktok.com/tag/kendricklamar?refer=embed">#kendricklamar</a> <a title="nfl" target="_blank" href="https://www.tiktok.com/tag/nfl?refer=embed">#nfl</a> <a title="superbowl" target="_blank" href="https://www.tiktok.com/tag/superbowl?refer=embed">#superbowl</a> <a title="donaldtrump" target="_blank" href="https://www.tiktok.com/tag/donaldtrump?refer=embed">#donaldtrump</a> <a title="drake" target="_blank" href="https://www.tiktok.com/tag/drake?refer=embed">#drake</a> <a target="_blank" title="♬ original sound - wehustleclips" href="https://www.tiktok.com/music/original-sound-7469872352118606624?refer=embed">♬ original sound - wehustleclips</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
-The video above is a commentary posted on TikTok by @wehustleclips in order to explain the significance of
-Kendrick Lamar's 2025 US Superbowl halftime show ([@wehustleclips, 2025](/ideas/references/#wehustleclips_2025)). Lamar's performance was viewed live by 
-133.5 million viewers.
-  
-Answer questions about the clip using the form below:
-  
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1qfsFKIpwDdcP7nroxNYT1LwZWVqbfp9aImTFke-LG9mDjw/viewform?embedded=true" width="640" height="796" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-## About this pocket textbook
-This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from **cultural studies** and **social semiotics**.
 
 ## Important Definitions
 
@@ -178,8 +161,22 @@ Here are some definitions of terms which you will be using in your work as a med
 - [Social media](https://media-and-society.glitch.me/ideas/definitions/#social_media)
 - [Synthetic media](https://media-and-society.glitch.me/ideas/definitions/#synthetic_media)
 
-Other important new terms are explained briefly in our list of [definitions](/ideas/definitions/). 
+Other important new terms are explained briefly in our list of [definxitions](/ideas/definitions/). 
 You should be keeping your own glossary, or list of the new words and concepts that you encounter in the course of the semester.
 
 ### References
 The sources used in this article can be found by following the links on the citations. All sources are included in the [List of references](/ideas/references/)
+
+
+## Check your understanding
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@wehustleclips/video/7469872080104820001" data-video-id="7469872080104820001" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@wehustleclips" href="https://www.tiktok.com/@wehustleclips?refer=embed">@wehustleclips</a> Symbolism in Kendrick Lamar’s Super Bowl half time show. . . . <a title="kendricklamar" target="_blank" href="https://www.tiktok.com/tag/kendricklamar?refer=embed">#kendricklamar</a> <a title="nfl" target="_blank" href="https://www.tiktok.com/tag/nfl?refer=embed">#nfl</a> <a title="superbowl" target="_blank" href="https://www.tiktok.com/tag/superbowl?refer=embed">#superbowl</a> <a title="donaldtrump" target="_blank" href="https://www.tiktok.com/tag/donaldtrump?refer=embed">#donaldtrump</a> <a title="drake" target="_blank" href="https://www.tiktok.com/tag/drake?refer=embed">#drake</a> <a target="_blank" title="♬ original sound - wehustleclips" href="https://www.tiktok.com/music/original-sound-7469872352118606624?refer=embed">♬ original sound - wehustleclips</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+The video above is a commentary posted on TikTok by @wehustleclips in order to explain the significance of
+Kendrick Lamar's 2025 US Superbowl halftime show ([@wehustleclips, 2025](/ideas/references/#wehustleclips_2025)). Lamar's performance was viewed live by 
+133.5 million viewers.
+  
+Answer questions about the clip using the form below:
+  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1qfsFKIpwDdcP7nroxNYT1LwZWVqbfp9aImTFke-LG9mDjw/viewform?embedded=true" width="640" height="796" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+

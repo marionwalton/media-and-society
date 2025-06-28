@@ -7,6 +7,8 @@ layout: home
 
 ![Media student](img/cap.svg)
 
+This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from **cultural studies** and **social semiotics**.
+
 ## What is a pocket textbook?
 This is your [pocket textbook](/about/) for Media & Society. It's designed as an accessible, <button popovertarget="open">open access</button> guide to 
 the ideas we'll explore in more detail in classes and course readings. 
