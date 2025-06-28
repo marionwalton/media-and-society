@@ -57,6 +57,7 @@ There are a couple of ways for you to find out more about these key concepts. Yo
 - Use the search bar at the top of the page to see how we use the word in the pocket textbook.
 
 <button popovertarget="definition" type="button" name="button" class="btn">Definition</button>
+
 [Cultural studies](definitions.html#cultural-studies){: .btn .btn-blue }
 [Social semiotics](definitions.html#social-semiotics){: .btn .btn-blue }
 
