@@ -29,7 +29,6 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 <div popover id="open">
   <h2>What is "open access"?</h2>
   <hr>
-    ![CC Attribution-ShareAlike 4.0 (BY-SA)](https://mirrors.creativecommons.org/presskit/icons/by-sa.png)
   <p> We intend that anyone should be able to read, download, copy, distribute, print, search for and search within the pocket textbook. The pocket textbook is 'open access' because it has been made available with a [Creative Commons (Attribution - Share Alike)] license. In other words, there are no financial, legal or technical barriers to accessing the textbook, as long as the authors are acknolwedged and any derivative works are also shared under a similar license.   For that reason, it has been made available to be used within the constraints of a ** CC Attribution-ShareAlike 4.0 (BY-SA)** license.
 </p>
   <p>We suggest you use the website version when you want to view videos or animations or listen to audio.</p>
@@ -43,6 +42,8 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 - Using interactive exercises (like this one).
 <summary>When should you use the pocket textbook website?</summary>
 
+<hr>
+
 <details markdown="block">
 - When you won't have wifi access. 
 - To avoid using mobile data.
@@ -51,11 +52,11 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 <summary>When should you use the pocket textbook pdf?</summary>
 
 ## License
-
+    ![CC Attribution-ShareAlike 4.0 (BY-SA)](https://mirrors.creativecommons.org/presskit/icons/by-sa.png)
 <a href="https://creativecommons.org">Media and Society - A Pocket Textbook</a> © 2025 by <a href="https://creativecommons.org">Marion Walton, Adam Haupt, Martha Evans and Wallace Chuma</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## Website
-This is a Jekyll website that uses the [Just the Docs]theme. 
+This is a Jekyll website that uses the [Just the Docs] theme. 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
