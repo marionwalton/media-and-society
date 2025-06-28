@@ -2,7 +2,6 @@
 layout: home
 title: 05. Understanding Networks
 ---
-
 # Understanding Networks
 {: .no_toc }
 
@@ -14,7 +13,7 @@ networks, and how media products flow around [networks](/ideas/definition/index.
 - TOC
 {:toc}
 
-### What is a network?
+## What is a network?
 
 ![Illustration of nodes connected in a network](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/Screenshot%202025-02-25%20at%2017.05.05.png?v=1740517367370 "illustration")
 Figure 1: Nodes connected in a network
@@ -44,7 +43,7 @@ individual words connected to one another on the internet, or clusters of simila
 are represented in the models used by [Generative AI](/ideas/definitions/index.html#generative_ai).)
 
 
-### Social listening
+## Social listening
 
 On social media, official branding strategies now co-exist with **many-to-many conversations** where consumers get together to discuss
 products, which may or may not always cohere with the official brand identities companies pay to create. 
@@ -54,7 +53,7 @@ involves paying attention
 to what people are saying about them online. This is known as **social listening**, and can help brands
 pick up specific issues with their products, or highlight the existence of a niche of customers who have different needs.
 
-### Representing networks
+## Representing networks
 
 Figure 2 shows how many hundreds of Youtube videos match a query for "KFC" and "South Africa". 
 By mapping the connections between all the different tags which appear together on the videos, 
@@ -73,7 +72,7 @@ Figure 2: Co-tag network on Youtube for KFC South Africa
 Figure 3: Close up on top tag cluster for KFC South Africa
 
 
-### Going "viral"
+## Going "viral"
 
 The following Youtube videos all gained a great deal of attention, and can be seen as slightly larger nodes in the larger clusters around the KFC brand in the networks represented above .
 
@@ -106,7 +105,7 @@ Watch the videos below, look carefully at their metrics (views, likes and commen
 
 - 187 558 views, 2 798 likes, 326 comments
 
-### Niche audiences and analytics
+## Niche audiences and analytics
 
 **Case study \- [Example 4: \- LET'S EAT KFC|😋 South African MUKBANG🇿🇦 😎](https://www.youtube.com/watch?v=sQdmiyUJf0s&list=PLMCBC7Liz8Op1zXXlYefJxXoHnvECRDJR&index=3)”**
 
@@ -165,7 +164,7 @@ biased towards serving the interests of these relatively powerful social groups.
 Higher earning content categories are those which focus on consumption-related topics
 such as Education, Tech, Finance, Beauty and Lifestyle ([Zwane, 2024](/ideas/references/index.html#zwane_2024)).
 
-### Influence industry
+## Influence industry
 
 Global brands and corporations have historically relied on spending large amounts of money on public 
 relations to attract the attention of the media, and on advertising and advertorial to influence how stories are told to the public. 
@@ -181,7 +180,7 @@ make it appear that they have a groundswell of popular support (Woolley, 2023).
 Gaining attention in this environment is not easy for everyone who wants to build an audience or mobilise supporters. The budgets of 
 such commercial players and bad faith propagandists far exceed those of ordinary people. 
 
-### Astroturfing
+## Astroturfing
 
 Network dynamics can also be used unethically or deceptively, where coordinated campaigns are mounted to simulate 
 a conversation (**astroturfing**) with the goal of indirectly influencing
@@ -193,7 +192,7 @@ generative AI), or of human-created "posts for hire" where users who may
 be employees of a "content farm" in a different country are paid directly 
 to post content, which then appears with no disclaimer or "sponsored" label.
 
-## Questions
+# Questions
 
 Watch the videos above: 
 - Why do you think each video went viral?

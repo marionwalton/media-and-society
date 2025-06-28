@@ -42,7 +42,7 @@ For example, the <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JP
 on a rock. The creators of the engraving are thought to be the Later Stone Age ancestors of the ǀXam San at Kinderdam in North West Province, who created images such as this between 1,000 and 10,000 years ago. 
 The long-lasting medium of the rock engraving has survived many centuries and still connects contemporary viewers to its original creators despite the destruction of the /Xam society under colonialism. 
 
-The enduring nature of a rock engraving is one of its [**affordances**](/ideas/definitions/index.html#affordance) for communication. 
+The enduring nature of a rock engraving is one of its [**affordances**](definitions.html#affordance) for communication. 
 Another affordance is that the engraving on the rock interacts with its surroundings, so that, at certain times of day, or in certain angles of light,
 the engravings may have suddenly become more visible, or may seem to move (e.g. in flickering firelight) ([Hodgskiss & Esterhuysen, 2019](references.html#hodgskiss_esterhuysen_2019))
 We use the term affordance to refer to the potential and constraints of different modes of communication.
@@ -86,7 +86,7 @@ site or app. Most of these platforms provide tools and functionality for sharing
 ## AI and Media
 
 Generative Artificial Intelligence or [Generative AI](definitions.html#generative-ai) systems are specialised systems to automate media production by computers.
-We call this form of digital media **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media using a statistical [*model*](/ideas/definitions/index.html#model), such as for example, a Large Language Model ([LLM](/ideas/definitions/index.html#llm)) (e.g. ChatGPT) for generating text or a
+We call this form of digital media **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media using a statistical [*model*](definitions.html#model), such as for example, a Large Language Model ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating text or a
 [diffusion model](definitions.html#diffusion-model) (e.g. DALL-E) for generating images.
 
 Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](definitions.html#provenance). Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
@@ -129,7 +129,7 @@ which have developed around complex media production and distribution networks s
 and public relations agencies, or social media platforms**.
 
 Media industries tend to be associated with large commercial media organisations which aim to target large audiences
-of people, and are thus known as [mass media](definitions.html#mass_media). These are businesses which exist to create and sell media products such as news, advertising, entertainment, or data which can be used to target advertising. 
+of people, and are thus known as [mass media](definitions.html#mass-media). These are businesses which exist to create and sell media products such as news, advertising, entertainment, or data which can be used to target advertising. 
 
 In contemporary society, such organisations are usually primarily motivated to make a **profit**, which means they depend on selling subscriptions and advertising. 
 
@@ -150,7 +150,7 @@ Here are some definitions of terms which will help you talk about media as a med
 ![Activity](img/pencilpencil.svg)Keep a list of the new words and concepts that you encounter in the course of the semester.
 
 ### References
-The sources used in this article can be found by following the links on the citations. All sources are included in the [List of references](/ideas/references/)
+The sources used in this article can be found by following the links on the citations. All sources are included in the [List of references](references.html)
 
 
 ## Check your understanding

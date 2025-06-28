@@ -91,7 +91,8 @@ Digital inequality (also known as the digital divide) refers to the differences 
 different groups of people. People's socio-economic status, age, gender and race can all mean that they have fewer opportunities 
 to benefit from and enjoy using digital media.
 
-### Generative AI, GenAI or AI generated content 
+### Generative AI
+See also: GenAI or AI generated content 
 Generative AI, or GenAI refer to generative models such as LLMs or diffusion models used as media production tools are leading to dramatic shifts in both 
 professional and everyday media practices. Four tech companies, namely Alphabet (Google), Amazon, Microsoft and Meta (Facebook) have recently 
 invested billions of dollars in their respective Artificial Intelligence (AI) systems which will have major consequences
