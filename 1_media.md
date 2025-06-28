@@ -20,8 +20,8 @@ What did you do when you first opened your eyes this morning? What did you do ye
 
 There’s a good chance that your morning and evening rituals involved paying attention to some type of **media**. 
 
-Perhaps in the morning you checked your [social media](https://media-and-society.glitch.me/ideas/definitions/#social_media) timelines for updates from friends on Instagram or to see new trends
-on Tiktok, or checked your browser for the news. Perhaps in the evening you settled down to watch a form of [mass media](https://media-and-society.glitch.me/ideas/definitions/#social_media), 
+Perhaps in the morning you checked your [social media](definitions.html#social_media) timelines for updates from friends on Instagram or to see new trends
+on Tiktok, or checked your browser for the news. Perhaps in the evening you settled down to watch a form of [mass media](definitions.html#social_media), 
 such as a television series on a broadcast or streaming platform. Probably, if you’re like most South Africans, the sound
 of a radio or podcast kept you company at some time in the day. 
 
@@ -33,7 +33,7 @@ It's very likely that you used a medium to communicate with others, perhaps an *
 
 ## What are media?
 
-In English, the word **media** evolved from the Latin word *medius* which means "in the middle" (<a href="/ideas/references/index.html#harper_nd">Harper, n.d.</a>). 
+In English, the word **media** evolved from the Latin word *medius* which means "in the middle" (<a href="references.htmlindex.html#harper_nd">Harper, n.d.</a>). 
 In this course we are studying **media of communication**, the physical media, languages and industries which we use to connect with others and to communicate.
 
 {: .example}
@@ -44,7 +44,7 @@ The long-lasting medium of the rock engraving has survived many centuries and st
 
 The enduring nature of a rock engraving is one of its [**affordances**](/ideas/definitions/index.html#affordance) for communication. 
 Another affordance is that the engraving on the rock interacts with its surroundings, so that, at certain times of day, or in certain angles of light,
-the engravings may have suddenly become more visible, or may seem to move (e.g. in flickering firelight) ([Hodgskiss & Esterhuysen, 2019](/ideas/references/index.html#hodgskiss_esterhuysen_2019))
+the engravings may have suddenly become more visible, or may seem to move (e.g. in flickering firelight) ([Hodgskiss & Esterhuysen, 2019](references.html#hodgskiss_esterhuysen_2019))
 We use the term affordance to refer to the potential and constraints of different modes of communication.
 
 <img title="Rock engraving of Iziko Rhino from Kinderdam.Nkansah Rexford, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" 
@@ -58,8 +58,7 @@ the electromagnetic spectrum (e.g. radio waves and cellphone signals), the inter
 
 ## Oramedia
 {: .definition}
-[**Oramedia**](https://media-and-society.glitch.me/ideas/definitions/#oramedia) includes traditionally *oral forms* such as **storytelling, proverbs, folklore, folktales, drama, puppetry, spoken word performance 
-and oral poetry** (<a href="https://media-and-society.glitch.me/ideas/references/index.html#ugboajah_1985">Ugbuojah, 1985</a>), many of which are only produced using the human body. 
+[**Oramedia**](https://media-and-society.glitch.me/ideas/definitions/#oramedia) includes traditionally *oral forms* such as **storytelling, proverbs, folklore, folktales, drama, puppetry, spoken word performance and oral poetry** (<a href="references.html#ugboajah_1985">Ugbuojah, 1985</a>), many of which are only produced using the human body. 
 
 These forms often go beyond the spoken word, using vivid performances, improvisation, mimicry, music, dance, the tonal character of many African languages, and the responses of the audience to make the most of the potential affordances of the oral medium ([Finnegan, 2012:5-10](references.html#finnegan_2012))
 
