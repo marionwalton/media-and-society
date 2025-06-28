@@ -40,13 +40,11 @@ Another affordance is that the engraving on the rock interacts with its surround
 the engravings may have suddenly become more visible, or may seem to move (e.g. in flickering firelight) ([Hodgskiss & Esterhuysen, 2019](/ideas/references/index.html#hodgskiss_esterhuysen_2019))
 We use the term affordance to refer to the potential and constraints of different modes of communication.
 
-<figure>
 <img title="Rock engraving of Iziko Rhino from Kinderdam.Nkansah Rexford, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" 
      alt="Iziko Rhino" 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Iziko_Rhino.JPG/512px-Iziko_Rhino.JPG?20140701092425" 
-     class="illustration"/>
-<figcaption>Figure 1: "Iziko Rhino" - Rock engraving of rhino from Kinderdam. Credit - <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">Wikimedia Commons</a></caption>
-</figure>
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Iziko_Rhino.JPG/512px-Iziko_Rhino.JPG?20140701092425"/>
+
+Figure 1: "Iziko Rhino" - Rock engraving of rhino from Kinderdam. Credit - <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">Wikimedia Commons</a></caption>
 
 Many other communication technologies have been developed, including print media, digital images, audio and video formats,
 the electromagnetic spectrum (e.g. radio waves and cellphone signals), the internet and generative AI. 
@@ -97,11 +95,11 @@ targeted **dis- or misinformation** and **deepfakes**. Because such messaging ca
 What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 2 below) and the Iziko Rhino?
 How do you feel when you realise that an image or message was created by AI?
 
-<figure><img title="A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model" 
+<img title="A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model" 
      alt="A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model" 
-     src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/DALL-E_iziko_rhino?v=1739985803226" 
-     class="illustration"/><figcaption> Figure 2: This synthetic image of a rhino was produced by OpenAI's DALL·E model in response to the prompt 'Picture of Iziko Rhino'. 
-  Dalle-E labelled its own synthetic image incorrectly as 'A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.'</figure>
+     src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/DALL-E_iziko_rhino?v=1739985803226" />
+Figure 2: This synthetic image of a rhino was produced by OpenAI's DALL·E model in response to the prompt 'Picture of Iziko Rhino'. 
+ Dalle-E labelled its own synthetic image incorrectly as 'A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.'
 
 ## Meanings of "media"
 
