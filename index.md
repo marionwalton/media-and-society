@@ -19,22 +19,19 @@ We're currently testing this format and several of the topics are still under de
 We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
 
 
-Default label
+Concept
 {: .label }
 
-Blue label
-{: .label .label-blue }
-
-Stable
+Activity
 {: .label .label-green }
 
-New release
+Survey
 {: .label .label-purple }
 
-Coming soon
+Example
 {: .label .label-yellow }
 
-Deprecated
+Warning
 {: .label .label-red }
 
 
