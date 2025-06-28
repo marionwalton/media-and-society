@@ -53,17 +53,18 @@ Try using all these different opportunities to ensure that you learn actively, r
 <hr>
 
 {: .activity}
-![Activity](img/pencilpencil.svg) Pencil icons indicate an *open question* of the kind your tutor is likely to ask you in the tutorials.
+![Activity](img/pencilpencil.svg) Pencil icons indicate an _open question_ of the kind your tutor is likely to ask you in the tutorials.
 Thinking about these questions and taking a few written notes is a great way to apply your understanding and prepare for discussion in class.
 
 <hr>
-A _blue tag_ highlights the sections where important new concepts are introduced.
+A _blue tag_ highlights the sections where definitions are provided and important new concepts are introduced.
 You can also find out more about these key concepts by clicking definition buttons, exploring the page of [definitions](defs) or using the search bar at the top of the page.
 
 Concept
 {: .label }
 
 <hr>
+
 {: .question}
 A _green tag_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!
 
@@ -71,6 +72,7 @@ Question
 {: .label .label-green }
 
 <hr>
+
 {: .survey}
 A _purple tag_ shows that there is a survey for you to take in the section. This will help you to see how your answers and opinions compare to those of other students. Your tutor might want to discuss your answers in class.
 
@@ -78,6 +80,7 @@ Survey
 {: .label .label-purple }
 
 <hr>
+
 {: .example}
 A _yellow tag_ introduces an example where you can try to apply the new concepts you've learned to a new media example. Thinking about these new media examples and taking a few written notes about your ideas is a great way to make sure you have something to contribute in class.
 
