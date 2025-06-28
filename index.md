@@ -52,7 +52,8 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
 <summary>When should you use the pocket textbook pdf?</summary>
 
 ## License
-    ![CC Attribution-ShareAlike 4.0 (BY-SA)](https://mirrors.creativecommons.org/presskit/icons/by-sa.png)
+![CC Attribution-ShareAlike 4.0 (BY-SA)](img/by-sa.png)  
+
 <a href="https://creativecommons.org">Media and Society - A Pocket Textbook</a> © 2025 by <a href="https://creativecommons.org">Marion Walton, Adam Haupt, Martha Evans and Wallace Chuma</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## Website
