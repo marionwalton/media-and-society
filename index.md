@@ -73,8 +73,7 @@ Warning
 
 
 ## ![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg)![Activity](img/pencilpencil.svg) Questions
-Activity
-{: .label .label-green }
+
 <details markdown="block">
 Use the website when you are:
     
@@ -89,6 +88,7 @@ Download the pdf to use it:
 - For focused, uninterrupted reading.
 - For printing and physical note-taking.
  <summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
+ 
 Activity
 {: .label .label-green }
 <hr>
