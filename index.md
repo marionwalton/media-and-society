@@ -7,7 +7,7 @@ layout: home
 
 ![Media student](img/cap.svg)
 
-## What is a pocket textbook
+## What is a pocket textbook?
 This is your [pocket textbook](/about/) for Media & Society. It's designed as an accessible guide to 
 the ideas we'll explore in more detail in classes and course readings. 
 
@@ -16,7 +16,7 @@ The chapters are designed as a short, readable overview of the ideas we explore 
 We're currently testing this format and several of the topics are still under development. 
 We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
 
-<button popovertarget="mydiv">Pocket textbook</button>
+Find out more about a <button popovertarget="mydiv">Pocket textbook</button>.
 
 <div popover id="mydiv">
   <h2>What is a pocket textbook?</h2>
