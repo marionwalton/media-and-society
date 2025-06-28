@@ -8,7 +8,7 @@ layout: home
 ![Media student](img/cap.svg)
 
 ## What is a pocket textbook?
-This is your [pocket textbook](/about/) for Media & Society. It's designed as an accessible, <button popovertarget="mydiv">open access</button> guide to 
+This is your [pocket textbook](/about/) for Media & Society. It's designed as an accessible, <button popovertarget="open">open access</button> guide to 
 the ideas we'll explore in more detail in classes and course readings. 
 
 The chapters are designed as a short, readable overview of the ideas we explore in the course.
@@ -23,7 +23,7 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
   <hr>
   <p>Your pocket textbook takes the form of a website that you can use on your phone or download as a pdf.</p>
   <p>We suggest you use the website version when you want to view videos or animations or listen to audio.</p>
-  <button popovertarget="mydiv" popovertargetaction="hide">Close</button>
+  <button popovertarget="pocket" popovertargetaction="hide">Close</button>
 </div>
 
 <div popover id="open">
@@ -33,7 +33,7 @@ Find out more about a <button popovertarget="pocket">Pocket textbook</button>.
   <p> We intend that anyone should be able to read, download, copy, distribute, print, search for and search within the pocket textbook. The pocket textbook is 'open access' because it has been made available with a [Creative Commons (Attribution - Share Alike)] license. In other words, there are no financial, legal or technical barriers to accessing the textbook, as long as the authors are acknolwedged and any derivative works are also shared under a similar license.   For that reason, it has been made available to be used within the constraints of a ** CC Attribution-ShareAlike 4.0 (BY-SA)** license.
 </p>
   <p>We suggest you use the website version when you want to view videos or animations or listen to audio.</p>
-  <button popovertarget="mydiv" popovertargetaction="hide">Close</button>
+  <button popovertarget="open" popovertargetaction="hide">Close</button>
 </div>
 
 <details markdown="block">
