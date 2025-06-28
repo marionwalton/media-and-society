@@ -68,6 +68,12 @@ Concept
 {: .question}
 A _green tag_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!
 
+{: .question}
+<details markdown="block">
+<summary>Question</summary>
+A possible answer
+</details>
+
 Question
 {: .label .label-green }
 
@@ -107,7 +113,6 @@ Survey
 Activity
 {: .label .label-green }
 
-{: .activity}
 <details markdown="block">
 <summary>When should you use the pocket textbook website and when should you use the downloadable pdf?</summary>
 
