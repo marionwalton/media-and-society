@@ -113,7 +113,7 @@ Generative Artificial Intelligence or [Generative AI](definitions.html#generativ
 We call this form of digital media **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media using a statistical [_model_](definitions.html#model), such as for example, a Large Language Model ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating synthetic text or a
 [diffusion model](definitions.html#diffusion-model) (e.g. DALL-E) for generating synthetic images.
 
-Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](definitions.html#provenance). GenAI works by generating a likely response to a prompt, based on patterns in its training data. These responses are thus based on statistically sophisticated guesswork, which means they are often incorrect and likely to be biased in some way.  When used to generate citations, they are simply fabricated likely-looking sources which follow the pattern of the references in its training data.
+Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](definitions.html#provenance). GenAI works by generating a likely response to a prompt, based on patterns in its training data. These responses are thus based on statistically sophisticated guesswork, which means they are often incorrect and likely to be biased in some way.  When used to generate citations, it synthesizes likely-looking sources which follow the pattern of the references in its training data but which may not exist at all.
 
 Generative AI can thus easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
 
@@ -124,8 +124,7 @@ Generative AI can thus easily be used to bulk generate **spam** or targeted **di
 
 ![A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model](img/DALL-E_iziko_rhino.png)
 Figure 3: This synthetic image of a rhino was produced by OpenAI's DALL·E model in response to the prompt 'Picture of Iziko Rhino'. 
- Dalle-E labelled its own synthetic image incorrectly as 'A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.'
-
+ Dalle-E labelled the synthetic image (** incorrectly**) as 'A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.'
 
 ## Important Definitions
 
