@@ -26,9 +26,9 @@ The pocket textbook is available as a
 
 ## How to use the pocket textbook
 
-Your brain remembers something by repeatedly working to recall and reshape the memory. This means you'll learn more by engaging and interacting with the material you read. The pocket textbook makes this kind of _active learning_ easier by allowing you to search for specific words, providing activities for you to try out, encouraging you to apply new concepts to examples, discussing and citing new definitions, allowing you to check the definitions of words you've already encountered and comparing your ideas with others in surveys.
+Your brain remembers something by repeatedly working to recall and reshape the memory. You'll learn more by engaging and interacting with the material you read. The pocket textbook makes this kind of _active learning_ easier. You can search for specific words, try out activities, apply new concepts to examples, discuss and cite definitions, look up the definitions of words you've already encountered, and compare your ideas with those of others in surveys.
 
-Try using all these different opportunities to ensure that you learn actively, remember new concepts and have questions and ideas to share in your tutorials.
+Use all these different opportunities to learn actively, remember new concepts and come up with questions and ideas to share in your tutorials.
 
 ### Search
 The search bar at the top of each page allows you to search for a particular word throughout the book.
