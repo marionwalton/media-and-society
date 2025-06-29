@@ -12,7 +12,7 @@ title: 03. Types of Media
 ![media icons](img/Groupmedia_icons.svg)
 
 
-When we talk loosely about media, we tend to bundle several senses of the word together - (1) media of production and distribution (2) medium of communication (mode) and (3) media industries or organisations.
+When we talk loosely about media, we tend to bundle several senses of the word together - (1) media of production and distribution (2) a medium or mode of communication and (3) media industries or organisations.
 
 - TOC
 {:toc}
