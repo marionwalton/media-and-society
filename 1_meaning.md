@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 04. Meaning and meaning-making
 ---
 # Media & Meaning

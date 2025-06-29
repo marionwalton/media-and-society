@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 07. People using media
 ---
 # People using media

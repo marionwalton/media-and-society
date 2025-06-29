@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 09. Powerful owners
 ---
 # Powerful Owners - mass media

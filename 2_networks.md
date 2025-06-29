@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 06. Understanding Networks
 ---
 # Understanding Networks

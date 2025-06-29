@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title:  10. Media, publics & power
 ---
 # Media, publics & power

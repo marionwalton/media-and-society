@@ -42,7 +42,7 @@ Thinking about these questions and taking a few written notes is a great way to 
 <hr>
 
 {: .example}
-A _yellow tag_ introduces an example where you can try to apply the new concepts you've learned to a new media example. Thinking about these new media examples and taking a few written notes about your ideas is a great way to make sure you have something to contribute in class.
+A _yellow tag_ introduces an example where you can try to apply the new concepts you've learned to a media example. Thinking about these media examples and making a few written notes about your ideas is a great way to make sure you have something to contribute when your tutor discusses the example in class.
 
 Example
 {: .label .label-yellow }
@@ -75,7 +75,7 @@ You should cite any definitions, quotations and paraphrases from the pocket text
 
 >Walton, M., et al. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
 
-### Check your understanding with questions
+### Check your understanding 
 
 {: .question}
 A _green callout_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!
@@ -85,14 +85,13 @@ A _green callout_ shows that there is a question for you to try out in the secti
 You'll see one possible answer!
 </details>
 
-### Compare your ideas with others
+### Participate in surveys
 
 {: .survey}
 A _purple tag_ shows that there is a survey for you to take in the section. This will help you to see how your answers and opinions compare to those of other students. Your tutor might want to discuss these answers in class, so make sure you participate.
 
 {: .survey}
-We're currently testing the pocket textbook format and several of the topics are still under development. 
-We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
+Why not start with this survey? We're currently testing the pocket textbook format and several of the topics are still under development. We'd love your [feedback or suggestions](https://forms.office.com/Pages/ResponsePage.aspx?id=NUNFkk5Wz0ywsCREW4wD9x3s_0Z6PpBKt8EXUBVHZFtUQjQyUjA3T0JWNlZPRElOVFpGRFFBVFFIOS4u).
 
 Survey
 {: .label .label-purple }

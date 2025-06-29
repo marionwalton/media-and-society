@@ -79,6 +79,9 @@ statistical models to predict and synthesize a likely "answer" to the user's pro
 users to humanise or **anthropomorphise** the system (as do terms such as "intelligence" and "training") 
 as a when it is really simply a new form of **automation**.
 
+### Citation
+A citation supports the claims you're making in academic writing, gives credit to another author, helps the reader to find the source you've used, shows the amount of research you've done, and is the only way to avoid [plagiarism](definitions.html#plagiarism) in academic writing. For an academic essay in this course, which uses the UCT Author-Date style of referencing, a citation consists of providing an _in-text citation_ in the text of your essay and a _full reference_ to the source you've referred to at the end of the essay in a [list of references](definitions.html#reference).  An _in-text citation_ helps the reader find the full reference and also points to the specific point in the source you're referring to. It includes the author's surname, the date of publication, and often the page number. 
+
 ### Cultural studies
 Cultural Studies is an academic subject or area of study which is closely related to media studies. In cultural studies, "culture" is approached as an everyday activity, where people make sense of the world, relate to others, and participate in society in ever-changing and contextually nuanced ways. This goes beyond the common sense understanding of culture as artistic products such as paintings, books, music or films. In this course we study scholars who have contributed to this tradition including Antonio Gramsci, Stuart Hall, Raymond Williams, Adam Haupt and others.
 
@@ -216,6 +219,9 @@ When evaluating information, we also rely on identifiable sources. Because of th
 is difficult to know who is responsible for media produced by
 Generative AI (their [provenance](/ideas/definitions/index.html#provenance)). 
 Because we can't easily identify the author or source, we also can't identify bias and don't know whether the original authors of the training data consented to their information or images being used in this way. 
+
+### Reference
+A full reference is included in the [list of references](definitions.html#reference) at the end of an assignment. A reference provides all the information the reader would need to find and check a source you've referred to. A full reference also includes the author's name and the date of publication, as well as (depending on the kind of source you're citing), the publisher, place of publication and page numbers or URL of the material you're referencing.  The in-text citation appears when you use the source in the text of the essay and in the list of references at the end of the essay.
 
 ### Semiotic resources
 Semiotic resources are the actions, knowledge and objects which we use for communicative purposes when 

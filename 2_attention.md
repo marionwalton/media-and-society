@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 05. Data, attention and influence
 ---
 # Attention & Influence
