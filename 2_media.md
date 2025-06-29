@@ -27,7 +27,7 @@ The phrase "medium of communication" is often used to refer to **human languages
 
 We learn to use languages to make and share meaningful messages with others who have a shared understanding of the linguistic "code" we are using. These symbolic systems go beyond language and also include the **visual and other modes** of communication which humans use to make meaning, such as images, clothing, gestures, expressions or music.
 
-In the case of the Iziko Rhino, the **visual meaning** of the image has many dimensions. 
+In the case of the [Iziko Rhino example](1_media.html#example---iziko-rhino), the **visual meaning** of the image has many dimensions. 
 Some of these dimensions of meaning are based on resemblance. For this reason, we can still recognise the shape of the rhino
 if we have encountered rhinos or images of rhinos today. 
 Other dimensions of the engraving's meaning are based on the cultural and spiritual significance of the image. Today its significance, 

@@ -85,6 +85,9 @@ A citation supports the claims you're making in academic writing, gives credit t
 ### Cultural studies
 Cultural Studies is an academic subject or area of study which is closely related to media studies. In cultural studies, "culture" is approached as an everyday activity, where people make sense of the world, relate to others, and participate in society in ever-changing and contextually nuanced ways. This goes beyond the common sense understanding of culture as artistic products such as paintings, books, music or films. In this course we study scholars who have contributed to this tradition including Antonio Gramsci, Stuart Hall, Raymond Williams, Adam Haupt and others.
 
+### Cultural imperialism
+The idea of cultural imperialism describes the unidirectional flow of media and cultural content in the context of a broadly Western hegemony over the rest of the world. Because of the historical power of the USA, this approach often focused on how the USA has dominated cultural industries globally, with its programming, advertising and consumer culture influencing that of the rest of the world.
+
 ### Definition
 Academic terms have specific meanings in particular fields of study. This means you can't use a regular dictionary to find out what they mean. Instead, consult your readings. Using these definitions in your pocket textbook is a good start. Also look out for definitions when reading articles by important scholars in the field. Make sure you always cite the **actual source you used** when providing a definition.
 

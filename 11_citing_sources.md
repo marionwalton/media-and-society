@@ -3,8 +3,12 @@ layout: page
 title:  11. Citing sources and referencing
 ---
 # Citing Sources & Referencing
+{: .no_toc }
 
  [Citations](definitions.html/#citation) tell your reader that certain information and ideas you are using came from another source. A citation appears in the text you are writing (in-text citation) and is linked to a full [reference](definitions.html#reference). 
+
+ - TOC
+{:toc}
 
 ## Why use citations?
  

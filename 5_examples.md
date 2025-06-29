@@ -1,9 +1,10 @@
 ---
 layout: home
-title: 13. Media examples 2025
+title: 20. Media examples 2025
 ---
 
-## examples
+# Examples
+{: .no_toc }
 *By Marion Walton, University of Cape Town*
 
 ### Case studies
