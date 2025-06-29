@@ -25,6 +25,7 @@ title:  11. Citing sources and referencing
  Instead of using GenAI to synthesize fake citations that don't correspond to actual sources, and which function to limit your own knowledge of a field you should aim to build up your citations slowly. Start as you complete course readings and conduct additional research. Whenever you read something, keep careful notes, complete with full references and page numbers. In this way you can make strong claims supported with accurate citations and build foundations of durable knowledge in your chosen area of expertise.
 
 ## What is a citation?
+
 {: .definition}
 A citation supports the claims you're making in academic writing, gives credit to another author, helps the reader to find the source you've used, shows the amount of research you've done, and is the only way to avoid [plagiarism](definitions.html#plagiarism) in academic writing. For an academic essay in this course, which uses the UCT Author-Date style of referencing, a citation consists of providing an _in-text citation_ in the text of your essay and a _full reference_ to the source you've referred to at the end of the essay in a [list of references](definitions.html#reference).  An _in-text citation_ helps the reader find the full reference and also points to the specific point in the source you're referring to. It includes the author's surname, the date of publication, and often the page number. 
 
@@ -43,7 +44,7 @@ Plagiarism is a form of academic dishonesty. If you haven't written something yo
 Here are some definitions of terms which will help you cite your sources correctly as a media student:
 
 - [Citation](definitions.html/#citation){: .btn .btn-blue }
-- [Reference](definitions.html#reference) {: .btn .btn-blue }
+- [Reference](definitions.html#reference){: .btn .btn-blue }
 - [Plagiarism](definitions.html#plagiarism){: .btn .btn-blue }
 - [Paraphrase](definitions.html#paraphrase){: .btn .btn-blue }
 - [Quotation](definitions.html#quotation){: .btn .btn-blue }
