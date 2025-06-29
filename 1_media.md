@@ -76,6 +76,7 @@ Figure 3: Zolani Mkiva performing a praise poem. Credit - [Wikimzansi](https://w
 ## Analogue media
 ![Vinyl record](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Motown_7%22_Single_%28Side_1%29.jpg/1282px-Motown_7%22_Single_%28Side_1%29.jpg?20231126212905)
 Figure 2: Vinyl record from Motown. Credit - [Wikimedia](https://commons.wikimedia.org/wiki/File:Motown_7%22_Single_(Side_1).jpg) 
+
 Analogue media were created for mass audiences in the pre-digital era. Analogue media include sound recordings on vinyl records (see Figure 2), print newspapers created by physically laying out blocks of type, and analogue radio and television broadcasts. 
 
 ## Digital media

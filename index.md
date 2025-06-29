@@ -63,6 +63,7 @@ There are a couple of ways for you to find out more about these key concepts. Yo
 
 <button popovertarget="definition" type="button" name="button" class="btn">Definition</button>
 
+[Definition](definitions.html#definition){: .btn .btn-blue }
 [Cultural studies](definitions.html#cultural-studies){: .btn .btn-blue }
 [Social semiotics](definitions.html#social-semiotics){: .btn .btn-blue }
 
@@ -72,8 +73,16 @@ There are a couple of ways for you to find out more about these key concepts. Yo
 
 You should cite any definitions, quotations and paraphrases from the pocket textbook as follows:
 
->Walton, M., et al. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
+<pre><code class="language-css">.some-box {
+	width: 20px;
+	height: 20px;
+	background: black;
+	margin-bottom: 1.5rem;
+}
+    Walton, M., et al. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
+</code></pre>
 
+>Walton, M., et al. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
 
 ### Try out questions
 
