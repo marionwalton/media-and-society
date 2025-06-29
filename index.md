@@ -73,18 +73,9 @@ There are a couple of ways for you to find out more about these key concepts. Yo
 
 You should cite any definitions, quotations and paraphrases from the pocket textbook as follows:
 
-<pre><code class="language-css">.some-box {
-	width: 20px;
-	height: 20px;
-	background: black;
-	margin-bottom: 1.5rem;
-}
-    Walton, M., et al. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
-</code></pre>
-
 >Walton, M., et al. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
 
-### Try out questions
+### Check your understanding with questions
 
 {: .question}
 A _green callout_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!

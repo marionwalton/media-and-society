@@ -65,6 +65,7 @@ the electromagnetic spectrum (e.g. radio waves and cellphone signals), the inter
 [Affordance](definitions.html#affordance){: .btn .btn-blue }
 
 ## Oramedia
+
 {: .definition}
 [**Oramedia**](https://media-and-society.glitch.me/ideas/definitions/#oramedia) includes traditionally *oral forms* such as **storytelling, proverbs, folklore, folktales, drama, puppetry, spoken word performance and oral poetry** (<a href="references.html#ugboajah_1985">Ugbuojah, 1985</a>), many of which are produced using only the human body. 
 
