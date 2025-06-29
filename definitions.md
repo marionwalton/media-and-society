@@ -30,6 +30,9 @@ that perform a range of natural language processing (NLP) tasks.
 The algorithms of Generative AI systems can also be set up to avoid producing certain kinds of content present in the training data or responding to 
 certain types of prompts, which can be seen as a new form of **content moderation** or **censorship**. 
 
+### Analogue media 
+Analogue media are created with signals are transmitted in waves, such as light or sound waves.
+
 ### Artificial Intelligence or AI  
 
 Artificial intelligence is an academic field with a 60 year history but the term does not have a generally 
@@ -92,6 +95,9 @@ image generator), Stable Diffusion and Imagen.
 Digital inequality (also known as the digital divide) refers to the differences in use of digital technology and services by 
 different groups of people. People's socio-economic status, age, gender and race can all mean that they have fewer opportunities 
 to benefit from and enjoy using digital media.
+
+### Digital media
+Digital media are created using signals expressed as a series of the numbers (digits) 0 and 1. This means that they can be processed by a computer.
 
 ### Generative AI
 See also: GenAI or AI generated content 

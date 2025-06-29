@@ -75,6 +75,10 @@ These forms often go beyond the spoken word, using vivid performances, improvisa
 Figure 3: Zolani Mkiva performing a praise poem. Credit - [Wikimzansi](https://www.wikimzansi.com/zolani-mkiva-2/)
 
 ## Analogue media
+
+{: .definition}
+Analogue media are created with signals are transmitted in waves, such as light or sound waves.
+
 ![Vinyl record](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Motown_7%22_Single_%28Side_1%29.jpg/1282px-Motown_7%22_Single_%28Side_1%29.jpg?20231126212905)
 Figure 2: Vinyl record from Motown. Credit - [Wikimedia](https://commons.wikimedia.org/wiki/File:Motown_7%22_Single_(Side_1).jpg) 
 
@@ -82,6 +86,8 @@ Analogue media were created for mass audiences in the pre-digital era. Analogue 
 
 ## Digital media
 {: .definition}
+Digital media are created using signals expressed as a series of the numbers (digits) 0 and 1. This means that they can be processed by a computer.
+
 Today many forms of **digital media** are encoded in different formats and depend on a specific configuration of 
 **technologies and infrastructure** such as electricity, internet connectivity, fibre optic cables, electromagnetic signals transmitted by radio or television broadcasters  or mobile phone signals. Contemporary technologies of production and distribution mean that it is possible to communicate across long distances with people around the world. 
 
