@@ -6,7 +6,7 @@ layout: home
 {: .no_toc }
 ![Media student](img/cap.svg)
 
-This pocket textbook focuses on the use of media in **African contexts** and emphasises insights from **cultural studies** and **social semiotics**.
+This pocket textbook focuses on the use of **media in African contexts** and emphasises insights from **[cultural studies](definitions.html#cultural_studies)** and **[social semiotics](definitions.html#social_semiotics)**.
 
 - TOC
 {:toc}
@@ -26,9 +26,12 @@ The pocket textbook is available as a
 
 ## How to use the pocket textbook
 
-You'll learn more by engaging and interacting with the pocket textbook. 
+Your brain remembers something by repeatedly working to recall and reshape the memory. This means you'll learn more by engaging and interacting with the material you read. The pocket textbook makes this kind of _active learning_ easier by allowing you to search for specific words, providing activities for you to try out, encouraging you to apply new concepts to examples, discussing and citing new definitions, allowing you to check the definitions of words you've already encountered and comparing your ideas with others in surveys.
 
 Try using all these different opportunities to ensure that you learn actively, remember new concepts and have questions and ideas to share in your tutorials.
+
+### Search
+The search bar at the top of each page allows you to search for a particular word throughout the book.
 
 ### Activities and examples
 
@@ -67,12 +70,12 @@ There are a couple of ways for you to find out more about these key concepts. Yo
 
 ![Activity](img/quote-left.svg)
 
-You should cite any definitions and quotations from the pocket textbook as follows:
+You should cite any definitions, quotations and paraphrases from the pocket textbook as follows:
 
 >Walton, M., et al. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
 
 
-### Questions
+### Try out questions
 
 {: .question}
 A _green callout_ shows that there is a question for you to try out in the section. Try it before you click to see an answer. Remember that there are often different perspectives on questions in media and cultural studies!
@@ -82,7 +85,7 @@ A _green callout_ shows that there is a question for you to try out in the secti
 You'll see one possible answer!
 </details>
 
-### Feedback
+### Compare your ideas with others
 
 {: .survey}
 A _purple tag_ shows that there is a survey for you to take in the section. This will help you to see how your answers and opinions compare to those of other students. Your tutor might want to discuss these answers in class, so make sure you participate.
@@ -105,16 +108,16 @@ When should you use the pocket textbook website and when should you use the down
 <summary>Answer</summary>
 
  Use the website when you are:
-- [ ] Viewing video and animations.
-- [ ]  Listening to podcasts.
-- [ ] Searching for keywords.
-- [ ] Using interactive exercises (like this one).
+- [x] Viewing video and animations.
+- [x] Listening to podcasts.
+- [x] Searching for keywords.
+- [x] Using interactive exercises (like this one).
 
  Download the pdf to use it:
-- [ ] When you won't have wifi access. 
-- [ ] If you want to avoid using mobile data.
-- [ ] For focused, uninterrupted reading.
-- [ ] For printing and physical note-taking.
+- [x] When you won't have wifi access. 
+- [x] If you want to avoid using mobile data.
+- [x] For focused, uninterrupted reading.
+- [x] For printing and physical note-taking.
 
 </details>
 
@@ -125,14 +128,14 @@ Why is it helpful to try to answer questions and apply concepts to new examples?
 <summary>Answer</summary>
 
 Learning is an **_active process_**, and by interacting with learning material you will:
-- [ ] Find it easier to remember new ideas.
-- [ ] Have interesting things to say in class discussions.
-- [ ] Be able to check your understanding.
-- [ ] Find it easier to concentrate while you complete your readings.
+- [x] Find it easier to remember new ideas.
+- [x] Have interesting things to say in class discussions.
+- [x] Be able to check your understanding.
+- [x] Find it easier to concentrate while you complete your readings.
+
 </details>
 
 <hr>
-
 <div popover id="pocket">
   <h2>What is a pocket textbook?</h2>
   <hr>
@@ -164,7 +167,7 @@ Learning is an **_active process_**, and by interacting with learning material y
     <p>This means you can't use a regular dictionary to find out what they mean.</p>
     <p>Instead, consult your readings.</p>
     <p>Using the definitions in your pocket textbook is a good start.</p>
-    <p>Also look for definitions from important scholars in the field.</p>
+    <p>Also look for definitions in readings by important scholars in the field.</p>
     <p>Make sure you always cite the **actual source you used**.</p>
     <p>
 <button popovertarget="definition" popovertargetaction="hide" type="button" name="button" class="btn">Close</button>

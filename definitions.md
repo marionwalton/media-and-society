@@ -3,16 +3,15 @@ layout: page
 title: 15. Definitions
 ---
 
-Use this page to keep track of the new concepts you are learning in *Media & Society*. 
+Use this page to keep track of the new concepts you are learning in _Media & Society_. 
 
 ## Definitions
 
-You should generally avoid using regular dictionaries 
-to find the meaning of *academic keywords*. 
+You should generally avoid using regular dictionaries to find the meaning of *academic keywords*. 
 Academic keywords have specialised meanings based in a particular area of study, and so their definition
 may be quite different to how the word is used in everyday language. 
-*Your readings have been carefully chosen to provide all the important definitions and explanations that you'll need in this course*.
-Where the definitions aren't included in your readings, you should find them below.
+_Your readings have been carefully chosen to provide important definitions and explanations that you'll need in this course_.
+In cases where there the definitions aren't included in your readings, you should find them below.
 
 - TOC
 {:toc}
@@ -134,6 +133,9 @@ Learning are very different to how biological learning takes place. The way neur
 from the patterns in training data is not the same as the way animal brains form new connections whenever they learn 
 something new. Machine learning is also computationally intensive and uses vast amounts of electricity.
 
+### Media
+Media include the physical media, languages and industries which transmit and encode the messages we use to communicate with one another.
+
 ### Mass media
 Mass media are the *communication industries* which produce *information and entertainment products* and court the 
 attention of *large audiences*, which they often sell to *advertisers*. These include broadcasters, networks, 
@@ -150,6 +152,9 @@ which may represent relationships between people and things, or between words an
 ### Oramedia 
 Oramedia includes traditionally *oral forms* such as storytelling, proverbs, folklore, folktales, drama, puppetry 
 and oral poetry. Digital media are also used to extend the reach of these indigenous forms of communication. 
+
+### Open Access
+Open access means anyone should be able to access a resource. There are no financial, legal or technical barriers to accessing it for various purposes. Open access works use **Creative Commons** licenses which mean that the authors are always acknowledged and various uses of the resource are allowed e.g. copying or creating derivative works.
 
 ### Media practices
 Media practices are the activities, habits and routines where people use media (individually or together) as part
