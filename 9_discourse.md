@@ -3,6 +3,7 @@ layout: page
 title: 09. Discourse, Ideology & Hegemony
 ---
 # Discourse, ideology & hegemony
+{: .no_toc }
 
 *By Adam Haupt & Marion Walton, University of Cape Town*
 

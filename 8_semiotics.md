@@ -3,6 +3,7 @@ layout: page
 title: 08. Semiotic toolbox
 ---
 # A semiotic toolbox
+{: .no_toc }
 
 *By Martha Evans & Marion Walton, University of Cape Town*
 
