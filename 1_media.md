@@ -16,9 +16,9 @@ title: 02. Defining Media
 
 What did you do when you first opened your eyes this morning? What did you do yesterday evening?  
 
-## Your media rituals
-
 There’s a good chance that your morning and evening rituals involved paying attention to some type of **media**. 
+
+## Your media rituals
 
 Perhaps in the morning you checked your [social media](definitions.html#social-media) timelines for updates from friends on Instagram or to see new trends
 on Tiktok, or checked your browser for the news. Perhaps in the evening you settled down to watch a form of [mass media](definitions.html#mass-media), 
@@ -37,8 +37,11 @@ In English, the word **media** evolved from the Latin word _medius_ which means 
 {: .definition}
 Media include the physical media, languages and industries which transmit and encode the messages we use to communicate with one another.
 
-{: .example}
 We tend to think of media as print or electronic media, but people have been using media to communicate for a very long time.
+
+### Example - Iziko Rhino
+
+{: .example}
 For example, the <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">"Iziko Rhino"</a> (see Figure 2) is thought to have been created thousands of years ago when someone carefully engraved the image of a rhino
 on a rock. The creators of the engraving are thought to be the Later Stone Age ancestors of the /Xam San at Kinderdam in North West Province, who created images such as this between 1,000 and 10,000 years ago. 
 The long-lasting medium of the rock engraving has survived many centuries and still connects contemporary viewers to its original creators despite the destruction of the /Xam society under colonialism. 
@@ -69,7 +72,7 @@ the electromagnetic spectrum (e.g. radio waves and cellphone signals), the inter
 {: .definition}
 [**Oramedia**](https://media-and-society.glitch.me/ideas/definitions/#oramedia) includes traditionally *oral forms* such as **storytelling, proverbs, folklore, folktales, drama, puppetry, spoken word performance and oral poetry** (<a href="references.html#ugboajah_1985">Ugbuojah, 1985</a>), many of which are produced using only the human body. 
 
-These forms often go beyond the spoken word, using vivid performances, improvisation, mimicry, music, dance, the tonal character of many African languages, and the responses of the audience to make the most of the potential affordances of the oral medium ([Finnegan, 2012:5-10](references.html#finnegan_2012))
+Oral forms often go beyond the spoken word, using vivid performances, improvisation, mimicry, music, dance, the tonal character of many African languages, and the responses of the audience to make the most of the potential affordances of the oral medium ([Finnegan, 2012:5-10](references.html#finnegan_2012))
 
 ![Zolani Mikva](https://www.wikimzansi.com/wp-content/uploads/2019/07/Zolani-Mkiva-1.jpg)
 Figure 3: Zolani Mkiva performing a praise poem. Credit - [Wikimzansi](https://www.wikimzansi.com/zolani-mkiva-2/)

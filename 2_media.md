@@ -25,7 +25,7 @@ Popular social media apps such as TikTok are both media of production and recept
 ### Mode of communication 
 The phrase "medium of communication" is often used to refer to **human languages** such as isiXhosa, Afrikaans, and English. We tend to use the word "mode" when we refer to other modes of communication, such as **visuals or music**.
 
-We learn to use languages to make and share meaningful messages with others who have a shared understanding of the linguistic "code". These symbolic systems go beyond language and also include the **visual and other modes** of communication which humans use to make meaning, such as images, clothing, gestures, expressions or music.
+We learn to use languages to make and share meaningful messages with others who have a shared understanding of the linguistic "code" we are using. These symbolic systems go beyond language and also include the **visual and other modes** of communication which humans use to make meaning, such as images, clothing, gestures, expressions or music.
 
 In the case of the Iziko Rhino, the **visual meaning** of the image has many dimensions. 
 Some of these dimensions of meaning are based on resemblance. For this reason, we can still recognise the shape of the rhino
