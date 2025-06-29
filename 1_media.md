@@ -118,6 +118,7 @@ Synthetic media creates many difficulties for us regarding its trustworthiness, 
 Generative AI can thus easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
 
 ### Example - GenAI rhino
+
 {: .example}
 ![A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model](img/DALL-E_iziko_rhino.png)
 Figure 3: This synthetic image of a rhino was produced by OpenAI's DALL-E model in response to the prompt 'Picture of Iziko Rhino'. This synthetic image of a rhino was produced by OpenAI’s DALL·E model in response to the prompt ‘Picture of Iziko Rhino’. DALL-E labelled the synthetic image (_ incorrectly_) as ‘A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.’
