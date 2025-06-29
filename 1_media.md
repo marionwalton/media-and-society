@@ -57,10 +57,11 @@ Figure 1: "Iziko Rhino" - Rock engraving of rhino from Kinderdam. Credit - <a hr
 We use the term affordance to refer to the potential and constraints of different modes of communication.
 
 The enduring nature of a rock engraving is one of its [**affordances**](definitions.html#affordance) for communication. 
-Another affordance is that the engraving on the rock interacts with its surroundings, so that, at certain times of day, or in certain angles of light,the engravings may have suddenly become more visible, or may seem to move in flickering firelight ([Hodgskiss & Esterhuysen, 2019](references.html#hodgskiss_esterhuysen_2019)). 
+Another affordance is that the engraving on the rock interacts with its surroundings, so that, at certain times of day, or in certain angles of light, the engravings may suddenly become more visible, or may seem to move in flickering firelight ([Hodgskiss & Esterhuysen, 2019](references.html#hodgskiss_esterhuysen_2019)). 
 
 Many other communication technologies have been developed, including print media, digital images, audio and video formats,
-the electromagnetic spectrum (e.g. radio waves and cellphone signals), the internet and generative AI. 
+the electromagnetic spectrum (e.g. radio waves and cellphone signals), the internet and generative AI. These all have different affordances.
+
 [Affordance](definitions.html#affordance){: .btn .btn-blue }
 
 ## Oramedia

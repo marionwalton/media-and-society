@@ -77,7 +77,10 @@ users to humanise or **anthropomorphise** the system (as do terms such as "intel
 as a when it is really simply a new form of **automation**.
 
 ### Cultural studies
-Cultural Studies is an academic subject or area of study which is closely related to media studies. In cultural studies, "culture" is approached as an everyday activity, where people make sense of the world, relate to others, and participate in society in ever-changing and contextually nuanced ways. This goes beyond the common sense understanding of culture as artistic products such as paintings, books, music or films. Scholars who have contributed to this tradition include Antonio Gramsci, Stuart Hall, Raymond Williams, Adam Haupt and others.
+Cultural Studies is an academic subject or area of study which is closely related to media studies. In cultural studies, "culture" is approached as an everyday activity, where people make sense of the world, relate to others, and participate in society in ever-changing and contextually nuanced ways. This goes beyond the common sense understanding of culture as artistic products such as paintings, books, music or films. In this course we study scholars who have contributed to this tradition including Antonio Gramsci, Stuart Hall, Raymond Williams, Adam Haupt and others.
+
+### Definition
+Academic terms have specific meanings in particular fields of study. This means you can't use a regular dictionary to find out what they mean. Instead, consult your readings. Using these definitions in your pocket textbook is a good start. Also look out for definitions when reading articles by important scholars in the field. Make sure you always cite the **actual source you used** when providing a definition.
 
 ### Diffusion model 
 A model which has been trained on a large collection of images that are “diffused” into and out of random noise. 
