@@ -2,9 +2,10 @@
 layout: page
 title: 16. References
 ---
-These are the important sources used in *Media & Society*. 
+# References
+{: .no_toc }
 
-## references
+These are the important sources used in _Media & Society_. 
 
 <a name="abidin_2018"></a>
 Abidin, C. (2018). Internet celebrity: Understanding fame online. Emerald.

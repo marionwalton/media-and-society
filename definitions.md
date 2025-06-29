@@ -6,6 +6,7 @@ title: 15. Definitions
 Use this page to keep track of the new concepts you are learning in _Media & Society_. 
 
 ## Definitions
+{: .no_toc }
 
 You should generally avoid using regular dictionaries to find the meaning of *academic keywords*. 
 Academic keywords have specialised meanings based in a particular area of study, and so their definition
