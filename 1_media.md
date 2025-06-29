@@ -95,7 +95,7 @@ Digital media are created using signals expressed as a series of the numbers (di
 Today many forms of **digital media** are encoded in different formats and depend on a specific configuration of 
 **technologies and infrastructure** such as electricity, internet connectivity, fibre optic cables, electromagnetic signals transmitted by radio or television broadcasters  or mobile phone signals. Contemporary technologies of production and distribution mean that it is possible to communicate across long distances with people around the world. 
 
-Digital media also have .In the case of the Iziko Rhino, a Wikipedian working at the Africa Centre in Cape Town published a digital photograph of the rhino engraving to [Wikimedia](https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG), a website which allows everyone to contribute and edit information in encyclopedic format. Now people around the world can see the image.
+Digital media also have affordances. For example, digital media can be easily copied and transmitted across a computer network. In the case of the Iziko Rhino, a Wikipedian working at the Africa Centre in Cape Town published a digital photograph of the rhino engraving to [Wikimedia](https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG), a website which allows everyone to contribute and edit information in encyclopedic format. Now people around the world can connect to the internet and see the image.
 
 ## Social media
 
