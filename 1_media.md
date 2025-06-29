@@ -129,7 +129,7 @@ Figure 3: This synthetic image of a rhino was produced by OpenAI's DALL·E model
 ### Example - Synthetic search results
 
 {: .example}
-Many people have started to use GenAI (e.g. ChatGPT) as a way to find information because the responses appear to be clearer and more concise than reading through a number of linked websites which may have a range of answers. As a result, search engines have also started to provide synthetic "AI Overviews" or summaries in response to people's search queries. Here is a AI overview from Google's Search Labs which responds to a question about the association between Pink Floyd's song  "Another Brick in the Wall (Part 2) and the Soweto Uprising of 1976:
+Many people have started to use GenAI (e.g. ChatGPT) as a way to find information. The responses appear clear and easier than reading through a number of linked websites. Search engines have started to provide synthetic "AI Overviews" or summaries in response to people's search queries. Here is an "AI overview" from Google's Search Labs responding to a question about the association between Pink Floyd's song  "Another Brick in the Wall (Part 2) and the Soweto Uprising of 1976:
 ![Screeenshot from Google AI Labs which reads: In 1976, Pink Floyd's song "Another Brick in the Wall (Part 2) became an anthem of resistance during the Soweto Uprising, a student-led protest against the apartheid system in South Africa. The song's lyrics resonated with the students' frustration with the Bantu Eudcation system and their fight for educational equality. While the song was released in 1979, it became a powerful symbol of their struggle and was subsequently banned in South Africa due to its association with the protests.](img/google_ai_labs.png)
 
 {: .question}
@@ -138,29 +138,17 @@ Many people have started to use GenAI (e.g. ChatGPT) as a way to find informatio
 <details markdown="block">
 <summary>Answer</summary>
 The AI Overview claims
-- [ ] In 1976, Pink Floyd's song "Another Brick in the Wall (Part 2) became an became an anthem of resistance during the Soweto Uprising **(incorrect).**
-- [x] The song became associated with the students' struggle and was banned by the apartheid censorship board. **(correct, but this only happened in 1980).**
-- [x] The song was released in 1979. **(correct).**
+- In 1976, Pink Floyd's song "Another Brick in the Wall (Part 2) became an became an anthem of resistance during the Soweto Uprising **(incorrect).**
+- The song became associated with the students' struggle and was banned by the apartheid censorship board. **(correct, but this only happened in 1980).**
+- The song was released in 1979. **(correct).**
 </details>
 
 {: .question}
 Why do you think this error came to be generated? 
 <details markdown="block">
 <summary>Answer</summary>
-The "AI Overview" uses an LLM trained on internet sources (its training data). It synthetises an (incorrect) "summary" of these sources by recreating patterns which appear in the training data. The training data are likely to include many people reminiscing about the fact that the famous song was banned in South Africa in 1980 as a result of its use in the student movement. The training data fewer accurate sources. The LLM does not "understand" historical facts, such as the fact that an event which happened in 1979 can't be adopted as an anthem of resistance in 1976, or that the Soweto Uprising took place over a couple of days in 1976, but sparked a student movement which continued for several years afterwards.
+The "AI Overview" uses an LLM trained on internet sources (its training data). It synthetises an (incorrect) "summary" of these sources by recreating certain patterns which appear in the training data. The training data are likely to include many musical trivia sites, which record the banning, and perhaps fans of Pink Floyd reminiscing about the fact that the famous song was banned in South Africa as a result of its use in the student movement. The training data probably included fewer accurate historical sources, or reminiscences of students who participated in June 1976. These are less likely to be included in its "summary". The LLM also does not "understand" logical causality, such as the fact that an event which happened in 1979 can't be adopted as an anthem of resistance in 1976. The LLM also doesn't have a contextual understanding of the historical background; the Soweto Uprising took place over a couple of days in 1976, but sparked a student movement which continued for several years afterwards.
 </details>
-
-However,
-- [x] The song was only released in 1979.
-- [x] Searching for keywords.
-- [x] Using interactive exercises (like this one).
-
- Download the pdf to use it:
-- [x] When you won't have wifi access. 
-- [x] If you want to avoid using mobile data.
-- [x] For focused, uninterrupted reading.
-- [x] For printing and physical note-taking.
-
 
 ## Important Definitions
 
