@@ -117,7 +117,7 @@ Synthetic media creates many difficulties for us regarding its trustworthiness, 
 
 Generative AI can thus easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
 
-#Questions
+### Example - GenAI rhino
 
 {: .activity}
 ![Activity](img/pencilpencil.svg) What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 3 below) and the Iziko Rhino depicted in Figure 1? How do you feel when you realise that an image or message was fabricated by AI?
@@ -125,6 +125,40 @@ Generative AI can thus easily be used to bulk generate **spam** or targeted **di
 ![A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model](img/DALL-E_iziko_rhino.png)
 Figure 3: This synthetic image of a rhino was produced by OpenAI's DALL·E model in response to the prompt 'Picture of Iziko Rhino'. 
  Dalle-E labelled the synthetic image (** incorrectly**) as 'A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.'
+
+### Example - Synthetic search results
+
+  {: .question}
+![Activity](img/pencilpencil.svg) Can you spot the factual error in the following AI overview from Google's Search Labs? 
+
+![Screeenshot from Google AI Labs which reads: In 1976, Pink Floyd's song "Another Brick in the Wall (Part 2) became an anthem of resistance during the Soweto Uprising, a student-led protest against the apartheid system in South Africa. The song's lyrics resonated with the students' frustration with the Bantu Eudcation system and their fight for educational equality. While the song was released in 1979, it became a powerful symbol of their struggle and was subsequently banned in South Africa due to its association with the protests.](img/google_ai_labs.png)
+
+<details markdown="block">
+<summary>Answer</summary>
+The AI Overview claims
+- [ ] In 1976, Pink Floyd's song "Another Brick in the Wall (Part 2) became an became an anthem of resistance during the Soweto Uprising **(incorrect).**
+- [x] The song became associated with the students' struggle and was banned by the apartheid censorship board. **(correct, but this only happened in 1980).**
+- [x] The song was released in 1979. **(correct).**
+</details>
+
+{: .question}
+Why do you think this error came to be generated? 
+<details markdown="block">
+<summary>Answer</summary>
+The "AI Overview" uses an LLM trained on internet sources (its training data). It synthetises an (incorrect) "summary" of these sources by recreating patterns which appear in the training data. The training data are likely to include many people reminiscing about the fact that the famous song was banned in South Africa in 1980 as a result of its use in the student movement. The training data fewer accurate sources. The LLM does not "understand" historical facts, such as the fact that an event which happened in 1979 can't be adopted as an anthem of resistance in 1976, or that the Soweto Uprising took place over a couple of days in 1976, but sparked a student movement which continued for several years afterwards.
+</details>
+
+However,
+- [x] The song was only released in 1979.
+- [x] Searching for keywords.
+- [x] Using interactive exercises (like this one).
+
+ Download the pdf to use it:
+- [x] When you won't have wifi access. 
+- [x] If you want to avoid using mobile data.
+- [x] For focused, uninterrupted reading.
+- [x] For printing and physical note-taking.
+
 
 ## Important Definitions
 
@@ -160,6 +194,6 @@ This "wellness influencer" in Figure 4 selling various products on TikTok is an 
 </details>
 
  {: .activity}
-![Activity](img/pencilpencil.svg) Can you spot the factual error in the following AI overview from Google's Search Labs? Why do you think this error came to be generated? How do you approach AI overviews when looking for information with a search engine?
+![Activity](img/pencilpencil.svg) Given the problems with this synthesised summary, how should we  approach AI overviews when looking for information with a search engine or using Generative AI (e.g. ChatGPT)?
 
 ![Screeenshot from Google AI Labs which reads: In 1976, Pink Floyd's song "Another Brick in the Wall (Part 2) became an anthem of resistance during the Soweto Uprising, a student-led protest against the apartheid system in South Africa. The song's lyrics resonated with the students' frustration with the Bantu Eudcation system and their fight for educational equality. While the song was released in 1979, it became a powerful symbol of their struggle and was subsequently banned in South Africa due to its association with the protests.](img/google_ai_labs.png)

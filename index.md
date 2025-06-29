@@ -70,8 +70,9 @@ There are a couple of ways for you to find out more about these key concepts. Yo
 ### Citing the pocket textbook
 
 ![Activity](img/quote-left.svg)
+[Citations](https://marionwalton.github.io/media-and-society/definitions.html/#citation) are very important in academic writing and tell your reader that certain information and ideas you are using came from another source.
 
-You should cite any definitions, quotations and paraphrases from the pocket textbook as follows:
+You should _cite_ any definitions, quotations and paraphrases from the pocket textbook just like a website, as follows:
 
 >Walton, M., et al. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
 
