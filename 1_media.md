@@ -88,6 +88,7 @@ Figure 2: Vinyl record from Motown. Credit - [Wikimedia](https://commons.wikimed
 Analogue media were created for mass audiences in the pre-digital era. Analogue media include sound recordings on vinyl records (see Figure 2), print newspapers created by physically laying out blocks of type, and analogue radio and television broadcasts. 
 
 ## Digital media
+
 {: .definition}
 Digital media are created using signals expressed as a series of the numbers (digits) 0 and 1. This means that they can be processed by a computer.
 
@@ -97,19 +98,19 @@ Today many forms of **digital media** are encoded in different formats and depen
 Digital media also have .In the case of the Iziko Rhino, a Wikipedian working at the Africa Centre in Cape Town published a digital photograph of the rhino engraving to [Wikimedia](https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG), a website which allows everyone to contribute and edit information in encyclopedic format. Now people around the world can see the image.
 
 ## Social media
+
 {: .definition}
 Social media *platforms* bring together *users, content creators and advertisers,* in many cases on a social media
 site or app. Most of these platforms provide tools and functionality for sharing media (text, photos, and videos) with family and friends or for entertainment or professional purposes.
 
 {: .activity}
-![Activity](img/pencilpencil.svg) **Compare the affordances** of posting a message using (1) email and (2) a social media platform. 
-- Which affordances do you appreciate most? 
-- Which do you dislike?
+![Activity](img/pencilpencil.svg) **Compare the affordances** of posting a message using (1) email and (2) a social media platform. Which affordances do you appreciate most? Which do you dislike?
 
-## AI and Media
+## AI and synthetic media
+
 {: .definition}
 Generative Artificial Intelligence or [Generative AI](definitions.html#generative-ai) systems are specialised systems to automate media production by computers.
-We call this form of digital media **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media using a statistical [*model*](definitions.html#model), such as for example, a Large Language Model ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating synthetic text or a
+We call this form of digital media **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media using a statistical [_model_](definitions.html#model), such as for example, a Large Language Model ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating synthetic text or a
 [diffusion model](definitions.html#diffusion-model) (e.g. DALL-E) for generating synthetic images.
 
 Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](definitions.html#provenance). GenAI works by generating a likely response to a prompt, based on patterns in its training data. These responses are thus based on statistically sophisticated guesswork, which means they are often incorrect and likely to be biased in some way.  When used to generate citations, they are simply fabricated likely-looking sources which follow the pattern of the references in its training data.
