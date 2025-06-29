@@ -128,10 +128,12 @@ Figure 3: This synthetic image of a rhino was produced by OpenAI's DALL·E model
 
 ### Example - Synthetic search results
 
-  {: .question}
-![Activity](img/pencilpencil.svg) Can you spot the factual error in the following AI overview from Google's Search Labs? 
-
+{: .example}
+Many people have started to use GenAI (e.g. ChatGPT) as a way to find information because the responses appear to be clearer and more concise than reading through a number of linked websites which may have a range of answers. As a result, search engines have also started to provide synthetic "AI Overviews" or summaries in response to people's search queries. Here is a AI overview from Google's Search Labs which responds to a question about the association between Pink Floyd's song  "Another Brick in the Wall (Part 2) and the Soweto Uprising of 1976:
 ![Screeenshot from Google AI Labs which reads: In 1976, Pink Floyd's song "Another Brick in the Wall (Part 2) became an anthem of resistance during the Soweto Uprising, a student-led protest against the apartheid system in South Africa. The song's lyrics resonated with the students' frustration with the Bantu Eudcation system and their fight for educational equality. While the song was released in 1979, it became a powerful symbol of their struggle and was subsequently banned in South Africa due to its association with the protests.](img/google_ai_labs.png)
+
+{: .question}
+![Activity](img/pencilpencil.svg) Can you spot the factual error in the above AI overview from Google's Search Labs? 
 
 <details markdown="block">
 <summary>Answer</summary>
