@@ -4,7 +4,9 @@ layout: home
 ---
 # Media & Society
 {: .no_toc }
-![Media student](img/cap.svg)
+![Photograph of journalist - Charles Nambasi](img/journalist-2314796_1280.jpg)
+
+Image by <a href="https://pixabay.com/users/nambasi-3485318/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2314796">Charles Nambasi</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2314796">Pixabay</a>
 
 This pocket textbook focuses on the use of **media in African contexts** and emphasises insights from **[cultural studies](definitions.html#cultural_studies)** and **[social semiotics](definitions.html#social_semiotics)**.
 
