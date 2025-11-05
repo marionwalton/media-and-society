@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 02. Defining Media
+title: 021. Case Study
 ---
 
 # Case Study - Synthetic Images & Text
