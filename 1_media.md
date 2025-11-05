@@ -35,7 +35,9 @@ It's very likely that you used a medium to communicate with others, perhaps an *
 In English, the word **media** evolved from the Latin word _medius_ which means "in the middle" (<a href="references.html#harper_nd">Harper, n.d.</a>). In this course we are studying **media of communication**. 
 
 {: .definition}
-Media include the physical media, languages and industries which transmit and encode the messages we use to communicate with one another.
+Media include **physical media** which transmit aural, visual and tactile signals, over six thousand human **languages** and other resources used to convey meanings, and also the contemporary **media industries** such as social media platforms, news organisations,  and television networks. 
+
+These all play important roles in transmitting and encoding messages between people as they communicate with one another.
 
 We tend to think of media as print or electronic media, but people have been using media to communicate for a very long time.
 
@@ -96,6 +98,9 @@ Today many forms of **digital media** are encoded in different formats and depen
 **technologies and infrastructure** such as electricity, internet connectivity, fibre optic cables, electromagnetic signals transmitted by radio or television broadcasters  or mobile phone signals. Contemporary technologies of production and distribution mean that it is possible to communicate across long distances with people around the world. 
 
 Digital media also have affordances. For example, digital media can be easily copied and transmitted across a computer network. In the case of the Iziko Rhino depicted in [Figure 1](#example---iziko-rhino), a Wikipedian working at the Africa Centre in Cape Town published a digital photograph of the rhino engraving to [Wikimedia](https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG), a website which allows everyone to contribute and edit information in encyclopedic format. Now people around the world can connect to the internet and see the image.
+
+## Mass media
+Mass media are the communication industries which produce information and entertainment products and court the attention of large audiences, which they often sell to advertisers. These include broadcasters, networks, streaming sites, print and digital publishers and a range of other corporate media producers. This is usually what we mean when we talk about “the media”.
 
 ## Social media
 
