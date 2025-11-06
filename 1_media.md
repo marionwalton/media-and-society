@@ -23,7 +23,7 @@ Photo credit: [Unsplash](https://plus.unsplash.com/premium_photo-1704756438132-b
 
 ## Your media rituals
 
-Perhaps in the morning you checked your [social media](definitions.html#social-media) timelines for updates from friends on Instagram or to see new trends on Tiktok, or checked your browser for the news. Or maybe you prefer doing that between (or during) classes?  Possibly in the evening you settled down to watch a form of [mass media](definitions.html#mass-media), such as a television series on a broadcast or streaming platform. Probably, if you’re like most South Africans, the sound of a radio or podcast kept you company at some time in the day. 
+Perhaps in the morning you checked your [social media](definitions.html#social-media) timelines for updates from friends on Instagram or checked your browser for the news. Or do you prefer to look for new trends on Tiktok with a friend?  Possibly in the evening you settled down to watch a form of [mass media](definitions.html#mass-media), such as a television series on a broadcast or streaming platform. Probably, if you’re like most South Africans, the sound of a radio or podcast kept you company at some time in the day. 
 
 It's very likely that you used a medium to communicate with others, perhaps an **aural medium** such as  the sound produced when you speak 
 (or sing in the shower\!) or a **visual medium** such as your clothing, facial expressions, gestures or sign language. 
