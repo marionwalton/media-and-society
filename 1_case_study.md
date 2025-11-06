@@ -21,7 +21,7 @@ title: 021. Case Study
 Figure 3: This synthetic image of a rhino was produced by OpenAI's DALL-E model in response to the prompt 'Picture of Iziko Rhino'. This synthetic image of a rhino was produced by OpenAI’s DALL·E model in response to the prompt ‘Picture of Iziko Rhino’. DALL-E labelled the synthetic image (_ incorrectly_) as ‘A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.’
 
 {: .question}
-What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 3 above) and the Iziko Rhino depicted in [Figure 1](#example---iziko-rhino)? 
+What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 3 above) and the Iziko Rhino depicted in [Figure 1](1_media.html#example---iziko-rhino)? 
 
 <details markdown="block">
 <summary>Answer</summary>
