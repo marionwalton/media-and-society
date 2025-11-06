@@ -47,6 +47,7 @@ We tend to think of media as print or electronic media, but people have been usi
 For example, the <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">"Iziko Rhino"</a> (see Figure 2) is thought to have been created thousands of years ago when someone carefully engraved the image of a rhino
 on a rock. The creators of the engraving are thought to be the Later Stone Age ancestors of the /Xam San at Kinderdam in North West Province, who created images such as this between 1,000 and 10,000 years ago. 
 The long-lasting medium of the rock engraving has survived many centuries. The carved line still connects contemporary viewers to its original creators, despite the destruction of the /Xam society under colonialism. 
+
 [Media](definitions.html#media){: .btn .btn-blue }
 
 <img title="Rock engraving of Iziko Rhino from Kinderdam.Nkansah Rexford, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" 
