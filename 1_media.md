@@ -60,7 +60,7 @@ Figure 1: "Iziko Rhino" - Rock engraving of rhino from Kinderdam. Credit - <a hr
 ## Media affordances
 
 {: .definition}
-We use the term affordance to refer to the potential and constraints of different modes of communication.
+We use the term [affordance](definitions.html#affordance) to refer to the potential and constraints of different modes of communication.
 
 The enduring nature of a rock engraving is one of its [**affordances**](definitions.html#affordance) for communication. The rhino engraving at Iziko has lasted over a thousand years.
 
