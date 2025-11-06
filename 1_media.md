@@ -23,10 +23,7 @@ Photo credit: [Unsplash](https://plus.unsplash.com/premium_photo-1704756438132-b
 
 ## Your media rituals
 
-Perhaps in the morning you checked your [social media](definitions.html#social-media) timelines for updates from friends on Instagram or to see new trends
-on Tiktok, or checked your browser for the news. Possibly in the evening you settled down to watch a form of [mass media](definitions.html#mass-media), 
-such as a television series on a broadcast or streaming platform. Probably, if you’re like most South Africans, the sound
-of a radio or podcast kept you company at some time in the day. 
+Perhaps in the morning you checked your [social media](definitions.html#social-media) timelines for updates from friends on Instagram or to see new trends on Tiktok, or checked your browser for the news. Or maybe you prefer doing that between (or during) classes?  Possibly in the evening you settled down to watch a form of [mass media](definitions.html#mass-media), such as a television series on a broadcast or streaming platform. Probably, if you’re like most South Africans, the sound of a radio or podcast kept you company at some time in the day. 
 
 It's very likely that you used a medium to communicate with others, perhaps an **aural medium** such as  the sound produced when you speak 
 (or sing in the shower\!) or a **visual medium** such as your clothing, facial expressions, gestures or sign language. 
@@ -40,7 +37,7 @@ In English, the word **media** evolved from the Latin word _medius_ which means 
 {: .definition}
 Media include **physical media** which transmit aural, visual and tactile signals, over six thousand human **languages** and other resources used to convey meanings, and also the contemporary **media industries** such as social media platforms, news organisations,  and television networks. 
 
-These all play important roles in transmitting and encoding messages between people as they communicate with one another.
+These media all play important roles in transmitting and encoding messages between people as they communicate with one another.
 
 We tend to think of media as print or electronic media, but people have been using media to communicate for a very long time.
 
@@ -50,6 +47,7 @@ We tend to think of media as print or electronic media, but people have been usi
 For example, the <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">"Iziko Rhino"</a> (see Figure 2) is thought to have been created thousands of years ago when someone carefully engraved the image of a rhino
 on a rock. The creators of the engraving are thought to be the Later Stone Age ancestors of the /Xam San at Kinderdam in North West Province, who created images such as this between 1,000 and 10,000 years ago. 
 The long-lasting medium of the rock engraving has survived many centuries. The carved line still connects contemporary viewers to its original creators, despite the destruction of the /Xam society under colonialism. 
+[Media](definitions.html#media){: .btn .btn-blue }
 
 <img title="Rock engraving of Iziko Rhino from Kinderdam.Nkansah Rexford, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" 
      alt="Iziko Rhino" 
@@ -57,7 +55,6 @@ The long-lasting medium of the rock engraving has survived many centuries. The c
 
 Figure 1: "Iziko Rhino" - Rock engraving of rhino from Kinderdam. Credit - <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">Wikimedia Commons</a>
 
-[Media](definitions.html#media){: .btn .btn-blue }
 
 ## Media affordances
 
