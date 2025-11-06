@@ -62,7 +62,7 @@ Figure 1: "Iziko Rhino" - Rock engraving of rhino from Kinderdam. Credit - <a hr
 {: .definition}
 We use the term [affordance](definitions.html#affordance) to refer to the potential and constraints of different modes of communication.
 
-The enduring nature of a rock engraving is one of its [**affordances**](definitions.html#affordance) for communication. The rhino engraving at Iziko has lasted over a thousand years.
+The long-lasting nature of a rock engraving is one of its [**affordances**](definitions.html#affordance) for communication. The rhino engraving at Iziko has lasted over a thousand years.
 
 Another affordance is that the engraving on the rock interacts with its surroundings. For example, at certain times of day, or in certain angles of light, the engravings may suddenly become more visible, or may seem to move in flickering firelight ([Hodgskiss & Esterhuysen, 2019](references.html#hodgskiss_esterhuysen_2019)). 
 
