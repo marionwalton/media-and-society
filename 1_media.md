@@ -14,9 +14,11 @@ title: 02. Defining Media
 - TOC
 {:toc}
 
-What did you do when you first opened your eyes this morning? What did you do yesterday evening?  
+What did you do when you first opened your eyes this morning? What did you do yesterday evening?  There’s a good chance that your morning and evening rituals involved paying attention to some type of **media**. 
 
-There’s a good chance that your morning and evening rituals involved paying attention to some type of **media**. 
+![Media practices](https://unsplash.com/photos/a-group-of-people-standing-around-each-other-looking-at-a-cell-phone-J-hbGCsK204)
+
+
 
 ## Your media rituals
 
