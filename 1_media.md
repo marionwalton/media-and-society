@@ -16,9 +16,9 @@ title: 02. Defining Media
 
 What did you do when you first opened your eyes this morning? What did you do yesterday evening?  There’s a good chance that your morning and evening rituals involved paying attention to some type of **media**. 
 
-![Media practices](https://plus.unsplash.com/premium_photo-1704756438032-6650a8d6749c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1740)
+![Media practices](https://plus.unsplash.com/premium_photo-1704756438132-bc013bd60608?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1740)
 
-![Media practices](https://unsplash.com/photos/a-group-of-people-standing-around-each-other-looking-at-a-cell-phone-evZhmKw2zA4)
+Photo credit: [Unsplash](https://unsplash.com/photos/a-group-of-people-standing-around-each-other-looking-at-a-cell-phone-evZhmKw2zA4)
 
 
 ## Your media rituals
