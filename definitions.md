@@ -32,7 +32,7 @@ The algorithms of Generative AI systems can also be set up to avoid producing ce
 certain types of prompts, which can be seen as a new form of **content moderation** or **censorship**. 
 
 ### Analogue media 
-Analogue media are created with signals are transmitted in waves, such as light or sound waves.
+Analogue media store analogue signals (such as the physical texture on a vinyl record), transmit them in the form of electromagnetic waves, such as radio waves, or play them back as analogue audio.
 
 ### Artificial Intelligence or AI  
 

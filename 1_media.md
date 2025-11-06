@@ -84,7 +84,7 @@ Figure 3: Zolani Mkiva performing a praise poem. Credit - [Wikimzansi](https://w
 ## Analogue media
 
 {: .definition}
-Analogue media are created with signals are transmitted in waves, such as light or sound waves.
+Analogue media store analogue signals (such as the physical texture on a vinyl record), transmit them in the form of electromagnetic waves, such as radio waves, or play them back as analogue audio.
 
 ![Vinyl record](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Motown_7%22_Single_%28Side_1%29.jpg/1282px-Motown_7%22_Single_%28Side_1%29.jpg?20231126212905)
 Figure 2: Vinyl record from Motown. Credit - [Wikimedia](https://commons.wikimedia.org/wiki/File:Motown_7%22_Single_(Side_1).jpg) 
