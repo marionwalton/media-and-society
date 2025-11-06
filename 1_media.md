@@ -127,7 +127,7 @@ Generative AI can easily be used to bulk generate **spam** or targeted **dis- or
 Here are some definitions of terms which will help you talk about media as a media student:
 
 - [Oramedia](definitions.html#oramedia){: .btn .btn-blue }
-- [Oramedia](definitions.html#mass-media){: .btn .btn-blue }
+- [Mass media](definitions.html#mass-media){: .btn .btn-blue }
 - [Social media](definitions.html#social-media){: .btn .btn-blue }
 - [Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
 
