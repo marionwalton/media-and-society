@@ -6,7 +6,7 @@ title: 02. Defining Media
 # Defining Media
 {: .no_toc }
 
-*By Marion Walton, University of Cape Town*
+*By Marion Walton & Wallace Chuma, University of Cape Town*
 
 
 ![media icons](img/Groupmedia_icons.svg)
@@ -46,7 +46,7 @@ We tend to think of media as print or electronic media, but people have been usi
 {: .example}
 For example, the <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">"Iziko Rhino"</a> (see Figure 2) is thought to have been created thousands of years ago when someone carefully engraved the image of a rhino
 on a rock. The creators of the engraving are thought to be the Later Stone Age ancestors of the /Xam San at Kinderdam in North West Province, who created images such as this between 1,000 and 10,000 years ago. 
-The long-lasting medium of the rock engraving has survived many centuries and still connects contemporary viewers to its original creators despite the destruction of the /Xam society under colonialism. 
+The long-lasting medium of the rock engraving has survived many centuries. The carved line still connects contemporary viewers to its original creators, despite the destruction of the /Xam society under colonialism. 
 
 <img title="Rock engraving of Iziko Rhino from Kinderdam.Nkansah Rexford, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" 
      alt="Iziko Rhino" 
@@ -61,11 +61,12 @@ Figure 1: "Iziko Rhino" - Rock engraving of rhino from Kinderdam. Credit - <a hr
 {: .definition}
 We use the term affordance to refer to the potential and constraints of different modes of communication.
 
-The enduring nature of a rock engraving is one of its [**affordances**](definitions.html#affordance) for communication. 
-Another affordance is that the engraving on the rock interacts with its surroundings, so that, at certain times of day, or in certain angles of light, the engravings may suddenly become more visible, or may seem to move in flickering firelight ([Hodgskiss & Esterhuysen, 2019](references.html#hodgskiss_esterhuysen_2019)). 
+The enduring nature of a rock engraving is one of its [**affordances**](definitions.html#affordance) for communication. The rhino engraving at Iziko has lasted over a thousand years.
 
-Many other communication technologies have been developed, including print media, digital images, audio and video formats,
-the electromagnetic spectrum (e.g. radio waves and cellphone signals), the internet and generative AI. These all have different affordances.
+Another affordance is that the engraving on the rock interacts with its surroundings. For example, at certain times of day, or in certain angles of light, the engravings may suddenly become more visible, or may seem to move in flickering firelight ([Hodgskiss & Esterhuysen, 2019](references.html#hodgskiss_esterhuysen_2019)). 
+
+In subsequent eras, many other communication technologies have been developed, including print media, digital images, audio and video formats,
+the electromagnetic spectrum (e.g. radio waves and cellphone signals), the internet and generative AI. All these media and communication technologies have different affordances.
 
 [Affordance](definitions.html#affordance){: .btn .btn-blue }
 
@@ -114,19 +115,19 @@ site or app. Most of these platforms provide tools and functionality for sharing
 ## AI and synthetic media
 
 {: .definition}
-Generative Artificial Intelligence or [Generative AI](definitions.html#generative-ai) systems are specialised systems to automate media production by computers.
-We call this form of digital media **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media using a statistical [_model_](definitions.html#model), such as for example, a Large Language Model ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating synthetic text or a
-[diffusion model](definitions.html#diffusion-model) (e.g. DALL-E) for generating synthetic images.
+Generative Artificial Intelligence or [Generative AI](definitions.html#generative-ai) systems are statistical techniques used to automate media production by computers.
 
-Synthetic media creates many difficulties for us regarding its trustworthiness, bias and [provenance](definitions.html#provenance). GenAI works by generating a likely response to a prompt, based on patterns in its training data. These responses are thus based on statistically sophisticated guesswork, which means they are often incorrect and likely to be biased in some way.  When used to generate citations, it synthesizes likely-looking sources which follow the pattern of the references in its training data but which may not exist at all.
+This form of digital media is called **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media using a statistical [_model_](definitions.html#model). These include Large Language Models ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating synthetic text or 
+[diffusion models](definitions.html#diffusion-model) (e.g. DALL-E, Midjourney) for generating synthetic images.
 
-Generative AI can thus easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
+Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
 
 ## Important Definitions
 
 Here are some definitions of terms which will help you talk about media as a media student:
 
 - [Oramedia](definitions.html#oramedia){: .btn .btn-blue }
+- [Oramedia](definitions.html#mass-media){: .btn .btn-blue }
 - [Social media](definitions.html#social-media){: .btn .btn-blue }
 - [Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
 
@@ -142,6 +143,7 @@ The sources used in this article can be found by following the links on the cita
 Figure 4
 This "wellness influencer" in Figure 4 selling various products on TikTok is an example of:
 - [ ] [Oramedia](definitions.html#oramedia)
+- [ ] [Mass media](definitions.html#mass-media)
 - [ ] [Social media](definitions.html#social-media)
 - [ ] [Synthetic media](definitions.html#synthetic-media)
 (You can choose more than one.)

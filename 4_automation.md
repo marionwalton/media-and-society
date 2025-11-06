@@ -8,7 +8,7 @@ title: 14. Chatbots & automation
 *By Marion Walton, University of Cape Town*
 
 If you’ve used a chatbot such as ChatGPT, Meta AI or Bing chat or if you’ve used Dall-E or Midjourney to generate
-images you’ve interacted with **Generative Artificial Intelligence (AI) models**. These are marketed as clever 
+images you’ve interacted with **[Generative Artificial Intelligence](definitions.html#generative-ai) (GenAI) models**. These statistical models are marketed as clever 
 chatbots and image generators which respond to text **prompts**. They generate novel output which can potentially 
 be useful. 
 
@@ -19,6 +19,16 @@ Chatbot responses are designed to make us want to trust their responses. Their i
 and visual communication give us the impression that the chatbot has a relatively sophisticated understanding. 
 In fact they are prone to serious **factual errors** and tend to **reproduce biases** and ideologies of the 
 societies that produce them.
+
+### How does Gen AI work?
+
+Generative AI works by predicting the most likely words to follow your prompt, based on patterns discerned in many human-created sources (such as online news articles). Similarly, visual models predict the most likely pixel based on patterns in many online photographs and artworks. Think of synthetic media as a kind of linguistic or visual average of what other people have created on that topic.  This probability-based technique means that the **source** of synthetic media is unknown, it's often incorrect and often amplifies social biases. 
+
+One of the [affordances](definitions.html#affordance) of Generative AI is ease of use. Chatbots in particular are designed to output human language in a way which mimics the structures of interpersonal dialogue (e.g. they seem to be typing). 
+
+Just as we need to evaluate all sources of information, we need to be particularly careful about double-checking information created with Generative AI. Synthetic media creates many difficulties regarding trustworthiness, bias and [provenance](definitions.html#provenance). These responses are thus based on statistically sophisticated guesswork, which means they are often incorrect and likely to be biased in some way.  
+
+As a media student, it's important for you to know that when you use Generative AI to generate citations, it synthesizes likely-looking sources which follow the pattern of the references in its training data but which may not exist at all.
 
 This chapter provides an introductory explanation of how the machines and systems underlying **Generative AI** 
 models are used to create chat dialogues and synthetic images. It also highlights some of the harm of not fully 
