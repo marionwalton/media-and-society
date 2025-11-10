@@ -78,6 +78,8 @@ the electromagnetic spectrum (e.g. radio waves and cellphone signals), the inter
 
 Oral forms often go beyond the spoken word, using vivid performances, improvisation, mimicry, music, dance, the tonal character of many African languages, and the responses of the audience to make the most of the potential affordances of the oral medium ([Finnegan, 2012:5-10](references.html#finnegan_2012))
 
+[Oramedia](definitions.html#oramedia){: .btn .btn-blue }
+
 ![Zolani Mikva](https://www.wikimzansi.com/wp-content/uploads/2019/07/Zolani-Mkiva-1.jpg)
 Figure 3: Zolani Mkiva performing a praise poem. Credit - [Wikimzansi](https://www.wikimzansi.com/zolani-mkiva-2/)
 
@@ -91,6 +93,8 @@ Figure 2: Vinyl record from Motown. Credit - [Wikimedia](https://commons.wikimed
 
 Analogue media were created for mass audiences in the pre-digital era. Analogue media include sound recordings on vinyl records (see Figure 2), print newspapers created by physically laying out blocks of type, and analogue radio and television broadcasts. 
 
+[Analogue media](definitions.html#analogue-media){: .btn .btn-blue }
+
 ## Digital media
 
 {: .definition}
@@ -101,17 +105,23 @@ Today many forms of **digital media** are encoded in different formats and depen
 
 Digital media also have affordances. For example, digital media can be easily copied and transmitted across a computer network. In the case of the Iziko Rhino depicted in [Figure 1](#example---iziko-rhino), a Wikipedian working at the Africa Centre in Cape Town published a digital photograph of the rhino engraving to [Wikimedia](https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG), a website which allows everyone to contribute and edit information in encyclopedic format. Now people around the world can connect to the internet and see the image.
 
+[Digital media](definitions.html#digital-media){: .btn .btn-blue }
+
 ## Mass media
 {: .definition}
 Mass media are the communication industries which produce information and entertainment products and court the attention of large audiences, which they often sell to advertisers. 
 
 Mass media include broadcasters, networks, streaming sites, print and digital publishers and a range of other corporate media producers. This is usually what we mean when we talk about “the media”.
 
+[Mass media](definitions.html#mass-media){: .btn .btn-blue }
+
 ## Social media
 
 {: .definition}
 Social media *platforms* bring together *users, content creators and advertisers,* in many cases on a social media
 site or app. Most of these platforms provide tools and functionality for sharing media (text, photos, and videos) with family and friends or for entertainment or professional purposes.
+
+[Social Media](definitions.html#social-media){: .btn .btn-blue }
 
 {: .activity}
 ![Activity](img/pencilpencil.svg) **Compare the affordances** of posting a message using (1) email and (2) a social media platform. Which affordances do you appreciate most? Which do you dislike?
@@ -126,12 +136,15 @@ This form of digital media is called **synthetic media**. Generative AI uses com
 
 Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
 
+[Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
+
 ## Important Definitions
 
 Here are some definitions of terms which will help you talk about media as a media student:
 
 - [Oramedia](definitions.html#oramedia){: .btn .btn-blue }
 - [Mass media](definitions.html#mass-media){: .btn .btn-blue }
+- [Digital media](definitions.html#digital-media){: .btn .btn-blue }
 - [Social media](definitions.html#social-media){: .btn .btn-blue }
 - [Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
 
