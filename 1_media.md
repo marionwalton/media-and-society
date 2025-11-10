@@ -102,7 +102,10 @@ Today many forms of **digital media** are encoded in different formats and depen
 Digital media also have affordances. For example, digital media can be easily copied and transmitted across a computer network. In the case of the Iziko Rhino depicted in [Figure 1](#example---iziko-rhino), a Wikipedian working at the Africa Centre in Cape Town published a digital photograph of the rhino engraving to [Wikimedia](https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG), a website which allows everyone to contribute and edit information in encyclopedic format. Now people around the world can connect to the internet and see the image.
 
 ## Mass media
-Mass media are the communication industries which produce information and entertainment products and court the attention of large audiences, which they often sell to advertisers. These include broadcasters, networks, streaming sites, print and digital publishers and a range of other corporate media producers. This is usually what we mean when we talk about “the media”.
+{: .definition}
+Mass media are the communication industries which produce information and entertainment products and court the attention of large audiences, which they often sell to advertisers. 
+
+Mass media include broadcasters, networks, streaming sites, print and digital publishers and a range of other corporate media producers. This is usually what we mean when we talk about “the media”.
 
 ## Social media
 
