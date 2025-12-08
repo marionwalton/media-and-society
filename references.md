@@ -24,7 +24,7 @@ Appadurai, A. 1996\. Modernity At Large: Cultural Dimensions of Globalization. U
 Bailey, Moya (2021). Misogynoir Transformed: Black Women's Digital Resistance. New York University Press.  [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\)):[10.18574/nyu/9781479803392.001.0001](https://doi.org/10.18574%2Fnyu%2F9781479803392.001.0001)  
 
 <a name="barker_2016"></a>
-Barker, Meg-John. (2016). Queer: A graphic history. London: Icon Books  
+Barker, Meg-John. (2016). Queer: A graphic history. London: Icon Books.
 
 <a name="bruns_2023"></a>
 Bruns, Axel. 2023. From “the” public sphere to a network of publics: towards
@@ -39,6 +39,9 @@ Bosch,T. 2022, February 11\. Radio is thriving in South Africa: 80% are tuning i
 
 <a name="bronstein_2018"></a>
 Bronstein, V., & Katzew, J. (2018). Safeguarding the South African public broadcaster: Governance, civil society and the SABC. *Journal of Media Law*. 10.2. 244-272.
+
+<a name="butler_1999"></a>
+Butler, J. (1999) ‘‘Bodily Inscriptions, Performative Subversions’, in Gender Trouble. London: Routledge, pp. 175–193.
 
 Cascini, F. et al. 2022\. Social media and attitudes towards a COVID-19 vaccination: A systematic review of the literature *eClinicalMedicine*, 48 (101454).
 
