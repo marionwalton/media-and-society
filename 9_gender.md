@@ -1,13 +1,11 @@
 ---
 layout: page
-title: 09. Discourse, Ideology & Hegemony
+title: 09. Gender and Representation
 ---
-# Discourse, ideology & hegemony
+# Gender & Representation
 {: .no_toc }
 
-*By Adam Haupt & Marion Walton, University of Cape Town*
-
-This is currently a set of definitions from O'Shaughnessy & Stadler.
+*By Marion Walton & Martha Evans, University of Cape Town*
 
 - TOC
 {:toc}
