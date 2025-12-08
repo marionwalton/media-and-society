@@ -7,6 +7,7 @@ title: 16. References
 
 These are the important sources used in _Media & Society_. 
 
+
 <a name="abidin_2018"></a>
 Abidin, C. (2018). Internet celebrity: Understanding fame online. Emerald.
 
@@ -18,6 +19,12 @@ Are, C. & Paasonen, S. 2021\. Sex in the shadows of celebrity. *Porn Studies*. 8
 
 <a name="appadurai_1996"></a>
 Appadurai, A. 1996\. Modernity At Large: Cultural Dimensions of Globalization. U of Minnesota Press.
+
+<a name="bailey_2021"></a>
+Bailey, Moya (2021). Misogynoir Transformed: Black Women's Digital Resistance. New York University Press.  [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\)):[10.18574/nyu/9781479803392.001.0001](https://doi.org/10.18574%2Fnyu%2F9781479803392.001.0001)  
+
+<a name="barker_2016"></a>
+Barker, Meg-John. (2016). Queer: A graphic history. London: Icon Books  
 
 <a name="bruns_2023"></a>
 Bruns, Axel. 2023. From “the” public sphere to a network of publics: towards
@@ -47,6 +54,9 @@ Chuma, W. 2010\. Western paradigms, African media experiences. *Rhodes Journalis
 Chuma, W. 2019\. Political Economy of the Media in Africa. In S. Chiumbu & M. Iqani (Eds) *Media Studies: Critical African and Decolonial Approache*s. Cape Town: Oxford University Press. 
 
 Coded Bias \[Video\]. 2020\. Produced by S. Hoffman & Directed by S. Kantayya. United States of America: 7th Empire Media & Women Make Movies.
+
+<a name="cooke_2022"></a>
+Cooke, Lucy. 2022. *Bitch: On the Female of the Species*. New York: Basic Books. 
 
 Couldry, N. 2004\. Theorizing media as practice. *Social Semiotics* 14(2): 115-132.
 
@@ -83,10 +93,20 @@ news on social media? A comparative analysis. New Media &
 Society, 20(7), 2450–2468. https://doi.org/10.1177/14614448177
 24170
 
+<a name="foucault_1980"></a>
+Foucault, Michel. (1980). Power/Knowledge. (Ed.) Gordon, Colin. Pantheon: New York  
+
+<a name="foucault_1972"></a>
+Foucault, M. (1972). The Archaeology of Knowledge and the Discourse on Language. Pantheon: New York
+
 
 <a name="gadamer_1982"></a>
 Gadamer, Hans-Georg. 1982. *Truth and method*. New York:Crossroad.
 
+<a name="gill_2010"></a>
+Gill, Rosalind (2010) Chapter “Gender” in The Media: An Introduction (3rd Edition), edited by Daniele Albertazzi and Paul Cobley, Edinburgh: Pearson Education, pp. 410—26.
+
+<a name="goffman_1979"></a>
 Goffman, E. 1979\. *Gender Advertisements*. London:Macmillan.
 
 Govenden, P. 2022\. Does Black Economic Empowerment Ownership Matter? A Decolonial Analysis of ‘Black Visibility’ in South Africa’s Print Media Content, 1994-2014. *African Journalism Studies*. 43 (2): 1–20.
@@ -178,6 +198,7 @@ MAPS. 2024, November. MAPS Webinar. Available [https://mrfsa.org.za/maps-docs/no
 <a name="mills_2008"></a>
 Mills, S. 2008. Language and Sexism. Cambridge: Cambridge University Press. 
 
+<a name="mulvey_1975"></a>
 Mulvey, L. 1975\. Visual Pleasure and Narrative Cinema. *Screen*. 16(3):6-18.
 
 <a name="nkoala_2023"></a>
@@ -191,8 +212,14 @@ Nyamnjoh, F. B. 2011\. “De-Westernizing media theory to make room for African 
 
 O’Shaughnessy, M.,  Stadler, J. & Casey, S. 2016\. *Media & Society*. Melbourne: Oxford University Press.
 
+<a name="oakley_1972"></a>
+Oakley, A. (1972). Sex, Gender and Society. Revised Edition. Hampshire: Arena Gower Publishing.  
+
 <a name="oyedemi_2024"></a>
 Oyedemi, T. & Smith, R. A. (eds.) (2024) *Media in Africa : Issues and Critiques*. First edition. New York, NY: Routledge.
+
+<a name="oyeronke_1997"></a>
+Oyewumi, Oyeronke. 1997\. The Invention of Women: Making an African Sense of Western Gender Discourse. Minneapolis: University of Minnesota Press.
 
 [Payne, S. & Shoba](https://www.dailymaverick.co.za/author/sune-payne-and-sandisiwe-shoba/), S. 2020\. How did Clicks – and so many other brands – get it so wrong? *The Daily Maverick.* Available: https://www.dailymaverick.co.za/article/2020-09-11-how-did-clicks-and-so-many-other-brands-get-it-so-wrong/
 

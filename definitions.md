@@ -83,6 +83,9 @@ as a when it is really simply a new form of **automation**.
 ### Citation
 A citation supports the claims you're making in academic writing, gives credit to another author, helps the reader to find the source you've used, shows the amount of research you've done, and is the only way to avoid [plagiarism](definitions.html#plagiarism) in academic writing. For an academic essay in this course, which uses the UCT Author-Date style of referencing, a citation consists of providing an _in-text citation_ in the text of your essay and a _full reference_ to the source you've referred to at the end of the essay in a [list of references](definitions.html#reference).  An _in-text citation_ helps the reader find the full reference and also points to the specific point in the source you're referring to. It includes the author's surname, the date of publication, and often the page number. 
 
+## Counter-hegemony
+A world view or activity that is in opposition to and challenges the dominant world view. (O'Shaugnessy & Stadler)
+
 ### Cultural studies
 Cultural Studies is an academic subject or area of study which is closely related to media studies. In cultural studies, "culture" is approached as an everyday activity, where people make sense of the world, relate to others, and participate in society in ever-changing and contextually nuanced ways. This goes beyond the common sense understanding of culture as artistic products such as paintings, books, music or films. In this course we study scholars who have contributed to this tradition including Antonio Gramsci, Stuart Hall, Raymond Williams, Adam Haupt and others.
 
@@ -106,6 +109,24 @@ to benefit from and enjoy using digital media.
 ### Digital media
 Digital media are created using signals expressed as a series of the numbers (digits) 0 and 1. This means that they can be processed by a computer.
 
+## Discourse (Foucault)
+A range of ways of thinking which organise and transmit social control, thus maintaining social power. (O'Shaugnessy & Stadler)
+
+## Discourse 
+Modes of thought, speech, or expression, collective discussion or interplay of meanings and ideas circulating around a particular subject. (O'Shaugnessy & Stadler)
+
+## Discourse analysis
+A technique for studying how power and knowledge are communicated through texts, language use, and systems of thought.d.Modes of thought, speech, or expression, collective discussion or interplay of meanings and ideas circulating around a particular subject. (O'Shaugnessy & Stadler)
+
+## Dominant ideology (Althusser)
+A world view that supports the ruling class as dominant, the status quo, shared by the majority of people. (O'Shaugnessy & Stadler)
+
+## Dominant discourse
+Contemporary ideas and beliefs shared by a majority of people. (O'Shaugnessy & Stadler)
+
+## Emergent discourse
+New ideas and beliefs held by a few people at first, gradually becoming accepted by more people. (O'Shaugnessy & Stadler)
+
 ### Generative AI
 See also: GenAI or AI generated content 
 Generative AI, or GenAI refer to generative models such as LLMs or diffusion models used as media production tools are leading to dramatic shifts in both 
@@ -115,6 +136,21 @@ for the media production ecosystem. GenAI AIGC (Artificial Intelligence generate
 range of image editing and graphic design software (e.g. Adobe, Canva) as well as short form video production apps
 for social platforms (e.g. Douyin/TikTok). The use of generative models to produce 
 media raises various ethical issues and is facing several legal challenges. 
+
+## Hegemony (Gramsci)
+Power and leadership maintained through processes of struggle and negotiation, especially through winning the consent of the majority to accept the ideologies of dominant group as common sense. (O'Shaugnessy & Stadler)
+
+## Incorporation
+Process by which ideas and movements considered dangerous or radical are made acceptable. (O'Shaugnessy & Stadler)
+
+## Interpellation
+A process in which we internalise ideologies as a response to being hailed or addressed. (O'Shaugnessy & Stadler)
+
+## Identity
+The way we understand who we are. (O'Shaugnessy & Stadler)
+
+## Ideology
+Sets of social values, ideas, beliefs, feelings, and representations by which people collectively make sense of the world (a world view). (O'Shaugnessy & Stadler)
 
 ### Model 
 The purpose of an AI system is to model the world through data in order to predict something about it. The model 
@@ -160,6 +196,9 @@ we mean when we talk about “the media”.
 
 ### Mode
 Modes of communication are symbolic systems which include language as well as **visual and other modes** of communication which humans use to make meaning, such as sound, images, clothing, gestures, expressions or music.
+
+## Mode of Address
+The way a text speaks to or addresses its audience. (O'Shaugnessy & Stadler)
 
 ### Network
 A network can be defined as any system of relationships ([Chandler & Munday,2020a](/ideas/references/index.html#chandler_munday_2020a))
@@ -227,11 +266,17 @@ Because we can't easily identify the author or source, we also can't identify bi
 ### Reference
 A full reference is included in the [list of references](definitions.html#reference) at the end of an assignment. A reference provides all the information the reader would need to find and check a source you've referred to. A full reference also includes the author's name and the date of publication, as well as (depending on the kind of source you're citing), the publisher, place of publication and page numbers or URL of the material you're referencing.  The in-text citation appears when you use the source in the text of the essay and in the list of references at the end of the essay.
 
+## Residual discourses
+Sets of ideas and beliefs from the past that are still accepted by some. (O'Shaugnessy & Stadler)
+
 ### Semiotic resources
 Semiotic resources are the actions, knowledge and objects which we use for communicative purposes when 
 making meaning (semiosis). These include all the physical resources and cultural practices used by humans 
 as sign makers. For example, a singer is a sign-maker who makes meaning using their voice, knowledge of a 
 musical genre and a spoken language, as well as recording technologies and sharing music via a social platform such as TikTok. 
+
+## Subjectivity
+An individual's personal thoughts and experiences, their own way of seeing the world. The position from which we look at and understand the world. (O'Shaugnessy & Stadler)
 
 ### Social movement
 A social movement occurs when members of a particular society share grievances such as the experience of oppression, and are motivated to change their society through effective group action. 
