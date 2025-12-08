@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 021. Case Study
+title: 021. Case Study - Synthetic Media
 ---
 
 # Case Study - Synthetic Images & Text
@@ -18,7 +18,7 @@ title: 021. Case Study
 
 {: .example}
 ![A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model](img/DALL-E_iziko_rhino.png)
-Figure 3: This synthetic image of a rhino was produced by OpenAI's DALL-E model in response to the prompt 'Picture of Iziko Rhino'. This synthetic image of a rhino was produced by OpenAI’s DALL·E model in response to the prompt ‘Picture of Iziko Rhino’. DALL-E labelled the synthetic image (_ incorrectly_) as ‘A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.’
+Figure 3: This synthetic image of a rhino was produced by OpenAI's DALL-E model in response to the prompt 'Picture of Iziko Rhino'. DALL-E labelled the synthetic image (_ incorrectly_) as ‘A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.’
 
 {: .question}
 What are the most important differences between an AI-generated image of a rhino (see e.g. Figure 3 above) and the Iziko Rhino depicted in [Figure 1](1_media.html#example---iziko-rhino)? 
@@ -73,8 +73,6 @@ What does the error show us about the limitations of relying on this kind of art
 The error shows us that the LLM is simply repeating textual patterns from its training data and does not "understand" logical causality or the historical context of the Soweto Uprising. Logically, a song which was only released in 1979 can't have been adopted as an anthem of resistance three years before its release, in 1976. The LLM also doesn't have a contextual understanding of the historical background where the Soweto Uprising took place over a couple of days in 1976 and sparked a broader student movement which continued for several years afterwards.
 </details>
 
-      
-</details>
 
  {: .activity}
 ![Activity](img/pencilpencil.svg) Given the problems with this synthesised summary, how should we  approach AI overviews when looking for information with a search engine or using Generative AI (e.g. ChatGPT)?

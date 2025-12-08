@@ -8,9 +8,7 @@ title: 14. Chatbots & automation
 *By Marion Walton, University of Cape Town*
 
 If you’ve used a chatbot such as ChatGPT, Meta AI or Bing chat or if you’ve used Dall-E or Midjourney to generate
-images you’ve interacted with **[Generative Artificial Intelligence](definitions.html#generative-ai) (GenAI) models**. These statistical models are marketed as clever 
-chatbots and image generators which respond to text **prompts**. They generate novel output which can potentially 
-be useful. 
+images you’ve interacted with **[Generative Artificial Intelligence](definitions.html#generative-ai) (GenAI) models**. GenAI usually takes the form of a chat interface to a statistical model, which returns responses (text and or images) to user **prompts**. 
 
 - TOC
 {:toc}
@@ -22,13 +20,17 @@ societies that produce them.
 
 ### How does Gen AI work?
 
-Generative AI works by predicting the most likely words to follow your prompt, based on patterns discerned in many human-created sources (such as online news articles). Similarly, visual models predict the most likely pixel based on patterns in many online photographs and artworks. Think of synthetic media as a kind of linguistic or visual average of what other people have created on that topic.  This probability-based technique means that the **source** of synthetic media is unknown, it's often incorrect and often amplifies social biases. 
+Generative AI chatbots (LLMs) work by predicting the most likely words to follow your prompt, based on patterns recorded in a statistic model created from billions of human-created sources (such as online news articles). 
+
+Similarly, visual models predict the most likely pixel based on patterns they've encoded from downloading and processing many online photographs and artworks. 
+
+Think of synthetic media as a kind of linguistic or visual average of what other people have created on that topic.  This probability-based technique means that the **source** of synthetic media is unknown. Furthermore, the information it conveys is often incorrect and works to exacerbate social biases. 
 
 One of the [affordances](definitions.html#affordance) of Generative AI is ease of use. Chatbots in particular are designed to output human language in a way which mimics the structures of interpersonal dialogue (e.g. they seem to be typing). 
 
-Just as we need to evaluate all sources of information, we need to be particularly careful about double-checking information created with Generative AI. Synthetic media creates many difficulties regarding trustworthiness, bias and [provenance](definitions.html#provenance). These responses are thus based on statistically sophisticated guesswork, which means they are often incorrect and likely to be biased in some way.  
+Just as we need to evaluate all sources of information, we need to be particularly careful about double-checking information created with Generative AI. Synthetic media creates many difficulties regarding trustworthiness, bias and [provenance](definitions.html#provenance).   
 
-As a media student, it's important for you to know that when you use Generative AI to generate citations, it synthesizes likely-looking sources which follow the pattern of the references in its training data but which may not exist at all.
+As a media student, it's important for you to know that when you use Generative AI to generate citations, the model synthesizes likely-looking sources which follow the pattern of the references in its training data. These fake references may not exist at all.
 
 This chapter provides an introductory explanation of how the machines and systems underlying **Generative AI** 
 models are used to create chat dialogues and synthetic images. It also highlights some of the harm of not fully 
@@ -59,6 +61,7 @@ role of the patient easily confided their feelings and anxieties to “her” (W
 Figure 1: Javascript version of Joseph Weizenbaum’s chatbot, *Eliza*, coded by George Dunlop
 
 The “conversation” in Figure 1 depicts an interaction with an online version of *Eliza*, coded by George Dunlop. 
+
 The transcript shows a record of human semiotic work or **meaning-making**. The person using the bot interprets 
 textual signifiers produced by the program to create a signified (what the interaction means to them), and responds 
 accordingly. This kind of interaction could well help a person explore their own psychological state, in the same 
@@ -68,96 +71,7 @@ way that reflective activities such as journaling or writing a diary might. By c
 Another person’s interaction with *Eliza* could easily highlight this lack of understanding, particularly if they
 are motivated to “break” the bot (e.g. by getting it to repeat obscenities and slurs or to encourage self harm). 
 
-#### Datasets and algorithms
-
-Weizenbaum’s work on programming *Eliza* to produce these dialogues involved relatively simple pattern matching 
-and substitution of phrases. These techniques work by echoing a person’s preoccupations and questions back to them.
-This is a much simpler approach to human-machine dialogue than the **AI neural networks** used today by modern 
-chatbots like ChatGPT, where the human asks the question and the chatbot is expected to have all the answers. 
-Nonetheless, we will discuss the example of *Eliza* in detail because it helps us understand the crucial role 
-of our own meaning-making as we interact with chatbots and other AI systems. *Eliza* is also a good introduction 
-to datasets and algorithms, two important concepts that we will need if we want to understand the more complex 
-Generative AI models.
-
-##### Datasets
-
-*Eliza* works by using a text **dataset** which includes keywords (e.g. “I feel”, “dream”, “you”), pronoun 
-substitutions (e.g. “I” becomes “you”) and about 120 canned responses to these keywords. 
-
-Many of these responses were all phrases which a Rogerian therapist might use to help keep the focus of a therapy 
-session on the user’s feelings and problems, such as the following example phrases:.
-
-`Hmmm... you want to be able to…`  
-`Is it that you would like to be able to …`  
-`Do I hear you saying that you want me to be able to …`  
-`I'm not convinced that you truly want to…`  
-`What would it mean to you if you got..`
-
-##### Algorithms
-
-*Eliza* was surprisingly effective because Weizenbaum used this **dataset** of keywords and culturally acceptable 
-therapist responses together with an **algorithm** or a set of coded rules which guides the conversation. 
-Weizenbaum’s algorithm ensured that the user did most of the conversational work. The algorithm deflects or rephrases
-the user's questions and turns many user responses into further questions.   
-
-
-Figure 2: Another example dialogue with Dunlop’s *Eliza*
-
-The transcript in Figure 2 shows an algorithm’s output in another conversation with *Eliza*. The interaction begins 
-like this:
-
-`> Hello, I am Eliza. I'll be your therapist today.`   
-`* Are all men trash?`  
-`> It is nice to be chatting with you`
-
-Algorithms are encoded in programming or scripting languages so that computers can execute or interpret them. Let’s 
-take a more careful look at one small part of the program’s algorithm. We will look at the coded command which 
-generates the line “It is nice to be chatting with you”. This line is reproduced below and is written in a 
-scripting language called Javascript:  
-   
-`if( !greet){ greet = true; return "It is nice to be chatting with you."}`
-
-This is a conditional statement `(“if”`) which first checks whether *Eliza* has already greeted the user `(“!greet”`). If the program hasn’t already done so, this line of code produces a greeting, a bit of generic small talk intended to set the user at their ease: `return “It is nice to be chatting with you”.` The statement also sets a variable (`greet = true`) which ensures that this small talk response won’t be repeated more than once. 
-
-The above small talk response is only one part of the overall **algorithm** which generates text responses, 
-in this case, the command is executed after the user says something which does not match any of *Eliza*’s keywords. 
-As it stands, the way the program’s algorithm echoes the user’s words back to them can also easily be used to get 
-the “therapist” to produce socially inappropriate responses such as this one:
-
-`* My ex says I am trash`  
-`> How long have you been trash?`
-
-In this example, the limitations of *Eliza*’s **dataset** of keywords is apparent. If derogatory keywords such as 
-“trash” and other slurs or obscenities had been included in the keyword dataset along with a suitable witty response. 
-Instead, the therapist persona in the program effectively insults the user “How long have you been trash?”. 
-
-The dataset includes several responses which all try to respond when the user refers to the therapist persona using 
-the keyword “you”. They are included in order to turn the conversation topic away from the therapist and back to 
-the user:
-
-`* I want to date you`  
-`> Oh... Let's move on to something else for a bit.  ?`   
-`* I want to take you on a romantic island getaway`  
-`> We were discussing you, not me.`   
-`* I could show you the world as you have never seen it`  
-`> Oh... Let's move on to something else for a bit.  the world as I have never seen it?`
-
-In this case the algorithm predicts correctly that the user may try to engage with the therapist, and the dataset 
-provides a set of alternative responses which all allow *Eliza* to deflect such attempts. In the dialogue above, 
-the keyword “you” appears four times, eliciting three different responses from the dataset and one repeat 
-(“`Oh... Let's move on to something else for a bit”)`. This robotic repetition and the slight incoherence of the 
-final response also reveals the limitations of this early approach to automating natural language interaction. 
-
-This version of *Eliza* has 119 canned responses in its dataset. By contrast, contemporary **Large Language Model 
-(LLM)** chatbots such as ChatGPT are built with models that are trained on the whole internet and which embed 
-trillions of words or tokens in multidimensional vectors (sequences). LLM chatbot responses are not explicitly 
-encoded (as *Eliza*’s canned responses were). Instead they are synthesised from these models, producing novel 
-responses and variations rather than replicas. 
-
-While these modern chatbots appear to be considerably more fluent than *Eliza* was, the basic human-machine 
-interaction is similar. Studying *Eliza*’s algorithm and dataset reminds us that the other partner to the user’s 
-simulated dialogue is not an anthropomorphised “Eliza” but the programmer/s who developed the algorithm and 
-constructed the dataset but who are not present for the conversation.
+Studying *Eliza*’s code is a reminder that we should stop anthropomorphising modern chatbots. The other partner to the dialogue with a chatbot is not a sentient being but the company which developed the algorithms and constructed the model from huge training datasets. These partners are not present for the conversation.
 
 ### LLMs and modelling
 
