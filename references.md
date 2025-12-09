@@ -67,6 +67,9 @@ De Waal, M. 2012, 24 Aug. Marikana: The matter of embedded journalism. *Daily Ma
 <a name="de_lanerolle_et_al_2017"></a>
 De Lanerolle, I. Walton, M. & Schoon, A. 2017\. Izolo: mobile diaries of the less connected, Making All Voices Count Research Report, Brighton: [IDS](https://vula.uct.ac.za/portal/site/10b5a417-579d-4598-8f55-0b2019c243ce/tool/3bca772b-a684-425c-ab7a-ef5ba3f11f5b#).
 
+<a name="delphy_1993"></a>
+Delphy. 1993. Rethinking sex and gender. Women's Studies International Forum. 16(1): 1-9.
+
 Digital News Report. 2021, 23 June. Reuters Instittute. Available: https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2021/dnr-executive-summary
 
 <a name="dugmore_2018"></a>
@@ -215,6 +218,7 @@ Nyamnjoh, F.B., 2005\. *Africa's media, democracy and the politics of belonging*
 
 Nyamnjoh, F. B. 2011\. “De-Westernizing media theory to make room for African experience.” In Wasserman (Ed) *Popular Media, Democracy and Development in Africa.* London: Routledge:  20-31. 
 
+<a name="oshaughnessy_2016"></a>
 O’Shaughnessy, M.,  Stadler, J. & Casey, S. 2016\. *Media & Society*. Melbourne: Oxford University Press.
 
 <a name="oakley_1972"></a>

@@ -27,39 +27,57 @@ We will consider several examples of gender in the media, noticing repeated patt
 
 ## Gender
 
-Gender refers to “social and cultural roles, personality traits, and behaviours that are deemed **socially acceptable for men and women** in relation to concepts of masculinity and femininity” (O’ Shaughnessy & Stadler, 360). 
+Gender refers to “social and cultural roles, personality traits, and behaviours that are deemed **socially acceptable for men and women** in relation to concepts of masculinity and femininity” ([O’Shaughnessy,  Stadler, & Casey, 2016:360](references.html#oshaughnessy_2016)). 
 
 {: .example}
 ![Coca Cola Ads](img/coke_1958_2024.png)
 Figure 1 Coca-Cola Advertisement circa 1956. Coca-Cola South Africa Facebook Campaign featuring Tyla in Coke Studio promotion, 2024. | 
 The meanings we associate with femininity have changed over time, as illustrated by  the two Coca-Cola ads. What do they show us about how hegemonic femininities have changed in South Africa since 1956? How do we interpret these identities today? What social changes and governing institutions may have given rise to the change in significations?
 
-The term “gender” was introduced by anthropologist Margaret Mead (Delphy, 1993\) who observed that gender role expectations and the temperaments of men and women in indigenous societies were starkly different to those in the United States at the time.   
+The term “gender” was introduced by anthropologist Margaret Mead ([Delphy, 1993](references.html$delphy_1993)) who observed that gender role expectations and the temperaments of men and women in indigenous societies were starkly different to those in the United States at the time.   
 
  People's understanding of gender changes over time and differs between cultural contexts, as illustrated by the different versions of femininity in the Coca-Cola ads in Figure 1. 
 
 Decolonial scholars show how gender ideologies and discourses emerge in specific contexts. For example, Oyewumi (1997) argues against imposing Western gender theories (and even the category “woman”) when discussing pre-colonial African societies, noting how scholars interpreted the history of Yoruba society through a patriarchal lens, assuming that leaders were men, while in fact Yoruba women lost many property rights and other powers as a result of colonial rule. 
 
+{: .question}
+What terms are used to discuss cultural aspects of our gender identities (rather than biological sex)?
+
+<details markdown="block">
+<summary>Answer</summary>
+
 Terms for gender identity include, but are not limited to, woman, man, non-binary, genderqueer, and agender.” ([LGBTQ GLOSSARY](https://web.archive.org/web/20230519035630/https://studentaffairs.jhu.edu/lgbtq/education/glossary/)) 
+
+</details>
 
 {: .activity}
 ![Activity](img/pencilpencil.svg)How does the meaning of “man” and “woman” differ in different contexts and different historical periods (e.g. colonial and precolonial)? 
 
 ## Binary oppositions
 
-Binary is a mathematical term which describes a numeral system with only two different **symbols** (1 or 0). In language, binary oppositions are a system of opposing and mutually exclusive categories or signifiers (“man” vs “woman”, “she” vs “he”,“straight” vs “gay”, “logical” vs “emotional”). These binary oppositions underpin **hegemonic** social hierarchies (e.g. in many contexts “man” has more social power than “woman”, “straight” has more social power than “gay”, “logic” has more social power than “emotion”). 
+Binary is a mathematical term which describes a numeral system with only two different **symbols** (1 or 0). In language, binary oppositions are a system of opposing and mutually exclusive categories or signifiers. 
 
-The binary oppositions in patriarchal discourses can help us to explain many gender **stereotypes** and how binary categories work together when people try to enforce normative identities. For example, women are expected to be more caring than men, while also being judged for being overly emotional. Because the categories are seen as mutually exclusive, some people find the idea of gender transition a challenging concept. Similarly, when women have physical traits such as muscular shoulders or facial and body hair, this is often enough for people to question their femininity or even their identity as women..
+|  |  |  |
+|--|--|--|
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
-The pressures of binary stereotypes, and the lack of space for non-normative identities is pronounced in languages like English where even personal pronouns specify gender (“he” vs “she”). This is one of the reasons that many people are opting for gender-neutral pronouns (“they, them”).
+ These binary oppositions underpin **hegemonic** social hierarchies (e.g. in many contexts “man” has more social power than “woman”, “straight” has more social power than “gay”, “logic” has more social power than “emotion”). 
+ 
+Understanding these binary oppositions in patriarchal discourses can help us to explain many gender **stereotypes**.  
+
+Furthermore, binary categories work together when people try to enforce normative identities. For example, women are expected to be more caring than men, while also being judged for being overly emotional. Because the categories are seen as mutually exclusive, some people find the idea of gender transition a challenging concept. Similarly, when women have physical traits such as muscular shoulders or facial and body hair, this is often enough for people to question their femininity or even their identity as women..
+
+The pressures of binary stereotypes, and the lack of space for non-normative identities is pronounced in languages like English where even personal pronouns specify gender (“he” vs “she”). This is one of the reasons that some people prefer to use gender-neutral pronouns (“they, them”).
 
 ## Women and men
 
-When discussing the cultural dimensions of gender, avoid the biological terms “male” and “female”, as well as terms which are loaded with gendered assumptions (e.g. “lady”). We use “women” and “men” as inclusive terms which refer to people’s **gender identity**. 
+When discussing the cultural dimensions of gender, avoid the biological terms “male” and “female”, as well as terms which are loaded with gendered assumptions (e.g. “lady”). Instead, use “women” and “men” which refer to people’s **gender identity**. 
 
-Nonetheless, the two terms are often used interchangeably with the biological terms “male” and “female” to construct a **gender binary**. Used in this binary way, the terms exclude other possible identities, such as trans people who transition from one gender identity to another, as well as those who identify as **non-binary.** A man/woman opposition is a major organising principle of social and media institutions such as sports and schools, where they are equated with biological terms “male” and “female”. 
+It's important to be aware though, that these terms are often used interchangeably with the biological terms “male” and “female” to construct a **gender binary**. A man/woman opposition is a major organising principle of social and media institutions such as sports and schools, where they are equated with biological terms “male” and “female”.  Used in this binary way, the terms exclude other possible identities, such as trans people who transition from one gender identity to another, as well as the identities of people who identify as **non-binary.** 
 
-Used inclusively, however, the terms “women” and “men” provide politically useful ways to challenge **sexism and misogyny**, and to encompass critiques of **cis normativity** and **gender binaries**. 
+Used inclusively, with an awareness of **[intersectionality](definitions.html#intersectionality)** the terms “women” and “men” provide politically useful ways to challenge **sexism and misogyny**, and to encompass critiques of **cis normativity** and **gender binaries**. 
 
 ## Sex and/or gender?
 
@@ -90,7 +108,9 @@ Beyond exaggerating gender differences, the media can be used to build public un
 
 ## Gender normativity and the media
 
-Gender normativity involves adhering to or reinforcing hegemonic rules and standards about what kinds of behaviour are allowed for men and women. For men, gender normativity is often associated with **hegemonic masculinity**. For women it is linked to the dominant and conventionally “womanly” forms of **femininity**.  These ideals change over time and vary in different contexts. An additional important dimension of gender normativity for both men and women is **heteronormativity**.
+Gender normativity involves adhering to or reinforcing hegemonic rules and standards about what kinds of behaviour are allowed for men and women. 
+
+For men, gender normativity is often associated with **hegemonic masculinity**. For women it is linked to the dominant and conventionally “womanly” forms of **femininity**.  These ideals change over time and vary in different contexts. An additional important dimension of gender normativity for both men and women is **heteronormativity**.
 
 ### Hegemonic femininity
 
@@ -158,15 +178,14 @@ Visual culture has shifted, and men’s bodies are now often also on display. In
 
 In English, normative gender identities tend to go unmarked, while non-normative gender identities are often explicitly marked, either by the use of a specific gendered term (e.g. in the past “actress” was used for women actors) or by using adjectives (e.g. “woman engineer”, “gay wedding” or “a strong, independent woman”. In such cases, the default or unmarked state (“actor”, “engineer”, "wedding”, "woman") is the normative identity (which usually goes without saying and thus doesn’t need to be stated explicitly e.g. a “\[male\] actor or engineer”, “\[straight\] wedding” or a “\[weak, dependent\] woman”). 
 
-## Talking about gender
-
-Since much of the language we use to talk about gender is shaped by the patriarchal and colonial history of the English language, we’ll need to define a **vocabulary** that will help us express how media images play a powerful role in influencing, communicating and changing our identities and beliefs about **sex**, **gender** and **sexuality**.
-
 ## Activity
 
 {: .activity}
 ![Activity](img/pencilpencil.svg) How can we use visual language to create images that play with, trouble or spark discussions about gender in contemporary society?
 
+## Talking about gender
+
+Since much of the language we use to talk about gender is shaped by the patriarchal and colonial history of the English language, we’ll need to define a **vocabulary** that will help us express how media images play a powerful role in influencing, communicating and changing our identities and beliefs about **sex**, **gender** and **sexuality**.
 
 ## Sexism  
 {: .definition}
