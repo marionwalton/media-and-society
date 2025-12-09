@@ -246,8 +246,7 @@ are highly interlinked chemical systems, communicating with neighbouring neurons
 neurotransmitters.
 
 ## Post-structuralist
-Post-structuralism is a philosophical approach to discourse and representation, which argues that language is not directly connected to a “reality” outside of language and which challenges binary oppositions (man/woman,rational/emotional). Instead, it should be seen as a set of inter-related and shifting significations, which derive their meaning from the fluid and changing relationships shaping social reality. 
-
+Post-structuralism is a philosophical approach to discourse and representation, which argues that language is not directly connected to a “reality” outside of language and which challenges binary oppositions (man/woman,rational/emotional). Post-structuralism approaches language as a set of inter-related and shifting significations, which derive their meaning from the fluid and changing relationships shaping social reality. 
 
 ## Public
 Traditionally scholars have talked about "the public", which includes all members of a community such as a nation, city or region, and their legal and political institutions of government.

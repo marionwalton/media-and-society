@@ -14,11 +14,11 @@ title: 09. Gender and Representation
 
 Marion Walton and Martha Evans
 
-The goal of this chapter is to challenge **hegemonic** models of **sex** and **gender** in the media. We’ll explore the role of gender binaries in everyday language, the visual languages associated with objectification, stereotypes, gender display in advertising and marketing, and gender performativity, and finally ask how and to what extent GenerativeAI is perpetuating existing gender biases. 
+The goal of this chapter is to challenge **[hegemonic](definitions/hegemony-(gramsci))** models of **sex** and **gender** in the media. We’ll explore the role of gender binaries in everyday language, the visual languages associated with objectification, stereotypes, gender display in advertising and marketing, and gender performativity, and finally ask how and to what extent GenerativeAI is perpetuating existing gender biases. 
 
 As discussed earlier, by "gendered discourse" we mean a range of **practices** which produce categories such as "men", "women" and the relations between them. This includes visual and verbal discourse, as well as how discourse is regulated by social institutions such as advertising and marketing, heteronormative families, single-sex schools, separate sporting codes for men and women, medicine, and so on. These discursive practices work together with structural racism and other social systems to produce and police subject positions in **intersectional** ways.
 
-We will consider several **examples of gender in the media**, noticing repeated patterns in media representations of masculinity and femininity, and in particular the **binary oppositions** between them. These examples will show how the semiotic details of visual representations such as photographs and advertising are used to construct **gendered identities** **and ideologies** that may support or challenge **patriarchal social structures**. 
+We will consider several examples of gender in the media, noticing repeated patterns in media representations of masculinity and femininity, and in particular the **[binary oppositions](definitions.html#binary-oppositions)** between them. These examples will show how the semiotic details of visual representations such as photographs and advertising are used to construct **gendered identities** and **[ ideologies](definitions.html#ideology)** that may support or challenge **patriarchal social structures**. 
 
 We will also ask what power relations in society lead us to "produce" gender in this way? To address these questions we’ll touch on **post-structuralist** ideas about how discourses about “gender” (including media texts and also this chapter) are part of **regimes of production of truth** (Foucault, 1972:211).  
 
@@ -31,48 +31,41 @@ Finally, through a creative project, we’ll use visual language to create image
 [Intersectionality](definitions.html#intersectionality){: .btn .btn-blue }
 [Binary oppositions](definitions.html#binary-oppositions){: .btn .btn-blue }
 
-## Queer theory and post-structuralism
+## Gender
 
-
-A **post-structuralist** approach to gender known as **queer theory** builds on and critiques the **structuralist** ideas we encountered when we studied **semiotics**. According to De Saussure (a structuralist), language is **a system of differences** where signifiers gain meaning in relation to other signifiers. From this perspective, the relationship between the signifier “woman” and what it signifies is conventional and "arbitrary". From this perspective, to understand the meaning of this signifier we need to understand how the word "woman" differs from other signifiers (e.g. “man”). 
-
-Post-structuralists point out that such relationships between signifiers are not fixed but **shift and change**.  In particular, signification changes over time, as illustrated in Figure 1. 
+Gender refers to “social and cultural roles, personality traits, and behaviours that are deemed **socially acceptable for men and women** in relation to concepts of masculinity and femininity” (O’ Shaughnessy & Stadler, 360). 
 
 {: .example}
 ![Coca Cola Ads](img/coke_1958_2024.png)
 Figure 1 Coca-Cola Advertisement circa 1956 and Coca-Cola South Africa Facebook Campaign, 2024
 The meanings we associate with femininity have changed over time, as you can see from these two Coca-Cola ads. What do they show us about how hegemonic femininities have changed in South Africa since 1956? How do we interpret these identities today? What social changes and governing institutions may have given rise to the change in significations?
 
- [Foucault (1980:132)]((references.html#foucault_1980) ) argues that what counts as “truth” is mostly governed (though not exclusively so) by socially dominant institutions. For example, while same-sex sexual practices have existed throughout history, Foucault details how the category "homosexual" only came into being in the 19th century when the medical institutions and practices of the time started documenting a phenomenon they were starting to label as "homosexuality".  
+The term “gender” was introduced by anthropologist Margaret Mead (Delphy, 1993\) who observed that gender role expectations and the temperaments of men and women in indigenous societies were starkly different to those in the United States at the time.   
 
-Post-structuralist ideas have also been influential in media studies which investigate how gender normativities are reinforced and challenged through **performative** signifying practices. From the perspective of queer theory, gendered discourse & performativity are “regulatory practices within which bodily contours are constructed" [(Butler, 1999:181)(references.html#butler_1999)]. In other words, powerful social institutions make many of the rules and regulatory practices by which we learn to "do" gender in our bodies, and they also police our bodies when we don't conform. As the idea of non-conformity suggests, we can also counter this power, since our bodies are signs that we can control, vary, and change.
-(references.html#butler_1999)
+Contemporary perspectives highlight how people's understanding of gender can change over time and differs between cultural contexts, as illustrated by the different versions of femininity in the Coca-Cola ads in Figure 1. 
+
+Decolonial scholars show how gender ideologies and discourses emerge in specific contexts. For example, Oyewumi (1997) argues against imposing Western gender theories (and even the category “woman”) when discussing pre-colonial African societies, noting how scholars interpreted the history of Yoruba society through a patriarchal lens, assuming that leaders were men, while in fact Yoruba women lost many property rights and other powers as a result of colonial rule. 
+
+Terms for gender identity include, but are not limited to, woman, man, non-binary, genderqueer, and agender.” ([LGBTQ GLOSSARY](https://web.archive.org/web/20230519035630/https://studentaffairs.jhu.edu/lgbtq/education/glossary/)) 
 
 {: .activity}
 ![Activity](img/pencilpencil.svg)How does the meaning of “man” and “woman” differ in different contexts and different historical periods (e.g. colonial and precolonial)? 
 
-## Gender
-
-Gender refers to “social and cultural roles, personality traits, and behaviours that are deemed **socially acceptable for men and women** in relation to concepts of masculinity and femininity” (O’ Shaughnessy & Stadler, 360). The term “gender” was introduced by anthropologist Margaret Mead (Delphy, 1993\) who observed that gender role expectations and the temperaments of men and women in indigenous societies were starkly different to those in the United States at the time.   
-Contemporary perspectives highlight how people's understanding of gender can change over time and differs between cultural contexts. Decolonial scholars show how gender ideologies and discourses emerge in specific contexts. For example, Oyewumi (1997) argues against imposing Western gender theories (and even the category “woman”) when discussing pre-colonial African societies, noting how scholars interpreted the history of Yoruba society through a patriarchal lens, assuming that leaders were men, while in fact Yoruba women lost many property rights and other powers as a result of colonial rule. 
-
-Terms for gender identity include, but are not limited to, woman, man, non-binary, genderqueer, and agender.” ([LGBTQ GLOSSARY](https://web.archive.org/web/20230519035630/https://studentaffairs.jhu.edu/lgbtq/education/glossary/)) 
-
-## Binary
+## Binary oppositions
 
 Binary is a mathematical term which describes a numeral system with only two different **symbols** (1 or 0). In language, binary oppositions are a system of opposing and mutually exclusive categories or signifiers (“man” vs “woman”, “she” vs “he”,“straight” vs “gay”, “logical” vs “emotional”). These binary oppositions underpin **hegemonic** social hierarchies (e.g. in many contexts “man” has more social power than “woman”, “straight” has more social power than “gay”, “logic” has more social power than “emotion”). 
 
-The binary oppositions in patriarchal discourses can help us to explain many gender **stereotypes** and how binary categories work together when people try to enforce normative identities. For example, women are expected to be more caring than men, while also being judged for being overly emotional. Because the categories are seen as mutually exclusive, some people find the idea of **gender transition** a challenging concept. Similarly, when women have physical traits such as muscular shoulders or facial and body hair, this is often enough for people to question their femininity or even their identity as women..
+The binary oppositions in patriarchal discourses can help us to explain many gender **stereotypes** and how binary categories work together when people try to enforce normative identities. For example, women are expected to be more caring than men, while also being judged for being overly emotional. Because the categories are seen as mutually exclusive, some people find the idea of gender transition a challenging concept. Similarly, when women have physical traits such as muscular shoulders or facial and body hair, this is often enough for people to question their femininity or even their identity as women..
 
 The pressures of binary stereotypes, and the lack of space for non-normative identities is pronounced in languages like English where even personal pronouns specify gender (“he” vs “she”). This is one of the reasons that many people are opting for gender-neutral pronouns (“they, them”).
 
 ## Women and men
 
-We use “women” and “men” as inclusive terms which refer to people’s **gender identity**. 
+When discussing the cultural dimensions of gender, avoid the biological terms “male” and “female”, as well as terms which are loaded with gendered assumptions (e.g. “lady”). We use “women” and “men” as inclusive terms which refer to people’s **gender identity**. 
 
-Nonetheless, the two terms are often used interchangeably with the biological terms “male” and “female” to construct a **gender binary**. Used in this binary way, the terms exclude other possible identities, such as trans people who transition from one gender identity to another, as well as those who identify as **non-binary.** Used in this way, the man/woman opposition is a major organising principle of social and media institutions such as sports and schools, where they are equated with biological terms “male” and “female”. 
+Nonetheless, the two terms are often used interchangeably with the biological terms “male” and “female” to construct a **gender binary**. Used in this binary way, the terms exclude other possible identities, such as trans people who transition from one gender identity to another, as well as those who identify as **non-binary.** A man/woman opposition is a major organising principle of social and media institutions such as sports and schools, where they are equated with biological terms “male” and “female”. 
 
-Used inclusively, however, the terms “women” and “men” provide politically useful ways to challenge **sexism and misogyny**, and to encompass critiques of **cis normativity** and **gender binaries**. When discussing the cultural dimensions of gender, avoid the biological terms “male” and “female”, as well as terms which are loaded with gendered assumptions (e.g. “lady”).
+Used inclusively, however, the terms “women” and “men” provide politically useful ways to challenge **sexism and misogyny**, and to encompass critiques of **cis normativity** and **gender binaries**. 
 
 ## Sex and/or gender?
 
@@ -92,9 +85,58 @@ For example, while men are more likely to be biologically taller than women, the
 
 Beyond exaggerating gender differences, the media can be used to build public understanding of physical diversity. Instead it often amplifies the stigma and harmful vitriol directed at anyone who does not conform to a rigid binary. Think of how the international news media stigmatised Caster Semenya. Although Semenya identifies and was raised as a woman, her testosterone levels were ruled too high for her to compete in women’s categories without medical intervention.
 
-## Marked and unmarked terms
+## Gender in advertising
 
-In English, normative gender identities tend to go unmarked, while non-normative gender identities are often explicitly marked, either by the use of a specific gendered term (e.g. in the past “actress” was used for women actors) or by using adjectives (e.g. “woman engineer”, “gay wedding” or “a strong, independent woman”. In such cases, the default or unmarked state (“actor”, “engineer” or wedding”) is the normative identity (which usually goes without saying and thus doesn’t need to be stated e.g. a “\[male\] actor or engineer”, “\[straight\] wedding” or a “\[weak, dependent\] woman”). 
+Investigating gendered conventions in advertising encourages us not only to see the world differently, but to imagine how we might do it differently.
+
+Feminist discussions of advertising have challenged the sexist **stereotypes** of an earlier era, where women were most often represented and interpellated as mothers, housewives, or sex objects. These critiques played a role in shifting advertising away from earlier scripts where **men’s authoritative voices** recommended products to women who were increasingly important as consumers. 
+
+Feminists also highlighted the prevalence of **objectification** in advertisements exploiting women’s physical appearance for commercial purposes. These advertisements often borrowed a cinematic style where women’s bodies and appearance were depicted primarily as objects of the “male gaze”. Through such visual traditions, while men gained pleasure in viewing, while (white) women were socialised to be passive and accustomed to being viewed (Laura Mulvey, 1975). 
+
+The positioning for Black women is more complex. For example, bell hooks (1992) recalls her own experience of viewership and cinema. As a young woman, she did not see herself represented on the screen beyond a set of **narrow stereotypes**. Black women were not even represented as visual objects of desire. hooks’s notion of the “**oppositional gaze**” draws our attention to what is not represented, as well as to the experience and dissenting perspective of Black women as viewers  (bell hooks, 1992). 
+
+## Commodity feminism
+
+Women's feminist anger at the often exploitative and potentially harmful pressures of the beauty and fashion industries have been commercially appropriated under **neoliberal post-feminism**.   
+This took the form of the **commodity feminisms** which took off as ways appropriate the energy and engagement of online activism in fourth wave feminism. Considered “daring” about 20 years ago, campaigns such as Dove’s "Real Beauty" ads claimed to break traditional media stereotypes and to challenge sexism in culture and language. They also allowed advertisers to respond to “sign fatigue” and skepticism about advertising claims and voice women’s anger about hyper-idealised notions of beauty (Gill, 2010). 
+
+Commodity feminist branding campaigns are fast becoming new normativities, following a script written by groundbreaking campaigns such as Dove's. Such campaigns rewrite a very narrow beauty narrative while still selling their products as being essential for women to achieve appropriate levels of (**post-feminist**) self-esteem. This is also known as "**femvertising**".  Examples of these include the Dove, Nike, and L'Oreal "Statements of Worth" campaigns.
+
+Media and cultural studies perspectives emphasize how media and beauty brands have been and still are highly complicit with gendered **normativities** requiring all women and particularly Black women to engage in considerably more **aesthetic labour** than men do, while also spending a large amount of their income on beauty products, often in the guise of "self-care". 
+
+While both visual and verbal languages reflect and perpetuate social inequalities, people are always developing new language and semiotic resources and using them to bring about social change. Your creative project will use still images and draw on gender codes and discourses to appeal to its target market, and so we’ll look in  more detail at how print advertising has traditionally relied on a visual language which often subordinates women (Goffman, 1979). 
+
+## Gender Display 
+
+Erving Goffman (1979) studied large numbers of magazine and billboard advertisements and noticed that they depicted everyday social rituals of what he called “gender display” which constructed scenes of what he termed “female subordination”.  In particular, Goffman noted a **ritualised subordination**, where men and women’s roles repeated a version of the child--parent relationship, with women occupying the position of the child. When both men and women appeared together, the women often held on to the man for support (Goffman, 1979: 40). Even when depicted alone, women often assumed postures expressing this subordination with their bodies unbalanced, their knees canted, heads tilted, their throats exposed, or in half-reclining positions emphasizing vulnerability (Goffman, 1979: 40),
+
+Adverts frequently featured what he termed the “**feminine touch**” (Goffman, 1979: 29-31) where women’s fingers and hands touched, cradled or caressed an object, including self-touching the female body as if it was a precious object. He also noticed ‘**licensed withdrawal’**, when women were depicted in a dreamy state, somewhat removed from what was happening around them.
+
+## Gender normativity and the media
+
+Gender normativity involves adhering to or reinforcing hegemonic rules and standards about what kinds of behaviour are allowed for men and women. For men, gender normativity is often associated with **hegemonic masculinity**. For women it is linked to the dominant and conventionally “womanly” forms of **femininity**.  These ideals change over time and vary in different contexts. An additional important dimension of gender normativity for both men and women is **heteronormativity**.
+
+### Hegemonic femininity
+
+Idealised hegemonic forms of Western femininity (as elsewhere) are often associated with motherhood. While physical beauty is imperative, women’s active sexuality is potentially threatening, and a common target of **misogyny**. Labels which suggest a woman is sexually active tend to be negative, while the same terms for men often have a positive, congratulatory meaning. 
+
+### Hegemonic masculinity
+
+Hegemonic images of men in the media tend to emphasize power (both physical and economic) and victory, in what has been termed phallic masculinity (Gill, 2010). Representations repeat the association of physical strength, power, muscle, heroism, stamina, and endurance with masculinity. As a result that the abstraction of men’s social power is reified, and often takes a physical shape in  visual media. 
+
+### Heteronormativity
+
+Heteronormativity refers to an ideology about heterosexuality as the "normal" or "natural" form of attraction and relationships. This “natural” configuration of relationships is ideologically defined as a relationship between one man and one woman, who both embody conventional gender roles & norms (hegemonic masculinity and feminity), and engage in conventional sexual practices (Barker, 2016:84). These different normativities are related and are kept in place through the associations between a whole set of binary oppositions  e.g. man vs woman, strong vs weak, dominant vs subordinate, gay vs straight. 
+
+## Masculinity in the media
+
+A **hyper-masculine** form of masculinity dominates many action film narratives, as well as games, and adverts. The message here is that masculinity solves problems with physical power, and physical violence in some cases. These dominant representations of masculinity tend to allow men a limited emotional range, which finds approved emotional outlets in sporting contests and rage-fuelled physical conflict. Masculinity is also intersectional, and these hypermasculine qualities such as physical strength and anger may be depicted as toxic, criminal or threatening when combined with racial and class signifiers.
+
+Visual culture has shifted, and men’s bodies are now often also on display. Influenced by feminist movements, the queer movement, and the need to build new markets, **masculinity is objectified** to a far greater extent than in a previous era. These images are a sign of advertisers cultivating and catering to particularly masculine insecurities.
+
+## Gender in marked and unmarked terms
+
+In English, normative gender identities tend to go unmarked, while non-normative gender identities are often explicitly marked, either by the use of a specific gendered term (e.g. in the past “actress” was used for women actors) or by using adjectives (e.g. “woman engineer”, “gay wedding” or “a strong, independent woman”. In such cases, the default or unmarked state (“actor”, “engineer”, "wedding”, "woman") is the normative identity (which usually goes without saying and thus doesn’t need to be stated explicitly e.g. a “\[male\] actor or engineer”, “\[straight\] wedding” or a “\[weak, dependent\] woman”). 
 
 ## Sexism  
 
@@ -112,30 +154,8 @@ Legal scholar Kimberle Crenshaw coined the term “intersectionality” when she
 
 Misogyny enforces patriarchal social structures by punishing women (in particular) when they deviate from sexist norms (Kate Manne). This kind of policing often takes place in the language we use to describe people. For example, in languages such as English, certain derogatory words are used to construct and simultaneously stigmatise gendered identities, e.g. “bitch” (when a woman is disliked in any way, often because she does not conform to some gendered obligation). In the case of “sissy” or “pussy” (when a man is not seen to be suitably masculine) men’s perceived inadequacies in masculinity are punished by the use of feminising slurs or labels. In this way, homophobia and misogyny are often linked.
 
-Misogynoir  
+## Misogynoir  
 Misogynoir is a term for racism combined with misogyny directed towards Black women in particular. 
-
-## Gender normativity and the media
-
-Gender normativity involves adhering to or reinforcing hegemonic rules and standards about what kinds of behaviour are allowed for men and women. For men, gender normativity is often associated with **hegemonic masculinity**. For women it is linked to the dominant and conventionally “womanly” forms of **femininity**.  These ideals change over time and vary in different contexts. An additional important dimension of gender normativity for both men and women is **heteronormativity**.
-
-### Hegemonic femininity
-
-Idealised hegemonic forms of Western femininity (as elsewhere) are often associated with motherhood. While physical beauty is imperative, women’s active sexuality is potentially threatening, and a common target of **misogyny**. Labels which suggest a woman is sexually active tend to be negative, while the same terms for men often have a positive, congratulatory meaning. 
-
-### Hegemonic masculinity
-
-Hegemonic images of men in the media tend to emphasize power (both physical and economic) and victory, in what has been termed phallic masculinity (Gill, 2010). Representations repeat the association of physical strength, power, muscle, heroism, stamina, and endurance with masculinity. As a result that the abstraction of men’s social power is reified, and often takes a physical shape in  visual media. 
-
-## Masculinity in the media
-
-A **hyper-masculine** form of masculinity dominates many action film narratives, as well as games, and adverts. The message here is that masculinity solves problems with physical power, and physical violence in some cases. These dominant representations of masculinity tend to allow men a limited emotional range, which finds approved emotional outlets in sporting contests and rage-fuelled physical conflict. Masculinity is also intersectional, and these hypermasculine qualities such as physical strength and anger may be depicted as toxic, criminal or threatening when combined with racial and class signifiers.
-
-Visual culture has shifted, and men’s bodies are now often also on display. Influenced by feminist movements, the queer movement, and the need to build new markets, **masculinity is objectified** to a far greater extent than in a previous era. These images are a sign of advertisers cultivating and catering to particularly masculine insecurities.
-
-## Heteronormativity
-
-Heteronormativity refers to an ideology about heterosexuality as the "normal" or "natural" form of attraction and relationships. This “natural” configuration of relationships is ideologically defined as a relationship between one man and one woman, who both embody conventional gender roles & norms (hegemonic masculinity and feminity), and engage in conventional sexual practices (Barker, 2016:84). These different normativities are related and are kept in place through the associations between a whole set of binary oppositions  e.g. man vs woman, strong vs weak, dominant vs subordinate, gay vs straight. 
 
 ## Cisgender  
 
@@ -143,7 +163,17 @@ Cisgender is a term for individuals whose gender identity generally matches with
 
 ## Cis normativity
 
-Cis normativity refers to the assumption that everyone identifies as the gender they were assigned at birth. Cis normativity ignores and stigmatises transgender people, who do not identify with the gender they were originally assigned, or who do not identify with only one gender . By challenging this assumption
+Cis normativity refers to the assumption that everyone identifies as the gender they were assigned at birth. Cis normativity ignores and stigmatises transgender people, who do not identify with the gender they were originally assigned, or who do not identify with only one gender . 
+
+## Queer theory and post-structuralism
+A **post-structuralist** approach to gender known as **queer theory** builds on and critiques the **structuralist** ideas we encountered when we studied **semiotics**. According to De Saussure (a structuralist), language is **a system of differences** where signifiers gain meaning in relation to other signifiers. From this perspective, the relationship between the signifier “woman” and what it signifies is conventional and "arbitrary". From this perspective, to understand the meaning of this signifier we need to understand how the word "woman" differs from other signifiers (e.g. “man”). 
+
+Post-structuralists point out that such relationships between signifiers are not fixed but **shift and change**.  In particular, signification changes over time, as illustrated in Figure 1. 
+
+ [Foucault (1980:132)]((references.html#foucault_1980) ) argues that what counts as “truth” is mostly governed (though not exclusively so) by socially dominant institutions. For example, while same-sex sexual practices have existed throughout history, Foucault details how the category "homosexual" only came into being in the 19th century when the medical institutions and practices of the time started documenting a phenomenon they were starting to label as "homosexuality".  
+
+Post-structuralist ideas have also been influential in media studies which investigate how gender normativities are reinforced and challenged through **performative** signifying practices. From the perspective of queer theory, gendered discourse & performativity are “regulatory practices within which bodily contours are constructed" [(Butler, 1999:181)(references.html#butler_1999)]. In other words, powerful social institutions make many of the rules and regulatory practices by which we learn to "do" gender in our bodies, and they also police our bodies when we don't conform. As the idea of non-conformity suggests, we can also counter this power, since our bodies are signs that we can control, vary, and change.
+(references.html#butler_1999)
 
 ## Queer
 
@@ -155,34 +185,7 @@ Queer is also used as a verb. Rather than “queer” describing something peopl
 
 Queer theory is used to break down oversimplifying **binaries**, and is used to question **heteronormative** identities, categories, and assumptions by showing how  gender norms are performative signifying practices.
 
-By showing how sexuality may be shaped by race and gender in many ways, queer theory exposes how sexual and gender identities are socially constructed. (For more see Baker)
-
-## Gender in advertising
-
-Investigating gendered conventions in advertising encourages us not only to see the world differently, but to imagine how we might do it differently.
-
-Feminist discussions of advertising have challenged the sexist **stereotypes** of an earlier era, where women were most often represented and interpellated as mothers, housewives, or sex objects. These critiques played a role in shifting advertising away from earlier scripts where **men’s authoritative voices** recommended products to women who were increasingly important as consumers. 
-
-Feminists also highlighted the prevalence of **objectification** in advertisements exploiting women’s physical appearance for commercial purposes. These advertisements often borrowed a cinematic style where women’s bodies and appearance were depicted primarily as objects of the “male gaze”. Through such visual traditions, while men gained pleasure in viewing, while (white) women were socialised to be passive and accustomed to being viewed (Laura Mulvey, 1975). 
-
-The positioning for Black women is more complex. For example, bell hooks (1992) recalls her own experience of viewership and cinema. As a young woman, she did not see herself represented on the screen beyond a set of **narrow stereotypes**. Black women were not even represented as visual objects of desire. hooks’s notion of the “**oppositional gaze**” draws our attention to what is not represented, as well as to the experience and dissenting perspective of Black women as viewers  (bell hooks, 1992). 
-
-## Commodity feminisms
-
-Women's feminist anger at the often exploitative and potentially harmful pressures of the beauty and fashion industries have been commercially appropriated under **neoliberal post-feminism**.   
-This took the form of the **commodity feminisms** which took off as ways appropriate the energy and engagement of online activism in fourth wave feminism. Considered “daring” about 20 years ago, campaigns such as Dove’s "Real Beauty" ads claimed to break traditional media stereotypes and to challenge sexism in culture and language. They also allowed advertisers to respond to “sign fatigue” and skepticism about advertising claims and voice women’s anger about hyper-idealised notions of beauty (Gill, 2010). 
-
-Commodity feminist branding campaigns are fast becoming new normativities, following a script written by groundbreaking campaigns such as Dove's. Such campaigns rewrite a very narrow beauty narrative while still selling their products as being essential for women to achieve appropriate levels of (**post-feminist**) self-esteem. This is also known as "**femvertising**".  Examples of these include the Dove, Nike, and L'Oreal "Statements of Worth" campaigns.
-
-Media and cultural studies perspectives emphasize how media and beauty brands have been and still are highly complicit with gendered **normativities** requiring all women and particularly Black women to engage in considerably more **aesthetic labour** than men do, while also spending a large amount of their income on beauty products, often in the guise of "self-care". 
-
-While both visual and verbal languages reflect and perpetuate social inequalities, people are always developing new language and semiotic resources and using them to bring about social change. Your creative project will use still images and draw on gender codes and discourses to appeal to its target market, and so we’ll look in  more detail at how print advertising has traditionally relied on a visual language which often subordinates women (Goffman, 1979). 
-
-## Gender Display 
-
-Erving Goffman (1979) studied large numbers of magazine and billboard advertisements and noticed that they depicted everyday social rituals of what he called “gender display” which constructed scenes of what he termed “female subordination”.  In particular, Goffman noted a **ritualised subordination**, where men and women’s roles repeated a version of the child--parent relationship, with women occupying the position of the child. When both men and women appeared together, the women often held on to the man for support (Goffman, 1979: 40). Even when depicted alone, women often assumed postures expressing this subordination with their bodies unbalanced, their knees canted, heads tilted, their throats exposed, or in half-reclining positions emphasizing vulnerability (Goffman, 1979: 40),
-
-Adverts frequently featured what he termed the “**feminine touch**” (Goffman, 1979: 29-31) where women’s fingers and hands touched, cradled or caressed an object, including self-touching the female body as if it was a precious object. He also noticed ‘**licensed withdrawal’**, when women were depicted in a dreamy state, somewhat removed from what was happening around them.
+By showing how sexuality may be shaped by race and gender in many ways, queer theory exposes how sexual and gender identities are socially constructed. (For more see Baker).
 
 ## Gender performativity
 
