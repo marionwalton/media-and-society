@@ -7,7 +7,6 @@ title: 16. References
 
 These are the important sources used in _Media & Society_. 
 
-
 <a name="abidin_2018"></a>
 Abidin, C. (2018). Internet celebrity: Understanding fame online. Emerald.
 
@@ -100,7 +99,7 @@ Society, 20(7), 2450–2468. https://doi.org/10.1177/14614448177
 Foucault, Michel. (1980). Power/Knowledge. (Ed.) Gordon, Colin. Pantheon: New York  
 
 <a name="foucault_1972"></a>
-Foucault, M. (1972). The Archaeology of Knowledge and the Discourse on Language. Pantheon: New York
+Foucault, Michel. (1972). The Archaeology of Knowledge and the Discourse on Language. Pantheon: New York
 
 
 <a name="gadamer_1982"></a>
@@ -192,6 +191,9 @@ Lomas, N. 2025, February 19. Study of TikTok, X ‘For You’ feeds in Germany f
 McCombs, M. E., & Shaw, D. L. 1972. The Agenda-Setting Function of Mass Media. The Public Opinion Quarterly, 36(2): 176–187. http://www.jstor.org/stable/2747787
 
 Macharia, Sarah. 2020\. Who Makes the News: 6th Global Media Monitoring Project. Available: [https://www.comminit.com/global/content/who-makes-news-6th-global-media-monitoring-project](https://www.comminit.com/global/content/who-makes-news-6th-global-media-monitoring-project)
+
+<a name="manne_2017"></a>
+Manne, Kate., 2017. Down girl: The logic of misogyny. Oxford: Oxford University Press.
 
 M\&G Data Desk. 2019\. Who runs SA’s media is a black-and-white issue. *Mail & Guardian*. Available: [https://mg.co.za/article/2019-01-04-00-who-runs-sas-media-is-a-black-and-white-issue/](https://mg.co.za/article/2019-01-04-00-who-runs-sas-media-is-a-black-and-white-issue/)
 
