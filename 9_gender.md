@@ -18,13 +18,18 @@ The goal of this chapter is to challenge **hegemonic** models of **sex** and **g
 
 As discussed earlier, by "gendered discourse" we mean a range of **practices** which produce categories such as "men", "women" and the relations between them. This includes visual and verbal discourse, as well as how discourse is regulated by social institutions such as advertising and marketing, heteronormative families, single-sex schools, separate sporting codes for men and women, medicine, and so on. These discursive practices work together with structural racism and other social systems to produce and police subject positions in **intersectional** ways.
 
-The pervasiveness of gendered representations leads us to ask what power relations in society lead us to "produce" gender in this way? To address these questions we’ll touch on **poststructuralist** ideas about how discourses about “gender” (including media texts and also this chapter) are part of **regimes of production of truth** (Foucault, 1972:211).  
-
 We will consider several **examples of gender in the media**, noticing repeated patterns in media representations of masculinity and femininity, and in particular the **binary oppositions** between them. These examples will show how the semiotic details of visual representations such as photographs and advertising are used to construct **gendered identities** **and ideologies** that may support or challenge **patriarchal social structures**. 
+
+We will also ask what power relations in society lead us to "produce" gender in this way? To address these questions we’ll touch on **post-structuralist** ideas about how discourses about “gender” (including media texts and also this chapter) are part of **regimes of production of truth** (Foucault, 1972:211).  
 
 Since much of the language we use to talk about gender is shaped by the patriarchal and colonial history of the English language, we'll need to define a **vocabulary** that will help us express how media images play a powerful role in influencing, communicating and changing our identities and beliefs about **sex**, **gender** and **sexuality**. 
 
 Finally, through a creative project, we’ll use visual language to create images that play with, trouble or spark discussions about gender in contemporary society.
+
+[Discourse](definitions.html#discourse-(foucault)){: .btn .btn-blue }
+[Post-structuralist](definitions.html#post-structuralist){: .btn .btn-blue }
+[Intersectionality](definitions.html#intersectionality){: .btn .btn-blue }
+[Binary oppositions](definitions.html#binary-oppositions){: .btn .btn-blue }
 
 ## Queer theory and post-structuralism
 
@@ -36,14 +41,15 @@ Post-structuralists point out that such relationships between signifiers are not
 {: .example}
 ![Coca Cola Ads](img/coke_1958_2024.png)
 Figure 1 Coca-Cola Advertisement circa 1956 and Coca-Cola South Africa Facebook Campaign, 2024
-The meanings we associate with femininity have changed over time, as you can see from these two Coca-Cola ads. What do they show us about how hegemonic femininities have changed in South Africa since 1956? What social changes and governing institutions may have given rise to these changing significations?
+The meanings we associate with femininity have changed over time, as you can see from these two Coca-Cola ads. What do they show us about how hegemonic femininities have changed in South Africa since 1956? How do we interpret these identities today? What social changes and governing institutions may have given rise to the change in significations?
 
-Historically specific **technologies of power** are used to govern what is included or excluded in discourse and **knowledge**. Foucault (1980:132) argues that what counts as “truth” is mostly governed (though not exclusively so) by socially dominant institutions. For example, while same-sex sexual practices have existed throughout history, Foucault details how the category "homosexual" only came into being in the 19th century when the medical institutions and practices of the time started documenting a phenomenon they were starting to label as "homosexuality".  
+ [Foucault (1980:132)]((references.html#foucault_1980) ) argues that what counts as “truth” is mostly governed (though not exclusively so) by socially dominant institutions. For example, while same-sex sexual practices have existed throughout history, Foucault details how the category "homosexual" only came into being in the 19th century when the medical institutions and practices of the time started documenting a phenomenon they were starting to label as "homosexuality".  
 
 Post-structuralist ideas have also been influential in media studies which investigate how gender normativities are reinforced and challenged through **performative** signifying practices. From the perspective of queer theory, gendered discourse & performativity are “regulatory practices within which bodily contours are constructed" [(Butler, 1999:181)(references.html#butler_1999)]. In other words, powerful social institutions make many of the rules and regulatory practices by which we learn to "do" gender in our bodies, and they also police our bodies when we don't conform. As the idea of non-conformity suggests, we can also counter this power, since our bodies are signs that we can control, vary, and change.
+(references.html#butler_1999)
 
 {: .activity}
-![Activity](img/pencilpencil.svg)How does the meaning of “man” and “woman” differ in different contexts and different historical periods (e.g. colonial and precolonial)? What technologies of power are used today? What were used in the colonial period respectively?
+![Activity](img/pencilpencil.svg)How does the meaning of “man” and “woman” differ in different contexts and different historical periods (e.g. colonial and precolonial)? 
 
 ## Gender
 
@@ -54,7 +60,7 @@ Terms for gender identity include, but are not limited to, woman, man, non-binar
 
 ## Binary
 
-Binary is a mathematical term which describes a numeral system with only two different **symbols** (1 or 0). In the English language, binary oppositions are a system of opposing and mutually exclusive categories or signifiers (“man” vs “woman”, “she” vs “he”,“straight” vs “gay”, “logical” vs “emotional”). These binary oppositions underpin **hegemonic** social hierarchies (e.g. in many contexts “man” has more social power than “woman”, “straight” has more social power than “gay”, “logic” has more social power than “emotion”). 
+Binary is a mathematical term which describes a numeral system with only two different **symbols** (1 or 0). In language, binary oppositions are a system of opposing and mutually exclusive categories or signifiers (“man” vs “woman”, “she” vs “he”,“straight” vs “gay”, “logical” vs “emotional”). These binary oppositions underpin **hegemonic** social hierarchies (e.g. in many contexts “man” has more social power than “woman”, “straight” has more social power than “gay”, “logic” has more social power than “emotion”). 
 
 The binary oppositions in patriarchal discourses can help us to explain many gender **stereotypes** and how binary categories work together when people try to enforce normative identities. For example, women are expected to be more caring than men, while also being judged for being overly emotional. Because the categories are seen as mutually exclusive, some people find the idea of **gender transition** a challenging concept. Similarly, when women have physical traits such as muscular shoulders or facial and body hair, this is often enough for people to question their femininity or even their identity as women..
 

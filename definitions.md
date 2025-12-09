@@ -74,7 +74,10 @@ Finally, generative models are used to automate media production. They generate 
 by synthesising it from a large number of examples of similar media. If there are not many examples of a certain type of
 text or image in its training data, it is not likely to be able to generate them.
 
-### Chatbot
+## Binary oppositions
+ Binary oppositions are a system of opposing and mutually exclusive categories or signifiers (“man” vs “woman”, “she” vs “he”,“straight” vs “gay”, “logical” vs “emotional”) which underpin **hegemonic** social hierarchies.
+ 
+## Chatbot
 Contemporary Generative AI systems are connected to a chatbot interface, which allows users to ask questions via text or speech interfaces and then uses 
 statistical models to predict and synthesize a likely "answer" to the user's prompt. By simulating "typing" and "thinking", the interface often encourages
 users to humanise or **anthropomorphise** the system (as do terms such as "intelligence" and "training") 
@@ -86,27 +89,27 @@ A citation supports the claims you're making in academic writing, gives credit t
 ## Counter-hegemony
 A world view or activity that is in opposition to and challenges the dominant world view. (O'Shaugnessy & Stadler)
 
-### Cultural studies
+## Cultural studies
 Cultural Studies is an academic subject or area of study which is closely related to media studies. In cultural studies, "culture" is approached as an everyday activity, where people make sense of the world, relate to others, and participate in society in ever-changing and contextually nuanced ways. This goes beyond the common sense understanding of culture as artistic products such as paintings, books, music or films. In this course we study scholars who have contributed to this tradition including Antonio Gramsci, Stuart Hall, Raymond Williams, Adam Haupt and others.
 
-### Cultural imperialism
+## Cultural imperialism
 The idea of cultural imperialism describes the unidirectional flow of media and cultural content in the context of a broadly Western hegemony over the rest of the world. Because of the historical power of the USA, this approach often focused on how the USA has dominated cultural industries globally, with its programming, advertising and consumer culture influencing that of the rest of the world.
 
-### Definition
+## Definition
 Academic terms have specific meanings in particular fields of study. This means you can't use a regular dictionary to find out what they mean. Instead, consult your readings. Using these definitions in your pocket textbook is a good start. Also look out for definitions when reading articles by important scholars in the field. Make sure you always cite the **actual source you used** when providing a definition.
 
-### Diffusion model 
+## Diffusion model 
 A model which has been trained on a large collection of images that are “diffused” into and out of random noise. 
 This “teaches” the model to see images in noise and generate them from scratch. Almost every major image-generating 
 AI model on the market today is a diffusion model. Examples of such AI systems include Midjourney, DALL-E (ChatGPT’s 
 image generator), Stable Diffusion and Imagen.
 
-### Digital inequality
+## Digital inequality
 Digital inequality (also known as the digital divide) refers to the differences in use of digital technology and services by 
 different groups of people. People's socio-economic status, age, gender and race can all mean that they have fewer opportunities 
 to benefit from and enjoy using digital media.
 
-### Digital media
+## Digital media
 Digital media are created using signals expressed as a series of the numbers (digits) 0 and 1. This means that they can be processed by a computer.
 
 ## Discourse (Foucault)
@@ -145,6 +148,9 @@ Process by which ideas and movements considered dangerous or radical are made ac
 
 ## Interpellation
 A process in which we internalise ideologies as a response to being hailed or addressed. (O'Shaugnessy & Stadler)
+
+## Intersectionality
+Intersectionality refers to the way social categorisations and hierarchies such as gender, race, class, age, ability, sexuality are interconnected, and create unique experiences of disadvantage where they intersect. Intersectional feminists have highlighted how humans never exist as only a gender, we always have other intersectional identities. 
 
 ## Identity
 The way we understand who we are. (O'Shaugnessy & Stadler)
@@ -239,12 +245,16 @@ after repeatedly being exposed to something new. An artificial neuron is a singl
 are highly interlinked chemical systems, communicating with neighbouring neurons and other cells via a variety of 
 neurotransmitters.
 
-### Public
+## Post-structuralist
+Post-structuralism is a philosophical approach to discourse and representation, which argues that language is not directly connected to a “reality” outside of language and which challenges binary oppositions (man/woman,rational/emotional). Instead, it should be seen as a set of inter-related and shifting significations, which derive their meaning from the fluid and changing relationships shaping social reality. 
+
+
+## Public
 Traditionally scholars have talked about "the public", which includes all members of a community such as a nation, city or region, and their legal and political institutions of government.
 In media studies it is also common to talk about "publics", which acknowledges that people often have a sense of living, working and communicating together in groups which may be smaller, such as 
 a family group chat, or very large, such as a global audience for big media events.
 
-### Provenance
+## Provenance
 Provenance aims for more transparency regarding the origins and operations of Generative AI.
 It responds to the need to know where media and ideas come from, not only to avoid plagiarism, but 
 also to be aware of their different contexts of use. Academic referencing is one system of
