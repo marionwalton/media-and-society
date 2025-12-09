@@ -28,23 +28,22 @@ Finally, through a creative project, we’ll use visual language to create image
 
 ## Queer theory and post-structuralism
 
+
 A **post-structuralist** approach to gender known as **queer theory** builds on and critiques the **structuralist** ideas we encountered when we studied **semiotics**. According to De Saussure (a structuralist), language is **a system of differences** where signifiers gain meaning in relation to other signifiers. From this perspective, the relationship between the signifier “woman” and what it signifies is conventional and "arbitrary". From this perspective, to understand the meaning of this signifier we need to understand how the word "woman" differs from other signifiers (e.g. “man”). 
 
-Post-structuralists point out that such relationships between signifiers are not fixed but **shift and change**.  In particular, signification changes over time, as historically specific **technologies of power** are used to govern what is included or excluded in discourse and **knowledge**. Foucault (1980:132) argues that what counts as “truth” is mostly governed (though not exclusively so) by socially dominant institutions. 
+Post-structuralists point out that such relationships between signifiers are not fixed but **shift and change**.  In particular, signification changes over time, as illustrated in Figure 1. 
 
 {: .example}
 ![Coca Cola Ads](img/coke_1958_2024.png)
-Coca-Cola Advertisement circa 1956. (Du Plessis, 2012) and Coca-Cola South Africa Facebook Campaign, 2024
+Figure 1 Coca-Cola Advertisement circa 1956 and Coca-Cola South Africa Facebook Campaign, 2024
+The meanings we associate with femininity have changed over time, as you can see from these two Coca-Cola ads. What do they show us about how hegemonic femininities have changed in South Africa since 1956? What social changes and governing institutions may have given rise to these changing significations?
 
-For example, while same-sex sexual practices existed throughout history, Foucault explains that the category "homosexual" only came into being in the 19th century when the medical institutions and practices of the time started documenting a phenomenon they were starting to label as "homosexuality".  
-
-As Foucault explains, “The history which bears and determines us has the form of a war rather than that of a language: relations of power not relations of meaning” ([Foucault, 1980:114](references.html#foucault_1980)).
+Historically specific **technologies of power** are used to govern what is included or excluded in discourse and **knowledge**. Foucault (1980:132) argues that what counts as “truth” is mostly governed (though not exclusively so) by socially dominant institutions. For example, while same-sex sexual practices have existed throughout history, Foucault details how the category "homosexual" only came into being in the 19th century when the medical institutions and practices of the time started documenting a phenomenon they were starting to label as "homosexuality".  
 
 Post-structuralist ideas have also been influential in media studies which investigate how gender normativities are reinforced and challenged through **performative** signifying practices. From the perspective of queer theory, gendered discourse & performativity are “regulatory practices within which bodily contours are constructed" [(Butler, 1999:181)(references.html#butler_1999)]. In other words, powerful social institutions make many of the rules and regulatory practices by which we learn to "do" gender in our bodies, and they also police our bodies when we don't conform. As the idea of non-conformity suggests, we can also counter this power, since our bodies are signs that we can control, vary, and change.
 
-### Exercise
-
-How does the meaning of “man” and “woman” differ in different contexts and different historical periods (e.g. colonial and precolonial)? What technologies of power are used today? What were used in the colonial period respectively?
+{: .activity}
+![Activity](img/pencilpencil.svg)How does the meaning of “man” and “woman” differ in different contexts and different historical periods (e.g. colonial and precolonial)? What technologies of power are used today? What were used in the colonial period respectively?
 
 ## Gender
 
