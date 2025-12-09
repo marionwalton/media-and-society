@@ -120,6 +120,12 @@ Feminists also highlighted the prevalence of **objectification** in advertisemen
 
 The positioning for Black women is more complex. For example, bell hooks (1992) recalls her own experience of viewership and cinema. As a young woman, she did not see herself represented on the screen beyond a set of **narrow stereotypes**. Black women were not even represented as visual objects of desire. hooks’s notion of the “**oppositional gaze**” draws our attention to what is not represented, as well as to the experience and dissenting perspective of Black women as viewers  (bell hooks, 1992). 
 
+### Gender Display 
+
+Erving Goffman (1979) studied large numbers of magazine and billboard advertisements and noticed that they depicted everyday social rituals of what he called “gender display” which constructed scenes of what he termed “female subordination”.  In particular, Goffman noted a **ritualised subordination**, where men and women’s roles repeated a version of the child--parent relationship, with women occupying the position of the child. When both men and women appeared together, the women often held on to the man for support (Goffman, 1979: 40). Even when depicted alone, women often assumed postures expressing this subordination with their bodies unbalanced, their knees canted, heads tilted, their throats exposed, or in half-reclining positions emphasizing vulnerability (Goffman, 1979: 40),
+
+Adverts frequently featured what he termed the “**feminine touch**” (Goffman, 1979: 29-31) where women’s fingers and hands touched, cradled or caressed an object, including self-touching the female body as if it was a precious object. He also noticed ‘**licensed withdrawal’**, when women were depicted in a dreamy state, somewhat removed from what was happening around them.
+
 ### Commodity feminism
 
 Women's feminist anger at the often exploitative and potentially harmful pressures of the beauty and fashion industries have been commercially appropriated under **neoliberal post-feminism**.   
@@ -131,22 +137,20 @@ Media and cultural studies perspectives emphasize how media and beauty brands ha
 
 While both visual and verbal languages reflect and perpetuate social inequalities, people are always developing new language and semiotic resources and using them to bring about social change. Your creative project will use still images and draw on gender codes and discourses to appeal to its target market, and so we’ll look in  more detail at how print advertising has traditionally relied on a visual language which often subordinates women (Goffman, 1979). 
 
-### Gender Display 
+### Masculinity in advertising
 
-Erving Goffman (1979) studied large numbers of magazine and billboard advertisements and noticed that they depicted everyday social rituals of what he called “gender display” which constructed scenes of what he termed “female subordination”.  In particular, Goffman noted a **ritualised subordination**, where men and women’s roles repeated a version of the child--parent relationship, with women occupying the position of the child. When both men and women appeared together, the women often held on to the man for support (Goffman, 1979: 40). Even when depicted alone, women often assumed postures expressing this subordination with their bodies unbalanced, their knees canted, heads tilted, their throats exposed, or in half-reclining positions emphasizing vulnerability (Goffman, 1979: 40),
+A **hyper-masculine** form of masculinity dominates many action film narratives, as well as games, and these narratives are also sometimes found in adverts. 
 
-Adverts frequently featured what he termed the “**feminine touch**” (Goffman, 1979: 29-31) where women’s fingers and hands touched, cradled or caressed an object, including self-touching the female body as if it was a precious object. He also noticed ‘**licensed withdrawal’**, when women were depicted in a dreamy state, somewhat removed from what was happening around them.
+The message here is that masculinity solves problems with physical power, and physical violence in some cases. These dominant representations of masculinity tend to allow men a limited emotional range, which finds approved emotional outlets in sporting contests and rage-fuelled physical conflict. 
+
+Masculinity is also intersectional. Hypermasculine qualities such as physical strength and anger may be depicted as toxic, criminal or threatening when combined with racial and class signifiers.
+
+Visual culture has shifted, and men’s bodies are now often also on display. Influenced by feminist movements, the queer movement, and the need to build new markets, **masculinity is objectified** to a far greater extent than in a previous era. These images are a sign of advertisers cultivating and catering to particularly masculine insecurities.
 
 ## Activity
 
 {: .activity}
 ![Activity](img/pencilpencil.svg) Plan your own advertising campaign which draws on gender codes and discourses to appeal to its target market.
-
-## Masculinity in the media
-
-A **hyper-masculine** form of masculinity dominates many action film narratives, as well as games, and adverts. The message here is that masculinity solves problems with physical power, and physical violence in some cases. These dominant representations of masculinity tend to allow men a limited emotional range, which finds approved emotional outlets in sporting contests and rage-fuelled physical conflict. Masculinity is also intersectional, and these hypermasculine qualities such as physical strength and anger may be depicted as toxic, criminal or threatening when combined with racial and class signifiers.
-
-Visual culture has shifted, and men’s bodies are now often also on display. Influenced by feminist movements, the queer movement, and the need to build new markets, **masculinity is objectified** to a far greater extent than in a previous era. These images are a sign of advertisers cultivating and catering to particularly masculine insecurities.
 
 ## Gender bias and AI
 
@@ -173,28 +177,38 @@ Sexism is the ideology justifying men’s dominance in patriarchal social struct
 We often talk about “patriarchy” in a simplistic way as a single system of male domination, or as if “the patriarchy” is a ruling body of powerful individuals. 
 
 {: .definition}
-Feminist philosopher Kate Manne explains that, in patriarchal social structures, most women are dominated by some men and that patriarchal structures also **intersect** with other systems of oppression (race, class, sexuality, disability, age etc). Patriarchal social structures are also influenced by structures which promote equality (universal suffrage, free childcare, affirmative action etc.). 
+Feminist philosopher Kate Manne ([2017](references.html#manne_2017)) explains that, in patriarchal social structures, most women are dominated by some men and that patriarchal structures also **[intersect](definitions.html#intersectionality)** with other systems of oppression (race, class, sexuality, disability, age etc). Patriarchal social structures are also influenced by structures which promote equality (universal suffrage, free childcare, affirmative action etc.). 
 
-Manne argues that this does not only lead to gendered hierarchies of domination but also to men’s expectations and sense of entitlement that they will be positioned as dominant with respect to some woman or women. Consequently, even in situations of nominal equality, men tend to have **entitlements** and women tend to have **obligations**. 
+Manne argues that these patriarchal social structures do not only lead to gendered hierarchies of domination but also to men’s expectations and sense of entitlement that they will be positioned as dominant with respect to some woman or women. Consequently, Manne claims, even in situations of nominal equality, men tend to have **entitlements** and women tend to have **obligations**. 
 
 ## Intersectionality
 
-Legal scholar Kimberle Crenshaw coined the term “intersectionality” when she saw how affirmative action policies  in the United States assisted white women, or African American men, but were not helpful to African American women, who experienced an intersection of oppression as a result of not just their gender or their race, but their race together with their gender. Humans never exist as only a gender, we always have other intersectional identities. Think about how race, language, age, class, and religion all  change the way others perceive our gender identity.
+Legal scholar Kimberle Crenshaw coined the term “intersectionality” when she saw how affirmative action policies  in the United States assisted white women, or African American men, but were not helpful to African American women, who experienced an intersection of oppression as a result of not just their gender or their race, but their race together with their gender. 
+
+Humans never exist as only a gender, we always have other intersectional identities. Think about how race, language, age, class, and religion all  change the way others perceive our gender identity.
 
 ## Misogyny 
 
-Misogyny enforces patriarchal social structures by punishing women (in particular) when they deviate from sexist norms ([Manne, 2017](references.html#manne) . This kind of policing often takes place in the language we use to describe people. For example, in languages such as English, certain derogatory words are used to construct and simultaneously stigmatise gendered identities, e.g. “bitch” (when a woman is disliked in any way, often because she does not conform to some gendered obligation). In the case of “sissy” or “pussy” (when a man is not seen to be suitably masculine) men’s perceived inadequacies in masculinity are punished by the use of feminising slurs or labels. In this way, homophobia and misogyny are often linked.
+{: .definition}
+Misogyny enforces patriarchal social structures by punishing women (in particular) when they deviate from sexist norms ([Manne, 2017](references.html#manne)). 
+
+Misogyny as policing can often be seen in the language we use to describe people. For example, in languages such as English, certain derogatory words are used to construct and simultaneously stigmatise gendered identities, e.g. “bitch” (when a woman is disliked in any way, often because she does not conform to some gendered obligation) or "slut", when she is sexually active. 
+
+In the case of slurs for men, such as “sissy” or “pussy” (when a man is not seen to be suitably masculine) men’s perceived inadequacies in masculinity are punished by the use of feminising slurs or labels. In this way, homophobia and misogyny are often linked.
 
 ## Misogynoir  
+{: .definition}
 Misogynoir is a term for racism combined with misogyny directed towards Black women in particular. 
 
 ## Cisgender  
-
+{: .definition}
 Cisgender is a term for individuals whose gender identity generally matches with their assigned sex, and who express a normative gender identity outwardly in terms of clothing, hair, and tone of voice.
 
 ## Cis normativity
+{: .definition}
+Cis normativity refers to the assumption that everyone identifies as the gender they were assigned at birth. 
 
-Cis normativity refers to the assumption that everyone identifies as the gender they were assigned at birth. Cis normativity ignores and stigmatises transgender people, who do not identify with the gender they were originally assigned, or who do not identify with only one gender . 
+Cis normativity ignores and stigmatises transgender people, who do not identify with the gender they were originally assigned, or who do not identify with only one gender . 
 
 ## Queer theory and post-structuralism
 A **post-structuralist** approach to gender known as **queer theory** builds on and critiques the **structuralist** ideas we encountered when we studied **semiotics**. According to De Saussure (a structuralist), language is **a system of differences** where signifiers gain meaning in relation to other signifiers. From this perspective, the relationship between the signifier “woman” and what it signifies is conventional and "arbitrary". From this perspective, to understand the meaning of this signifier we need to understand how the word "woman" differs from other signifiers (e.g. “man”). 
@@ -206,28 +220,29 @@ Post-structuralists point out that such relationships between signifiers are not
 Post-structuralist ideas have also been influential in media studies which investigate how gender normativities are reinforced and challenged through **performative** signifying practices. From the perspective of queer theory, gendered discourse & performativity are “regulatory practices within which bodily contours are constructed" [(Butler, 1999:181)(references.html#butler_1999)]. In other words, powerful social institutions make many of the rules and regulatory practices by which we learn to "do" gender in our bodies, and they also police our bodies when we don't conform. As the idea of non-conformity suggests, we can also counter this power, since our bodies are signs that we can control, vary, and change.
 
 ## Queer
-
+{: .definition}
 The term “queer” is a reclaimed homophobic insult, which now encompasses a wide range of identities. Queer identities refuse heterosexuality as the standard for all sexualities. 
 
 Queer is also used as a verb. Rather than “queer” describing something people are, from this perspective “queer” is something that people do (especially by parodying gender and calling into question gendered identities). (For more see Baker)
 
 ## Queer theory
-
+{: .definition}
 Queer theory is used to break down oversimplifying **binaries**, and is used to question **heteronormative** identities, categories, and assumptions by showing how  gender norms are performative signifying practices.
 
 By showing how sexuality may be shaped by race and gender in many ways, queer theory exposes how sexual and gender identities are socially constructed. (For more see Baker).
 
 ## Gender performativity
+{: .definition}
+The idea of gender performativity rests on the concept that we learn to “do” gender every day by imitating examples around us: “Gender is a kind of imitation for which there is no original” (Butler, 1988, 722). 
 
-The idea of gender performativity rests on the concept that we learn to “do” gender every day by imitating examples around us: “Gender is a kind of imitation for which there is no original” (Butler, 1988, 722). In this way we can think of our bodies as a signifying practice or medium as well as an embodied biological existence. The way we “do” gender can change, but other people will be reading our identities by making them intelligible within the current system. 
+In this way we can think of our bodies as a signifying practice or medium as well as an embodied biological existence. The way we “do” gender can change, but other people will be reading our identities by making them intelligible within the current system. 
 
 By gender performativity, Butler does not mean that gender is something that can be simply "put on" as an actor might put on a wig or hat. Instead, through the process of repeatedly observing and using particular gendered words, actions, and attitudes, we are constructed as gendered human beings. (For more see Baker)
 
 ## Embodied signifying practices
 
-Can we think of our bodies as a medium? **Gender performativity** is one way of explaining how, on the one hand, signs construct and police bodies, and, on the other, how our bodies are also signs that we can control, vary, and challenge. Our **embodied signifying practices** include gendered discourse about bodies & **gender performativity** (Butler, 1999:178). In other words, our signifying practices create legible bodies: “a social space for and of the body within certain regulatory grids of intelligibility” (Butler, 1999: 178) 
+Can we think of our bodies as a medium? **Gender performativity** is one way of explaining how, on the one hand, signs construct and police bodies, and, on the other, how our bodies are also signs that we can control, vary, and challenge. Our **embodied signifying practices** include gendered discourse about bodies & **gender performativity**. In other words, our signifying practices create legible bodies: “a social space for and of the body within certain regulatory grids of intelligibility” ([Butler, 1999:178](references.html#butler_1999)). 
 
-## References
 
 
 
