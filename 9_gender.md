@@ -14,7 +14,7 @@ title: 09. Gender and Representation
 
 Marion Walton and Martha Evans
 
-The goal of this chapter is to understand and challenge **[hegemonic](definitions/hegemony-(gramsci))** models of **sex** and **gender** in the media. We’ll explore the role of gender binaries in everyday language, the visual languages associated with objectification, stereotypes, gender display in advertising and marketing, and gender performativity, and finally ask how and to what extent GenerativeAI is perpetuating existing gender biases. 
+The goal of this chapter is to understand and challenge **[hegemonic](definitions/hegemony)** models of **sex** and **gender** in the media. We’ll explore the role of gender binaries in everyday language, the visual languages associated with objectification, stereotypes, gender display in advertising and marketing, and gender performativity, and finally ask how and to what extent GenerativeAI is perpetuating existing gender biases. 
 
 As discussed earlier, by "gendered discourse" we mean a range of **practices** which produce categories such as "men", "women" and the relations between them. This includes visual and verbal discourse, as well as how discourse is regulated by social institutions such as advertising and marketing, heteronormative families, single-sex schools, separate sporting codes for men and women, medicine, and so on. These **[multimodal](definitions.html#multimodal)** discursive practices work together with structural racism and other social systems to produce and police subject positions in **intersectional** ways.
 
@@ -198,17 +198,21 @@ Since much of the language we use to talk about gender is shaped by the patriarc
 Sexism is the ideology justifying men’s dominance in patriarchal social structures.
 
 ## Patriarchal social structures 
+{: .definition}
+Social systems where most women are dominated by some men, where gender oppression **intersects** with other systems of oppression (race, class, sexuality, disability, age etc). 
 
 We often talk about “patriarchy” in a simplistic way as a single system of male domination, or as if “the patriarchy” is a ruling body of powerful individuals. 
 
-{: .definition}
 Feminist philosopher Kate Manne ([2017](references.html#manne_2017)) explains that, in patriarchal social structures, most women are dominated by some men and that patriarchal structures also **[intersect](definitions.html#intersectionality)** with other systems of oppression (race, class, sexuality, disability, age etc). Patriarchal social structures are also influenced by structures which promote equality (universal suffrage, free childcare, affirmative action etc.). 
 
 Manne argues that these patriarchal social structures do not only lead to gendered hierarchies of domination but also to men’s expectations and sense of entitlement that they will be positioned as dominant with respect to some woman or women. Consequently, Manne claims, even in situations of nominal equality, men tend to have **entitlements** and women tend to have **obligations**. 
 
 ## Intersectionality
 
-Legal scholar Kimberle Crenshaw coined the term “intersectionality” when she saw how affirmative action policies  in the United States assisted white women, or African American men, but were not helpful to African American women, who experienced an intersection of oppression as a result of not just their gender or their race, but their race together with their gender. 
+{:.definition}
+The idea that people experience discrimination differently based on their overlapping identities.
+
+Legal scholar Kimberle Crenshaw coined the term “intersectionality” when she saw how affirmative action policies  in the United States assisted white women, or African American men, but were not helpful to African American women, who experienced an intersection of oppression as a result of not just their gender or their race, but their race together with their gender ([Crenshaw, 1991](references.html#crenshaw_1991)).
 
 Humans never exist as only a gender, we always have other intersectional identities. Think about how race, language, age, class, and religion all  change the way others perceive our gender identity.
 
@@ -248,17 +252,20 @@ Post-structuralist ideas have also been influential in media studies which inves
 {: .definition}
 The term “queer” is a reclaimed homophobic insult, which now encompasses a wide range of identities. Queer identities refuse heterosexuality as the standard for all sexualities. 
 
-Queer is also used as a verb. Rather than “queer” describing something people are, from this perspective “queer” is something that people do (especially by parodying gender and calling into question gendered identities). (For more see Baker)
+Queer is also used as a verb. Rather than “queer” describing something people are, from this perspective “queer” is something that people do (especially by parodying gender and calling into question gendered identities) ([
+Barker, 2016](references.html#barker_2016)).
 
 ## Queer theory
 {: .definition}
-Queer theory is used to break down oversimplifying **binaries**, and is used to question **heteronormative** identities, categories, and assumptions by showing how  gender norms are performative signifying practices.
+Queer theory is used to challenge essentialism, break down oversimplifying **binaries**, and to question **heteronormative** identities, categories, and assumptions through the argument that gender norms are performative signifying practices.
 
 By showing how sexuality may be shaped by race and gender in many ways, queer theory exposes how sexual and gender identities are socially constructed. (For more see Baker).
 
 ## Gender performativity
 {: .definition}
-The idea of gender performativity rests on the concept that we learn to “do” gender every day by imitating examples around us: “Gender is a kind of imitation for which there is no original” ([Butler, 1988, 722]()). 
+The idea of gender performativity rests on the concept that we learn to “do” gender every day by imitating examples around us, and that gendered discourse is performative in that it works to create and define gender categories. 
+
+	“Gender is a kind of imitation for which there is no original” (Butler, 1999, 722). 
 
 In this way we can think of our bodies as a signifying practice or medium as well as an embodied biological existence. The way we “do” gender can change, but other people will still be reading our identities within the current system. 
 

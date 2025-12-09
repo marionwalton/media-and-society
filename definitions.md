@@ -140,8 +140,8 @@ range of image editing and graphic design software (e.g. Adobe, Canva) as well a
 for social platforms (e.g. Douyin/TikTok). The use of generative models to produce 
 media raises various ethical issues and is facing several legal challenges. 
 
-## Hegemony (Gramsci)
-Power and leadership maintained through processes of struggle and negotiation, especially through winning the consent of the majority to accept the ideologies of dominant group as common sense. (O'Shaugnessy & Stadler)
+## Hegemony 
+Hegemony, in the Gramscian tradition, can be defined as "Power and leadership maintained through processes of struggle and negotiation, especially through winning the consent of the majority to accept the ideologies of the dominant group as common sense". (O'Shaugnessy, Stadler & Casey, 2016)
 
 ## Incorporation
 Process by which ideas and movements considered dangerous or radical are made acceptable. (O'Shaugnessy & Stadler)
@@ -321,5 +321,51 @@ The scraped training data thus includes a great deal of marketing material, inco
 misleading information (**disinformation**) and generally reflects the overall **biases** we tend to find on the Internet and social media sites. 
 Unfortunately the raw web data used to train commercial models is loaded with racism, sexism and misinformation, 
 and systems trained on such sources may simply reproduce and often exacerbate such biases.
+
+## Sexism  
+
+Sexism is the ideology justifying men’s dominance in patriarchal social structures.
+
+## Patriarchal social structures 
+
+Social systems where most women are dominated by some men, where gender oppression **intersects** with other systems of oppression (race, class, sexuality, disability, age etc). 
+
+## Intersectionality
+{:.definition}
+The idea that people experience discrimination differently based on their overlapping identities.
+
+Legal scholar Kimberle Crenshaw coined the term “intersectionality” when she saw how affirmative action policies  in the United States assisted white women, or African American men, but were not helpful to African American women, who experienced an intersection of oppression as a result of not just their gender or their race, but their race together with their gender. 
+
+Humans never exist as only a gender, we always have other intersectional identities. Think about how race, language, age, class, and religion all  change the way others perceive our gender identity.
+
+## Misogyny 
+Misogyny enforces patriarchal social structures by punishing women (in particular) when they deviate from sexist norms ([Manne, 2017](references.html#manne)). 
+
+## Misogynoir  
+Misogynoir is a term for racism combined with misogyny directed towards Black women in particular. 
+
+## Cisgender  
+Cisgender is a term for individuals whose gender identity generally matches with their assigned sex, and who express a normative gender identity outwardly in terms of clothing, hair, and tone of voice.
+
+## Cis normativity
+Cis normativity refers to the assumption that everyone identifies as the gender they were assigned at birth. 
+
+## Queer
+{: .definition}
+The term “queer” is a reclaimed homophobic insult, which now encompasses a wide range of identities. Queer identities refuse heterosexuality as the standard for all sexualities. ([Barker, 2016](references.html#barker_2016))
+
+## Queer theory
+Queer theory is used to challenge essentialism, break down oversimplifying **binaries**, and to question **heteronormative** identities, categories, and assumptions through the argument that gender norms are performative signifying practices.
+
+By showing how sexuality may be shaped by race and gender in many ways, queer theory exposes how sexual and gender identities are socially constructed. ([
+Barker, 2016](references.html#barker_2016))
+
+## Gender performativity
+The idea of gender performativity rests on the concept that we learn to “do” gender every day by imitating examples around us, and that gendered discourse is performative in that it works to create and define gender categories. 
+
+
+
+
+
 
 

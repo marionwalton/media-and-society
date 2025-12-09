@@ -62,6 +62,9 @@ Cooke, Lucy. 2022. *Bitch: On the Female of the Species*. New York: Basic Books.
 
 Couldry, N. 2004\. Theorizing media as practice. *Social Semiotics* 14(2): 115-132.
 
+<a name="crenshaw_1991"></a>
+Crenshaw, Kimberle. 1991 “Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color”. Stanford Law Review 43.6.1241-1299.
+
 De Waal, M. 2012, 24 Aug. Marikana: The matter of embedded journalism. *Daily Maverick*. Available: https://www.dailymaverick.co.za/article/2012-08-24-marikana-the-matter-of-embedded-journalism/
 
 <a name="de_lanerolle_et_al_2017"></a>
