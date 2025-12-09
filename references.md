@@ -40,7 +40,7 @@ Bosch,T. 2022, February 11\. Radio is thriving in South Africa: 80% are tuning i
 Bronstein, V., & Katzew, J. (2018). Safeguarding the South African public broadcaster: Governance, civil society and the SABC. *Journal of Media Law*. 10.2. 244-272.
 
 <a name="butler_1999"></a>
-Butler, J. (1999) ‘‘Bodily Inscriptions, Performative Subversions’, in Gender Trouble. London: Routledge, pp. 175–193.
+Butler, J. 1999. Gender Trouble. London: Routledge.
 
 Cascini, F. et al. 2022\. Social media and attitudes towards a COVID-19 vaccination: A systematic review of the literature *eClinicalMedicine*, 48 (101454).
 
@@ -117,6 +117,10 @@ Goffman, E. 1979\. *Gender Advertisements*. London:Macmillan.
 Govenden, P. 2022\. Does Black Economic Empowerment Ownership Matter? A Decolonial Analysis of ‘Black Visibility’ in South Africa’s Print Media Content, 1994-2014. *African Journalism Studies*. 43 (2): 1–20.
 
 Granovetter, M.S., 1973. The strength of weak ties. American journal of sociology, 78(6): 1360-1380.
+
+<a name="graves_2018"></a>
+Graves. J. 2018. What makes you a man or a woman? Geneticist Jenny Graves explains. Available
+ https://theconversation.com/what-makes-you-a-man-or-a-woman-geneticist-jenny-graves-explains-102983
 
 Gunner, L., Ligaga, D., Moyo, D., Bosch, T., Chibita, M.B. and Coplan, D.B., 2012\. *Radio in Africa: Publics, cultures, communities*. Johannesburg: Wits University Press.
 
@@ -261,6 +265,9 @@ Statista Research Department. 2025, February 18. Global influencer marketing val
 
 <a name="supran_and_oreskes_2017"></a>
 Supran, G. and Oreskes, N., 2017\. Assessing ExxonMobil’s climate change communications (1977–2014). *Environmental Research Letters*. 12(8): 084019\.
+
+<a name="szorenyi_2022"></a>
+Szorenyi, Anna. 2022. Judith Butler: their philosophy of gender explained. Available https://theconversation.com/judith-butler-their-philosophy-of-gender-explained-192166
 
 <a name="thussu_2022"></a>
 Thussu, D. K. 2022\. De-colonizing Global News-flows: A Historical Perspective. *Journalism studies*. 23 (13): 1578–1592.

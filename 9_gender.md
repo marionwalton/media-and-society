@@ -18,7 +18,7 @@ The goal of this chapter is to understand and challenge **[hegemonic](definition
 
 As discussed earlier, by "gendered discourse" we mean a range of **practices** which produce categories such as "men", "women" and the relations between them. This includes visual and verbal discourse, as well as how discourse is regulated by social institutions such as advertising and marketing, heteronormative families, single-sex schools, separate sporting codes for men and women, medicine, and so on. These **[multimodal](definitions.html#multimodal)** discursive practices work together with structural racism and other social systems to produce and police subject positions in **intersectional** ways.
 
-We will consider several examples of gender in the media, noticing repeated patterns in media representations of masculinity and femininity, and in particular the **[binary oppositions](definitions.html#binary-oppositions)** between them. These examples will show how the semiotic details of visual representations such as photographs, advertising and synthetic media are used to construct **gendered identities** and **[ ideologies](definitions.html#ideology)** that may support or challenge **patriarchal social structures**. 
+We will consider several examples of gender in the media, noticing repeated patterns in normative media representations of masculinity and femininity, and in particular the **[binary oppositions](definitions.html#binary-oppositions)** between them. These examples will show how the semiotic details of visual representations such as photographs, advertising and synthetic media are used to construct **gendered identities** and **[ ideologies](definitions.html#ideology)** that may support or challenge **patriarchal social structures**. 
 
 [Discourse](definitions.html#discourse-(foucault)){: .btn .btn-blue }
 [Post-structuralist](definitions.html#post-structuralist){: .btn .btn-blue }
@@ -38,7 +38,7 @@ The term “gender” was introduced by anthropologist Margaret Mead ([Delphy, 1
 
  People's understanding of gender changes over time and differs between cultural contexts, as illustrated by the different versions of femininity in the Coca-Cola ads in Figure 1. 
 
-Decolonial scholars show how gender ideologies and discourses emerge in specific contexts. For example, Oyewumi (1997) argues against imposing Western gender theories (and even the category “woman”) when discussing pre-colonial African societies, noting how scholars interpreted the history of Yoruba society through a patriarchal lens, assuming that leaders were men, while in fact Yoruba women lost many property rights and other powers as a result of colonial rule. 
+Decolonial scholars show how gender ideologies and discourses emerge in specific contexts. For example, Oyewumi ([1997](references.html#oyewumi)) argues against imposing Western gender theories (and even the category “woman”) when discussing pre-colonial African societies, noting how scholars interpreted the history of Yoruba society through a patriarchal lens, assuming that leaders were men, while in fact Yoruba women lost many property rights and other powers as a result of colonial rule. 
 
 {: .question}
 What terms are used to discuss cultural aspects of our gender identities (rather than biological sex)?
@@ -57,11 +57,11 @@ Terms for gender identity include, but are not limited to, woman, man, non-binar
 
 Binary is a mathematical term which describes a numeral system with only two different **symbols** (1 or 0). In language, binary oppositions are a system of opposing and mutually exclusive categories or signifiers. 
 
-|  |  |  |
-|--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| More power | Less power |
+|------------|------------|
+| Man        | Woman      |
+| Rational   | Emotional  |
+| Straight   | Gay        |
 
  These binary oppositions underpin **hegemonic** social hierarchies (e.g. in many contexts “man” has more social power than “woman”, “straight” has more social power than “gay”, “logic” has more social power than “emotion”). 
  
@@ -81,11 +81,17 @@ Used inclusively, with an awareness of **[intersectionality](definitions.html#in
 
 ## Sex and/or gender?
 
-​​Feminists have traditionally distinguished between the terms “sex” (used to discuss biological issues) and “gender” (referring to culture and signification):
+​​Feminists have traditionally distinguished between the terms “sex” (used to discuss biological issues) and “gender” (referring to culture and signification). For example, Oakley ([1972:6](references.html#oakley_1972)) explains the difference as follows:
 
-‘Sex is a word that refers to the biological differences between male and female: the visible difference in genitalia, the related difference in procreative function. “Gender” however is a matter of culture: it refers to the social classification into “masculine” and “feminine” (Oakley, 1972:6)
+    "Sex" is a word that refers to the biological differences between male and female: the visible difference in genitalia, the related difference in procreative function. “Gender” however is a matter of culture: it refers to the social classification into “masculine” and “feminine” 
 
-In media studies, we focus on issues of culture and signification, and so our discussions focus on issues of gender. Nonetheless, even biological sex does not support a binary perspective. Despite popular belief that nature is neatly divided into “male” and "female” sexes, contemporary biological sciences suggest a far more complex picture. There is extensive biological variation in many of the physical traits, endocrine systems and even the chromosomes traditionally associated with “male” and “female” categories. To add to this complexity, bio-medical technologies such as birth control pills, hormone replacement therapy, gender affirming therapies and even body-altering fashions such as cosmetic surgery and corsets are cultural interventions mediating our physical experience. Women scientists in particular have highlighted how sexist ideologies have distorted scientists’ perception of sex, reproduction and female animals (Cooke, 2022:x).
+Nonetheless, many feminists would argue that our understanding of biological sex is also profoundly shaped by cultural beliefs about gender. Butler ([1999](references.html#butler_1999)) argues that it makes no sense to talk about biological “sex” separate from its social meanings to us and also questions essentialist uses of the category "woman". 
+
+Women scientists in particular have highlighted how sexist ideologies have distorted scientists’ perception of sex, reproduction and female animals ([Cooke, 2022:x](references.html#cooke_2022)). Despite claims that “male” and "female” sexes are neatly differentiated, contemporary biological sciences suggest a far more complex picture. There is extensive biological variation in many physical traits, and even the chromosomes associated with “male” and “female” development involve complex activations and downstream effects ([Graves, 2018](references.html#graves_2018)) . 
+
+To add to this complexity, bio-medical technologies such as birth control pills, hormone replacement therapy, gender affirming therapies and even body-altering fashions such as cosmetic surgery and corsets are cultural interventions mediating our physical experience and gender presentation. 
+
+We will use the term gender, since Media Studies focuses on issues of culture and signification, and discussions of gender rather than biology. 
 
 {: .question}
 What terms are used to discuss biological aspects of sex (rather than gender)?
@@ -101,7 +107,7 @@ Terms for sex include, but are not limited to "male", "female" and "intersex".�
 
 Our experience of living in a human body is mediated culturally through the language and images we use to represent and describe our bodies. While bodies exhibit a wide range of many different variations, language works in simplistic categories (man/woman), and visual media tends to reinscribe these categorical differences. 
 
-For example, while men are more likely to be biologically taller than women, there are some women who are taller than many or even most men. In Hollywood, many women actors are taller than their (male) love interests. These tall women actors tend to be shot in ways which exaggerate the height of the man in relation to the woman. In this and many other ways media industries tend to exaggerate gender differences as a part of reinscribing **heteronormativity**.
+For example, while men are more likely to be biologically taller than women, there are some women who are taller than many or even most men. In Hollywood, many women actors are taller than their (male) love interests. These tall women actors tend to be shot in ways which exaggerate the height of the man in relation to the woman. In this and many other ways media industries tend to exaggerate physical gender differences as a part of reinscribing **heteronormativity**.
 
 Beyond exaggerating gender differences, the media can be used to build public understanding of physical diversity. Instead it often amplifies the stigma and harmful vitriol directed at anyone who does not conform to a rigid binary. Think of how the international news media stigmatised Caster Semenya. Although Semenya identifies and was raised as a woman, her testosterone levels were ruled too high for her to compete in women’s categories without medical intervention.
 
@@ -252,11 +258,13 @@ By showing how sexuality may be shaped by race and gender in many ways, queer th
 
 ## Gender performativity
 {: .definition}
-The idea of gender performativity rests on the concept that we learn to “do” gender every day by imitating examples around us: “Gender is a kind of imitation for which there is no original” (Butler, 1988, 722). 
+The idea of gender performativity rests on the concept that we learn to “do” gender every day by imitating examples around us: “Gender is a kind of imitation for which there is no original” ([Butler, 1988, 722]()). 
 
-In this way we can think of our bodies as a signifying practice or medium as well as an embodied biological existence. The way we “do” gender can change, but other people will be reading our identities by making them intelligible within the current system. 
+In this way we can think of our bodies as a signifying practice or medium as well as an embodied biological existence. The way we “do” gender can change, but other people will still be reading our identities within the current system. 
 
-By gender performativity, Butler does not mean that gender is something that can be simply "put on" as an actor might put on a wig or hat. Instead, through the process of repeatedly observing and using particular gendered words, actions, and attitudes, we are constructed as gendered human beings. (For more see Baker)
+By gender performativity, Butler does not mean that gender is something that can be simply "put on" as an actor might put on a wig or hat. Gender is a performance but performativity also works like performatives in language (e.g. "I pronounce you man and wife"), in other words, naming someone a girl or boy works to create them as such ([Szorenyi, 2022](references.html#szorenyi_2022)).
+
+ through the process of repeatedly observing and using particular gendered words, actions, and attitudes, we are constructed as gendered human beings. (For more see Baker)
 
 ## Embodied signifying practices
 

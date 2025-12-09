@@ -209,9 +209,12 @@ The way a text speaks to or addresses its audience. (O'Shaugnessy & Stadler)
 ## Multimodality
 Multimodality involves the use of more than one semiotic mode in meaning-making, including but not limited to written and spoken language, images, and music.
 
-### Network
+## Network
 A network can be defined as any system of relationships ([Chandler & Munday,2020a](/ideas/references/index.html#chandler_munday_2020a))
 which may represent relationships between people and things, or between words and other semiotic resources.
+
+## Normativity
+The imposition of norms and standards regarding how people ought to behave and  value.
 
 ### Oramedia 
 Oramedia includes traditionally *oral forms* such as storytelling, proverbs, folklore, folktales, drama, puppetry 
