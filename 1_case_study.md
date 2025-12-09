@@ -14,7 +14,7 @@ title: 021. Case Study - Synthetic Media
 - TOC
 {:toc}
 
-### Example - GenAI rhino
+### GenAI rhino
 
 {: .example}
 ![A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model](img/DALL-E_iziko_rhino.png)
@@ -42,7 +42,7 @@ Thus the use of GenAI in its current form is likely to further threaten our know
 {: .activity}
 ![Activity](img/pencilpencil.svg) Do you think that GenerativeAI is a new form of [cultural imperialism](definitions.html#cultural-imperialism)? How do you feel about artwork being created synthetically by AI?
 
-### Example - Synthetic search results
+### Synthetic search results
 
 {: .example}
 Search engines have started to provide synthetic "AI Overviews" or summaries in response to people's search queries. Here is an "AI overview" from Google's Search Labs responding to a question about the association between Pink Floyd's song  "Another Brick in the Wall (Part 2) and the Soweto Uprising of 1976:
