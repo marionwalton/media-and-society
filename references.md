@@ -307,6 +307,8 @@ wehustleclips. 2025, February 11. Kendrick Lamar's Super Bowl Halftime Show Symb
 <a name="walder_2009"></a>
 Walder, A. G. 2009. Political Sociology and Social Movements. *Annual review of sociology*. 35 (1): 393–412.
 
+<a name="Weidinger_2021"></a>
+Weidinger, Laura, John Mellor, Maribeth Rauh, et al. 2021. “Ethical and Social Risks of Harm from Language Models.” CoRR abs/2112.04359. <https://arxiv.org/abs/2112.04359>.
 
 <a name="willems_2014"></a>
 Willems, W. 2014\. Provincializing hegemonic histories of media and communication studies: towards a genealogy of epistemic resistance in Africa. *Communication Theory*. 24 (4): 415–434.
