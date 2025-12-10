@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 15. Definitions
+title: 17. Definitions
 ---
 
 Use this page to keep track of the new concepts you are learning in _Media & Society_. 

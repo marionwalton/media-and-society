@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  11. Media, publics & power
+title:  12. Media, publics & power
 ---
 # Media, publics & power
 {: .no_toc }

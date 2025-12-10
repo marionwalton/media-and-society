@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 09. Gender and Representation
+title: 10. Gender and Representation
 ---
 # Gender & Representation
 {: .no_toc }
@@ -61,7 +61,7 @@ Binary is a mathematical term which describes a numeral system with only two dif
 |------------|------------|
 | Man        | Woman      |
 | Rational   | Emotional  |
-| Straight   | Gay        |
+| Strong     | Weak       |
 
  These binary oppositions underpin **hegemonic** social hierarchies (e.g. in many contexts “man” has more social power than “woman”, “straight” has more social power than “gay”, “logic” has more social power than “emotion”). 
  
@@ -73,25 +73,21 @@ The pressures of binary stereotypes, and the lack of space for non-normative ide
 
 ## Women and men
 
-When discussing the cultural dimensions of gender, avoid the biological terms “male” and “female”, as well as terms which are loaded with gendered assumptions (e.g. “lady”). Instead, use “women” and “men” which refer to people’s **gender identity**. 
+When discussing the cultural dimensions of gender, try to avoid the biological terms “male” and “female”, as well as terms which are loaded with sexist assumptions (e.g. “lady”). Instead, use “women” and “men” which refer to people’s **gender identity**. 
 
-It's important to be aware though, that these terms are often used interchangeably with the biological terms “male” and “female” to construct a **gender binary**. A man/woman opposition is a major organising principle of social and media institutions such as sports and schools, where they are equated with biological terms “male” and “female”.  Used in this binary way, the terms exclude other possible identities, such as trans people who transition from one gender identity to another, as well as the identities of people who identify as **non-binary.** 
+It's important to be aware though, that "men" and "women" are often used interchangeably with the biological terms “male” and “female” to construct a **gender binary**. A man/woman opposition is a major organising principle of social and media institutions such as sports and schools, where they are equated with biological terms “male” and “female”.  Used in this binary way, the terms exclude other possible identities, such as trans people who transition from one gender identity to another, as well as the identities of people who identify as **non-binary.** 
 
-Used inclusively, with an awareness of **[intersectionality](definitions.html#intersectionality)** the terms “women” and “men” provide politically useful ways to challenge **sexism and misogyny**, and to encompass critiques of **cis normativity** and **gender binaries**. 
+Used inclusively, with an awareness of **[intersectionality](definitions.html#intersectionality)** the terms “women” and “men” provide politically useful ways to challenge **sexism and misogyny**, and to encompass critiques of **cis normativity** and **gender binaries**.
 
-## Sex and/or gender?
+{: .question}
+What terms are used to discuss cultural aspects of gender (rather than sex)?
 
-​​Feminists have traditionally distinguished between the terms “sex” (used to discuss biological issues) and “gender” (referring to culture and signification). For example, Oakley ([1972:6](references.html#oakley_1972)) explains the difference as follows:
+<details markdown="block">
+<summary>Answer</summary>
 
-"Sex" is a word that refers to the biological differences between male and female: the visible difference in genitalia, the related difference in procreative function. “Gender” however is a matter of culture: it refers to the social classification into “masculine” and “feminine”.
+Terms used to discuss gender include, but are not limited to "woman", "man", "nonbinary" ([LGBTQ GLOSSARY](https://web.archive.org/web/20230519035630/https://studentaffairs.jhu.edu/lgbtq/education/glossary/)) 
 
-Nonetheless, many feminists would argue that our understanding of biological sex is also profoundly shaped by cultural beliefs about gender. Butler ([1999](references.html#butler_1999)) argues that it makes no sense to talk about biological “sex” separate from its social meanings as part of their critique of questions essentialist uses of the category "woman". 
-
-Women scientists in particular have highlighted how sexist ideologies have distorted scientists’ perception of sex, reproduction and female animals ([Cooke, 2022:x](references.html#cooke_2022)). Despite claims that “male” and "female” sexes are neatly differentiated, contemporary biological sciences suggest a far more complex picture. There is extensive biological variation in many physical traits, and even the chromosomes associated with “male” and “female” development involve complex activations and downstream effects ([Graves, 2018](references.html#graves_2018)) . 
-
-To add to this complexity, bio-medical technologies such as birth control pills, hormone replacement therapy, gender affirming therapies and even body-altering fashions such as cosmetic surgery and corsets are cultural interventions mediating our physical experience and gender presentation. 
-
-In this chapter we prefer the term gender, since Media Studies focuses on issues of culture and signification, and discussions of gender rather than biology. 
+</details>
 
 {: .question}
 What terms are used to discuss biological aspects of sex (rather than gender)?
@@ -99,18 +95,9 @@ What terms are used to discuss biological aspects of sex (rather than gender)?
 <details markdown="block">
 <summary>Answer</summary>
 
-Terms for sex include, but are not limited to "male", "female" and "intersex".” ([LGBTQ GLOSSARY](https://web.archive.org/web/20230519035630/https://studentaffairs.jhu.edu/lgbtq/education/glossary/)) 
+Terms used to discuss biological aspects of sex include, but are not limited to "male", "female" and "intersex".” ([LGBTQ GLOSSARY](https://web.archive.org/web/20230519035630/https://studentaffairs.jhu.edu/lgbtq/education/glossary/)) 
 
 </details>
-
-## Biological traits and the media
-
-Our experience of living in a human body is mediated culturally through the language and images we use to represent and describe our bodies. While bodies exhibit a wide range of many different variations, language works in simplistic categories (man/woman), and visual media tends to reinscribe these categorical differences. 
-
-For example, while men are more likely to be biologically taller than women, there are some women who are taller than many or even most men. In Hollywood, many women actors are taller than their (male) love interests. These tall women actors tend to be shot in ways which exaggerate the height of the man in relation to the woman. In this and many other ways media industries tend to exaggerate physical gender differences as a part of reinscribing **heteronormativity**.
-
-Beyond exaggerating gender differences, the media can be used to build public understanding of physical diversity. Instead it often amplifies the stigma and harmful vitriol directed at anyone who does not conform to a rigid binary. Think of how the international news media stigmatised Caster Semenya. Although Semenya identifies and was raised as a woman, her testosterone levels were ruled too high for her to compete in women’s categories without medical intervention.
-
 
 ## Gender normativity and the media
 
@@ -180,14 +167,87 @@ Visual culture has shifted, and men’s bodies are now often also on display. In
 
 ## Gender bias and AI
 
-## Gender in marked and unmarked terms
+GenerativeAI tends to perpetuate the biases in its training data. Gender bias is a serious concern for feminist media researchers. Various kinds of representational harms are generated because of the way these models work. 
+
+Black feminist researchers have played a leading role in highlighting these concerns. 
+
+### Bias in computer vision
+
+Computer vision researchers warned early on that black faces were not even recognised as human, and that  facial recognition did not recognise black women's faces (Buolamwini & Gebru, 2018) 
+
+### Bias in LLMs
+As language models grew larger, Bender, Gebru, et al. (2021)  warned that synthetic text generation could reproduce systems of oppression in addition to spreading misinformation, and creating negative environmental and socio-economic impacts. 
+
+These risks related to the way language models rely on training data from undocumented datasets filled with hegemonic viewpoints, and collected with no accountability. 
+
+Gender stereotypes in linguistic data have been shown to be associated with stereotypical viewpoints and implicit judgements (Lewis, Molly, and Gary Lupyan. 2020.) Language models tend to reproduce and perpetuate such stereotypes, and have been associated with unfair discrimination, exclusionary norms, and toxic language, (Weidinger, Mellor & Rauh, et al., 2021). They also do not perform as well with less globally dominant languages.
+
+### Gender in marked and unmarked terms
 
 In English, normative gender identities tend to go unmarked, while non-normative gender identities are often explicitly marked, either by the use of a specific gendered term (e.g. in the past “actress” was used for women actors) or by using adjectives (e.g. “woman engineer”, “gay wedding” or “a strong, independent woman”. In such cases, the default or unmarked state (“actor”, “engineer”, "wedding”, "woman") is the normative identity (which usually goes without saying and thus doesn’t need to be stated explicitly e.g. a “\[male\] actor or engineer”, “\[straight\] wedding” or a “\[weak, dependent\] woman”). 
+
+The idea of an unmarked term refers to how the labels for people reflect social biases in the meanings of language. Unmarked terms (actor, nurse) and marked terms (actress, male nurse) name occupations and reflect social inequalities and norms about the gender of people in those occupations. Marginalised social categories tend to be marked (e.g. gay wedding), while dominant perspectives often aren’t specified in the same way (people seldom talk about a “straight wedding”). 
+
+Culturally unmarked qualities are taken for granted and carry meanings which are almost too obvious to state (“that goes without saying"). Choosing to use a marked or unmarked term thus signifies your perspective and social context e.g. if you belong to a Muslim family and are chatting to your family about a cousin’s wedding, you probably wouldn’t mark this identity, since it “goes without saying” in this context. 
+
+## Example
+
+![Wedding photo of a soldier and a model - Generated by Midjourney](img/wedding_photo_midjourney.png "Wedding photo of a soldier and a model - Generated by Midjourney")
+Figure 2: Wedding photo of a soldier and a model - Generated by Midjourney
+
+### Culture
+In Figure 2, Midjourney interpreted the prompt as a wedding scene using the traditional dress for a "white" Western/Christian wedding, rather than representing the wedding costumes of any other tradition. 
+
+### Race and Gender 
+
+Gender normativity means “adhering to or reinforcing hegemonic, normative standards of masculinity or femininity”. 
+
+Both GenAI models generated weddings of white couples. 
+
+The unmarked identities in the prompt were "model" (all women) and "soldier" (all men). 
+
+The women depicted were all examples of hegemonic femininity (brides/models), while the images of men in most cases represented hegemonic masculinity (grooms/soldiers). 
+
+### Heteronormativity
+
+The weddings are all heteronormative weddings between a man (or masculine presenting person) and a woman (or feminine presenting person). 
+
+### Generating poses
+
+Poses and interaction tend to reflect normative gendering and wedding pics conform to the ritualised subordination of femininity familiar from Goffman's study of gender display in advertising. So for example, notice the differences in height between men and women and exaggerated power differences in many poses. 
+
+### Versions of masculinity
+
+There are several incongruities linked to outputs where signifiers suggest an inappropriate version of masculinity, since some soldiers are depicted in action on the battlefield, rather than wearing military dress uniform to a wedding ceremony. Bombed buildings, warfare, weapons and a violent version of hyper-masculinity reflect training data which included documentary, film or historical treatment of war. These details are both jarring and amusing in the context of a wedding celebration.
+
+Reflecting gender stereotypes, the unmarked term “soldier” is associated with men, while the unmarked term “model” is associated with women. Heteronormativity assumes the "normal" relationship is between one man and one woman, embodying conventional gender roles & norms (hegemonic masculinity and femininity) (Barker, 84). Such normativities are kept in place through associations between binary oppositions  e.g. man vs woman, strong vs weak, dominant vs subordinate. 
 
 ## Activity
 
 {: .activity}
 ![Activity](img/pencilpencil.svg) How can we use visual language to create images that play with, trouble or spark discussions about gender in contemporary society?
+
+## Sex and/or gender?
+
+​​Feminists have traditionally distinguished between the terms “sex” (used to discuss biological issues) and “gender” (referring to culture and signification). For example, Oakley ([1972:6](references.html#oakley_1972)) explains the difference as follows:
+
+"Sex" is a word that refers to the biological differences between male and female: the visible difference in genitalia, the related difference in procreative function. “Gender” however is a matter of culture: it refers to the social classification into “masculine” and “feminine”.
+
+Nonetheless, many feminists would argue that our understanding of biological sex is also profoundly shaped by cultural beliefs about gender. Butler ([1999](references.html#butler_1999)) argues that it makes no sense to talk about biological “sex” separate from its social meanings as part of their critique of questions essentialist uses of the category "woman". 
+
+Women scientists in particular have highlighted how sexist ideologies have distorted scientists’ perception of sex, reproduction and female animals ([Cooke, 2022:x](references.html#cooke_2022)). Despite claims that “male” and "female” sexes are neatly differentiated, contemporary biological sciences suggest a far more complex picture. There is extensive biological variation in many physical traits, and even the chromosomes associated with “male” and “female” development involve complex activations and downstream effects ([Graves, 2018](references.html#graves_2018)) . 
+
+To add to this complexity, bio-medical technologies such as birth control pills, hormone replacement therapy, gender affirming therapies and even body-altering fashions such as cosmetic surgery and corsets are cultural interventions mediating our physical experience and gender presentation. 
+
+In this chapter we prefer the term gender, since Media Studies focuses on issues of culture and signification, and discussions of gender rather than biology. 
+
+## Biological traits and the media
+
+Our experience of living in a human body is mediated culturally through the language and images we use to represent and describe our bodies. While bodies exhibit a wide range of many different variations, language works in simplistic categories (man/woman), and visual media tends to reinscribe these categorical differences. 
+
+For example, while men are more likely to be biologically taller than women, there are some women who are taller than many or even most men. In Hollywood, many women actors are taller than their (male) love interests. These tall women actors tend to be shot in ways which exaggerate the height of the man in relation to the woman. In this and many other ways media industries tend to exaggerate physical gender differences as a part of reinscribing **heteronormativity**.
+
+Beyond exaggerating gender differences, the media can be used to build public understanding of physical diversity. Instead it often amplifies the stigma and harmful vitriol directed at anyone who does not conform to a rigid binary. Think of how the international news media stigmatised Caster Semenya. Although Semenya identifies and was raised as a woman, her testosterone levels were ruled too high for her to compete in women’s categories without medical intervention.
 
 ## Talking about gender
 
