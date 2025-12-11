@@ -28,6 +28,9 @@ Bailey, Moya (2021). Misogynoir Transformed: Black Women's Digital Resistance. N
 <a name="barker_2016"></a>
 Barker, Meg-John. (2016). Queer: A graphic history. London: Icon Books.
 
+<a name="bender_2021"></a>
+Bender, E.M., Gebru, T., McMillan-Major, A. and Shmitchell, S., 2021, March. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency (pp. 610-623).
+
 <a name="bosch_mutsvairo_2017"></a>
 Bosch, T. and Mutsvairo, B. (2017) ‘Pictures, Protests and Politics: Mapping Twitter Images during South Africa’s Fees Must Fall Campaign’, African Journalism Studies, 38(2), pp. 71–89. doi: 10.1080/23743670.2017.1368869.
 
@@ -210,6 +213,9 @@ Kress, G. and Van Leeuwen, T. 2006\. *Reading Images: The Grammar of Visual Desi
 <a name="kress_2009"></a>
 Kress, G. 2009. Multimodality: A Social Semiotic Approach to Contemporary Communication (1st ed.). Routledge. https://doi.org/10.4324/9780203970034
 
+<a name="lewis_2020"></a>
+Lewis, Molly, and Gary Lupyan. 2020. “Gender Stereotypes Are Reflected in the Distributional Structure of 25 Languages.” Nature Human Behaviour 4 (10): 1021–28. https://doi.org/10.1038/s41562-020-0918-6.
+
 <a name="lomas_2025"></a>
 Lomas, N. 2025, February 19. Study of TikTok, X ‘For You’ feeds in Germany finds far-right political bias ahead of federal elections. Techcrunch. Available https://techcrunch.com/2025/02/19/study-of-tiktok-x-for-you-feeds-in-germany-finds-far-right-political-bias-ahead-of-federal-elections/
 
@@ -335,6 +341,8 @@ Wasserman. H. 2020\. The state of South African media: a space to contest democr
 <a name="wehustleclips_2025"></a>
 wehustleclips. 2025, February 11. Kendrick Lamar's Super Bowl Halftime Show Symbolism. Available https://www.tiktok.com/@wehustleclips/video/7469872080104820001
 
+<a name="weidinger_2021"></a>
+Weidinger, Laura, John Mellor, Maribeth Rauh, et al. 2021. “Ethical and Social Risks of Harm from Language Models.” CoRR abs/2112.04359. https://arxiv.org/abs/2112.04359.
 
 <a name="walder_2009"></a>
 Walder, A. G. 2009. Political Sociology and Social Movements. *Annual review of sociology*. 35 (1): 393–412.

@@ -14,7 +14,7 @@ title: 10. Gender and Representation
 
 Marion Walton and Martha Evans
 
-The goal of this chapter is to understand and challenge **[hegemonic](definitions.html/hegemony)** models of **sex** and **gender** in the media. We’ll explore the role of gender binaries in everyday language, the visual languages associated with objectification, stereotypes, gender display in advertising and marketing, and gender performativity, and finally ask how and to what extent GenerativeAI is perpetuating existing gender biases. 
+The goal of this chapter is to understand and challenge **[hegemonic](definitions.html/hegemony)** models of **sex** and **gender** in the media. We’ll explore the role of gender binaries in everyday language, the visual languages associated with objectification, stereotypes, gender display in advertising and marketing, and gender performativity. Finally, we ask how and to what extent GenerativeAI is perpetuating existing gender biases. 
 
 As discussed earlier, by "gendered [discourse](definitions.html#discourse)" we mean a range of **[practices](definitions.html#media-practices)** which produce categories such as "men", "women" and the relations between them. This includes visual and verbal discourse, as well as how discourse is regulated by social institutions such as neoliberal economies, advertising and marketing, heteronormative families, single-sex schools, separate sporting codes for men and women, medicine, and so on. These **[multimodal](definitions.html#multimodality)** discursive practices work together with structural racism and other social systems to produce and police subject positions in **[intersectional](definitions.html#intersectionality)** ways.
 
@@ -57,8 +57,8 @@ Terms for gender identity include, but are not limited to, woman, man, non-binar
 ![Activity](img/pencilpencil.svg)How does the meaning of “man” and “woman” differ in different contexts and different historical periods? 
 
 ## Binary oppositions
-
-Binary is a mathematical term which describes a numeral system with only two different symbols (1 or 0). In language, binary oppositions are a system of opposing and mutually exclusive categories or signifiers. 
+{: .definition}
+In language, binary oppositions are a system of opposing and mutually exclusive categories or signifiers. 
 
 | More power | Less power |
 |------------|------------|
@@ -70,29 +70,19 @@ Binary is a mathematical term which describes a numeral system with only two dif
  
 Understanding these binary oppositions in patriarchal discourses can help us to explain many gender **[stereotypes](definitions.html#stereotype)**.  
 
-Furthermore, binary categories work together when people try to enforce **[normative](definitions.html#normativity)** identities. For example, women are expected to be more caring than men, while also being judged for being overly emotional. Because the categories are seen as mutually exclusive, some people find the idea of gender transition a challenging concept. Similarly, when women have physical traits such as muscular shoulders or facial and body hair, this is often enough for people to question their femininity or even their identity as women..
+Furthermore, binary categories work together when people try to enforce **[normative](definitions.html#normativity)** identities. For example, women are expected to be more caring than men, while also being judged for being overly emotional. Because the categories are seen as mutually exclusive, some people find the idea of gender transition a challenging concept. Similarly, when women have physical traits such as muscular shoulders or facial and body hair, this is often enough for people to question their femininity or even their identity as women.
 
 The pressures of binary stereotypes, and the lack of space for non-normative identities is pronounced in languages like English where even personal pronouns specify a gender (“he” vs “she”). This is one of the reasons that some people prefer to use gender-neutral pronouns (e.g. “they, them”).
 
 [Binary oppositions](definitions.html#binary-oppositions){: .btn .btn-blue }
 
-## Women and men
+## Man/woman and male/female
 
 When discussing the cultural dimensions of gender, try to avoid the biological terms “male” and “female”, as well as terms which are loaded with sexist assumptions (e.g. “lady”). Instead, use “women” and “men” to refer to people’s **gender identity**. 
 
 It's important to be aware though, that "men" and "women" are often used interchangeably with the biological terms “male” and “female” to construct a **gender binary**. A man/woman opposition is a major organising principle of social and media institutions such as sports and schools, where they are equated with biological terms “male” and “female”.  Used in this binary way, the terms exclude many possible identities, such as trans people who transition from one identity to another, as well as the identities of people who identify as **non-binary.** 
 
 Used inclusively, with an awareness of **[intersectionality](definitions.html#intersectionality)** the terms “women” and “men” provide politically useful ways to challenge **[sexism](definitions.html#sexism)** and [misogyny](definitions.html#misogyny)**, and to encompass critiques of **[cis normativity](definitions.html#cis-normativity)** and gender **[binaries](definitions.html#binary-oppositions)**.
-
-{: .question}
-What terms are used to discuss cultural aspects of gender (rather than sex)?
-
-<details markdown="block">
-<summary>Answer</summary>
-
-Terms used to discuss gender include, but are not limited to "woman", "man", "nonbinary" ([LGBTQ GLOSSARY](https://web.archive.org/web/20230519035630/https://studentaffairs.jhu.edu/lgbtq/education/glossary/)) 
-
-</details>
 
 {: .question}
 What terms are used to discuss biological aspects of sex (rather than gender)?
@@ -106,6 +96,7 @@ Terms used to discuss biological aspects of sex include, but are not limited to 
 
 ## Gender normativity and the media
 
+{: .definition}
 Gender **[normativity](definitions.html#normativity)** involves adhering to or reinforcing hegemonic rules and standards about what kinds of behaviour are allowed for men and women. 
 
 For men, gender normativity is often associated with **hegemonic masculinity**. For women it is linked to the dominant and conventionally “womanly” forms of **femininity**.  These ideals change over time and vary in different contexts. An additional important dimension of gender normativity for both men and women is **heteronormativity**.
@@ -127,7 +118,12 @@ Hegemonic images of men in the media tend to emphasize power (both physical and 
 
 ### Heteronormativity
 
-Heteronormativity refers to an ideology about heterosexuality as the "normal" or "natural" form of attraction and relationships. This “natural” configuration of relationships is ideologically defined as a relationship between one man and one woman, who both embody conventional gender roles & norms (hegemonic masculinity and feminity), and engage in conventional sexual practices ([Barker, 2016:84](references.html#barker_2016)). These different normativities are related and are kept in place through the associations between a whole set of binary oppositions  e.g. man vs woman, strong vs weak, dominant vs subordinate, gay vs straight. 
+{: .definition}
+Heteronormativity refers to an ideology about heterosexuality as the "normal" or "natural" form of attraction and relationships. 
+
+Heteronormativity as a “natural” configuration of relationships is ideologically defined as a relationship between one man and one woman, who both embody conventional gender roles & norms (hegemonic masculinity and feminity), and engage in conventional sexual practices ([Barker, 2016:84](references.html#barker_2016)). 
+
+These different normativities are related and are kept in place through the associations between a whole set of binary oppositions  e.g. man vs woman, strong vs weak, dominant vs subordinate, gay vs straight. 
 
 ## Gender in advertising
 
@@ -176,7 +172,7 @@ Media and cultural studies perspectives emphasize how media and beauty brands ha
 {: .definition}
 Hypermasculinity exaggerates male stereotypical behavior, such as an emphasis on physical strength, aggression, and human male sexuality.
 
-A **hypermasculine** form of masculinity dominates many action film narratives, as well as games, and these narratives are also sometimes found in adverts. 
+**Hypermasculinity** dominates many action film narratives, as well as games, and these narratives are also sometimes found in adverts. 
 
 The message here is that masculinity solves problems with physical power, and physical violence in some cases. These dominant representations of masculinity tend to allow men a limited emotional range, which finds approved emotional outlets in sporting contests and rage-fuelled physical conflict. 
 
@@ -191,7 +187,7 @@ Visual culture has shifted, and men’s bodies are now often also on display. In
 
 ## Gender bias and AI
 
-GenerativeAI models tend to perpetuate the biases in its training data. For this reason, gender and other biases in synthetic media are a serious concern for feminist media researchers. Various kinds of representational harms are generated because of the way GenAI models work. 
+GenerativeAI models tend to perpetuate the biases in its training data. For this reason, gender and other biases in synthetic media are a serious concern for feminist media researchers. Various kinds of **representational harms** are generated because of the way GenAI models work. 
 
 Black feminist researchers have played a leading role in highlighting these concerns. 
 
@@ -260,7 +256,7 @@ There are several incongruities linked to outputs where signifiers suggest an in
 </details>
 
 {: .activity}
-![Activity](img/pencilpencil.svg) How does Google's Gemini interpret your photos? Multimodal LLMs like Gemini are also used to describe and access information about pictures. The descriptions and data gleaned in this way can include information about gender and sexuality.  Upload one of your pics here to try it out <https://theyseeyourphotos.com/> .... and then think about (i) whether you would be okay sharing the results of the experiment with other people (ii) how you feel about this kind of information being used by marketers?
+![Activity](img/pencilpencil.svg) How does Google's Gemini interpret your photos? Multimodal LLMs like Gemini can be used to describe and access information about pictures. The descriptions and data gleaned in this way can include information about gender and sexuality.  Upload one of your pics here to try it out <https://theyseeyourphotos.com/> .... and then think about (i) whether you would be okay sharing the results of the experiment with other people (ii) how you feel about this kind of information being used by marketers?
 
 
 
