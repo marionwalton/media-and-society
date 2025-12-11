@@ -179,6 +179,8 @@ GenerativeAI tends to perpetuate the biases in its training data. Gender bias is
 
 Black feminist researchers have played a leading role in highlighting these concerns. 
 
+Revise the definitions of GenAI and synthetic media for this section.
+
 ### Bias in computer vision
 
 Computer vision researchers warned early on that black faces were not even recognised as human, and that  facial recognition did not recognise black women's faces (Buolamwini & Gebru, 2018) 
@@ -221,14 +223,10 @@ Heteronormativity assumes the "normal" relationship is between one man and one w
 
 Midjourney generated weddings of white couples in this example. 
 
-Reflecting gender stereotypes, the unmarked term “soldier” is associated with men, while the unmarked term “model” is associated with women. 
+The unmarked identities in the prompt were "model" (all women) and "soldier" (all men). Reflecting gender stereotypes, the unmarked term “soldier” is associated with men, while the unmarked term “model” is associated with women. The women depicted were all examples of hegemonic femininity (brides/models), while the images of men in most cases represented hegemonic masculinity (grooms/soldiers).
 
-The unmarked identities in the prompt were "model" (all women) and "soldier" (all men). 
-
-The women depicted were all examples of hegemonic femininity (brides/models), while the images of men in most cases represented hegemonic masculinity (grooms/soldiers). 
-
-** Culture**
-In Figure 2, Midjourney interpreted the prompt as a wedding scene using the traditional dress for a "white" Western/Christian wedding, rather than representing the wedding costumes of any other tradition. 
+**Culture**
+Midjourney interpreted the prompt as a wedding scene using the traditional dress for a "white" Western/Christian wedding, rather than representing the wedding costumes of any other tradition. 
 
 **Heteronormativity**
 
