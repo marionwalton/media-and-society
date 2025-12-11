@@ -46,6 +46,8 @@ Post-structuralists point out that such relationships between signifiers are not
 
 Post-structuralist ideas have also been influential in media studies which investigate how gender normativities are reinforced and challenged through **performative** signifying practices. From the perspective of queer theory, gendered discourse & performativity are “regulatory practices within which bodily contours are constructed" [(Butler, 1999:181)(references.html#butler_1999)]. In other words, powerful social institutions make many of the rules and regulatory practices by which we learn to "do" gender in our bodies, and they also police our bodies when we don't conform. As the idea of non-conformity suggests, we can also counter this power, since our bodies are signs that we can control, vary, and change.
 
+[Post-structuralist](definitions.html#post-structuralist){: .btn .btn-blue }
+
 ### Queer
 {: .definition}
 The term “queer” is a reclaimed homophobic insult, which now encompasses a wide range of identities. Queer identities refuse heterosexuality as the standard for all sexualities. 
