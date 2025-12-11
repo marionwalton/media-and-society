@@ -27,6 +27,7 @@ We will consider several examples of gender in the media, noticing repeated patt
 
 ​​Feminists have traditionally distinguished between the terms “sex” (used to discuss biological issues) and “gender” (referring to culture and signification).
 
+{: .definition}
 Gender refers to “social and cultural roles, personality traits, and behaviours that are deemed **socially acceptable for men and women** in relation to concepts of masculinity and femininity” ([O’Shaughnessy,  Stadler, & Casey, 2016:360](references.html#oshaughnessy_2016)). 
 
 {: .example}
@@ -40,6 +41,8 @@ The term “gender” was introduced by anthropologist Margaret Mead ([Delphy, 1
 
 Decolonial scholars have documented how very different gender ideologies and discourses emerge in specific contexts. For example, [Oyewumi (1997)](references.html#oyewumi) argues against imposing Western gender theories (and even the category “woman”) when discussing pre-colonial African societies, noting how scholars interpreted the history of Yoruba society through a patriarchal lens, assuming that leaders were men, while in fact Yoruba women lost many property rights and other powers as a result of colonial rule. 
 
+[gender](definitions.html#gender){: .btn .btn-blue }
+
 {: .question}
 What terms are used to discuss cultural aspects of our gender identities (rather than biological sex)?
 
@@ -49,8 +52,6 @@ What terms are used to discuss cultural aspects of our gender identities (rather
 Terms for gender identity include, but are not limited to, woman, man, non-binary, genderqueer, and agender.” ([LGBTQ GLOSSARY](https://web.archive.org/web/20230519035630/https://studentaffairs.jhu.edu/lgbtq/education/glossary/)) 
 
 </details>
-
-[gender](definitions.html#gender){: .btn .btn-blue }
 
 {: .activity}
 ![Activity](img/pencilpencil.svg)How does the meaning of “man” and “woman” differ in different contexts and different historical periods (e.g. colonial and precolonial)? 
