@@ -155,7 +155,7 @@ While both visual and verbal languages reflect and perpetuate social inequalitie
 <figure>
 <iframe width="560" height="auto" src="https://www.youtube.com/watch?v=IiCDRNW5A84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 </figure>
-<figcaption>Example 1 \- Nike Dream Crazier</figcaptixon>
+<figcaption>Example 1 \- Nike Dream Crazier</figcaption>
 
 
 ### Masculinity in advertising
@@ -242,7 +242,10 @@ There are several incongruities linked to outputs where signifiers suggest an in
 Reflecting gender stereotypes, the unmarked term “soldier” is associated with men, while the unmarked term “model” is associated with women. Heteronormativity assumes the "normal" relationship is between one man and one woman, embodying conventional gender roles & norms (hegemonic masculinity and femininity) (Barker, 84). Such normativities are kept in place through associations between binary oppositions  e.g. man vs woman, strong vs weak, dominant vs subordinate. 
 </details>
 
+## Activity
 
+{: .activity}
+![Activity](img/pencilpencil.svg) How can we use visual language to create images that play with, trouble or spark discussions about gender in contemporary society?
 
 
 
