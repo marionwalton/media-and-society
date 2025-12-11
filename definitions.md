@@ -112,6 +112,9 @@ invested billions of dollars in their respective Artificial Intelligence (AI) sy
 ## Gender
 Gender refers to “social and cultural roles, personality traits, and behaviours that are deemed socially acceptable for men and women in relation to concepts of masculinity and femininity” ([O’Shaughnessy,  Stadler, & Casey, 2016:360](references.html#oshaughnessy_2016)). 
 
+## Gender normativity
+Gender normativity means “adhering to or reinforcing hegemonic, normative standards of masculinity or femininity”. 
+
 ## Gender performativity
 The idea of gender performativity rests on the concept that we learn to “do” gender every day by imitating examples around us, and that gendered discourse is performative in that it works to create and define gender categories. 
 
