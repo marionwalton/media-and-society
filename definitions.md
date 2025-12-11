@@ -107,7 +107,10 @@ New ideas and beliefs held by a few people at first, gradually becoming accepted
 
 ## Generative AI
 Generative AI, or GenAI refer to generative models such as LLMs or diffusion models. Used as media production tools, these are leading to dramatic shifts in both professional and everyday media practices. Four tech companies, namely Alphabet (Google), Amazon, Microsoft and Meta (Facebook) have recently 
-invested billions of dollars in their respective Artificial Intelligence (AI) systems which will have major consequences for the media production ecosystem. GenAI AIGC (Artificial Intelligence generated content) is already being incorporated in a wide range of image editing and graphic design software (e.g. Adobe, Canva) as well as short form video production apps for social platforms (e.g. Douyin/TikTok). The use of generative models to produce media raises various ethical issues and is facing several legal challenges. 
+invested billions of dollars in their respective Artificial Intelligence (AI) systems which will have major consequences for the media production ecosystem. GenAI AIGC (Artificial Intelligence generated content) is already being incorporated in a wide range of image editing and graphic design software (e.g. Adobe, Canva) as well as short form video production apps for social platforms (e.g. Douyin/TikTok). The use of generative models to produce media raises various ethical issues and is facing several legal challenges.
+
+## Generative AI
+Gender refers to “social and cultural roles, personality traits, and behaviours that are deemed socially acceptable for men and women in relation to concepts of masculinity and femininity” ([O’Shaughnessy,  Stadler, & Casey, 2016:360](references.html#oshaughnessy_2016)). 
 
 ## Gender performativity
 The idea of gender performativity rests on the concept that we learn to “do” gender every day by imitating examples around us, and that gendered discourse is performative in that it works to create and define gender categories. 

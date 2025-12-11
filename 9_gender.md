@@ -14,7 +14,7 @@ title: 10. Gender and Representation
 
 Marion Walton and Martha Evans
 
-The goal of this chapter is to understand and challenge **[hegemonic](definitions/hegemony)** models of **sex** and **gender** in the media. We’ll explore the role of gender binaries in everyday language, the visual languages associated with objectification, stereotypes, gender display in advertising and marketing, and gender performativity, and finally ask how and to what extent GenerativeAI is perpetuating existing gender biases. 
+The goal of this chapter is to understand and challenge **[hegemonic](definitions.html/hegemony)** models of **sex** and **gender** in the media. We’ll explore the role of gender binaries in everyday language, the visual languages associated with objectification, stereotypes, gender display in advertising and marketing, and gender performativity, and finally ask how and to what extent GenerativeAI is perpetuating existing gender biases. 
 
 As discussed earlier, by "gendered [discourse](definitions.html#discourse)" we mean a range of **[practices](definitions.html#media-practices)** which produce categories such as "men", "women" and the relations between them. This includes visual and verbal discourse, as well as how discourse is regulated by social institutions such as neoliberal economies, advertising and marketing, heteronormative families, single-sex schools, separate sporting codes for men and women, medicine, and so on. These **[multimodal](definitions.html#multimodality)** discursive practices work together with structural racism and other social systems to produce and police subject positions in **[intersectional](definitions.html#intersectionality)** ways.
 
@@ -49,6 +49,8 @@ What terms are used to discuss cultural aspects of our gender identities (rather
 Terms for gender identity include, but are not limited to, woman, man, non-binary, genderqueer, and agender.” ([LGBTQ GLOSSARY](https://web.archive.org/web/20230519035630/https://studentaffairs.jhu.edu/lgbtq/education/glossary/)) 
 
 </details>
+
+[gender](definitions.html#gender){: .btn .btn-blue }
 
 {: .activity}
 ![Activity](img/pencilpencil.svg)How does the meaning of “man” and “woman” differ in different contexts and different historical periods (e.g. colonial and precolonial)? 
