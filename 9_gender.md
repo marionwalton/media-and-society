@@ -165,8 +165,6 @@ Commodity feminist branding campaigns are fast becoming new normativities, follo
 
 Media and cultural studies perspectives emphasize how media and beauty brands have been and still are highly complicit with gendered **normativities** requiring all women and particularly Black women to engage in considerably more **aesthetic labour** than men do, while also spending a large amount of their income on beauty products, often in the guise of "self-care". 
 
-While both visual and verbal languages reflect and perpetuate social inequalities, people are always developing new language and semiotic resources and using them to bring about social change. Your creative project will use still images and draw on gender codes and discourses to appeal to its target market, and so we’ll look in  more detail at how print advertising has traditionally relied on a visual language which often subordinates women ([Goffman, 1979](references.html#goffman_1979)). 
-
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IiCDRNW5A84?si=D4MyNjK1stJPRAOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 </figure>
