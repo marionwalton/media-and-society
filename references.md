@@ -79,7 +79,7 @@ De Waal, M. 2012, 24 Aug. Marikana: The matter of embedded journalism. *Daily Ma
 De Lanerolle, I. Walton, M. & Schoon, A. 2017\. Izolo: mobile diaries of the less connected, Making All Voices Count Research Report, Brighton: [IDS](https://vula.uct.ac.za/portal/site/10b5a417-579d-4598-8f55-0b2019c243ce/tool/3bca772b-a684-425c-ab7a-ef5ba3f11f5b#).
 
 <a name="delphy_1993"></a>
-Delphy. 1993. Rethinking sex and gender. Women's Studies International Forum. 16(1): 1-9.
+Delphy, Christine. 1993. Rethinking sex and gender. Women's Studies International Forum. 16(1): 1-9.
 
 <a name="digital_2021"></a>
 Digital News Report. 2021, 23 June. Reuters Instittute. Available: https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2021/dnr-executive-summary

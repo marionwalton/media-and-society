@@ -33,13 +33,13 @@ Gender refers to “social and cultural roles, personality traits, and behaviour
 {: .example}
 ![Coca Cola Ads](img/coke_1958_2024.png)
 Figure 1 Coca-Cola Advertisement circa 1956. Coca-Cola South Africa Facebook Campaign featuring Tyla in Coke Studio promotion, 2024. | 
-The meanings we associate with femininity have changed over time, as illustrated by  the two Coca-Cola ads. What do they show us about how idealised femininities have changed in South Africa since 1956? How do we interpret these identities today? What social changes and governing institutions may have given rise to the change in significations? Do you think we can call both of the ads examples of hegemonic feminity?
+The meanings we associate with femininity have changed over time, as illustrated by  the two Coca-Cola ads. What do they show us about how idealised femininities have changed in South Africa since 1956? How do we interpret these identities today? What social changes and governing institutions may have given rise to the change in significations? Do you think we can call both of the ads examples of hegemonic femininity?
 
-The term “gender” was introduced by anthropologist Margaret Mead ([Delphy, 1993](references.html$delphy_1993)) who observed that gender role expectations and the temperaments of men and women in indigenous societies were starkly different to those in the United States at the time.   
+The term “gender” was introduced by anthropologist Margaret Mead ([Delphy, 1993](references.html#delphy_1993)) who observed that gender role expectations and the temperaments of men and women in indigenous societies were starkly different to those in the United States at the time.   
 
  People's understanding of gender changes over time and differs between cultural contexts, as illustrated by the different versions of femininity in the Coca-Cola ads in Figure 1. 
 
-Decolonial scholars have documented how very different gender ideologies and discourses emerge in specific contexts. For example, [Oyewumi (1997)](references.html#oyewumi) argues against imposing Western gender theories (and even the category “woman”) when discussing pre-colonial African societies, noting how scholars interpreted the history of Yoruba society through a patriarchal lens, assuming that leaders were men, while in fact Yoruba women lost many property rights and other powers as a result of colonial rule. 
+Decolonial scholars have documented how very different gender ideologies and discourses emerge in specific contexts. For example, [Oyewumi (1997)](references.html#oyewumi_1997) argues against imposing Western gender theories (and even the category “woman”) when discussing pre-colonial African societies, noting how scholars interpreted the history of Yoruba society through a patriarchal lens, assuming that leaders were men, while in fact Yoruba women lost many property rights and other powers as a result of colonial rule. 
 
 [Gender](definitions.html#gender){: .btn .btn-blue }
 
@@ -49,12 +49,12 @@ What terms are used to discuss cultural aspects of our gender identities (rather
 <details markdown="block">
 <summary>Answer</summary>
 
-Terms for gender identity include, but are not limited to, woman, man, non-binary, genderqueer, and agender.” ([LGBTQ GLOSSARY](https://web.archive.org/web/20230519035630/https://studentaffairs.jhu.edu/lgbtq/education/glossary/)) 
+Terms for gender identity include, but are not limited to, woman, man, non-binary, genderqueer, and agender. ([LGBTQ GLOSSARY](https://web.archive.org/web/20230519035630/https://studentaffairs.jhu.edu/lgbtq/education/glossary/)) 
 
 </details>
 
 {: .activity}
-![Activity](img/pencilpencil.svg)How does the meaning of “man” and “woman” differ in different contexts and different historical periods (e.g. colonial and precolonial)? 
+![Activity](img/pencilpencil.svg)How does the meaning of “man” and “woman” differ in different contexts and different historical periods? 
 
 ## Binary oppositions
 
@@ -66,7 +66,7 @@ Binary is a mathematical term which describes a numeral system with only two dif
 | Rational   | Emotional  |
 | Strong     | Weak       |
 
- These binary oppositions underpin **[hegemonic](definitions.html#hegemony-gramsci)** social hierarchies (e.g. in many contexts “man” has more social power than “woman”, “straight” has more social power than “gay”, “logic” has more social power than “emotion”). 
+ These binary oppositions underpin **[hegemonic](definitions.html#hegemony)** social hierarchies (e.g. in many contexts “man” has more social power than “woman”, “straight” has more social power than “gay”, “logic” has more social power than “emotion”). 
  
 Understanding these binary oppositions in patriarchal discourses can help us to explain many gender **[stereotypes](definitions.html#stereotype)**.  
 
@@ -82,7 +82,7 @@ When discussing the cultural dimensions of gender, try to avoid the biological t
 
 It's important to be aware though, that "men" and "women" are often used interchangeably with the biological terms “male” and “female” to construct a **gender binary**. A man/woman opposition is a major organising principle of social and media institutions such as sports and schools, where they are equated with biological terms “male” and “female”.  Used in this binary way, the terms exclude many possible identities, such as trans people who transition from one identity to another, as well as the identities of people who identify as **non-binary.** 
 
-Used inclusively, with an awareness of **[intersectionality](definitions.html#intersectionality)** the terms “women” and “men” provide politically useful ways to challenge **[sexism](definitions.html#sexism)** and [misogyny](definitions.html#misogyny)**, and to encompass critiques of **[cis normativity](definitions.html#cis-normativity)** and gender **[binaries](definitions.html#binaries)**.
+Used inclusively, with an awareness of **[intersectionality](definitions.html#intersectionality)** the terms “women” and “men” provide politically useful ways to challenge **[sexism](definitions.html#sexism)** and [misogyny](definitions.html#misogyny)**, and to encompass critiques of **[cis normativity](definitions.html#cis-normativity)** and gender **[binaries](definitions.html#binary-oppositions)**.
 
 {: .question}
 What terms are used to discuss cultural aspects of gender (rather than sex)?
@@ -113,7 +113,7 @@ For men, gender normativity is often associated with **hegemonic masculinity**. 
 ### Hegemonic femininity
 
 {: .definition}
-“the characteristics defined as womanly that establish and legitimate a hierarchical and complementary relationship to hegemonic masculinity and that, by doing so, guarantee the dominant position of men and the subordination of women” ([Schippers 2007: 94](references.html#schippers_2007)).
+Schippers ([2007: 94](references.html#schippers_2007))defines hegemonic feminity as “the characteristics defined as womanly that establish and legitimate a hierarchical and complementary relationship to hegemonic masculinity and that, by doing so, guarantee the dominant position of men and the subordination of women”. Some feminists question whether femininity can be hegemonic, since it is the subordinate term. 
 
 Idealised hegemonic forms of femininity are usually coded white and Western and are often associated with beauty and motherhood. While physical beauty is imperative, women’s active sexuality is potentially threatening, and a common target of **[misogyny](definitions.html#misogyny)**. Labels which suggest a woman is sexually active tend to be negative, while the same terms for men often have a positive, congratulatory meaning. 
 
@@ -135,15 +135,20 @@ Advertising is pervasive and designed to gain attention. As such, this form of m
 
 ### Stereotypes
 
-Feminist discussions of advertising have challenged the sexist **[stereotypes](definitions.html#stereotypes)** of an earlier era, where women were most often represented and interpellated as mothers, housewives, or sex objects. These critiques played a role in shifting advertising away from earlier scripts where men’s authoritative voices recommended products to women. The changes in the way of addressing women also acknowledged their important role as consumers. 
+Feminist discussions of advertising have challenged the sexist **[stereotypes](definitions.html#stereotype)** of an earlier era, where women were most often represented and interpellated as mothers, housewives, or sex objects. These critiques played a role in shifting advertising away from earlier scripts where men’s authoritative voices recommended products to women. The changes in the way of addressing women also acknowledged their important role as consumers. 
 
 ### Objectification
+{: .definition}
+Objectification is the act of treating or viewing a person  and especially a woman, _as an object_. In many cases this refers to sexual objectification, where women are reduced to their bodies or appearance, are identified with their body, or parts of their body.  
 
 Feminists also highlighted the prevalence of **[objectification](definitions.html#objectification)** in advertisements exploiting women’s physical appearance for commercial purposes. These advertisements often borrowed a cinematic style where women’s bodies and appearance were depicted primarily as objects of the “male gaze”. Through such visual traditions, while men gained pleasure in viewing, while (white) women were socialised to be passive and accustomed to being viewed ([Mulvey, 1975](references.html#mulvey_1975)). 
 
 ### Oppositional gaze
 
-The positioning for Black women is more complex. For example, [bell hooks (1992)](references.html#hooks) recalls her own experience of viewership and cinema. As a young woman, she did not see herself represented on the screen beyond a set of narrow **[stereotypes](definitions.html#stereotypes)**. Black women were not even represented as visual objects of desire. hooks’s notion of the “**[oppositional gaze](definitions.html#oppositional-gaze)**” draws our attention to what is not represented, as well as to the experience and dissenting perspective of Black women as viewers . 
+The positioning for Black women is more complex. For example, [bell hooks (1992)](references.html#hooks_1992) recalls her own experience of viewership and cinema. As a young woman, she did not see herself represented on the screen beyond a set of narrow **[stereotypes](definitions.html#stereotype)**. Black women were not even represented as visual objects of desire. hooks’s notion of the “**[oppositional gaze](definitions.html#oppositional-gaze)**” draws our attention to what is not represented, as well as to the experience and dissenting perspective of Black women as viewers . 
+
+{: .definition}
+Thus, the oppositional gaze refers to a space of viewer resistance and a critical perspective on mass media's lack of meaningful Black representation.
 
 ### Gender Display 
 

@@ -109,7 +109,7 @@ New ideas and beliefs held by a few people at first, gradually becoming accepted
 Generative AI, or GenAI refer to generative models such as LLMs or diffusion models. Used as media production tools, these are leading to dramatic shifts in both professional and everyday media practices. Four tech companies, namely Alphabet (Google), Amazon, Microsoft and Meta (Facebook) have recently 
 invested billions of dollars in their respective Artificial Intelligence (AI) systems which will have major consequences for the media production ecosystem. GenAI AIGC (Artificial Intelligence generated content) is already being incorporated in a wide range of image editing and graphic design software (e.g. Adobe, Canva) as well as short form video production apps for social platforms (e.g. Douyin/TikTok). The use of generative models to produce media raises various ethical issues and is facing several legal challenges.
 
-## Generative AI
+## Gender
 Gender refers to “social and cultural roles, personality traits, and behaviours that are deemed socially acceptable for men and women in relation to concepts of masculinity and femininity” ([O’Shaughnessy,  Stadler, & Casey, 2016:360](references.html#oshaughnessy_2016)). 
 
 ## Gender performativity
@@ -159,20 +159,6 @@ The way a text speaks to or addresses its audience. (O'Shaugnessy & Stadler)
 ## Multimodality
 Multimodality involves the use of more than one semiotic mode in meaning-making, including but not limited to written and spoken language, images, and music.
 
-## Network
-A network can be defined as any system of relationships ([Chandler & Munday,2020a](/ideas/references/index.html#chandler_munday_2020a))
-which may represent relationships between people and things, or between words and other semiotic resources.
-
-## Normativity
-The imposition of norms and standards regarding how people ought to behave and  value.
-
-## Oramedia 
-Oramedia includes traditionally *oral forms* such as storytelling, proverbs, folklore, folktales, drama, puppetry 
-and oral poetry. Digital media are also used to extend the reach of these indigenous forms of communication. 
-
-## Open Access
-Open access means anyone should be able to access a resource. There are no financial, legal or technical barriers to accessing it for various purposes. Open access works use **Creative Commons** licenses which mean that the authors are always acknowledged and various uses of the resource are allowed e.g. copying or creating derivative works.
-
 ## Media practices
 Media practices are the activities, habits and routines where people use media (individually or together) as part of a socially meaningful activity.
 
@@ -182,8 +168,27 @@ Misogyny enforces patriarchal social structures by punishing women (in particula
 ## Misogynoir  
 Misogynoir is a term for racism combined with misogyny directed towards Black women in particular. 
 
+## Network
+A network can be defined as any system of relationships ([Chandler & Munday,2020a](/ideas/references/index.html#chandler_munday_2020a))
+which may represent relationships between people and things, or between words and other semiotic resources.
+
 ## Neural Networks  
 A neural network is a statistical data structure based on early ideas about how the human brain works with trillions of interconnected cells or neurons. The artificial neural network is constructed or “trained” by being fed large  amounts of data (such as images from a museum gallery website, wikipedia articles, or chat logs). The network identifies patterns in the data (such as characteristic uses of colour by a particular artist) and processes them to build a mathematical model of an interconnected set of billions or trillions of parameters (numbers). Each numerical parameter is called a “neuron”, by analogy to the cellular structures in animal brains. The patterns in multidimensional sequences (vectors) of these neurons are used to synthesise media. 
+
+## Normativity
+The imposition of norms and standards regarding how people ought to behave and  value.
+
+### Objectification
+Objectification is the act of treating or viewing a person  and especially a woman, _as an object_. In many cases this refers to sexual objectification, where women are reduced to their bodies or appearance, are identified with their body, or parts of their body.  
+
+## Oramedia 
+Oramedia includes traditionally *oral forms* such as storytelling, proverbs, folklore, folktales, drama, puppetry and oral poetry. Digital media are also used to extend the reach of these indigenous forms of communication. 
+
+## Open Access
+Open access means anyone should be able to access a resource. There are no financial, legal or technical barriers to accessing it for various purposes. Open access works use **Creative Commons** licenses which mean that the authors are always acknowledged and various uses of the resource are allowed e.g. copying or creating derivative works.
+
+## Oppositional Gaze
+The oppositional gaze refers to a space of resistance where spectators critically examine the “absence of meaningful Black representation” in mass media.
 
 ## Patriarchal social structures 
 
@@ -206,14 +211,12 @@ establishing provenance. Provenance goes beyond the basic information usually in
 and how it is used in these contexts. This is particularly important for synthetic media and Generative AI, since LLMs often don't reveal these details at all. 
 
 ## Queer
-{: .definition}
 The term “queer” is a reclaimed homophobic insult, which now encompasses a wide range of identities. Queer identities refuse heterosexuality as the standard for all sexualities. ([Barker, 2016](references.html#barker_2016))
 
 ## Queer theory
 Queer theory is used to challenge essentialism, break down oversimplifying **binaries**, and to question **heteronormative** identities, categories, and assumptions through the argument that gender norms are performative signifying practices.
 
-By showing how sexuality may be shaped by race and gender in many ways, queer theory exposes how sexual and gender identities are socially constructed. ([
-Barker, 2016](references.html#barker_2016))
+By showing how sexuality may be shaped by race and gender in many ways, queer theory exposes how sexual and gender identities are socially constructed. ([Barker, 2016](references.html#barker_2016))
 
 ## Reference
 A full reference is included in the [list of references](definitions.html#reference) at the end of an assignment. A reference provides all the information the reader would need to find and check a source you've referred to. A full reference also includes the author's name and the date of publication, as well as (depending on the kind of source you're citing), the publisher, place of publication and page numbers or URL of the material you're referencing.  The in-text citation appears when you use the source in the text of the essay and in the list of references at the end of the essay.
@@ -227,6 +230,9 @@ Semiotic resources are the actions, knowledge and objects which we use for commu
 ## Sexism  
 
 Sexism is the ideology justifying men’s dominance in patriarchal social structures.
+
+## Stereotype
+A stereotype is a belief, fixed image or set of characteristics used to represent or generalize about a particular type of person. Stereotypes can be positive as well as negative.
 
 ## Subjectivity
 An individual's personal thoughts and experiences, their own way of seeing the world. The position from which we look at and understand the world. (O'Shaugnessy & Stadler)
