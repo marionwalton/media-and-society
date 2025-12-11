@@ -18,8 +18,7 @@ The goal of this chapter is to understand and challenge **[hegemonic](definition
 
 As discussed earlier, by "gendered [discourse](definitions.html#discourse)" we mean a range of **[practices](definitions.html#media-practices)** which produce categories such as "men", "women" and the relations between them. This includes visual and verbal discourse, as well as how discourse is regulated by social institutions such as neoliberal economies, advertising and marketing, heteronormative families, single-sex schools, separate sporting codes for men and women, medicine, and so on. These **[multimodal](definitions.html#multimodality)** discursive practices work together with structural racism and other social systems to produce and police subject positions in **[intersectional](definitions.html#intersectionality)** ways.
 
-We will consider several examples of gender in the media, noticing repeated patterns in **[normative](definitions.html#normativity)** media representations of masculinity and femininity, and in particular the **[binary oppositions](definitions.html#binary-oppositions)** between them. These examples will show how the semiotic details of visual representations such as photographs, advertising and synthetic media are used to construct gendered **[identities[](definitions.html#identity)
-** and **[ ideologies](definitions.html#ideology)** that may support or challenge **[patriarchal social structures](definitions.html#patriarchal-social-structures)**. 
+We will consider several examples of gender in the media, noticing repeated patterns in **[normative](definitions.html#normativity)** media representations of masculinity and femininity, and in particular the **[binary oppositions](definitions.html#binary-oppositions)** between them. These examples will show how the semiotic details of visual representations such as photographs, advertising and synthetic media are used to construct gendered **[identities](definitions.html#identity)** and **[ideologies](definitions.html#ideology)** that may support or challenge **[patriarchal social structures](definitions.html#patriarchal-social-structures)**. 
 
 [Discourse](definitions.html#discourse-(foucault)){: .btn .btn-blue }
 [Intersectionality](definitions.html#intersectionality){: .btn .btn-blue }
@@ -33,7 +32,7 @@ Gender refers to “social and cultural roles, personality traits, and behaviour
 {: .example}
 ![Coca Cola Ads](img/coke_1958_2024.png)
 Figure 1 Coca-Cola Advertisement circa 1956. Coca-Cola South Africa Facebook Campaign featuring Tyla in Coke Studio promotion, 2024. | 
-The meanings we associate with femininity have changed over time, as illustrated by  the two Coca-Cola ads. What do they show us about how hegemonic femininities have changed in South Africa since 1956? How do we interpret these identities today? What social changes and governing institutions may have given rise to the change in significations?
+The meanings we associate with femininity have changed over time, as illustrated by  the two Coca-Cola ads. What do they show us about how idealised femininities have changed in South Africa since 1956? How do we interpret these identities today? What social changes and governing institutions may have given rise to the change in significations? Do you think we can call both of the ads examples of hegemonic feminity?
 
 The term “gender” was introduced by anthropologist Margaret Mead ([Delphy, 1993](references.html$delphy_1993)) who observed that gender role expectations and the temperaments of men and women in indigenous societies were starkly different to those in the United States at the time.   
 
