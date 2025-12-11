@@ -253,7 +253,8 @@ There are several incongruities linked to outputs where signifiers suggest an in
 
 </details>
 
-
+{: .activity}
+![Activity](img/pencilpencil.svg) How does a Multimodal LLM like Google's Gemini interpret your photos? Upload one of your pics here to try it out <https://theyseeyourphotos.com/> .... and then think about (i) whether you would be okay sharing the results of the experiment with other people (ii) how you feel about this kind of information being used by marketers?
 
 
 
