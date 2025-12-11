@@ -242,6 +242,12 @@ Oyewumi, Oyeronke. 1997\. The Invention of Women: Making an African Sense of Wes
 <a name="pariser_2011"></a>
 Pariser, Eli. 2011. The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think. Penguin. ISBN 9781101515129.
 
+<a name="poloclub_diffusion_nd"></a>
+Poloclub Diffusion Explainer. n.d. Poloclub Diffusion Explainer. Available https://poloclub.github.io/diffusion-explainer/
+
+<a name="poloclub_transformer_nd"></a>
+Poloclub Transformer Explainer, n.d. Poloclub Transformer Explainer. Available https://poloclub.github.io/transformer-explainer/
+
 <a name="rettberg_2014"></a>
 Rettberg, J. 2014. Seeing Ourselves Through Technology: How We Use Selfies, Blogs and Wearable Devices to See and Shape Ourselves. Palgrave Macmillan. 
 
