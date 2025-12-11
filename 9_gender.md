@@ -152,6 +152,12 @@ Media and cultural studies perspectives emphasize how media and beauty brands ha
 
 While both visual and verbal languages reflect and perpetuate social inequalities, people are always developing new language and semiotic resources and using them to bring about social change. Your creative project will use still images and draw on gender codes and discourses to appeal to its target market, and so we’ll look in  more detail at how print advertising has traditionally relied on a visual language which often subordinates women (Goffman, 1979). 
 
+<figure>
+<iframe width="560" height="auto" src="https://www.youtube.com/watch?v=IiCDRNW5A84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+</figure>
+<figcaption>Example 1 \- Nike Dream Crazier</figcaptixon>
+
+
 ### Masculinity in advertising
 
 A **hyper-masculine** form of masculinity dominates many action film narratives, as well as games, and these narratives are also sometimes found in adverts. 
