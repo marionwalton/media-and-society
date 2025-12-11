@@ -260,9 +260,7 @@ There are several incongruities linked to outputs where signifiers suggest an in
 </details>
 
 {: .activity}
-![Activity](img/pencilpencil.svg) How does Google's Gemini interpret your photos? Multimodal LLMs like Gemini are also used to describe and access information about pictures. The descriptions and data gleaned in this way can include information about gender and sexuality.  
-
-Upload one of your pics here to try it out <https://theyseeyourphotos.com/> .... and then think about (i) whether you would be okay sharing the results of the experiment with other people (ii) how you feel about this kind of information being used by marketers?
+![Activity](img/pencilpencil.svg) How does Google's Gemini interpret your photos? Multimodal LLMs like Gemini are also used to describe and access information about pictures. The descriptions and data gleaned in this way can include information about gender and sexuality.  Upload one of your pics here to try it out <https://theyseeyourphotos.com/> .... and then think about (i) whether you would be okay sharing the results of the experiment with other people (ii) how you feel about this kind of information being used by marketers?
 
 
 
