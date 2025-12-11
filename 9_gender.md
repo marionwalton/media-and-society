@@ -148,7 +148,7 @@ Feminists also highlighted the prevalence of **[objectification](definitions.htm
 The positioning for Black women is more complex. For example, [bell hooks (1992)](references.html#hooks_1992) recalls her own experience of viewership and cinema. As a young woman, she did not see herself represented on the screen beyond a set of narrow **[stereotypes](definitions.html#stereotype)**. Black women were not even represented as visual objects of desire. hooks’s notion of the “**[oppositional gaze](definitions.html#oppositional-gaze)**” draws our attention to what is not represented, as well as to the experience and dissenting perspective of Black women as viewers . 
 
 {: .definition}
-Thus, the oppositional gaze refers to a space of viewer resistance and a critical perspective on mass media's lack of meaningful Black representation.
+The oppositional gaze refers to a space of viewer resistance and a critical perspective on mass media's lack of meaningful Black representation.
 
 ### Gender Display 
 
