@@ -120,7 +120,7 @@ Idealised hegemonic forms of femininity are usually coded white and Western and 
 
 ### Hegemonic masculinity
 
-Hegemonic images of men in the media tend to emphasize power (both physical and economic) and victory, in what has been termed phallic masculinity (Gill, 2010). Representations repeat the association of physical strength, power, muscle, heroism, stamina, and endurance with masculinity. Men’s social power is reified, and often takes a physical shape in  visual media. Marginalised forms of masculinity are presented as "other" or presented as threatening, often because of sexuality, race or class identities
+Hegemonic images of men in the media tend to emphasize power (both physical and economic, as well as whiteness) and victory, in what has been termed phallic masculinity ([Gill, 2010](references.html#gill_2010)). Representations repeat the association of physical strength, power, muscle, heroism, stamina, and endurance with masculinity. Men’s social power is reified, and often takes a physical shape in  visual media. Marginalised forms of masculinity are presented as "other" or presented as threatening, often because of sexuality, race or class identities
 
 ### Heteronormativity
 
