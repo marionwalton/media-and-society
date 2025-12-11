@@ -122,7 +122,10 @@ Cis normativity refers to the assumption that everyone identifies as the gender 
 
 Cis normativity ignores and stigmatises transgender people, who do not identify with the gender they were originally assigned, or who do not identify with only one gender . 
 
+## Activity
 
+{: .activity}
+![Activity](img/pencilpencil.svg) How can we use visual language to create images that play with, trouble or spark discussions about gender in contemporary society?
 
 
 
