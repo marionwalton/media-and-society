@@ -10,11 +10,14 @@ These are the important sources used in _Media & Society_.
 <a name="abidin_2018"></a>
 Abidin, C. (2018). Internet celebrity: Understanding fame online. Emerald.
 
+<a name="alim_2021"></a>
 Alim, H.S., Williams, Q.E., Haupt, A. and Jansen, E. 2021\. “Kom Khoi San, kry trug jou land”: Disrupting White Settler Colonial Logics of Language, Race, and Land with Afrikaaps. *Journal of Linguistic Anthropology*. 31(2):194-217.
 
-Association of Independent Publishers. 2024, November 25. AIP and Google launch major South African local news support fund. Available https://aip.org.za/2024/11/25/aip-google-launch-major-local-news-support-fund/
-
+<a name="are_2021"></a>
 Are, C. & Paasonen, S. 2021\. Sex in the shadows of celebrity. *Porn Studies*. 8(4): 411-419.
+
+<a name="association_2024"></a>
+Association of Independent Publishers. 2024, November 25. AIP and Google launch major South African local news support fund. Available https://aip.org.za/2024/11/25/aip-google-launch-major-local-news-support-fund/
 
 <a name="appadurai_1996"></a>
 Appadurai, A. 1996\. Modernity At Large: Cultural Dimensions of Globalization. U of Minnesota Press.
@@ -25,25 +28,27 @@ Bailey, Moya (2021). Misogynoir Transformed: Black Women's Digital Resistance. N
 <a name="barker_2016"></a>
 Barker, Meg-John. (2016). Queer: A graphic history. London: Icon Books.
 
-<a name="bruns_2023"></a>
-Bruns, Axel. 2023. From “the” public sphere to a network of publics: towards
-an empirically founded model of contemporary public
-communication spaces *Communication Theory* 33:70–81 https://doi.org/10.1093/ct/qtad007.
-
 <a name="bosch_mutsvairo_2017"></a>
 Bosch, T. and Mutsvairo, B. (2017) ‘Pictures, Protests and Politics: Mapping Twitter Images during South Africa’s Fees Must Fall Campaign’, African Journalism Studies, 38(2), pp. 71–89. doi: 10.1080/23743670.2017.1368869.
 
 <a name="bosch_2022"></a>
 Bosch,T. 2022, February 11\. Radio is thriving in South Africa: 80% are tuning in. *The Conversation.* Available: https://theconversation.com/radio-is-thriving-in-south-africa-80-are-tuning-in-176846
 
-<a name="bronstein_2018"></a>
-Bronstein, V., & Katzew, J. (2018). Safeguarding the South African public broadcaster: Governance, civil society and the SABC. *Journal of Media Law*. 10.2. 244-272.
-
 <a name="butler_1999"></a>
 Butler, J. 1999. Gender Trouble. London: Routledge.
 
+<a name="bronstein_2018"></a>
+Bronstein, V., & Katzew, J. (2018). Safeguarding the South African public broadcaster: Governance, civil society and the SABC. *Journal of Media Law*. 10.2. 244-272.
+
+<a name="bruns_2023"></a>
+Bruns, Axel. 2023. From “the” public sphere to a network of publics: towards
+an empirically founded model of contemporary public
+communication spaces *Communication Theory* 33:70–81 https://doi.org/10.1093/ct/qtad007.
+
+<a name="cascini_2022"></a>
 Cascini, F. et al. 2022\. Social media and attitudes towards a COVID-19 vaccination: A systematic review of the literature *eClinicalMedicine*, 48 (101454).
 
+<a name="castells_2015"></a>
 Castells, M. 2015. *Networks of outrage and hope*. Malden: Polity Press.
 
 <a name="chandler_munday_2020a"></a>
@@ -55,16 +60,19 @@ Chuma, W. 2010\. Western paradigms, African media experiences. *Rhodes Journalis
 <a name="chuma_2019"></a>
 Chuma, W. 2019\. Political Economy of the Media in Africa. In S. Chiumbu & M. Iqani (Eds) *Media Studies: Critical African and Decolonial Approache*s. Cape Town: Oxford University Press. 
 
+<a name="coded_2020"></a>
 Coded Bias \[Video\]. 2020\. Produced by S. Hoffman & Directed by S. Kantayya. United States of America: 7th Empire Media & Women Make Movies.
 
 <a name="cooke_2022"></a>
 Cooke, Lucy. 2022. *Bitch: On the Female of the Species*. New York: Basic Books. 
 
+<a name="couldry_2004"></a>
 Couldry, N. 2004\. Theorizing media as practice. *Social Semiotics* 14(2): 115-132.
 
 <a name="crenshaw_1991"></a>
 Crenshaw, Kimberle. 1991 “Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color”. Stanford Law Review 43.6.1241-1299.
 
+<a name="dewaal_2012"></a>
 De Waal, M. 2012, 24 Aug. Marikana: The matter of embedded journalism. *Daily Maverick*. Available: https://www.dailymaverick.co.za/article/2012-08-24-marikana-the-matter-of-embedded-journalism/
 
 <a name="de_lanerolle_et_al_2017"></a>
@@ -73,11 +81,13 @@ De Lanerolle, I. Walton, M. & Schoon, A. 2017\. Izolo: mobile diaries of the les
 <a name="delphy_1993"></a>
 Delphy. 1993. Rethinking sex and gender. Women's Studies International Forum. 16(1): 1-9.
 
+<a name="digital_2021"></a>
 Digital News Report. 2021, 23 June. Reuters Instittute. Available: https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2021/dnr-executive-summary
 
 <a name="dugmore_2018"></a>
 Dugmore, Harry. 2018\. Paying the Piper: The Sustainability of the News Industry and Journalism in South Africa in a Time of Digital Transformation and Political Uncertainty. Available: https://themediaonline.co.za/wp-content/uploads/ 2018/05/PAYING-THE-PIPER-The-sustainability-of-the-news-industry-and-journalism-in-South-Africa-in--time-of-digital-transformation-and-political-uncertainty.pdf.
 
+<a name="dunham_2023"></a>
 Dunham, J. 2023\. Deadly year for journalists as killings rose sharply in 2022\. Committee to Protect Journalists. Available: https://cpj.org/reports/2023/01/deadly-year-for-journalists-as-killings-rose-sharply-in-2022/
 
 <a name="fraser_1990"></a>
@@ -107,7 +117,6 @@ Foucault, Michel. (1980). Power/Knowledge. (Ed.) Gordon, Colin. Pantheon: New Yo
 <a name="foucault_1972"></a>
 Foucault, Michel. (1972). The Archaeology of Knowledge and the Discourse on Language. Pantheon: New York
 
-
 <a name="gadamer_1982"></a>
 Gadamer, Hans-Georg. 1982. *Truth and method*. New York:Crossroad.
 
@@ -117,14 +126,17 @@ Gill, Rosalind (2010) Chapter “Gender” in The Media: An Introduction (3rd Ed
 <a name="goffman_1979"></a>
 Goffman, E. 1979\. *Gender Advertisements*. London:Macmillan.
 
+<a name="govenden_2022"></a>
 Govenden, P. 2022\. Does Black Economic Empowerment Ownership Matter? A Decolonial Analysis of ‘Black Visibility’ in South Africa’s Print Media Content, 1994-2014. *African Journalism Studies*. 43 (2): 1–20.
 
+<a name="granovetter_1973"></a>
 Granovetter, M.S., 1973. The strength of weak ties. American journal of sociology, 78(6): 1360-1380.
 
 <a name="graves_2018"></a>
 Graves. J. 2018. What makes you a man or a woman? Geneticist Jenny Graves explains. Available
  https://theconversation.com/what-makes-you-a-man-or-a-woman-geneticist-jenny-graves-explains-102983
 
+<a name="gunner_2012"></a>
 Gunner, L., Ligaga, D., Moyo, D., Bosch, T., Chibita, M.B. and Coplan, D.B., 2012\. *Radio in Africa: Publics, cultures, communities*. Johannesburg: Wits University Press.
 
 <a name="guo_2019"></a>
@@ -140,8 +152,7 @@ Habermas, Jürgen 1989. The Structural Transformation of the Public Sphere: An I
 Habermas, Jürgen 2006. "Political Communication in Media Society: Does Democracy Still Enjoy an Epistemic Dimension? The Impact of Normative Theory on Empirical Research" Communication Theory 16 (4): 411–426.
 
 <a name="hill_et_al_2022"></a>
-Hill, Benjamin Mako, and Aaron Shaw. 2013, June 26. “The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with Propensity Score Estimation.” Edited by Angel Sánchez. PLoS ONE 8.6
-Version: Final published version
+Hill, Benjamin Mako, and Aaron Shaw. 2013, June 26. “The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with Propensity Score Estimation.” Edited by Angel Sánchez. PLoS ONE 8.6.
 
 <a name="hall_2006"></a>
 Hall, S. 2006. Encoding/Decoding. In Durham, M & Keller, D. (eds.). Media and Cultural Studies: KeyWorks. Revised Edition. Oxford: Blackwell. 163–73. 
@@ -152,14 +163,19 @@ Harber, Anton. 2018\. *Southern African Muckraking: 300 years of investigative j
 <a name="harper_nd"></a>
 Harper, D. (n.d.). Etymology of media. Online Etymology Dictionary. Available: [https://www.etymonline.com/word/media](https://www.etymonline.com/word/media).  [2025, February 8] 
 
+<a name="harper_2_nd"></a>
 Harper, D. (n.d.). Etymology of semiotic. Online Etymology Dictionary. Available: [https://www.etymonline.com/word/semiotic](https://www.etymonline.com/word/semiotic).  [2025, February 10] 
 
+<a name="haupt_2008"></a>
 Haupt, A. 2008\. *Stealing Empire: P2P, intellectual property and hip-hop subversion*. HSRC Press: Cape Town.
 
+<a name="haupt_2012"></a>
 Haupt, A. 2012\. *Static: Race and representation in post-apartheid music, media and film*. Cape Town: HSRC Press.
 
+<a name="haupt_2017"></a>
 Haupt, A. 2017\. “’Non-Poor Only’: Culture Jamming and the Limits of Free Speech in South Africa”. In H. Wasserman and A. Garman (Eds). *Media and Citizenship*. HSRC Press: Cape Town.
 
+<a name="haupt_2018"></a>
 Haupt, A. 2018\. “Inhale Determination, We Will Overcome: Eavesdrop, Mr Devious and Brasse vannie Kaap’s Representational Politics”. *Journal of World Popular Music.* 5(2): 152-168.
 
 <a name="heidegger_1971"></a>
@@ -219,10 +235,13 @@ Mulvey, L. 1975\. Visual Pleasure and Narrative Cinema. *Screen*. 16(3):6-18.
 <a name="nkoala_2023"></a>
 Nkoala, S. 2023\. Radio in South Africa turns 100 – and collides with podcasting and streaming. *The Conversation*. Available: [https://theconversation.com/radio-in-south-africa-turns-100-and-collides-with-podcasting-and-streaming-198021](https://theconversation.com/radio-in-south-africa-turns-100-and-collides-with-podcasting-and-streaming-198021)
 
+<a name="navargill_2020"></a>
 Navar-Gill, A. (2020) ‘The Golden Ratio of Algorithms to Artists? Streaming Services and the Platformization of Creativity in American Television Production’, *Social Media \+ Society*. 6(3)
 
+<a name="nyamnjoh_2005"></a>
 Nyamnjoh, F.B., 2005\. *Africa's media, democracy and the politics of belonging*. London: Zed Books.
 
+<a name="nyamnjoh_2011"></a>
 Nyamnjoh, F. B. 2011\. “De-Westernizing media theory to make room for African experience.” In Wasserman (Ed) *Popular Media, Democracy and Development in Africa.* London: Routledge:  20-31. 
 
 <a name="oshaughnessy_2016"></a>
@@ -237,7 +256,8 @@ Oyedemi, T. & Smith, R. A. (eds.) (2024) *Media in Africa : Issues and Critiqu
 <a name="oyeronke_1997"></a>
 Oyewumi, Oyeronke. 1997\. The Invention of Women: Making an African Sense of Western Gender Discourse. Minneapolis: University of Minnesota Press.
 
-[Payne, S. & Shoba](https://www.dailymaverick.co.za/author/sune-payne-and-sandisiwe-shoba/), S. 2020\. How did Clicks – and so many other brands – get it so wrong? *The Daily Maverick.* Available: https://www.dailymaverick.co.za/article/2020-09-11-how-did-clicks-and-so-many-other-brands-get-it-so-wrong/
+<a name="payne_2020"></a>
+Payne, S. & Shoba, S. 2020\. How did Clicks – and so many other brands – get it so wrong? *The Daily Maverick.* Available: https://www.dailymaverick.co.za/article/2020-09-11-how-did-clicks-and-so-many-other-brands-get-it-so-wrong/
 
 <a name="pariser_2011"></a>
 Pariser, Eli. 2011. The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think. Penguin. ISBN 9781101515129.
@@ -263,6 +283,7 @@ Schiller, H. I. (1975). Communication and cultural domination. *International Jo
 <a name="serra_1973"></a>
 Serra, R. 1973\. “Television Delivers People”. [KunstSpektrum Youtube Channel.](https://www.youtube.com/@kunstspektrum) Available: [https://www.youtube.com/watch?v=LvZYwaQlJsg](https://www.youtube.com/watch?v=LvZYwaQlJsg)
 
+<a name="smit_2020"></a>
 Smit, A. and Bosch, T. (2020) ‘Television and Black Twitter in South Africa: Our Perfect Wedding’, Media, Culture & Society, p. 016344372092604\. doi: 10.1177/0163443720926040.
 
 <a name="stokel-walker_2021"></a>
@@ -302,11 +323,13 @@ Ugboajah, F.O. 1985\. ‘Oramedia’ in Africa. In Ugboajah, F.O., ed. *Mass Com
 <a name="ugboajah_1987"></a>
 Ugboajah, F.O. 1987\. Current debates in the field of mass communication research: An African viewpoint. *Africa Media Review*. 1(2): 1–17.
 
+<a name="kress_2010"></a>
 Kress, G. 2010. *Multimodality*. London: Routledge
 
 <a name="van_leeuwen_2004"></a>
 Van Leeuwen, T. 2004. *Introducing Social Semiotics: An Introductory Textbook*. London: Routledge
 
+<a name="wasserman_2020"></a>
 Wasserman. H. 2020\. The state of South African media: a space to contest democracy. *Publizistik*, 65(3): 451–465. 
 
 <a name="wehustleclips_2025"></a>
@@ -325,8 +348,10 @@ Willems, W. 2014\. Provincializing hegemonic histories of media and communicatio
 <a name="wilson_et_al_2024"></a>
 Wilson, N. Cronje, J. & J Wicks. 2024. Inside Iqbal Survé's glitchy propaganda machine: Goebbels, AI and slippery writers. Available https://specialprojects.news24.com/Inside-Iqbal-Surves-glitchy-propaganda-machine/index.html
 
+<a name="woolley_2023"></a>
 Woolley, S. 2023\. *Manufacturing Consensus: Understanding Propaganda in the Era of Automation and Anonymity*. New Haven: Yale. 
 
+<a name="york_2021"></a>
 York, J. C. 2021. *Silicon Values: The Future of Free Speech Under Surveillance Capitalism*. Verso Books.
 
 <a name="zwane_2024"></a>
