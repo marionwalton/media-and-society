@@ -251,6 +251,9 @@ Poloclub Transformer Explainer, n.d. Poloclub Transformer Explainer. Available h
 <a name="rettberg_2014"></a>
 Rettberg, J. 2014. Seeing Ourselves Through Technology: How We Use Selfies, Blogs and Wearable Devices to See and Shape Ourselves. Palgrave Macmillan. 
 
+<a name="schippers_2007"></a>
+Schippers, Mimi. 2007. “Recovering the Feminine Other: Masculinity, Femininity, and Gender Hegemony.” Theory and Society 36(1): 85-102.
+
 <a name="shehata_and_strömbäck_2021"></a>
 Shehata, A., & Strömbäck, J. (2021). Learning Political News From Social Media: Network Media Logic and Current Affairs News Learning in a High-Choice Media Environment. Communication Research, 48(1), 125-147. https://doi.org/10.1177/0093650217749354
 

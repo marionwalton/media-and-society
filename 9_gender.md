@@ -110,11 +110,12 @@ For men, gender normativity is often associated with **hegemonic masculinity**. 
 ### Hegemonic femininity
 
 {: .definition}
-“the characteristics defined as womanly that establish and legitimate a hierarchical and complementary relationship to hegemonic masculinity and that, by doing so, guarantee the dominant position of men and the subordination of women” (Schippers 2007: 94).
+“the characteristics defined as womanly that establish and legitimate a hierarchical and complementary relationship to hegemonic masculinity and that, by doing so, guarantee the dominant position of men and the subordination of women” ([Schippers 2007: 94](references.html#schippers_2007)).
 
 Idealised hegemonic forms of femininity are usually coded white and Western and are often associated with beauty and motherhood. While physical beauty is imperative, women’s active sexuality is potentially threatening, and a common target of **[misogyny](definitions.html#misogyny)**. Labels which suggest a woman is sexually active tend to be negative, while the same terms for men often have a positive, congratulatory meaning. 
 
 [Hegemony](definitions.html#hegemony){: .btn .btn-blue }
+[Misogyny](definitions.html#misogyny){: .btn .btn-blue }
 
 
 ### Hegemonic masculinity
@@ -123,7 +124,7 @@ Hegemonic images of men in the media tend to emphasize power (both physical and 
 
 ### Heteronormativity
 
-Heteronormativity refers to an ideology about heterosexuality as the "normal" or "natural" form of attraction and relationships. This “natural” configuration of relationships is ideologically defined as a relationship between one man and one woman, who both embody conventional gender roles & norms (hegemonic masculinity and feminity), and engage in conventional sexual practices (Barker, 2016:84). These different normativities are related and are kept in place through the associations between a whole set of binary oppositions  e.g. man vs woman, strong vs weak, dominant vs subordinate, gay vs straight. 
+Heteronormativity refers to an ideology about heterosexuality as the "normal" or "natural" form of attraction and relationships. This “natural” configuration of relationships is ideologically defined as a relationship between one man and one woman, who both embody conventional gender roles & norms (hegemonic masculinity and feminity), and engage in conventional sexual practices ([Barker, 2016:84](references.html#barker_2016)). These different normativities are related and are kept in place through the associations between a whole set of binary oppositions  e.g. man vs woman, strong vs weak, dominant vs subordinate, gay vs straight. 
 
 ## Gender in advertising
 
