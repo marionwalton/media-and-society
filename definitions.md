@@ -118,6 +118,9 @@ The idea of gender performativity rests on the concept that we learn to “do”
 ## Hegemony 
 Hegemony, in the Gramscian tradition, can be defined as "Power and leadership maintained through processes of struggle and negotiation, especially through winning the consent of the majority to accept the ideologies of the dominant group as common sense". (O'Shaugnessy, Stadler & Casey, 2016)
 
+## Hypermasculinity
+Hypermasculinity exaggerates male stereotypical behavior, such as an emphasis on physical strength, aggression, and human male sexuality.
+
 ## Incorporation
 Process by which ideas and movements considered dangerous or radical are made acceptable. (O'Shaugnessy & Stadler)
 
