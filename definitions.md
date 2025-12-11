@@ -188,7 +188,7 @@ Oramedia includes traditionally *oral forms* such as storytelling, proverbs, fol
 Open access means anyone should be able to access a resource. There are no financial, legal or technical barriers to accessing it for various purposes. Open access works use **Creative Commons** licenses which mean that the authors are always acknowledged and various uses of the resource are allowed e.g. copying or creating derivative works.
 
 ## Oppositional Gaze
-The oppositional gaze refers to a space of resistance where spectators critically examine the “absence of meaningful Black representation” in mass media.
+The oppositional gaze refers to a space of viewer resistance and a critical perspective on mass media's lack of meaningful Black representation (bell hooks)
 
 ## Patriarchal social structures 
 
@@ -196,6 +196,9 @@ Social systems where most women are dominated by some men, where gender oppressi
 
 ## Post-structuralist
 Post-structuralism is a philosophical approach to discourse and representation, which argues that language is not directly connected to a “reality” outside of language and which challenges binary oppositions (man/woman,rational/emotional). Post-structuralism approaches language as a set of inter-related and shifting significations, which derive their meaning from the fluid and changing relationships shaping social reality. 
+
+## Postfeminism
+Postfeminism emerged as a response to second wave feminism, when advances in women's equality shifted the focus to individual choice, empowerment (especially through consumption), sexual agency and away from collective political action. 
 
 ## Public
 Traditionally scholars have talked about "the public", which includes all members of a community such as a nation, city or region, and their legal and political institutions of government.
