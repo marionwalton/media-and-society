@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 102. Gender bias and AI
+title: 10.2. Gender bias and AI
 ---
 
 # Gender bias and AI
