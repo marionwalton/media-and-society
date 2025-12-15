@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11. Queer Theory
+title: 13. Queer Theory
 ---
 # Queer Theory
 {: .no_toc }

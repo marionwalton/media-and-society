@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 21. UCT Protest examples 2025
+title: 23. UCT Protest examples 2025
 ---
 
 ## examples

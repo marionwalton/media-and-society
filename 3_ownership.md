@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 12. Powerful owners
+title: 14. Powerful owners
 ---
 # Powerful Owners - mass media
 {: .no_toc }

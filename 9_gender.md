@@ -125,6 +125,10 @@ Heteronormativity as a “natural” configuration of relationships is ideologic
 
 These different normativities are related and are kept in place through the associations between a whole set of binary oppositions  e.g. man vs woman, strong vs weak, dominant vs subordinate, gay vs straight. 
 
+{: .example}
+![Heteronormativity: Comparison of two different families](img/families.png)
+Figure 2: African Renaissance Monument (2010), Dakar, Senegal; Rihanna, A$AP & son on Vogue UK cover, Feb 2023. How do these two families conform to or depart from heteronormativity?
+
 ## Gender in advertising
 
 Advertising is pervasive and designed to gain attention. As such, this form of media plays an important role in shaping how people conceptualise and feel about gender in contemporary consumer culture. This chapter focuses on advertising as a highly influential aspect of gender representation in the media. 
