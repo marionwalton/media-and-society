@@ -4,6 +4,12 @@ title: 102. Gender bias and AI
 ---
 
 # Gender bias and AI
+{: .no_toc }
+
+*By Marion Walton & Martha Evans, University of Cape Town*
+
+- TOC
+{:toc}
 
 GenerativeAI models tend to perpetuate the biases in its training data. For this reason, gender and other biases in synthetic media are a serious concern for feminist media researchers. Various kinds of **representational harms** are generated because of the way GenAI models work. 
 
