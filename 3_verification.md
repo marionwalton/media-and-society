@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 14.1. Verification in Media & Cultural Studies
+title: 15.1. Verification in Media & Cultural Studies
 ---
 # Verification & Media
 {: .no_toc }
