@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 18. Generating media
+title: 15. Generating media
 ---
 # Generating media
 {: .no_toc }
