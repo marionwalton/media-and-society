@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 10.1. Gender in advertising
+title: 10.1. Case study - Gender in advertising
 ---
 #  Gender in advertising
 {: .no_toc }
