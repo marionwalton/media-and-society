@@ -256,9 +256,7 @@ functionality for sharing media (text, photos, and videos) with family or friend
 
 ## Synthetic media 
 Synthetic media refers to media which has been created or modified by algorithmic (computational) means, 
-especially through the use of artificial intelligence (AI) such as Large Language Models (LLMs) 
-(e.g. OpenAI's ChatGPT or Google's Gemini). Synthetic media are also known as AI-generated
-media, generative media, personalised media or (considerably less positively!) as "**AI sludge**"
+especially through the use of Gen AI or Large Language Models (LLMs), also known as artificial intelligence (AI). Examples of GenAI are  OpenAI's ChatGPT or Google's Gemini. Synthetic media are also known as AI-generated media, generative media, personalised media or  "**AI slop**"
 
 ## Social semiotics
 Social semiotics is an academic subject or area of study which focuses on meaning making and how people go about making meaning. Social semitics is interested in how people represent their understanding of the world using different media (to disseminate messages) and how they develop semiotic resources or modes of representation (such as images, sound, and written language). Social semiotics also explores how people use media and semiotic resources to shape power relations with others. Scholars who have worked to develop this tradition include Michael Halliday, Gunther Kress, Robert Hodge, Theo van Leeuwen, and Carey Jewitt. 

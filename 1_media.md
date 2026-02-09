@@ -131,10 +131,10 @@ site or app. Most of these platforms provide tools and functionality for sharing
 {: .definition}
 Generative Artificial Intelligence or [Generative AI](definitions.html#generative-ai) systems are statistical techniques used to automate media production by computers.
 
-This form of digital media is called **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media using a statistical [_model_](definitions.html#model). These include Large Language Models ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating synthetic text or 
+This form of digital media is called **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media from training data (e.g. websites) using a statistical [_model_](definitions.html#model). These models include Large Language Models ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating synthetic text or 
 [diffusion models](definitions.html#diffusion-model) (e.g. DALL-E, Midjourney) for generating synthetic images.
 
-Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI sludge**". 
+Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI slop**". 
 
 [Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
 

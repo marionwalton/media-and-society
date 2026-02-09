@@ -84,10 +84,15 @@ thought about it, and whether advertisers were keen to advertise to that audienc
 
 ### Case studies
 
-**Case study \- [Example 1: \- Toyota SA “It’s a not a bakkie, it’s a Hilux"](https://www.youtube.com/watch?v=sQdmiyUJf0s&list=PLMCBC7Liz8Op1zXXlYefJxXoHnvECRDJR&index=3)”**
+**Case study Example 1: Toyota SA “It’s a not a bakkie, it’s a Hilux"**
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZKEvtA74ac?si=P8jqbYMDEMv1NrcL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
+
+**Case study Example 2: # Introducing the all-new [#ToyotaStarlet](https://www.youtube.com/hashtag/toyotastarlet) **
+<figure>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/eOo4_p58rl8?si=M9Gw8FxREfu7Gs9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 </figure>
 
 **Case study \- [Example 2: \- KFC SA Originals Anthem has landed! 😎](https://www.youtube.com/watch?v=sQdmiyUJf0s&list=PLMCBC7Liz8Op1zXXlYefJxXoHnvECRDJR&index=3)”**
