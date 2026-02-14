@@ -26,7 +26,7 @@ the ability to speak one or many languages and the knowledge of other social con
 Figure 1: Zulaikha Patel protests discriminatory hair policies at Pretoria Girls High School in 2016. - <a href="https://www.facebook.com/photo.php?fbid=1090942497622301&id=164638963585997&set=a.165962343453659">Facebook</a>
 
 {: .activity}
-![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small") The photograph in Figure 1 was taken during protests against discriminatory 
+![Activity](img/pencilpencil.svg) The photograph in Figure 1 was taken during protests against discriminatory 
 hair policies at Pretoria Girls High School in 2016. **List** all the various
 physical and cultural resources which (1) the photographer and (2) the student, Zulaikha Patel, used to create the photograph.  
 Why do you think they chose to use these particular resources? (You can submit your answer using the form at the bottom of the page.)
