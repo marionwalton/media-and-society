@@ -22,7 +22,7 @@ Everyday media rely on **physical means** such as your own body (e.g. your hairs
 the ability to speak one or many languages and the knowledge of other social conventions such as visual codes about which hairstyles, clothing and gestures to use in different places such as home, school or the workplace. 
 
 {: .example}
-<img class="illustration" title="Zulaikha Patel" alt="Zulaikha Patel raising her fist" src="img/zulaikha_patel.png">
+<img class="illustration" title="Zulaikha Patel" alt="Zulaikha Patel raises her fist" src="img/zulaikha_patel.png">
 Figure 1: Zulaikha Patel protests discriminatory hair policies at Pretoria Girls High School in 2016. - <a href="https://www.facebook.com/photo.php?fbid=1090942497622301&id=164638963585997&set=a.165962343453659">Facebook</a>
 
 {: .activity}
