@@ -24,17 +24,16 @@ media holdings to exert considerable political and economic power around the glo
 
 South African billionaire Koos Bekker, former CEO of Naspers, was mentioned at the inquiry into State Capture
 as having influenced the transition to digital television in favour of Multichoice. 
-![Zapiro cartoon of Koos Bekker, depicted as a thug holding a baseball bat, shows the Multichoice logo edited in graffiti to read "No Choice"](https://w.zapiro.com/cache/com_zoo/images/m_200304dm_1926e60170b0814d181535ed80567a2b.jpg)
 
-Bekker, while not an individual owner, had
-considerable shareholding in the organisation.
+![Zapiro cartoon of a sweating Koos Bekker, caught with his fists in two cookie jars labelled "Influence peddling" and "Gupta Greasing" by someone asking him "Tell us more about your hands-off approach...", shows the Multichoice logo edited in graffiti to read "Enriching Lies"](./img/bekker.png)
+
+Bekker, while not an individual owner, had considerable shareholding in the organisation.
 
 Iqbal  Survé, owner of Independent Media, frequently appears on the front page of his own 
 publications which support his business holdings through Sekunjalo Investments. 
+
 News24 lodged a complaint with the Press Council in 2024 complaining that Independent Media
-had invented fictitious personae who were given bylines as fake authors of "op eds" which
-attacked individual journalists who had reported critically on Survé's business holdings 
-([Wilson et al., 2024](/ideas/references/index.html#references)). 
+had invented fictitious personae who were given bylines as fake authors of "op eds" attacking individual journalists who had reported critically on Survé's business holdings ([Wilson et al., 2024](/ideas/references/index.html#references)). 
 
 ### Powerful owners - social media
 
