@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 08.1. Media examples 2025
+title: 03.4. Example - consuming fossil fuels
 ---
 
 # Examples

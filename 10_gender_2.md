@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 10.2. Case study - Gender bias and AI
+title: 12.2. Case study - Gender bias and AI
 ---
 
 # Gender bias and AI

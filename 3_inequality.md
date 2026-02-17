@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 10. Media & Inequality
+title: 03.2. Media & Inequality
 ---
 # Media & Inequality
 {: .no_toc }
