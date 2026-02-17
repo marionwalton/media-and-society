@@ -23,10 +23,6 @@ title: 03.6. Case study - UCT Protests
 </figure>
 
 <figure>
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@ethansa/video/7472622110549052727" data-video-id="7472622110549052727" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@ethansa" href="https://www.tiktok.com/@ethansa?refer=embed">@ethansa</a> <p>I woke up 4 minutes before this so please mind the monstrous looks I’m serving 😳 Can’t wait to fight certain people in my comment section 😝 Student housing is one of the many ongoing issues. If you want me to go into the other issues let me know </p> <a target="_blank" title="♬ original sound - Ethan South Africa" href="https://www.tiktok.com/music/original-sound-7472622146180614918?refer=embed">♬ original sound - Ethan South Africa</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-</figure>
-
-<figure>
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@thirdoneonline/video/7472780024689593655" data-video-id="7472780024689593655" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@thirdoneonline" href="https://www.tiktok.com/@thirdoneonline?refer=embed">@thirdoneonline</a> <a title="uctprotests" target="_blank" href="https://www.tiktok.com/tag/uctprotests?refer=embed">#uctprotests</a> <a title="uct" target="_blank" href="https://www.tiktok.com/tag/uct?refer=embed">#uct</a> <a title="feesmustfall" target="_blank" href="https://www.tiktok.com/tag/feesmustfall?refer=embed">#feesmustfall</a> <a target="_blank" title="♬ original sound - Ntathu Zungu" href="https://www.tiktok.com/music/original-sound-7472780056496016133?refer=embed">♬ original sound - Ntathu Zungu</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </figure>
 
