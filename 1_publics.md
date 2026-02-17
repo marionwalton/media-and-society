@@ -1,12 +1,11 @@
 ---
 layout: page
-title:  13. Media, publics & power
+title:  04. Publics & power
 ---
-# Media, publics & power
+# Publics & power
 {: .no_toc }
 
 *By Marion Walton, University of Cape Town*
-
 
 Media plays a central role in creating our sense of community, and the feeling of participating in a [**public**](/ideas/definitions/index.html#public). We may
 experience this sense of being part of a public (rather than an audience) 

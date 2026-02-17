@@ -109,9 +109,11 @@ Digital media also have affordances. For example, digital media can be easily co
 
 ## Mass media
 {: .definition}
-Mass media are the communication industries which produce information and entertainment products and court the attention of large audiences, which they often sell to advertisers. 
+Mass media broadly encompass the communication industries such as news, entertainment, advertising and public relations which produce information and entertainment products, promote products and brands, and bring commercial and political messaging to the attention of large audiences. 
 
-Mass media include broadcasters, networks, streaming sites, print and digital publishers and a range of other corporate media producers. This is usually what we mean when we talk about “the media”.
+Mass media include broadcasters, networks, streaming sites, print and digital publishers and a range of other corporate and state or public media producers. These organisations are usually what we mean when we talk about “the media”.  
+
+We will be studying how mass media both reflect and shape their societies. Media and cultural studies are fields focused on the social, political, cultural and economic influences of the media in different contexts. 
 
 [Mass media](definitions.html#mass-media){: .btn .btn-blue }
 
@@ -119,7 +121,10 @@ Mass media include broadcasters, networks, streaming sites, print and digital pu
 
 {: .definition}
 Social media *platforms* bring together *users, content creators and advertisers,* in many cases on a social media
-site or app. Most of these platforms provide tools and functionality for sharing media (text, photos, and videos) with family and friends or for entertainment or professional purposes.
+site or app. Most of these platforms provide tools and functionality for sharing media (text, photos, and videos) with family and friends or for entertainment or professional purposes. 
+
+People document their lives, relationships, opinions and interests on social media platforms, giving rise to a valuable trove of information about them. 
+These details about us and our activities on social platforms are known as user data. Platforms store and analyse user data in order to sell advertising space to companies who want to target specific types of consumers with their targeted advertising.
 
 [Social Media](definitions.html#social-media){: .btn .btn-blue }
 
@@ -131,10 +136,10 @@ site or app. Most of these platforms provide tools and functionality for sharing
 {: .definition}
 Generative Artificial Intelligence or [Generative AI](definitions.html#generative-ai) systems are statistical techniques used to automate media production by computers.
 
-This form of digital media is called **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media from training data (e.g. websites) using a statistical [_model_](definitions.html#model). These models include Large Language Models ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating synthetic text or 
-[diffusion models](definitions.html#diffusion-model) (e.g. DALL-E, Midjourney) for generating synthetic images.
+This form of digital media is called **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media from training data (e.g. websites) using a statistical [_model_](definitions.html#model), which represents the training data using numbers. These models include Large Language Models ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating synthetic text or 
+[diffusion and other multimodal models](definitions.html#diffusion-model) (e.g. DALL-E, Midjourney) for generating synthetic images.
 
-Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. Because such messaging can be generated in bulk it is sometimes referred to dismissively as "**AI slop**". 
+Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. While  Synthetic media can be generated in bulk, is not reliably accurate, and can't be clearly attributed to a specific source. For these reasons it is sometimes referred to dismissively as "**AI slop**". 
 
 [Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
 

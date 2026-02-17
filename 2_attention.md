@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 05. Data, attention and influence
+title: 08. Data, attention and influence
 ---
 # Attention & Influence
 {: .no_toc }
@@ -14,9 +14,6 @@ The ability for millions of people to create and share content with one another 
 
 ### One to many
 
-![broadcast tower](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/radio-tower.svg?v=1740992074474 "icon")
-![broadcast tower](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/houses.svg?v=1740992086931)
-
 The **one-to-many** model of **mass media** was dominant in the era when the media landscape consisted of broadcasters and newspapers. 
 Here **one sender** sent messages to **many** **receivers**. 
 
@@ -25,8 +22,10 @@ One way of describing this era is to say that mass media industries had a **mono
 and meant that our ideas of a [public](/ideas/3_publics/) have been shaped by the audiences of news publications and
 broadcasters.
 
-In this era, **one-to-one** communication was traditionally used mainly for 
-interpersonal communication. Phone calls and messages generally have **one sender** and **one receiver**, with two people taking 
+![One to many communication with one sender and many receivers](img/one_to_many.png)
+
+In the mass media era, **one-to-one** communication was traditionally used mainly for 
+interpersonal communication. Phone calls and messages generally had **one sender** and **one receiver**, with two people taking 
 turns in each role. 
 
 ### Many to many
@@ -48,8 +47,8 @@ which all vie for our **limited time and attention**. This is known as a **high 
 At the same time, **new monopolies** have emerged, those of the so-called "tech giants", or the
 social platforms, search engines, and increasingly the generative models and "AI" chatbots which
 **aggregate** indices of websites (Google/Alphabet), collect e-commerce products 
-(Amazon) or social media profiles (Facebook/Meta, Twitter/X), and use statistics to model and vast collections of 
-text and other media (Gemini/Alphabet, OpenAI). 
+(Amazon) or social media profiles and posts (Facebook/Meta, Twitter/X, TikTok), and use statistics to model vast collections of 
+text and other media for Generative AI (Gemini/Alphabet, OpenAI). 
 
 As a result, no matter what we are interested in, we are likely to access it via one of these platforms.
 
@@ -252,6 +251,18 @@ and we always produce our own inner representation of its meaning:
 >"interest shapes attention which produces engagement, leading to selection of elements from the message, 
 leading to a framing of these elements, which leads to their transformation and transduction, which produces a 
 new ("inner") sign" ([Kress, 2009:42](/ideas/references/index.html#kress_2009))
+
+Case study
+
+Jeremy Yang; , Juanjuan Zhang; , Yuhan Zhang (2025) Engagement That Sells: Influencer Video Advertising on TikTok. Marketing Science 44(2):247-267. https://doi.org/10.1287/mksc.2021.0107
+
+Shaw, Ryland. “Is TikTok ‘for’ News? Sociotechnical Frictions and Workarounds in Environmental News Events on TikTok.” _International journal of communication_ 19 (2025): 3788–3807. Print.
+
+https://www.theguardian.com/technology/2026/feb/01/tiktok-first-week
+
+https://www.aljazeera.com/video/the-take-2/2025/9/25/aje-onl-usa_tiktokalgo_av_v3-250925
+
+https://www.aljazeera.com/video/the-take-2/2025/9/25/aje-onl-usa_tiktokalgo_av_v3-250925
 
 ### Class research project
 
