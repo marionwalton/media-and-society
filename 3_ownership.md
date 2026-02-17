@@ -25,7 +25,7 @@ media holdings to exert considerable political and economic power around the glo
 South African billionaire Koos Bekker, former CEO of Naspers, was mentioned at the inquiry into State Capture
 as having influenced the transition to digital television in favour of Multichoice. 
 
-![Zapiro cartoon of a sweating Koos Bekker, caught with his fists in two cookie jars labelled "Influence peddling" and "Gupta Greasing" by someone asking him "Tell us more about your hands-off approach...", shows the Multichoice logo edited in graffiti to read "Enriching Lies"](./img/bekker.png)
+![Zapiro cartoon of a sweating Koos Bekker, caught with his fists in two cookie jars labelled "Influence peddling" and "Gupta Greasing" by someone asking him "Tell us more about your hands-off approach...", shows the Multichoice logo edited in graffiti to read "Enriching Lies"](img/bekker.png)
 
 Bekker, while not an individual owner, had considerable shareholding in the organisation.
 
