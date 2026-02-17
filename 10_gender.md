@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 12. Gender and Representation
+title: 08. Gender and Representation
 ---
 # Gender & Representation
 {: .no_toc }

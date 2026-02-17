@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 23. UCT Protest examples 2025
+title: 03.21. Case study - UCT Protests
 ---
 
 ## examples

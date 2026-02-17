@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 14. Generating media
+title: 04.1 GenAI and media production
 ---
-# Generating media
+# GenAI and media
 {: .no_toc }
 
 *By Marion Walton, University of Cape Town*
