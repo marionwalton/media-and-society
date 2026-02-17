@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  15. Citing sources and referencing
+title:  10. Citing sources and referencing
 ---
 # Citing Sources & Referencing
 {: .no_toc }

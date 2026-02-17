@@ -3,7 +3,7 @@ layout: home
 title: 03.5. Examples - Consuming fossil fuels
 ---
 
-# Case study - Fossil fuels
+# Examples - Fossil fuels
 {: .no_toc }
 *By Marion Walton, University of Cape Town*
 

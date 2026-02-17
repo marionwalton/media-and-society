@@ -249,18 +249,6 @@ and we always produce our own inner representation of its meaning:
 leading to a framing of these elements, which leads to their transformation and transduction, which produces a 
 new ("inner") sign" ([Kress, 2009:42](/ideas/references/index.html#kress_2009))
 
-Case study
-
-Jeremy Yang; , Juanjuan Zhang; , Yuhan Zhang (2025) Engagement That Sells: Influencer Video Advertising on TikTok. Marketing Science 44(2):247-267. https://doi.org/10.1287/mksc.2021.0107
-
-Shaw, Ryland. “Is TikTok ‘for’ News? Sociotechnical Frictions and Workarounds in Environmental News Events on TikTok.” _International journal of communication_ 19 (2025): 3788–3807. Print.
-
-https://www.theguardian.com/technology/2026/feb/01/tiktok-first-week
-
-https://www.aljazeera.com/video/the-take-2/2025/9/25/aje-onl-usa_tiktokalgo_av_v3-250925
-
-https://www.aljazeera.com/video/the-take-2/2025/9/25/aje-onl-usa_tiktokalgo_av_v3-250925
-
 ### Class research project
 
 
