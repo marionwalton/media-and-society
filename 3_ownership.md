@@ -11,7 +11,7 @@ and then purchased by wealthy individuals, who can use them to promote their own
 - TOC
 {:toc}
 
-Wealthy individual media owners such as Rupert Murdoch (News Corp) or Jeff Bezos (*The Washington Post*) have used their 
+Wealthy individual media owners such as Rupert Murdoch (News Corp) or Jeff Bezos (*The Washington Post*, Amazon) have used their 
 media holdings to exert considerable political and economic power around the globe.
 
 <figure>
@@ -23,15 +23,13 @@ media holdings to exert considerable political and economic power around the glo
 </figure>
 
 South African billionaire Koos Bekker, former CEO of Naspers, was mentioned at the inquiry into State Capture
-as having influenced the transition to digital television in favour of Multichoice. Bekker, while not an individual owner, had considerable shareholding in the organisation.
+as having influenced South Africa's transition to digital television in a way which would favour Multichoice. Bekker, while not an individual owner, had considerable shareholding in the organisation, which was then owned by Naspers.
 
 
 ![Zapiro cartoon of a sweating Koos Bekker, caught with his fists in two cookie jars labelled \"Influence peddling\" and \"Gupta Greasing\" by someone asking him \"Tell us more about your hands-off approach...\", shows the Multichoice logo edited in graffiti to read \"Enriching Lies\"](img/bekker.png "Zapiro cartoon of a sweating Koos Bekker, caught with his fists in two cookie jars labelled \"Influence peddling\" and \"Gupta Greasing\" by someone asking him \"Tell us more about your hands-off approach...\", shows the Multichoice logo edited in graffiti to read \"Enriching Lies\"")
 <figure><figcaption><a href="https://www.facebook.com/photo.php?fbid=10155609687563580&id=26065833579&set=a.10151001929983580">Credit:Zapiro</a></figcaption></figure>
 
-Iqbal  Survé, owner of Independent Media, frequently appears on the front page of his own publications which also provide supportive coverage of his other business holdings through Sekunjalo Investments. 
-
-News24 lodged a complaint with the Press Council in 2024 complaining that Independent Media had invented fictitious personae who were given bylines as fake authors of "op eds" attacking the individual journalists who had reported critically on Survé's business holdings ([Wilson et al., 2024](/ideas/references/index.html#references)). 
+Iqbal  Survé, owner of Independent Media, frequently appears on the front page of his own publications which also provide supportive coverage of his other business holdings through Sekunjalo Investments. News24 lodged a complaint with the Press Council in 2024 complaining that Independent Media had invented fictitious personae who were given bylines as fake authors of "op eds" attacking the individual journalists who had reported critically on Survé's business holdings ([Wilson et al., 2024](/ideas/references/index.html#references)). 
 
 ### Powerful owners - social media
 
@@ -40,14 +38,14 @@ to advance their own commercial and political
 interests, and to influence which kinds of messages are viewed by their users. 
 
 This conflation of power, wealth, and patriarchy have led to these owners being referred to as
-the "**broligarchy**".
+the "broligarchy".
 <figure>
 <img alt="Mark Zuckerberg, Lauren Sanchez, Jeff Bezos, Sundar Pichai and Elon Musk at the inauguration of Donald Trump on Monday. Photograph: Getty Images" src="https://i.guim.co.uk/img/media/9479520df4aec8ecdfef625604cd75395ae21889/0_0_4225_2814/master/4225.jpg?width=1900&dpr=2&s=none&crop=none" title="illustration")
 <figcaption>Figure 2: Mark Zuckerberg, Lauren Sanchez, Jeff Bezos, Sundar Pichai and Elon Musk at 
-  the inauguration of Donald Trump. Photograph: Getty Images. - <a href="https://www.gettyimages.com/detail/news-photo/of-meta-mark-zuckerberg-lauren-sanchez-us-businessman-jeff-news-photo/2194353829">Getty Images</a></caption>
+  the inauguration of Donald Trump. Photograph: Getty Images. - <a href="https://media.gettyimages.com/id/2194353829/photo/topshot-us-politics-trump-inauguration.jpg?s=2048x2048&w=gi&k=20&c=GUc4FtekqVHADBRLS7qU74xa64CqyjJSyafv9qUZefQ=">Getty Images</a></caption>
 </figure>
 
-In one example, in the runup to the 2024 election, Jeff Bezos is known to have intervened to stop the publication of a *Washington Post* editorial in support of Democratic presidential candidate Kamala Harris.
+In another example, in the runup to the 2024 election, Jeff Bezos, is known to have intervened to stop the publication of a *Washington Post* editorial in support of Democratic presidential candidate Kamala Harris.
 
 In a more obvious display of power, billionaire Elon Musk bought social media platform Twitter, renamed it "X", and used it to help Donald Trump to win the 2024 US election, gaining the power to promote his ideologies in the new administration as well as on his social media platform. 
 
