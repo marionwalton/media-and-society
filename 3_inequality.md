@@ -28,7 +28,7 @@ of stereotypes, prejudices and other negations” ([Nyamnjoh, 2011:21](/ideas/re
 Local news media also reflect many forms of inequality. As explained in our discussion of [attention](/ideas/2_attention/),
 **advertisers** tend to target relatively wealthy people who have the disposable income to buy a wider range of products. 
 Not everyone can afford to pay for broadband, subscriptions to news sites, satellite or streaming television. 
-These are two examples of  **wealth inequality** in the media, which profoundly influences what kinds of 
+These are two examples of  **wealth inequality** in the media, which profoundly influence what kinds of 
 stories are told, who can access them, and who is most likely to be a target audience for media productions. 
 
 As a result, commercial media tends to be silent about the lives of people from low income groups, and their 
@@ -60,27 +60,16 @@ disproportionately middle class and often largely white.
 
 Artificial intelligence models are [trained](/ideas/definitions/index.html#training) on data which 
 includes media discourses. As a result, Generative AI continue to perpetuate existing racial and gendered biases 
-present in their training data when they output **synthetic media**, as in Figure 1 below:
-
-<figure>
-<img title="Synthetic image created in Oct 2023 by prompting Midjourney (v5.1) prompt:"graduation photo of student"" 
-     alt="Eight images of young white men in graduation gowns." 
-     src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/midjourney_students.png?v=1739274111388" 
-     class="illustration"/>
-<figcaption>Figure 1: synthetic image created in Oct 2023 by prompting Midjourney (v5.1) prompt:"graduation photo of student" Credit - 
-  <a href="https://www.theverge.com/2024/8/13/24219520/stability-midjourney-artist-lawsuit-copyright-trademark-claims-approved">Unknown artists and Midjourney</a></caption>
-</figure>
-
-We will discuss these issues in detail, and explore ways to challenge these biases in other parts of the course. 
+present in their training data when they output **synthetic media**, as in Figure 1 below. We will discuss these issues in detail, and explore ways to challenge these biases in other parts of the course. 
 
 ### Media, power and racism
 
 Today, both traditional media and social media play a role in circulating and framing 
-racist ideas as well as challenging racism ([Titley, 2019](href="/ideas/references/index.html#titley_2019")).
+racist ideas as well as challenging racism ([Titley, 2019](references/index.html#titley_2019)).
 
 In Africa, the history of African media is associated with ideologies that underpin colonialism and neoliberal capitalism. 
 Yet every day in African countries, people also use media to resist cultural domination by the large global media industries, 
-and to express their cultural diversity (<a href="/ideas/references/index.html#nyamnjoh_2011">Nyamnjoh, 2011:21</a>).
+and to express their cultural diversity (<a href="references/index.html#nyamnjoh_2011">Nyamnjoh, 2011:21</a>).
 
 ### Media, power and sexism
 
