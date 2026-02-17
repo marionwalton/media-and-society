@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 04. Types of Media
+title: 02.1 Types of Media
 ---
 
 # Types of "media"

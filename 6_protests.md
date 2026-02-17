@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 03.21. Case study - UCT Protests
+title: 03.6. Case study - UCT Protests
 ---
 
 ## examples

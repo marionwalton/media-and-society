@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 04.1 GenAI and media production
+title: 04. GenAI - automating media production
 ---
-# GenAI and media
+# GenAI & automating media production
 {: .no_toc }
 
 *By Marion Walton, University of Cape Town*

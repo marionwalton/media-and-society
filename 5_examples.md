@@ -1,9 +1,9 @@
 ---
 layout: home
-title: 03.4. Example - consuming fossil fuels
+title: 03.5. Case study - Consuming fossil fuels
 ---
 
-# Examples
+# Case study - Fossil fuels
 {: .no_toc }
 *By Marion Walton, University of Cape Town*
 
