@@ -62,7 +62,7 @@ or broadcast which they had encountered on that day.
 If you're anything like the participants in this survey, most of the news you encounter was probably published by Naspers.
 
 <figure>
-<img class="chart" title="Chart" alt="Pie chart showing that News24/Naspers is the dominant source of news for UCT media students" src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/ownership.png?v=1739887424023">
+<img class="chart" title="Chart" alt="Pie chart showing that News24/Naspers is the dominant source of news for UCT media students" src="img/ownership.png">
   
 <figcaption>Figure 3: Ownership of news sources used by UCT Media students 2022-2024. - <a href="https://docs.google.com/forms/d/e/1FAIpQLSebxkmLn52uxCCkGtBplAGJ2Lf2MsBxJXHv2-tzUJktDPAp4g/viewform">Class survey</a></caption>
 </figure>
@@ -71,7 +71,7 @@ As Figure 4 shows, the CFMS students who participated in the survey mostly encou
 Alphabet's search engine (Google), browser (Chrome), or video hosting site (Youtube).
 
 <figure>
-<img class="chart" title="Chart" alt="Pie chart showing that Alphabet (Google/Youtube/Chrome) is the dominant platform by which UCT media students access news" src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/platform_for_news.png?v=1739887426673">
+<img class="chart" title="Chart" alt="Pie chart showing that Alphabet (Google/Youtube/Chrome) is the dominant platform by which UCT media students access news" src="img/platform_for_news.png">
   
 <figcaption>Figure 4: News platforms used by UCT Media students 2022-2024. - <a href="https://docs.google.com/forms/d/e/1FAIpQLSebxkmLn52uxCCkGtBplAGJ2Lf2MsBxJXHv2-tzUJktDPAp4g/viewform">Class survey</a></caption>
 </figure>
