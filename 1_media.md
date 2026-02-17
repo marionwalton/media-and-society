@@ -124,7 +124,7 @@ Social media *platforms* bring together *users, content creators and advertisers
 site or app. Most of these platforms provide tools and functionality for sharing media (text, photos, and videos) with family and friends or for entertainment or professional purposes. 
 
 People document their lives, relationships, opinions and interests on social media platforms, giving rise to a valuable trove of information about them. 
-These details about us and our activities on social platforms are known as user data. Platforms store and analyse user data in order to sell advertising space to companies who want to target specific types of consumers with their targeted advertising.
+These details about us and our activities on social platforms are known as user data. Platforms store and analyse user data primarily in order to sell advertising space to companies who want to appeal to specific consumers with their targeted advertising.
 
 [Social Media](definitions.html#social-media){: .btn .btn-blue }
 
