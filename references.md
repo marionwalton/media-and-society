@@ -69,6 +69,7 @@ Chuma, W. 2019\. Political Economy of the Media in Africa. In S. Chiumbu & M. Iq
 <a name="coded_2020"></a>
 Coded Bias \[Video\]. 2020\. Produced by S. Hoffman & Directed by S. Kantayya. United States of America: 7th Empire Media & Women Make Movies.
 
+<a name="competition_2025"></a>
 Competition Commission, South Africa. 2025, February. Media and Digital Platforms Market Inquiry (MDPMI). Available <https://www.compcom.co.za/wp-content/uploads/2025/02/MDPMI-Annexure-4-Social-Media__Redacted.pdf>
 
 
@@ -343,6 +344,9 @@ Tufekci, Z. 2013. “Not This One”: Social Movements, the Attention Economy, a
 
 <a name="sabc_2024"></a>
 SABC. 2024. Charter. Available: https://www.sabc.co.za/sabc/charter/
+
+<a name="schiller_1976"></a>
+Schiller, Herbert I. 1976. _Communication and cultural domination_. White Plains, N.Y.: International Arts and Sciences Press.
 
 <a name="ugboajah_1985"></a>
 Ugboajah, F.O. 1985\. ‘Oramedia’ in Africa. In Ugboajah, F.O., ed. *Mass Communication, Culture and Society in West Africa*. München: Hans Zell, 165–176. 
