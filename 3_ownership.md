@@ -25,7 +25,9 @@ media holdings to exert considerable political and economic power around the glo
 South African billionaire Koos Bekker, former CEO of Naspers, was mentioned at the inquiry into State Capture
 as having influenced the transition to digital television in favour of Multichoice. Bekker, while not an individual owner, had considerable shareholding in the organisation.
 
-![Zapiro cartoon of a sweating Koos Bekker, caught with his fists in two cookie jars labelled "Influence peddling" and "Gupta Greasing" by someone asking him "Tell us more about your hands-off approach...", shows the Multichoice logo edited in graffiti to read "Enriching Lies"](img/bekker.png)
+
+![Zapiro cartoon of a sweating Koos Bekker, caught with his fists in two cookie jars labelled \"Influence peddling\" and \"Gupta Greasing\" by someone asking him \"Tell us more about your hands-off approach...\", shows the Multichoice logo edited in graffiti to read \"Enriching Lies\"](img/bekker.png "Zapiro cartoon of a sweating Koos Bekker, caught with his fists in two cookie jars labelled \"Influence peddling\" and \"Gupta Greasing\" by someone asking him \"Tell us more about your hands-off approach...\", shows the Multichoice logo edited in graffiti to read \"Enriching Lies\"")
+<figure><figcaption><a href="https://www.facebook.com/photo.php?fbid=10155609687563580&id=26065833579&set=a.10151001929983580">Credit:Zapiro</a></figcaption></figure>
 
 Iqbal  Survé, owner of Independent Media, frequently appears on the front page of his own publications which also provide supportive coverage of his other business holdings through Sekunjalo Investments. 
 
