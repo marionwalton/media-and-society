@@ -30,7 +30,7 @@ turns in each role.
 
 ### Many to many
 
-![network](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/Screenshot%202025-02-25%20at%2017.15.44.png?v=1740517371995)
+![network](img/Screenshot%202025-02-25%20at%2017.15.44.png)
 
 In the current era, these two models have **converged** into a **many-to-many** model of the internet 
 and most social media platforms. 
