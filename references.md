@@ -8,10 +8,10 @@ title: 21. References
 These are the important sources used in _Media & Society_. 
 
 <a name="abidin_2018"></a>
-Abidin, C. (2018). Internet celebrity: Understanding fame online. Emerald.
+Abidin, C. 2018. Internet celebrity: Understanding fame online. Emerald.
 
 <a name="agbese_2020"></a>
-Agbese, A. (2020). Nollywood. In The SAGE international encyclopedia of mass media and society (Vol. 5, pp. 1266-1268). SAGE Publications, Inc., https://doi.org/10.4135/9781483375519.n481
+Agbese, A. 2020. Nollywood. In The SAGE international encyclopedia of mass media and society (Vol. 5, pp. 1266-1268). SAGE Publications, Inc., https://doi.org/10.4135/9781483375519.n481
 
 <a name="alim_2021"></a>
 Alim, H.S., Williams, Q.E., Haupt, A. and Jansen, E. 2021\. “Kom Khoi San, kry trug jou land”: Disrupting White Settler Colonial Logics of Language, Race, and Land with Afrikaaps. *Journal of Linguistic Anthropology*. 31(2):194-217.
@@ -26,16 +26,16 @@ Association of Independent Publishers. 2024, November 25. AIP and Google launch 
 Appadurai, A. 1996\. Modernity At Large: Cultural Dimensions of Globalization. U of Minnesota Press.
 
 <a name="bailey_2021"></a>
-Bailey, Moya (2021). Misogynoir Transformed: Black Women's Digital Resistance. New York University Press.  [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\)):[10.18574/nyu/9781479803392.001.0001](https://doi.org/10.18574%2Fnyu%2F9781479803392.001.0001)  
+Bailey, Moya. 2021. Misogynoir Transformed: Black Women's Digital Resistance. New York University Press.  [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\)):[10.18574/nyu/9781479803392.001.0001](https://doi.org/10.18574%2Fnyu%2F9781479803392.001.0001)  
 
 <a name="barker_2016"></a>
-Barker, Meg-John. (2016). Queer: A graphic history. London: Icon Books.
+Barker, Meg-John. 2016. Queer: A graphic history. London: Icon Books.
 
 <a name="bender_2021"></a>
 Bender, E.M., Gebru, T., McMillan-Major, A. and Shmitchell, S., 2021, March. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency (pp. 610-623).
 
 <a name="bosch_mutsvairo_2017"></a>
-Bosch, T. and Mutsvairo, B. (2017) ‘Pictures, Protests and Politics: Mapping Twitter Images during South Africa’s Fees Must Fall Campaign’, African Journalism Studies, 38(2), pp. 71–89. doi: 10.1080/23743670.2017.1368869.
+Bosch, T. and Mutsvairo, B. 2017. ‘Pictures, Protests and Politics: Mapping Twitter Images during South Africa’s Fees Must Fall Campaign’, African Journalism Studies, 38(2), pp. 71–89. doi: 10.1080/23743670.2017.1368869.
 
 <a name="bosch_2022"></a>
 Bosch,T. 2022, February 11\. Radio is thriving in South Africa: 80% are tuning in. *The Conversation.* Available: https://theconversation.com/radio-is-thriving-in-south-africa-80-are-tuning-in-176846
@@ -68,6 +68,9 @@ Chuma, W. 2019\. Political Economy of the Media in Africa. In S. Chiumbu & M. Iq
 
 <a name="coded_2020"></a>
 Coded Bias \[Video\]. 2020\. Produced by S. Hoffman & Directed by S. Kantayya. United States of America: 7th Empire Media & Women Make Movies.
+
+Competition Commission, South Africa. 2025, February. Media and Digital Platforms Market Inquiry (MDPMI). Available <https://www.compcom.co.za/wp-content/uploads/2025/02/MDPMI-Annexure-4-Social-Media__Redacted.pdf>
+
 
 <a name="cooke_2022"></a>
 Cooke, Lucy. 2022. *Bitch: On the Female of the Species*. New York: Basic Books. 
@@ -188,6 +191,9 @@ Haupt, A. 2018\. “Inhale Determination, We Will Overcome: Eavesdrop, Mr Deviou
 Heidegger M. 1971. *On the way to language.* Translated by Peter D Hertz. San Francisco: Harper and Row. (Original work
 published 1959)
 
+<a name="herman_1988"></a>
+Herman, E.S, & Chomsky, N. 1988. Manufacturing Consent: A Propaganda Model. Available:[ www.thirdworldtraveler.com/Herman%20/Manufac\_Consent\_Prop\_Model.html](http://www.thirdworldtraveler.com/Herman%20/Manufac_Consent_Prop_Model.html)
+
 <a name="hodgskiss_esterhuysen_2019"></a>
 Hodgskiss, T. Esterhuysen, A. 2019, December 2017. "Ancient southern African rock engravings finally find a fitting home." *The Conversation*. Available: https://theconversation.com/ancient-southern-african-rock-engravings-finally-find-a-fitting-home-128646
 
@@ -195,7 +201,7 @@ Hodgskiss, T. Esterhuysen, A. 2019, December 2017. "Ancient southern African roc
 Hodgskiss, T. 2015, Sept 7. "What the use of ochre tells us about the capabilities of our African ancestry". *The Conversation*. Available: https://theconversation.com/what-the-use-of-ochre-tells-us-about-the-capabilities-of-our-african-ancestry-47081
 
 <a name="hooks_1992"></a>
-hooks, bell (1992). "The Oppositional Gaze: Black Female Spectator". The Feminism and Visual Culture Reader. New York: Routledge. 94–105.  <a name="hooks_1992"></a> 
+hooks, bell 1992. "The Oppositional Gaze: Black Female Spectator". The Feminism and Visual Culture Reader. New York: Routledge. 94–105.  <a name="hooks_1992"></a> 
 
 <a name="ito_et_al_2005"></a>
 Ito, M.E., Okabe, D.E. and Matsuda, M.E., 2005\. *Personal, portable, pedestrian: Mobile phones in Japanese life*. Cambridge: MIT Press.
@@ -209,6 +215,12 @@ identity perspective on polarization. Public Opinion Quarterly,
 Jewitt, C., & Oyama, R. 2001\. “Visual meaning: A social semiotic approach”. In T. Van Leeuwen & C. Jewitt (Eds.), Handbook of Visual Analysis. London: Sage.
 
 Kloenne, U., Nauels, A., Pearson, P., DeConto, R.M., Findlay, H.S., Hugelius, G., Robinson, A., Rogelj, J., Schuur, E.A., Stroeve, J. and Schleussner, C.F. 2022\. Only halving emissions by 2030 can minimize risks of crossing cryosphere thresholds. *Nature Climate Change*. 1-3.
+
+<a name="kress_2010"></a>
+Kress, G. 2010. *Multimodality*. London: Routledge.
+
+<a name="kurultay_2020"></a>
+Kurultay, A. 2020. Consumer Culture. In: The SAGE International Encyclopedia of Mass Media and Society. , Thousand Oaks,, CA: SAGE Publications, Inc. pp. 383-384 Available at: <https://doi.org/10.4135/9781483375519.n150> [Accessed 17 Feb 2026].
 
 <a name="kress_van_leeuwen_2006"></a>
 Kress, G. and Van Leeuwen, T. 2006\. *Reading Images: The Grammar of Visual Design*. London: Routledge.
@@ -241,6 +253,9 @@ Mills, S. 2008. Language and Sexism. Cambridge: Cambridge University Press.
 <a name="mishra_2020"></a>
 Mishra, P. (2020). Bollywood. In The SAGE international encyclopedia of mass media and society (Vol. 5, pp. 192-194). SAGE Publications, Inc., https://doi.org/10.4135/9781483375519.n79
 
+<a name="mpofu_2020"></a>
+Mpofu, S. 2020. South Africa. In: The SAGE International Encyclopedia of Mass Media and Society. , Thousand Oaks,, CA: SAGE Publications, Inc. pp. 1635-1637 Available at: <https://doi.org/10.4135/9781483375519.n632> [Accessed 17 Feb 2026].
+
 <a name="mulvey_1975"></a>
 Mulvey, L. 1975\. Visual Pleasure and Narrative Cinema. *Screen*. 16(3):6-18.
 
@@ -260,7 +275,7 @@ Nyamnjoh, F. B. 2011\. “De-Westernizing media theory to make room for African 
 O’Shaughnessy, M.,  Stadler, J. & Casey, S. 2016\. *Media & Society*. Melbourne: Oxford University Press.
 
 <a name="oakley_1972"></a>
-Oakley, A. (1972). Sex, Gender and Society. Revised Edition. Hampshire: Arena Gower Publishing.  
+Oakley, A. 1972. Sex, Gender and Society. Revised Edition. Hampshire: Arena Gower Publishing.  
 
 <a name="oyedemi_2024"></a>
 Oyedemi, T. & Smith, R. A. (eds.) (2024) *Media in Africa : Issues and Critiques*. First edition. New York, NY: Routledge.
@@ -338,11 +353,13 @@ Ugboajah, F.O. 1987\. Current debates in the field of mass communication researc
 <a name="uzuegbunam_1987"></a>
 Uzuegbunam, C. 2020. Concentration of Media Ownership. In: The SAGE International Encyclopedia of Mass Media and Society. , Thousand Oaks,, CA: SAGE Publications, Inc. pp. 368-369 Available at: <https://doi.org/10.4135/9781483375519.n144> [Accessed 17 Feb 2026].
 
-<a name="kress_2010"></a>
-Kress, G. 2010. *Multimodality*. London: Routledge
-
 <a name="van_leeuwen_2004"></a>
-Van Leeuwen, T. 2004. *Introducing Social Semiotics: An Introductory Textbook*. London: Routledge
+Van Leeuwen, T. 2004. *Introducing Social Semiotics: An Introductory Textbook*. London: Routledge.
+
+<a name="walder_2009"></a>
+Walder, A. G. 2009. Political Sociology and Social Movements. *Annual review of sociology*. 35 (1): 393–412.
+
+Wasserman, H. 2009. Learning a new language: Culture, ideology and economics in Afrikaans media after apartheid. _International journal of cultural studies_. \[Online] 12 (1), 61–80.
 
 <a name="wasserman_2020"></a>
 Wasserman. H. 2020\. The state of South African media: a space to contest democracy. *Publizistik*, 65(3): 451–465. 
@@ -352,12 +369,6 @@ wehustleclips. 2025, February 11. Kendrick Lamar's Super Bowl Halftime Show Symb
 
 <a name="weidinger_2021"></a>
 Weidinger, Laura, John Mellor, Maribeth Rauh, et al. 2021. “Ethical and Social Risks of Harm from Language Models.” CoRR abs/2112.04359. https://arxiv.org/abs/2112.04359.
-
-<a name="walder_2009"></a>
-Walder, A. G. 2009. Political Sociology and Social Movements. *Annual review of sociology*. 35 (1): 393–412.
-
-<a name="Weidinger_2021"></a>
-Weidinger, Laura, John Mellor, Maribeth Rauh, et al. 2021. “Ethical and Social Risks of Harm from Language Models.” CoRR abs/2112.04359. <https://arxiv.org/abs/2112.04359>.
 
 <a name="willems_2014"></a>
 Willems, W. 2014\. Provincializing hegemonic histories of media and communication studies: towards a genealogy of epistemic resistance in Africa. *Communication Theory*. 24 (4): 415–434.

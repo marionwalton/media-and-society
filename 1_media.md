@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 02. Defining Media
+title: 02. What are media?
 ---
 
-# Defining Media
+# What are Media?
 {: .no_toc }
 
 *By Marion Walton & Wallace Chuma, University of Cape Town*

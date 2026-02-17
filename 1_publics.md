@@ -56,9 +56,7 @@ against humanity to light. For example, during the apartheid era, Henry Nxumalo,
 abuse endured by prisoners and farm workers at the time and challenging the segregation of apartheid churches 
 in his investigations ([Harber, 2018: 69-75](/ideas/references/index.html#harber_2018)). 
 
-As you will learn in the section on **political economy**, in apartheid South Africa, the local corporate media
-were founded to promote Afrikaner nationalism or else were owned by mining houses and catered to primarily 
-white audiences (also see [Chuma, 2019](/ideas/references/index.html#chuma_2019)). While *Drum* magazine gave expression to political protest and defiance 
+While *Drum* magazine gave expression to political protest and defiance 
 of black urban publics, the white press were generally silent about and even complicit with labour exploitation 
 and publications were seldom prepared to flout the apartheid regime’s draconian censorship laws. Instead, lawyers, 
 activists and  religious figures took on the role of “muckraking” or exposing stories which those in power 
