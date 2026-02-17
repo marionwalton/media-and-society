@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 02.1. Case Study - Synthetic Media
+title: 04.2. Case Study - Synthetic Media
 ---
 
 # Case Study - Synthetic Images & Text
