@@ -9,10 +9,9 @@ title: 03.5. Case study - Consuming fossil fuels
 
 ### Case studies
 
-<img style="width: 12px; height: 12px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/y1FuvrbyrJG.png"); mask-position: -14px -601px;"/>
-<img style="width: 12px; height: 12px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/RBY2XQNTT-A.png"); mask-position: -14px -545px;"/>
-
 **Case study \- [Example 1 \- Toyota “It’s a not a bakkie, it’s a Hilux](https://www.youtube.com/watch?v=iZKEvtA74ac)”**
+
+![bae39606-f97c-49fb-910f-d8e552e6edb3.image.png](img/bae39606-f97c-49fb-910f-d8e552e6edb3.image.png)
 
 <figure>
 <iframe width="560" height="auto" src="https://www.youtube.com/embed/iZKEvtA74ac?si=HxIEN5xOc6jlQtV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  

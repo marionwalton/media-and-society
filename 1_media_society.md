@@ -24,15 +24,19 @@ For example, in the post-apartheid era, the ANC as governing party has appointed
 
 While tight control of media and state propaganda is often discussed in relation to authoritarian societies, scholars in the **political economy** tradition have documented how mass media also play a propagandistic role that reinforces political, economic and class privileges in capitalist societies (<a href="references.html#herman_1988">Herman & Chomsky, 1988</a>). This is because business models for news media are driven by advertising sales or subscriptions, which means that they are dependent on commercial support and often cater to wealthier readers and viewers who can afford to pay subscriptions and have more buying power. 
 
-Furthermore, contemporary media industries tend to be highly concentrated, responding to the political and economic interests of their owners and producing a steady flow of images, stories and information which reproduce the structure of class inequalities and imbalanced power relations that benefit the dominant class (<a href="references.html#harper_nd">Uzuegbunam</a>, 2020). 
+## Ownership 
+We are surrounded by many different sources of information and media titles. Nonetheless, the media
+industries which produce most of the media we consume and the social media platforms where we stay in touch with other people are owned by a handful of huge companies. We refer to this as  **highly concentrated** ownership.  
 
-These overlaps of economic and media power are also highly influential in African countries, albeit subject to some important differences, such as the limited reach and influence of media on the continent (<a href="references.html#chuma_2019">Chuma</a>, 2019).  
+ Such media organisations respond to the political and economic interests of their owners by producing a steady flow of images, stories and information which reproduce the structure of class inequalities and imbalanced power relations that benefit the dominant class (<a href="references.html#harper_nd">Uzuegbunam</a>, 2020). 
+
+Overlapping relationships of economic and media power are also found in African countries, albeit subject to some important differences, such as the limited reach and influence of media on the continent (<a href="references.html#chuma_2019">Chuma</a>, 2019).  
 
 ## Globalisation
 
 Globally, concentrated media ownership has meant the cultural dominance of Western organisations and of the US in particular. The idea of **[cultural imperialism](definitions.html#cultural_imperialism)** describes the one-directional flow of media and cultural content in the context of a broadly Western power over the rest of the world (<a href="references.html#schiller_2020"> Schiller, 1976</a>). Because of the historical power of the USA, this perspective on globalisation has often focused on how the USA has dominated cultural industries globally, with Hollywood, and other programming, advertising and consumer culture influencing that of the rest of the world.
 
-Given this overall context of US dominance, it's important to remember that the global flow of ideas and images in fact goes in **many directions**. For example, Bollywood and the broader film industry in India now entertain millions of viewers globally (<a href="references.html#mishra_2020"> Mishra, 2020</a>). In 2007, Nollywood, or the Nigerian movie industry, overtook Hollywood, becoming the second-largest movie producer in the world (<a href="references.html#agbese_2020">Agbese, 2020</a>).
+Given an overall context of US dominance, it's important to remember that global streams of ideas, stories and images flow in **many directions**. For example, Bollywood and the film industry in India now entertain millions of viewers globally (<a href="references.html#mishra_2020"> Mishra, 2020</a>). In 2007, Nollywood, or the Nigerian movie industry, overtook Hollywood, becoming the second-largest movie producer in the world (<a href="references.html#agbese_2020">Agbese, 2020</a>).
 
 ## Consumer culture
 Advertising media, marketing and branding play a key role in contemporary society. These media industries work hard to tell people what they "need", and what it means when they buy, have, or use certain products. This is known as consumer culture, which is shaped by globalised industries and media as well as  how people make sense of the world in local cultural contexts (<a href="references.html#kurultay_2020"> Kurultay, 2020 </a>).
