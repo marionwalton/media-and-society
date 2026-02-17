@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 03.5. Case study - Consuming fossil fuels
+title: 03.5. Examples - Consuming fossil fuels
 ---
 
 # Case study - Fossil fuels

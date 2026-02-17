@@ -205,11 +205,8 @@ know the influencer personally and hence tend to trust their judgement, includin
 ![Activity](img/pencilpencil.svg) 
 What strategies does this influencer post use to gain attention? What audience do you think Volkswagen were targeting and why?
 
-
 While celebrities have large followings or "reach" and can gain the attention of large numbers of people, a recent 
-[study](https://modernmarketing.co.za/nano-influencers-lead-in-engagement-according-to-sa-influencer-report/)
-in SA suggests that so-called "nano-influencers" are more successful at driving engagement by interacting in a more relatable way 
-with their followers.
+[study](https://modernmarketing.co.za/nano-influencers-lead-in-engagement-according-to-sa-influencer-report/) in SA suggests that so-called "nano-influencers" are more successful at driving engagement by interacting in a more relatable way with their followers.
 
 Increasingly, influencers are represented by **influencer marketing companies**, which themselves are
 being acquired by the holding companies for **advertising agencies**, such as Publicis and WPP ([Siu, 2025](/ideas/references/siu_2025).

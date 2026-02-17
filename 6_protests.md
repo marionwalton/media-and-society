@@ -1,12 +1,12 @@
 ---
 layout: home
-title: 03.6. Case study - UCT Protests
+title: 03.6. Examples - UCT Protests
 ---
 
-## examples
+## Examples
 *Contributed by Media & Society class of 2025, University of Cape Town*
 
-### Case studies - UCT protests, 2025
+### Examples - UCT protests, 2025
 
 ## Tiktoks
 
