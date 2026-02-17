@@ -8,7 +8,7 @@ title: 03.5. Case study - Consuming fossil fuels
 *By Marion Walton, University of Cape Town*
 
 ### Case studies
-![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small") 
+![Activity](img/pencilpencil.svg) 
 What strategies do these television ads use to gain attention? What audiences do you think they were targeting and why?
 
 **Case study \- [Example 1 \- Toyota “It’s a not a bakkie, it’s a Hilux](https://www.youtube.com/watch?v=iZKEvtA74ac)”**
