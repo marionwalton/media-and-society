@@ -51,7 +51,7 @@ The long-lasting medium of the rock engraving has survived many centuries. The c
 [Media](definitions.html#media){: .btn .btn-blue }
 
 <img title="Rock engraving of Iziko Rhino from Kinderdam.Nkansah Rexford, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" 
-     alt="Iziko Rhino" 
+     alt="Iziko Rhino" id="iziko_rhino"
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Iziko_Rhino.JPG/512px-Iziko_Rhino.JPG?20140701092425"/>
 
 Figure 1: "Iziko Rhino" - Rock engraving of rhino from Kinderdam. Credit - <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">Wikimedia Commons</a>

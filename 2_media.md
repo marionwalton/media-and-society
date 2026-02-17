@@ -20,7 +20,7 @@ When we talk loosely about media, we tend to bundle several senses of the word t
 ### Media of production, distribution and reception 
 We use a wide range of physical media to produce, distribute or convey messages to one another. 
 
-As in the case of the <a href="" >Iziko rhino engraving</a>  humans have used durable materials such as rock to communicate with one another throughout history. Other examples of everyday media used to create and distribute messages include soundwaves, fabrics and paint. 
+As in the case of the <a href="1_media.html" id="iziko_rhino">Iziko rhino engraving</a>  humans have used durable materials such as rock to communicate with one another throughout history. Other examples of everyday media used to create and distribute messages include soundwaves, fabrics and paint. 
 
 Electronic and print media get more complex and involve reception technologies which extend the range of human senses such as sight and hearing. For example, a radio programme might be produced digitally, distributed over the air via  radio waves and received on a transistor radio, which generates the sound waves heard by the listener.  
   
