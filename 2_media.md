@@ -42,16 +42,11 @@ of a San spiritual ritual). Thus some dimensions of meaning depend heavily on th
 ### Media industries and organisations
 Often when we talk about "the media" we are referring to the **for-profit media industries**
 which have developed around complex media production and distribution networks such as **television broadcasting, news publishers and networks, advertising
-and public relations agencies, or social media platforms**.
-
-Media industries tend to be associated with large commercial media organisations which aim to target large audiences
-of people, and are thus known as [mass media](definitions.html#mass-media). These are businesses which exist to create and sell media products such as news, advertising, entertainment, or data which can be used to target advertising. 
-
-In contemporary society, such organisations are usually primarily motivated to make a **profit**, which means they depend on selling subscriptions and advertising. 
+and public relations agencies, or social media platforms**. [Mass media](definitions.html#mass-media) are generally produced by commercial media industries. In contemporary society, such organisations are primarily motivated to make a **profit**. 
 
 In the case of the Iziko Rhino, the image is published on the Wikimedia Commons, which is funded by a **non-profit** foundation, and is thus an example of non-commercial media.
 
-Nonetheless, to access Wikimedia we rely on several for-profit industries which produce computers or cellphones or which provide web hosting, electricity and internet access. 
+To access Wikimedia we rely on several for-profit industries which produce computers or cellphones or which provide web hosting, electricity and internet access. 
 
 ## Important Definitions
 
