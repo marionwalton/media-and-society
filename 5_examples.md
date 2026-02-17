@@ -8,6 +8,8 @@ title: 03.5. Case study - Consuming fossil fuels
 *By Marion Walton, University of Cape Town*
 
 ### Case studies
+![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small") 
+What strategies do these television ads use to gain attention? What audiences do you think they were targeting and why?
 
 **Case study \- [Example 1 \- Toyota “It’s a not a bakkie, it’s a Hilux](https://www.youtube.com/watch?v=iZKEvtA74ac)”**
 
@@ -57,14 +59,13 @@ Toyota SA commented on the multilingual aspects of the campaign.
 <figcaption>Example 3 \- VW Vivo Youtube thumbnail</figcaption>
 </figure>
 
-![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small") 
-What strategies do these television ads use to gain attention? What audiences do you think they were targeting and why?
-
 ### Influencers
+![Activity](img/pencilpencil.svg) 
+What strategies do these influencer posts use to gain attention? What audiences do you think they were targeting and why?
 
 **[Case study Influencer marketing #shouldagotavivo](https://www.tiktok.com/@volkswagensouthafrica/video/7379928341823900934)**
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@volkswagensouthafrica/video/7379928341823900934" data-video-id="7379928341823900934" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@volkswagensouthafrica" href="https://www.tiktok.com/@volkswagensouthafrica?refer=embed">@volkswagensouthafrica</a> If @agirlnamedcassidy gives you a scoop – you sit up, laugh your head off and then pay attention! 🤣😐 It would really help you to do so now, especially since you have less than 24 hours to enter our <a title="shouldagotavivo" target="_blank" href="https://www.tiktok.com/tag/shouldagotavivo?refer=embed">#ShouldaGotAVivo</a> competition and stand a chance of winning a brand-new Polo Vivo*. <a title="polovivo" target="_blank" href="https://www.tiktok.com/tag/polovivo?refer=embed">#PoloVivo</a><a title="volkswagen" target="_blank" href="https://www.tiktok.com/tag/volkswagen?refer=embed">#Volkswagen</a> <a title="competition" target="_blank" href="https://www.tiktok.com/tag/competition?refer=embed">#competition</a> <a title="cartok" target="_blank" href="https://www.tiktok.com/tag/cartok?refer=embed">#cartok</a> <a title="carlover" target="_blank" href="https://www.tiktok.com/tag/carlover?refer=embed">#carlover</a> <a target="_blank" title="♬ original sound  - volkswagensouthafrica" href="https://www.tiktok.com/music/original-sound-volkswagensouthafrica-7379929400094919429?refer=embed">♬ original sound  - volkswagensouthafrica</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
-![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small") 
+![Activity](img/pencilpencil.svg) 
 What strategies do these influencer posts use to gain attention? What audiences do you think they were targeting and why?
