@@ -19,21 +19,17 @@ media holdings to exert considerable political and economic power around the glo
      alt="Portrait of Rupert Murdoch" 
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg/440px-Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg" 
      class="illustration"/>
-<figcaption>Figure 1: Rupert Murdoch in 2012 Credit - <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg/440px-Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg">Wikimedia</a></caption>
+<figcaption>Figure 1: Rupert Murdoch in 2012 Credit - <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg/440px-Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg">Wikimedia</a></figcaption>
 </figure>
 
 South African billionaire Koos Bekker, former CEO of Naspers, was mentioned at the inquiry into State Capture
-as having influenced the transition to digital television in favour of Multichoice. 
+as having influenced the transition to digital television in favour of Multichoice. Bekker, while not an individual owner, had considerable shareholding in the organisation.
 
 ![Zapiro cartoon of a sweating Koos Bekker, caught with his fists in two cookie jars labelled "Influence peddling" and "Gupta Greasing" by someone asking him "Tell us more about your hands-off approach...", shows the Multichoice logo edited in graffiti to read "Enriching Lies"](img/bekker.png)
 
-Bekker, while not an individual owner, had considerable shareholding in the organisation.
+Iqbal  Survé, owner of Independent Media, frequently appears on the front page of his own publications which also provide supportive coverage of his other business holdings through Sekunjalo Investments. 
 
-Iqbal  Survé, owner of Independent Media, frequently appears on the front page of his own 
-publications which support his business holdings through Sekunjalo Investments. 
-
-News24 lodged a complaint with the Press Council in 2024 complaining that Independent Media
-had invented fictitious personae who were given bylines as fake authors of "op eds" attacking individual journalists who had reported critically on Survé's business holdings ([Wilson et al., 2024](/ideas/references/index.html#references)). 
+News24 lodged a complaint with the Press Council in 2024 complaining that Independent Media had invented fictitious personae who were given bylines as fake authors of "op eds" attacking the individual journalists who had reported critically on Survé's business holdings ([Wilson et al., 2024](/ideas/references/index.html#references)). 
 
 ### Powerful owners - social media
 
