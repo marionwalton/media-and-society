@@ -64,10 +64,9 @@ present in their training data when they output **synthetic media**, as in Figur
 
 ### Media, power and racism
 
-Today, both traditional media and social media play a role in circulating and framing 
-racist ideas as well as challenging racism ([Titley, 2019](references/index.html#titley_2019)).
+Both traditional media and social media play a role in circulating and framing racist ideas, stories and images. They are also used to challenge racism ([Titley, 2019](references/index.html#titley_2019)).
 
-In Africa, the history of African media is associated with ideologies that underpin colonialism and neoliberal capitalism. 
+In Africa, the history of African media is associated with the racist ideologies that underpin colonialism and neoliberal capitalism. 
 Yet every day in African countries, people also use media to resist cultural domination by the large global media industries, 
 and to express their cultural diversity (<a href="references/index.html#nyamnjoh_2011">Nyamnjoh, 2011:21</a>).
 
@@ -96,21 +95,17 @@ stereotypes (<a href="/ideas/references/index.html#hooks_1992">hooks, 1992</a>).
      alt="bell hooks " 
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg" 
      class="illustration"/>
-<figcaption>Figure 3: bell hooks in 2014. Credit - <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg">Wikimedia</a></caption>
+<figcaption>Figure 3: bell hooks in 2014. Credit - <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg">Wikimedia</a></figcaption>
 </figure>
 
+Despite this history of inequality and stereotyping in Hollywood, people's thinking is not controlled by the media they encounter. For example, Black feminist theorist bell hooks remembers watching movies as a young Black girl in the USA and becoming aware that Black women were excluded from the male gaze while white women were idealised. 
 
-This history of inequality doesn’t mean that people’s thinking is controlled by the media they encounter. 
-
-For example, Black feminist theorist bell hooks remembers watching movies as a young Black girl 
-in the USA and becoming aware that black women were excluded from the male gaze while white women were idealised. 
-This led her to develop the idea of an **"oppositional gaze"** where the act of spectatorship becomes 
+This led her to develop the idea of an **"oppositional gaze"** . In this case, the act of spectatorship becomes 
 a gesture of resistance (<a href="/ideas/references/index.html#hooks_1992">hooks, 1992</a>). 
-
 
 ## Questions
 
-* What stereotypes have you personally found harmful or hurtful?  
+* What stereotypes have you personally found harmful or hurtful in media you consumed?  
 * What did you notice was missing from the media as you were growing up?  
 * How have you encountered stereotypical representations of wealth, race, language, gender and sexuality in the media you use every day?   
 * Do you have any media practices of your own which help you address these inequalities?
