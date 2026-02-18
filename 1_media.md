@@ -6,7 +6,7 @@ title: 02. What are media?
 # What are Media?
 {: .no_toc }
 
-*By Marion Walton & Wallace Chuma, University of Cape Town*
+*By Marion Walton, University of Cape Town*
 
 
 ![media icons](img/Groupmedia_icons.svg)
