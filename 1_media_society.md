@@ -6,7 +6,9 @@ layout: home
 {: .no_toc }
 *By Marion Walton & Wallace Chuma, University of Cape Town*
 
-Media reflect and shape power relations in societies. Media and cultural studies investigate the social, political, cultural and economic role of the media, and especially of the mass media and social media, in different contexts around the world. 
+Media reflect and shape power relations in societies in many ways. 
+
+In this part of the course, we'll investigate the social, political, cultural and economic role of the media, and especially of the mass media and social media, in different contexts around the world. 
 
 ## News media
 
@@ -68,7 +70,7 @@ If you're anything like the participants in this survey, most of the news you en
 <figure>
 <img class="chart" title="Chart" alt="Pie chart showing that News24/Naspers is the dominant source of news for UCT media students" src="img/ownership.png">
   
-<figcaption>Figure 3: Ownership of news sources used by UCT Media students 2022-2024. - <a href="https://docs.google.com/forms/d/e/1FAIpQLSebxkmLn52uxCCkGtBplAGJ2Lf2MsBxJXHv2-tzUJktDPAp4g/viewform">Class survey</a></caption>
+<figcaption>Figure 3: Ownership of news sources used by UCT Media students 2022-2024. - <a href="https://docs.google.com/forms/d/e/1FAIpQLSebxkmLn52uxCCkGtBplAGJ2Lf2MsBxJXHv2-tzUJktDPAp4g/viewform">Class survey</a></figcaption>
 </figure>
 
 As Figure 4 shows, the CFMS students who participated in the survey mostly encountered news via
@@ -77,7 +79,7 @@ Alphabet's search engine (Google), browser (Chrome), or video hosting site (Yout
 <figure>
 <img class="chart" title="Chart" alt="Pie chart showing that Alphabet (Google/Youtube/Chrome) is the dominant platform by which UCT media students access news" src="img/platform_for_news.png">
   
-<figcaption>Figure 4: News platforms used by UCT Media students 2022-2024. - <a href="https://docs.google.com/forms/d/e/1FAIpQLSebxkmLn52uxCCkGtBplAGJ2Lf2MsBxJXHv2-tzUJktDPAp4g/viewform">Class survey</a></caption>
+<figcaption>Figure 4: News platforms used by UCT Media students 2022-2024. - <a href="https://docs.google.com/forms/d/e/1FAIpQLSebxkmLn52uxCCkGtBplAGJ2Lf2MsBxJXHv2-tzUJktDPAp4g/viewform">Class survey</a></figcaption>
 </figure>
 
 ![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small") 

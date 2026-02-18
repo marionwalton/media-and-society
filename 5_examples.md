@@ -7,9 +7,13 @@ title: 03.5. Examples - Consuming fossil fuels
 {: .no_toc }
 *By Marion Walton, University of Cape Town*
 
+Climate change is currently causing extreme weather events like storms, floods and droughts, with serious consequences especially in countries like South Africa. Continued consumption of fossil fuels will threaten everyone's future, and yet the companies which sell fossil fuels and related products like petrol cars continue to spend millions on marketing and advertising that encourages people to consume more fossil fuels. 
+
+For this reason, some countries are banning fossil fuel advertising as a result.  In this case study, we'll look at marketing and advertising strategies by some South African car brands and how they engage with consumer culture.
+
 ### Case studies
 ![Activity](img/pencilpencil.svg) 
-What strategies do these television ads use to gain attention? What audiences do you think they were targeting and why?
+What strategies do these television ads use to gain attention? What associations do they create with cars and driving? What audiences do you think they were targeting and why?
 
 **Case study \- [Example 1 \- Toyota “It’s a not a bakkie, it’s a Hilux](https://www.youtube.com/watch?v=iZKEvtA74ac)”**
 
