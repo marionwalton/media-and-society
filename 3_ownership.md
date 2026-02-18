@@ -11,8 +11,7 @@ and then purchased by wealthy individuals, who can use them to promote their own
 - TOC
 {:toc}
 
-Wealthy individual media owners such as Rupert Murdoch (News Corp) or Jeff Bezos (*The Washington Post*, Amazon) have used their 
-media holdings to exert considerable political and economic power around the globe.
+Wealthy individual media owners such as Rupert Murdoch (News Corp) or Jeff Bezos (*The Washington Post*, Amazon) have used their media holdings to exert considerable political and economic power around the globe.
 
 <figure>
 <img title="Rupert Murdoch in 2012" 
@@ -22,8 +21,8 @@ media holdings to exert considerable political and economic power around the glo
 <figcaption>Figure 1: Rupert Murdoch in 2012 Credit - <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg/440px-Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg">Wikimedia</a></figcaption>
 </figure>
 
-South African billionaire Koos Bekker, former CEO of Naspers, was mentioned at the inquiry into State Capture
-as having influenced South Africa's transition to digital television in a way which would favour Multichoice. Bekker, while not an individual owner, had considerable shareholding in the organisation, which was then owned by Naspers.
+South African billionaire Koos Bekker, former CEO of South African media giant, Naspers, was mentioned at the inquiry into State Capture
+as having influenced South Africa's transition to digital television in a way which would favour Multichoice, which was then owned by Naspers. Bekker, while not an individual owner, had considerable shareholding in the organisation.
 
 
 ![Zapiro cartoon of a sweating Koos Bekker, caught with his fists in two cookie jars labelled \"Influence peddling\" and \"Gupta Greasing\" by someone asking him \"Tell us more about your hands-off approach...\", shows the Multichoice logo edited in graffiti to read \"Enriching Lies\"](img/bekker.png "Zapiro cartoon of a sweating Koos Bekker, caught with his fists in two cookie jars labelled \"Influence peddling\" and \"Gupta Greasing\" by someone asking him \"Tell us more about your hands-off approach...\", shows the Multichoice logo edited in graffiti to read \"Enriching Lies\"")
