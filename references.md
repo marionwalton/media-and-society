@@ -130,6 +130,9 @@ Foucault, Michel. (1972). The Archaeology of Knowledge and the Discourse on Lang
 <a name="gadamer_1982"></a>
 Gadamer, Hans-Georg. 1982. *Truth and method*. New York:Crossroad.
 
+<a name="gamble_2024"></a>
+Gamble, S. 2024. _Digital flows : online hip hop music and culture_. New York: Oxford University Press.
+
 <a name="gill_2010"></a>
 Gill, Rosalind (2010) Chapter “Gender” in The Media: An Introduction (3rd Edition), edited by Daniele Albertazzi and Paul Cobley, Edinburgh: Pearson Education, pp. 410—26.
 
@@ -145,6 +148,9 @@ Granovetter, M.S., 1973. The strength of weak ties. American journal of sociolog
 <a name="graves_2018"></a>
 Graves. J. 2018. What makes you a man or a woman? Geneticist Jenny Graves explains. Available
  https://theconversation.com/what-makes-you-a-man-or-a-woman-geneticist-jenny-graves-explains-102983
+
+<a name="grison_2024"></a>
+ Grison, T. 2024. Playing Hide and Seek with Algorithms in the “Gay TikTok”: From Shadowbanning to Platform Affordances. In: Schafer, V. and Pailler, F. ed. Online Virality: Spread and Influence. Berlin, Boston: De Gruyter Oldenbourg, pp. 249-268. https://doi.org/10.1515/9783111311371-013
 
 <a name="gunner_2012"></a>
 Gunner, L., Ligaga, D., Moyo, D., Bosch, T., Chibita, M.B. and Coplan, D.B., 2012\. *Radio in Africa: Publics, cultures, communities*. Johannesburg: Wits University Press.

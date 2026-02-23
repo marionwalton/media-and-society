@@ -33,7 +33,7 @@ means in their everyday lives.
 
 <figure>
 <img title="Simpsons cartoon" alt="The Simpsons holding cellphones walk over to their couch, but collide and all fall on the floor. They continue scrolling." src="img/simpsons.gif">   
-  <figcaption>Figure 1: The Simpsons scrolling through social media on their phones - Source <a href src="https://media1.tenor.com/m/RSSvQ8MYq-gAAAAC/nationalsiblingsday-nationalsiblingday.gif">media1 tenor</a>
+  <figcaption>Figure 1: The Simpsons scrolling through social media on their phones - Source <a href="https://media1.tenor.com/m/RSSvQ8MYq-gAAAAC/nationalsiblingsday-nationalsiblingday.gif">media1 tenor</a>
 </figcaption>
   </figure>
 
