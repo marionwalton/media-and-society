@@ -17,8 +17,6 @@ Shaw, Ryland. “Is TikTok ‘for’ News? Sociotechnical Frictions and Workarou
 
 Montgomery, Blake. 2026. Why TikTok’s first week of American ownership was a disaster. Available: https://www.theguardian.com/technology/2026/feb/01/tiktok-first-week
 
-[Blake Montgomery](https://www.theguardian.com/profile/blake-montgomery)
-
 https://www.theguardian.com/technology/2026/feb/01/tiktok-first-week
 
 https://www.aljazeera.com/video/the-take-2/2025/9/25/aje-onl-usa_tiktokalgo_av_v3-250925

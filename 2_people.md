@@ -32,8 +32,8 @@ in your friends group. When you get to know new groups of people (such as academ
 means in their everyday lives. 
 
 <figure>
-<img title="Simpsons cartoon" alt="The Simpsons holding cellphones walk over to their couch, but collide and all fall on the floor. They continue scrolling." src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/simpsons.gif?v=1739271903920">   
-  <figcaption>Figure 1: The Simpsons scrolling through socials on their phones - Source <a href src="https://media1.tenor.com/m/RSSvQ8MYq-gAAAAC/nationalsiblingsday-nationalsiblingday.gif">media1 tenor</a>
+<img title="Simpsons cartoon" alt="The Simpsons holding cellphones walk over to their couch, but collide and all fall on the floor. They continue scrolling." src="img/simpsons.gif">   
+  <figcaption>Figure 1: The Simpsons scrolling through social media on their phones - Source <a href src="https://media1.tenor.com/m/RSSvQ8MYq-gAAAAC/nationalsiblingsday-nationalsiblingday.gif">media1 tenor</a>
 </figcaption>
   </figure>
 
@@ -65,13 +65,12 @@ and affordable access to fast internet and how old they were when they first lea
 ### Language and media 
 
 The news media landscape in South Africa is dominated by publications in English, and (to a lesser extent) Afrikaans.
-Broadcasting is somewhat more diverse, mostly because the public broadcaster (SABC) is required to provide information in all the
-official languages ([SABC, 2024](/ideas/references/index.html#sabc_2024).
+Broadcasting is somewhat more diverse, mostly because the public broadcaster (SABC) is required to provide information in all the official languages ([SABC, 2024](/ideas/references/index.html#sabc_2024)).
 
 Thus the languages used in mass media look very different to the languages which people actually speak.
 
 <figure>
-<img width = "600" title="Languages in SA" alt="IsiZulu - 24.3%; IsiXhosa - 16.27%; Afrikaans - 10.58%; Sepedi, 9.93% English 8.69%." src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/Language.png?v=1739289781720">   
+<img width = "600" title="Languages in SA" alt="IsiZulu - 24.3%; IsiXhosa - 16.27%; Afrikaans - 10.58%; Sepedi, 9.93% English 8.69%." src="img/Language.png">   
   <figcaption>Figure 2: Languages used in South Africa - Source <a href src="https://next.wazimap.co.za/">STATSSA Census 2022</a>
 </figcaption>
   </figure>

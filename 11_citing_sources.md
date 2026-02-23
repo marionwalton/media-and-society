@@ -26,7 +26,9 @@ title:  10. Citing sources and referencing
  
  Although they may look superficially like academic writing, GenAI citations often don't check out in some way or another.  Synthetic citations are purely decorative as they don't reflect someone's process of research. They can't be relied on to reference actual sources or exact quotations. Since they are so often incorrect, they function to mislead the reader. This destroys trust in you, the author. 
  
- Instead of using GenAI to synthesize fake citations that don't correspond to actual sources, and which function to limit your own knowledge of a field you should aim to build up your citations slowly. Start as you complete course readings and conduct additional research. Whenever you read something, keep careful notes, complete with full references and page numbers. In this way you can make strong claims supported with accurate citations and build foundations of durable knowledge in your chosen area of expertise.
+ Instead of using GenAI to synthesize fake citations that don't correspond to actual sources, and which function to limit your own knowledge of a field, you should aim to build up your citations slowly. Start by completing course readings and only after you have made notes from them, conduct additional research. 
+ 
+ Whenever you read something, keep careful notes, complete with full references and page numbers. In this way you can make strong claims supported with accurate citations and build foundations of durable knowledge in your chosen area of expertise.
 
 ## What is a citation?
 

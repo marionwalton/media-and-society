@@ -8,7 +8,7 @@ layout: home
 
 Image by <a href="https://pixabay.com/users/nambasi-3485318/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2314796">Charles Nambasi</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2314796">Pixabay</a>
 
-By Marion Walton, Wallace Chuma, Danielle Becker
+By Marion Walton, Adam Haupt, Wallace Chuma, Martha Evans, Danielle Becker
 
 This pocket textbook focuses on the use of **media in African contexts** and emphasises insights from **[cultural studies](definitions.html#cultural_studies)** and **[social semiotics](definitions.html#social_semiotics)**.
 
@@ -78,7 +78,13 @@ There are a couple of ways for you to find out more about these key concepts. Yo
 
 You should _cite_ any definitions, quotations and paraphrases from the pocket textbook just like a website, as follows:
 
->Walton, M., et al. 2025. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
+**If you are citing a specific page (this will usually be the case)**
+>Walton, M., et al. 2026. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
+
+**If you want to cite the whole book:**
+
+>Walton, M., et al. 2026. Media & Society: A Pocket Textbook. Available https://marionwalton.github.io/media-and-society/
+
 
 ### Check your understanding 
 
