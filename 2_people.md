@@ -49,7 +49,7 @@ The cartoon in Figure 1 pokes fun at family
 media viewing practices, showing how families combine television viewing with
 contemporary individual cellphone use. In such cases, it's not always clear whether it's the television or the cellphones which are acting as a "second screen" ([Guo, 2019](/ideas/references/index.html#guo_2019)).
 
-![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small") Sharing memes such as the Simpsons cartoon in Figure 1 is also another media practice. When have you shared memes, and why? What does sharing memes
+![Activity](img/pencilpencil.svg) Sharing memes such as the Simpsons cartoon in Figure 1 is also another media practice. When have you shared memes, and why? What does sharing memes
 mean in your friends group? 
 
 ### Everyday practices in SA
@@ -75,7 +75,7 @@ Thus the languages used in mass media look very different to the languages which
 </figcaption>
   </figure>
   
-  ![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small")
+  ![Activity](img/pencilpencil.svg)
  Use the Statssa chart (Figure 2) to work out how many people in South Africa speak your first language. Which language/s do you
   use for news and entertainment?  Check your knowledge by filling in the Exercise 2 at the bottom of the page. 
   
