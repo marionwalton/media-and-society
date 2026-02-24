@@ -65,7 +65,7 @@ and affordable access to fast internet and how old they were when they first lea
 ### Language and media 
 
 The news media landscape in South Africa is dominated by publications in English, and (to a lesser extent) Afrikaans.
-Broadcasting is somewhat more diverse, mostly because the public broadcaster (SABC) is required to provide information in all the official languages ([SABC, 2024](/ideas/references/index.html#sabc_2024)).
+Broadcasting is somewhat more diverse, mostly because the public broadcaster (SABC) is required to provide information in all the official languages ([SABC, 2024](references.html#sabc_2024)).
 
 Thus the languages used in mass media look very different to the languages which people actually speak.
 
@@ -85,9 +85,9 @@ Differences in internet access create [digital inequalities](/ideas/definitions/
 Such inequalities tend to reflect other **social inequalities** such as age, gender, and whether people live in cities, towns or small 
 villages. For example, according to a recent survey, only 19% of South Africans did not use the Internet in 2024 ([GWI, 2025](references.html#gwi_2025)). Internet users are most likely to be younger urban dwellers in full-time employment. For this reason studies of online media consumption such as the above GWI survey tend to focus on 16 to 64-year-old South Africans, who are considered to be the "connected generation". 
 
-South Africa also has relatively **high prices for mobile data**, and so, in lower income groups in particular, people are “less connected” and their access to the internet is highly constrained ([de Lanerolle, et al, 2017](/ideas/references/index.html#de_lanerolle_et_al_2017)) 
+South Africa also has relatively **high prices for mobile data**, and so, in lower income groups in particular, people are “less connected” and their access to the internet is highly constrained ([de Lanerolle, et al, 2017](references.html#de_lanerolle_et_al_2017)) 
 
-**Radio** is a more easily accessible medium in this context. A recent survey found that around 94% of South Africans (15+) owned a radio, and millions of people tune in regularly to a wide range of public and community stations, of which  indigenous language stations attract the largest audiences. Nonetheless, people’s listening practices are shifting as they turn to online radio and podcasts ([Nkoala, 2023](/ideas/references/index.html#nkoala_2023)).
+**Radio** is a more easily accessible medium in this context. A recent survey found that around 94% of South Africans (15+) owned a radio, and millions of people tune in regularly to a wide range of public and community stations, of which  indigenous language stations attract the largest audiences. Nonetheless, people’s listening practices are shifting as they turn to online radio and podcasts ([Nkoala, 2023](references.html#nkoala_2023)).
 
 ### Online media practices
 
@@ -99,7 +99,7 @@ users were still watching a lot of broadcast television (e.g. SABC or DSTV), whi
 2:29 hrs every day. By comparison they watched streaming video or TV series (e.g. Youtube, Netflix or Showmax, in 
 that order), for an average of 1.48 hrs per day. 
 
-More recently in 2024, the MAPS™ survey ([MAPS, 2024](/ideas/references/index.html#maps_2024)) shows these numbers growing, with 
+More recently in 2024, the MAPS™ survey ([MAPS, 2024](references.html#maps_2024)) shows these numbers growing, with 
 almost three quarters of South Africans regularly engaging on social media platforms, and 13 million people reporting that they spent
 more than 20 hours a week on social media.
 - Facebook (29 million users), 
