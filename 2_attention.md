@@ -196,7 +196,7 @@ Increasingly, brands also use  **influencers** (also known as **content creators
 In 2025 it was estimated that the global value of influencer marketing would be $33 billion (USD) ([Statista Research Team, 2025](/ideas/references/index.html#statista_2025)).
 
 Influencers are popular social media users who are able to attract the attention of a number of other users (known as their followers) who come to feel that they 
-know the influencer personally and hence tend to trust their judgement, including their product recommendations ([Stokel-Walker, C. 2021](/ideas/references/index.html#stokel-walker_2021)).
+know the influencer personally and hence tend to trust their judgement, including their product recommendations ([Stokel-Walker, C. 2021](references.html#stokel-walker_2021)).
 
 **[Case study Influencer marketing #shouldagotavivo](https://www.tiktok.com/@volkswagensouthafrica/video/7379928341823900934)**
 

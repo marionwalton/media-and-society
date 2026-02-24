@@ -83,25 +83,18 @@ Thus the languages used in mass media look very different to the languages which
 
 Differences in internet access create [digital inequalities](/ideas/definitions/#digital_inequality) (also known as the **digital divide**). 
 Such inequalities tend to reflect other **social inequalities** such as age, gender, and whether people live in cities, towns or small 
-villages. For example, according to a recent survey, only 64% of South Africans used the Internet in 2021 ([GWI, 2022](/ideas/references/index.html#gwi_2022)). 
-The study found that Internet users are most likely to be younger (16-24 yrs old) urban dwellers in full-time 
-employment. By contrast, it found that only a small minority of older people in South Africa go online \- only 
-about 1 in 20 internet users in the country are older than 55\.
+villages. For example, according to a recent survey, only 19% of South Africans did not use the Internet in 2024 ([GWI, 2025](references.html#gwi_2025)). Internet users are most likely to be younger urban dwellers in full-time employment. For this reason studies of online media consumption such as the above GWI survey tend to focus on 16 to 64-year-old South Africans, who are considered to be the "connected generation". 
 
-South Africa also has relatively **high prices for mobile data**, and so, in lower income groups in particular, people 
-are “less connected” and their access to the internet is highly constrained ([de Lanerolle, et al, 2017](/ideas/references/index.html#de_lanerolle_et_al_2017)) 
+South Africa also has relatively **high prices for mobile data**, and so, in lower income groups in particular, people are “less connected” and their access to the internet is highly constrained ([de Lanerolle, et al, 2017](/ideas/references/index.html#de_lanerolle_et_al_2017)) 
 
-**Radio** is a far more easily accessible medium in this context. A recent survey found that around 94% of South 
-Africans (15+) owned a radio, and millions of people tune in regularly to a wide range of public and community 
-stations, of which  indigenous language stations attract the largest audiences. Nonetheless, people’s listening 
-practices are shifting as they turn to online radio and podcasts ([Nkoala, 2023](/ideas/references/index.html#nkoala_2023)).
+**Radio** is a more easily accessible medium in this context. A recent survey found that around 94% of South Africans (15+) owned a radio, and millions of people tune in regularly to a wide range of public and community stations, of which  indigenous language stations attract the largest audiences. Nonetheless, people’s listening practices are shifting as they turn to online radio and podcasts ([Nkoala, 2023](/ideas/references/index.html#nkoala_2023)).
 
 ### Online media practices
 
-According to the GWI ([2022](/ideas/references/index.html#gwi_2022)) study, those South Africans who do use the internet spent considerably more time every 
-day on social media (3:41 hours) compared to their counterparts in the rest of the world (2.28 hours). The survey 
+![GWI 2022 survey](img/GWI_2022.png)
+According to the GWI ([2022](references.html#gwi_2022)) study, South Africans who use the internet spend considerably more time every day on social media (3:41 hours) compared to their counterparts in the rest of the world (2.28 hours). The survey 
 also found that internet users in South Africa were more likely to read the news online (0:55 hours) than in print 
-(0:37 hours). They also spent more time streaming music (2.14) than listening to the radio (1.31). Yet these internet
+(0:37 hours), both slightly lower figures than global averages. Online South Africans also spent more time streaming music (2.14) than they spent listening to the radio (1.31). Yet these internet
 users were still watching a lot of broadcast television (e.g. SABC or DSTV), which they watched for an average of 
 2:29 hrs every day. By comparison they watched streaming video or TV series (e.g. Youtube, Netflix or Showmax, in 
 that order), for an average of 1.48 hrs per day. 

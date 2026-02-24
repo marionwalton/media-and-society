@@ -158,6 +158,9 @@ Gunner, L., Ligaga, D., Moyo, D., Bosch, T., Chibita, M.B. and Coplan, D.B., 201
 <a name="guo_2019"></a>
 Guo, M. 2019. Social Television Viewing with Second Screen Platforms: Antecedents and Consequences. *Media and Communication*. 7(1): 139-152. https://doi.org/10.17645/mac.v7i1.1745.
 
+<a name="gwi_2022"></a>
+GWI. 2022. South Africa Key digital behaviors and trends over time and across demographics. Available https://archive.org/details/market-snapshot-south-africa-2022-shareable
+
 <a name="gwi_2025"></a>
 GWI. 2025\. South Africa: 2024 Stats Snapshot. Available: https://www.industryreports.co.za/sites/default/files/2025-03/GWI%20SA%20Stats%20Snapshot%202024.pdf
 
