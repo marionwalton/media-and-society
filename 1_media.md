@@ -136,6 +136,10 @@ These details about us and our activities on social platforms are known as user 
 {: .definition}
 Generative Artificial Intelligence or [Generative AI](definitions.html#generative-ai) systems are statistical techniques used to automate media production by computers.
 
+![A synthetic image of a fictitious rhino sculpture produced by OpenAI's DALL-E model](img/DALL-E_iziko_rhino.png)
+Figure 3: This synthetic image of a rhino was produced by OpenAI's DALL-E model in response to the prompt 'Picture of Iziko Rhino'. DALL-E labelled the synthetic image (_ incorrectly_) as ‘A realistic sculpture of the Iziko Rhino, a famous bronze rhinoceros statue located in Cape Town, South Africa.’
+
+
 This form of digital media is called **synthetic media**. Generative AI uses computer [algorithms](definitions.html#algorithms) to synthesize media from training data (e.g. websites) using a statistical [_model_](definitions.html#model), which represents the training data using numbers. These models include Large Language Models ([LLM](definitions.html#llm)) (e.g. ChatGPT) for generating synthetic text or 
 [diffusion and other multimodal models](definitions.html#diffusion-model) (e.g. DALL-E, Midjourney) for generating synthetic images.
 
