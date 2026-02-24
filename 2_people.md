@@ -22,7 +22,7 @@ while we consume, create, use, or play with media.
 To study media practices, we need to pay attention to what people are up to and why they use media in the ways that they do: 
 
 >“What, quite simply, are people doing in relation to media across a whole range of situations and contexts?” 
-(Couldry 2004: 119). 
+([Couldry 2004: 119](references.html#couldry_2004)). 
 
 Just as you have learned how to dress for particular family occasions, or how to tell jokes in a way that will make 
 your friends laugh, or when it’s appropriate to switch from one language to another at school, you will have 
@@ -43,11 +43,11 @@ often hang out together online playing video games or watching a livestream of s
 
 People also use media to create privacy when they are surrounded by other people or to signal to others that their attention is elsewhere or to focus their attention.
 For example, teens use their cellphones to create a bubble of privacy for themselves and their friends while
-living with their families ([Ito et al, 2005](/ideas/references/index.html#ito_et_al_2005)).
+living with their families ([Ito et al, 2005](references.html#ito_et_al_2005)).
 
 The cartoon in Figure 1 pokes fun at family 
 media viewing practices, showing how families combine television viewing with
-contemporary individual cellphone use. In such cases, it's not always clear whether it's the television or the cellphones which are acting as a "second screen" ([Guo, 2019](/ideas/references/index.html#guo_2019)).
+contemporary individual cellphone use. In such cases, it's not always clear whether it's the television or the cellphones which are acting as a "second screen" ([Guo, 2019](references.html#guo_2019)).
 
 ![Activity](img/pencilpencil.svg) Sharing memes such as the Simpsons cartoon in Figure 1 is also another media practice. When have you shared memes, and why? What does sharing memes
 mean in your friends group? 
