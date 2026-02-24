@@ -158,8 +158,8 @@ Gunner, L., Ligaga, D., Moyo, D., Bosch, T., Chibita, M.B. and Coplan, D.B., 201
 <a name="guo_2019"></a>
 Guo, M. 2019. Social Television Viewing with Second Screen Platforms: Antecedents and Consequences. *Media and Communication*. 7(1): 139-152. https://doi.org/10.17645/mac.v7i1.1745.
 
-<a name="gwi_2022"></a>
-GWI. 2022\. South Africa: Key digital behaviours and trends over time and across demographics. Available: https://blog.gwi.com/marketing/brand-discovery/?utm\_source=linkedin\&utm\_medium=organic+social\&utm\_campaign=230106+How+consumers+find+new+brands+and+research+products+in+2023+blog|\&utm\_content=
+<a name="gwi_2025"></a>
+GWI. 2025\. South Africa: 2024 Stats Snapshot. Available: https://www.industryreports.co.za/sites/default/files/2025-03/GWI%20SA%20Stats%20Snapshot%202024.pdf
 
 <a name="habermas_1989"></a>
 Habermas, Jürgen 1989. The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society, Thomas Burger, Cambridge Massachusetts: The MIT Press.
