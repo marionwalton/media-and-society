@@ -2,20 +2,32 @@
 layout: home
 title: 10.1. Sources in Media & Cultural Studies
 ---
-# Case study - Sources about TikTok
+# Case study - Reading about TikTok
 {: .no_toc }
 
 *By Marion Walton, University of Cape Town*
 
-Social media platforms such as TikTok have affordances, by which we can understand what the platform's design and its algorithms allow, or encourage users to do. People who use TikTok work around and sometimes against these affordances.
+Social media platforms such as TikTok have affordances which influence what the platform's design and its algorithms allow, or what it encourages or makes it difficult for users to do. People who use TikTok work around and sometimes against these affordances, often developing creative workarounds which add important functionality that's not available on the platform (such as the ability to link to external sources) or work against unpopular features (e.g. censorship or content moderation). These are examples of media practices, and they give rise to characteristic forms of multimodal expression which we associate with a platform, known as a platform vernacular.
+
+## Hip hop and TikTok
 
 As an example of how this happens, consider the media practices associated with hip hop music. Gamble argues that hip hop is a *sharing culture* which has long been associated with practices such as borrowing, sharing, commentary and critical re-use (<a href="references.html#gamble_2024">2024:32-4</a>) 
 
-Since music consumption has become platformized with the rise of streaming services such as Spotify, recommender algorithms have taken on the gatekeeping role played by the music industry in previous years. For a track to be counted as a "stream" and thus earn revenue on Spotify, it must hold attention for at least 30 seconds. Consequently artists create tracks to attract and hold attention for at least 30 seconds long. (<a href="references.html#gamble_2024">Gamble, 2024:43]</a>) 
+Since the early 2020s, artists have been writing for TikTok, where they earn revenue and can potentially break through to wider audiences if enough TikTok dancers start using their tracks as soundtracks. The number of different uses of a track in TikTok videos is becoming more important than income from views or listens (<a href="references.html#gamble_2024">Gamble, 2024:47</a>) This encourages different forms of engagement to those we see on streaming platforms such as Spotify. On Spotify, for a track to be counted as a "stream" and thus earn revenue, it must hold attention for at least 30 seconds. Consequently artists who want to optimise their revenue from the platform create tracks to attract and hold attention for at least 30 seconds long. (<a href="references.html#gamble_2024">Gamble, 2024:43]</a>). 
 
-Since the early 2020s, artists have been writing for TikTok, where they earn revenue and can potentially break through to wider audiences if enough TikTok dancers start using their tracks as soundtracks. Now the number of uses of a track in TikTok videos is becoming more important than income from views or listens (<a href="references.html#gamble_2024">Gamble, 2024:47</a>)
+On both TikTok and Spotify, recommender algorithms have taken on the gatekeeping role played by the music industry in previous years.  
 
-In other contexts, TikTok users have developed practices which try to *limit* rather than imrove their visibility. Grison shows how "Gay TikTok" creators have developed practices of "hide and seek" in order to connect with one another while evading algorithmic tracking, moderation and homophobic harassment (<a href="references.html#grison_2024">Grison, 2024:250</a>).
+## Gay TikTok
+
+Not everyone wants to maximise their visibility, and some forms of attention can be harmful to marginalised creators. For example, some LGBTQI+ TikTok users have developed practices which try to *limit* rather than imrove their visibility. Grison shows how "Gay TikTok" creators have developed practices of "hide and seek" in order to connect with one another while still evading algorithmic tracking, moderation and homophobic harassment (<a href="references.html#grison_2024">Grison, 2024:250</a>).
+
+## NewsTok
+
+Shaw (2025) studies environmental news on TikTok and shows why it can be difficult for journalists, creators and news organisations to convey important environmental news such as the climate crisis on the platform.
+
+Because of the way the algorithm works, TikTok users tend to congregate around various trends, topics and cultures (Abidin, 2020:79). Shaw argues that these niches develop a TikTok "vernacular", or shared language which responds to the affordances of the platform and which is motivated by the social practices of uses. 
+
+ TikTok's interface doesn't highlight how recent a post is, or allow creators to share hyperlinks linking to supporting sources.  When it comes to environmental news, these affordances of the platform act as a forms of "friction". They make it more difficult to share news content there, distorting certain stories, and leading news organisations to struggle to achieve visibility (Shaw, 2025:3789)
 
 ## Books
 Gamble, S. (2024) _Digital flows : online hip hop music and culture_. \[Online]. New York, NY: Oxford University Press.
