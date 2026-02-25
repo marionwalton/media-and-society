@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 03.2. Media & Inequality
+title: 03.1. Media & Inequality
 ---
 # Media & Inequality
 {: .no_toc }
@@ -21,7 +21,7 @@ industry built on a lengthy tradition of **colonial narratives and discourse** w
 and **othered and misrepresented** Africa and African people:  
 
 >“Africa has through the centuries provided especially Euro-American cultural entrepreneurs with a rich catalogue 
-of stereotypes, prejudices and other negations” ([Nyamnjoh, 2011:21](/ideas/references/index.html#nyamnjoh_2011)).
+of stereotypes, prejudices and other negations” ([Nyamnjoh, 2011:21](references.html#nyamnjoh_2011)).
 
 ### Wealth inequality
 

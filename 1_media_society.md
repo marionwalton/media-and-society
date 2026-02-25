@@ -82,7 +82,7 @@ Alphabet's search engine (Google), browser (Chrome), or video hosting site (Yout
 <figcaption>Figure 4: News platforms used by UCT Media students 2022-2024. - <a href="https://docs.google.com/forms/d/e/1FAIpQLSebxkmLn52uxCCkGtBplAGJ2Lf2MsBxJXHv2-tzUJktDPAp4g/viewform">Class survey</a></figcaption>
 </figure>
 
-![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small") 
+![Activity](img/pencilpencil.svg) 
 Now it's your turn to take the survey and see who owns **your** news?
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebxkmLn52uxCCkGtBplAGJ2Lf2MsBxJXHv2-tzUJktDPAp4g/viewform?embedded=true" width="640" height="2027" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

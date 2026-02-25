@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  03.2. Publics & power
+title:  03.2.2. Publics & power
 ---
 # Publics & power
 {: .no_toc }
