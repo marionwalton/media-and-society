@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 10.1. Sources in Media & Cultural Studies
+title: 03.5. Case study - Reading about TikTok
 ---
 # Case study - Reading about TikTok
 {: .no_toc }

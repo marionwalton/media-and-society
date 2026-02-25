@@ -1,15 +1,19 @@
 ---
 layout: home
-title: 03.5. Examples - Consuming fossil fuels
+title: 03.6. Examples - Consuming fossil fuels
 ---
 
 # Examples - Fossil fuels
 {: .no_toc }
 *By Marion Walton, University of Cape Town*
 
-Climate change is currently causing extreme weather events like storms, floods and droughts, with serious consequences especially in countries like South Africa. Continued consumption of fossil fuels will threaten everyone's future, and yet the companies which sell fossil fuels and related products like petrol cars continue to spend millions on marketing and advertising that encourages people to consume more fossil fuels. 
+Dramatic changes to the earth's climate are directly linked to the explosion in human consumption of fossil fuels such as petrol, coal and gas since the industrial revolution. These environmental disruptions are currently causing extreme weather events like storms, floods and droughts, with serious consequences especially in countries like South Africa. 
 
-For this reason, some countries are banning fossil fuel advertising.  In this case study, we'll look at marketing and advertising strategies by some South African car brands and how they engage with consumer culture.
+We know that continued consumption of fossil fuels will threaten everyone's future, and yet companies continue to market and advertise environmentally harmful products such as fossil fuels, related products like cars, and even plastics and AI chatbots. The billions spent on marketing and advertising such products encourages people to consume more fossil fuels, or uses greenwashing techniques to confuse people about the known causes and remedies for the climate emergency. 
+
+For this reason, cities like Amsterdam have already banned fossil fuel advertising in public places.  
+
+In this case study, we'll look at marketing and advertising strategies used by some South African car brands and discuss how they engage with consumer culture to encourage continued consumption of fossil fuels.
 
 ### Case studies
 ![Activity](img/pencilpencil.svg) 
@@ -40,6 +44,9 @@ Toyota SA commented on the multilingual aspects of the campaign.
 <figure>
   <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bobbypetkov1/video/7432560360462224646" data-video-id="7432560360462224646" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@bobbypetkov1" href="https://www.tiktok.com/@bobbypetkov1?refer=embed">@bobbypetkov1</a> <p>The Bakkie with a LEGENDARY status, the one and only... Toyota Hilux!!! #toyota #hilux #toyotahilux #toyotahiluxclub #legend #toyotaholics #toyotaholicsafrica #carreview #richelieu #bfgoodrich #toughguy #hiluxadventures #mitmakmotors #bobbypetkov #staypowerful</p> <a target="_blank" title="♬ original sound  - Bobby Petkov" href="https://www.tiktok.com/music/original-sound-Bobby-Petkov-7432560391509936901?refer=embed">♬ original sound  - Bobby Petkov</a> </section> </blockquote>   <figcaption>Example 2 \- Toyota Hilux Influencer TikTok</figcaption>
 </figure>
+
+![Armoured Hilux](img/armour-hilux.png)
+Targeted Google Ad for armoured Toyota Hilux, placed on news website.
 
 **Case study \- [Example 2 \- VW “#DoItBig with AutoTrader in 2025"](https://www.youtube.com/watch?v=nUtd-pG6nl0&t=1s)”**
 

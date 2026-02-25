@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 03.6. Examples - UCT Protests
+title: 03.7. Examples - UCT Protests
 ---
 
 ## Examples

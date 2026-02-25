@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 03.3. Data, attention and influence
+title: 03.2. Attention and influence
 ---
 # Attention & Influence
 {: .no_toc }
