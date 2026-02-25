@@ -1,5 +1,5 @@
 ---
-title: 03. Media and society 
+title: 03.0. Media and society 
 layout: home
 ---
 # Media and society
@@ -33,6 +33,8 @@ industries which produce most of the media we consume and the social media platf
  Such media organisations respond to the political and economic interests of their owners by producing a steady flow of images, stories and information which reproduce the structure of class inequalities and imbalanced power relations that benefit the dominant class (<a href="references.html#uzuegbunam_2020">Uzuegbunam</a>, 2020). 
 
 Overlapping relationships of economic and media power are also found in African countries, albeit subject to some important differences, such as the limited reach and influence of media on the continent (<a href="references.html#chuma_2019">Chuma</a>, 2019).  
+
+Read more about how these concentrated ownership patterns magnify the power of some individual owners and shareholders.
 
 ## Globalisation
 
