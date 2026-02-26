@@ -135,18 +135,12 @@ Unfortunately for advertisers, our attention is not actually a commodity which i
 Media researchers have found that it is not so easy to control what people think ([Hall, 2006](/ideas/references/index.html#hall_2006)). 
 
 Nonetheless, the media can be highly influential in determining **what people attend to**. In the world of news, 
-this is known as **agenda-setting** ([McCombs & Shaw, 1972](/ideas/references/index.html#mccombs_and_shaw_1972).
+this is known as **agenda-setting** ([McCombs & Shaw, 1972](references.html#mccombs_and_shaw_1972)).
 
-Furthermore, given the competing demands on our attention in a many-to-many era, 
-it’s increasingly difficult for media to direct the public's attention in this way. 
-As we will see when we discuss [networks](/ideas/2_networks/), increasingly marketers are targeting smaller or **niche**
-audiences.
+Furthermore, given the competing demands on our attention in a many-to-many era, it’s increasingly difficult for media to direct the public's attention in this way. 
+Increasingly marketers are targeting smaller or **niche** audiences, such as an influencer's network of followers.
 
-If, as Serra claims, we are “produced” by the ad-supported television we’ve watched, how is it possible then, 
-that so many people have learned to tune out advertising and younger generations in particular, 
-have become highly skeptical about its claims? When we use web browsers, why do so many people go 
-to so much trouble to block advertisements completely, or opt to pay more for ad-free subscription 
-services such as Netflix or Youtube Music? 
+If, as Serra claims, we are “produced” by the ad-supported television we’ve watched, how is it possible then, that so many people have learned to tune out advertising and younger generations in particular,  have become highly skeptical about its claims? When we use web browsers, why do so many people go  to so much trouble to block advertisements completely, or opt to pay more for ad-free subscription services such as Netflix or Youtube Music? 
 
 
 ### Branding
@@ -175,7 +169,7 @@ A growing share of people’s attention goes to websites and apps and so adverti
  have access to much of the data about what people do online. 
  
 This shift in attention has challenged the revenue stream of the news industry in particular and is causing major changes to employment practices and the business 
-of news, including in South Africa, where many publications have been closed and newsrooms have retrenched staff ([Dugmore, 2018](/ideas/references/index.html#dugmore_2018)). 
+of news, including in South Africa, where many publications have been closed and newsrooms have retrenched staff ([Dugmore, 2018](references.html#dugmore_2018)). 
 
 ### Influencers
 
@@ -184,7 +178,7 @@ and campaigns, and to associate the brand with the qualities that people admire 
 
 Increasingly, brands also use  **influencers** (also known as **content creators**) to target messages and content to smaller groups (niches) of people. 
 
-In 2025 it was estimated that the global value of influencer marketing would be $33 billion (USD) ([Statista Research Team, 2025](/ideas/references/index.html#statista_2025)).
+In 2025 it was estimated that the global value of influencer marketing would be $33 billion (USD) ([Statista Research Team, 2025](references.html#statista_2025)).
 
 Influencers are popular social media users who are able to attract the attention of a number of other users (known as their followers) who come to feel that they 
 know the influencer personally and hence tend to trust their judgement, including their product recommendations ([Stokel-Walker, C. 2021](references.html#stokel-walker_2021)).
@@ -200,7 +194,7 @@ While celebrities have large followings or "reach" and can gain the attention of
 [study](https://modernmarketing.co.za/nano-influencers-lead-in-engagement-according-to-sa-influencer-report/) in SA suggests that so-called "nano-influencers" are more successful at driving engagement by interacting in a more relatable way with their followers.
 
 Increasingly, influencers are represented by **influencer marketing companies**, which themselves are
-being acquired by the holding companies for **advertising agencies**, such as Publicis and WPP ([Siu, 2025](/ideas/references/siu_2025).
+being acquired by the holding companies for **advertising agencies**, such as Publicis and WPP ([Siu, 2025](references.html#siu_2025)).
 
 
 ### Influence industry
@@ -210,11 +204,11 @@ relations to attract the attention of the media, and on advertising and advertor
 
 This **influence industry** extends beyond marketing to the world of politics, international relations and even warfare. In this murky 
 area of contemporary politics, computational **propagandists** use social media to target ads to specific groups of voters in campaigns
-intended to drum up support for particular political candidates and harass their opponents ([Woolley, 2023](/ideas/references/index.html#woolley_2023)).
+intended to drum up support for particular political candidates and harass their opponents ([Woolley, 2023](references.html#woolley_2023)).
 
-Their techniques include manipulating [algorithms](/ideas/2_data/) to make sure that their carefully designed persuasion and deceptive content will 
+Their techniques include manipulating [algorithms](definitions.html#algorithm) to make sure that their carefully designed persuasion and deceptive content will 
 feature on lists of “trending” topics. They also pay influencers in carefully chosen niches to artificially boost their  content and
-make it appear that they have a groundswell of popular support (Woolley, 2023).
+make it appear that they have a groundswell of popular support ([Woolley, 2023](references.html#woolley_2023)).
 
 Gaining attention in this environment is not easy for everyone who wants to build an audience or mobilise supporters. The budgets of 
 such commercial players and bad faith propagandists far exceed those of ordinary people. 
@@ -238,7 +232,7 @@ and we always produce our own inner representation of its meaning:
 
 >"interest shapes attention which produces engagement, leading to selection of elements from the message, 
 leading to a framing of these elements, which leads to their transformation and transduction, which produces a 
-new ("inner") sign" ([Kress, 2009:42](/ideas/references/index.html#kress_2009))
+new ("inner") sign" ([Kress, 2009:42](references.html#kress_2009))
 
 ### Class research project
 
