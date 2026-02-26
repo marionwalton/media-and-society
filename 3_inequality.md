@@ -68,12 +68,14 @@ and to express their cultural diversity (<a href="references/index.html#nyamnjoh
 ### Media, power and sexism
 
 ![Extract from DTWOF comic](https://the-artifice.com/wp-content/uploads/2014/01/bechdel-test.jpg)
+
 Credit - Alison Bechdel via [The Artifice](https://the-artifice.com/rethinking-the-bechdel-test/)
 
 In 1985, in her landmark queer comic strip, DTWOF, Alison Bechdel drew a famous comic which jokingly highlighted the sexist way in which Hollywood narratives represented women as only being of interest in relation to (heterosexual) romance. Bechdel's comic suggested what has become widely known as "the Bechdel Test", which measures whether a film features at least two women, preferably as named characters, who at some point in the story talk to one another about something other than a man. 
 
 
 ![Bechdel chart](https://i0.wp.com/www.shortcutstv.com/wp-content/uploads/2022/06/hickey-bechdel-11.webp?resize=305%2C250&ssl=1)
+
 Credit - Alison McCann via [ShortCutstv](https://www.shortcutstv.com/blog/researching-media-inequalities-beyond-bechdel/)
 
 Feminist scholars have developed many more powerful and nuanced ways of exploring the intersectional representation of gender and sexuality in the movie industry. Nonetheless, Bechdel's extremely limited measure has been widely used to document failures of representation in the industry and (in relation to this very low bar) shifts in the movie industry over time. 
@@ -85,9 +87,8 @@ which represents them primarily as sexual objects, for the visual pleasure of th
 <figure>
 <img title="Poster for the 1946 Hollywood film Gilda, featuring Rita Hayworth" 
      alt="Poster for the 1946 Hollywood film Gilda, featuring Rita Hayworth smoking a cigarette" 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gilda_%281946_one-sheet_poster_-_Style_B%29.jpg/440px-Gilda_%281946_one-sheet_poster_-_Style_B%29.jpg" 
-     class="illustration"/>
-<figcaption>Poster for the 1946 Hollywood film Gilda, featuring Rita Hayworth. Credit - <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg">Wikimedia</a></caption>
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gilda_%281946_one-sheet_poster_-_Style_B%29.jpg/440px-Gilda_%281946_one-sheet_poster_-_Style_B%29.jpg" />
+<figcaption>Poster for the 1946 Hollywood film Gilda, featuring Rita Hayworth. Credit - <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg">Wikimedia</a></figcaption>
 </figure>
 
 
@@ -98,7 +99,7 @@ stereotypes (<a href="/ideas/references/index.html#hooks_1992">hooks, 1992</a>).
 
 <figure>
 <img title="bell hooks in 2014" 
-     alt="bell hooks" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg" 
+     alt="bell hooks" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg" />
 </figure>
 <figcaption>Figure 3: Author bell hooks in 2014. Credit <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg">Wikimedia</a></figcaption>
 
