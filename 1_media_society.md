@@ -30,7 +30,7 @@ While tight control of media and state propaganda is often discussed in relation
 We are surrounded by many different sources of information and media titles. Nonetheless, the media
 industries which produce most of the media we consume and the social media platforms where we stay in touch with other people are owned by a handful of huge companies. We refer to this as  **highly concentrated** ownership.  
 
- Such media organisations respond to the political and economic interests of their owners by producing a steady flow of images, stories and information which reproduce the structure of class inequalities and imbalanced power relations that benefit the dominant class (<a href="references.html#uzuegbuenam_2020">Uzuegbunam</a>, 2020). 
+ Such media organisations respond to the political and economic interests of their owners by producing a steady flow of images, stories and information which reproduce the structure of class inequalities and imbalanced power relations that benefit the dominant class (<a href="references.html#uzuegbunam_2020">Uzuegbunam</a>, 2020). 
 
 Overlapping relationships of economic and media power are also found in African countries, albeit subject to some important differences, such as the limited reach and influence of media on the continent (<a href="references.html#chuma_2019">Chuma</a>, 2019).  
 
