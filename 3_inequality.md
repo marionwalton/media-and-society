@@ -57,12 +57,6 @@ US audiences.
 
 Similarly, in South Africa the audiences often targeted by advertising and media are disproportionately middle class and often largely white. 
 
-### AI, bias and inequality
-
-Artificial intelligence models are [trained](/ideas/definitions/index.html#training) on data which 
-includes media discourses. As a result, Generative AI continue to perpetuate existing racial and gendered biases 
-present in their training data when they output [synthetic media](definitions.html#synthetic-media), as in Figure 1 below. We will discuss these issues in detail, and explore ways to challenge these biases in other parts of the course. 
-
 ### Media, power and racism
 
 Both traditional media and social media play a role in circulating and framing racist ideas, stories and images. They are also used to challenge racism ([Titley, 2019](references/index.html#titley_2019)).
@@ -114,6 +108,15 @@ Despite the prevalence of inequality and stereotyping in Hollywood, people's thi
 
 This led her to develop the idea of an **"oppositional gaze"** . In this case, the act of spectatorship becomes 
 a gesture of resistance (<a href="references.html#hooks_1992">hooks, 1992</a>). 
+
+### AI, bias and inequality
+
+Artificial intelligence models are [trained](/ideas/definitions/index.html#training) on data which 
+includes media discourses. As a result, Generative AI continue to perpetuate existing racial and gendered biases 
+present in their training data when they output [synthetic media](definitions.html#synthetic-media), which have notoriously included non-consensual sexualised images of women (e.g. the "put her in a bikini" trend) as well as child sexual abuse material (CSAM) ([Gentleman & Horton, 2026](references.html#gentleman_2026)).
+
+Sun 11 Jan 2026 06.00 GMT
+https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk. We will discuss these issues in detail, and explore ways to challenge these biases in other parts of the course in a case study of gender bias and AI. 
 
 ## Questions
 

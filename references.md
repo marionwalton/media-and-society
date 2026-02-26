@@ -133,6 +133,9 @@ Gadamer, Hans-Georg. 1982. *Truth and method*. New York:Crossroad.
 <a name="gamble_2024"></a>
 Gamble, S. 2024. _Digital flows : online hip hop music and culture_. New York: Oxford University Press.
 
+<a name="gentleman_2026"></a>
+Gentleman, Amelia and Horton, Helena. 2026.  ‘Add blood, forced smile’: how Grok’s nudification tool went viral. _The Guardian_. 11 Jan. Available. https://www.theguardian.com/profile/helena-horton
+
 <a name="gill_2010"></a>
 Gill, Rosalind (2010) Chapter “Gender” in The Media: An Introduction (3rd Edition), edited by Daniele Albertazzi and Paul Cobley, Edinburgh: Pearson Education, pp. 410—26.
 
