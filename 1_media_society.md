@@ -30,15 +30,15 @@ While tight control of media and state propaganda is often discussed in relation
 We are surrounded by many different sources of information and media titles. Nonetheless, the media
 industries which produce most of the media we consume and the social media platforms where we stay in touch with other people are owned by a handful of huge companies. We refer to this as  **highly concentrated** ownership.  
 
- Such media organisations respond to the political and economic interests of their owners by producing a steady flow of images, stories and information which reproduce the structure of class inequalities and imbalanced power relations that benefit the dominant class (<a href="references.html#uzuegbunam_2020">Uzuegbunam</a>, 2020). 
+ Such media organisations respond to the political and economic interests of their owners by producing a steady flow of images, stories and information which reproduce the structure of class inequalities and imbalanced power relations that benefit the dominant class (<a href="references.html#uzuegbuenam_2020">Uzuegbunam</a>, 2020). 
 
 Overlapping relationships of economic and media power are also found in African countries, albeit subject to some important differences, such as the limited reach and influence of media on the continent (<a href="references.html#chuma_2019">Chuma</a>, 2019).  
 
-Read more about how these concentrated ownership patterns magnify the power of some individual owners and shareholders.
+ These concentrated ownership patterns magnify the power of some [individual owners](3_ownership.html) and shareholders.
 
 ## Globalisation
 
-Globally, concentrated media ownership has meant the cultural dominance of Western organisations and of the US in particular. The idea of **[cultural imperialism](definitions.html#cultural_imperialism)** describes the one-directional flow of media and cultural content in the context of a broadly Western power over the rest of the world (<a href="references.html#schiller_1976"> Schiller, 1976</a>). Because of the historical power of the USA, this perspective on globalisation has often focused on how the USA has dominated cultural industries globally, with Hollywood, and other programming, advertising and consumer culture influencing that of the rest of the world.
+Globally, concentrated media ownership has meant the cultural dominance of Western organisations and of the US in particular. The idea of **[cultural imperialism](definitions.html#cultural-imperialism)** describes the one-directional flow of media and cultural content in the context of a broadly Western power over the rest of the world (<a href="references.html#schiller_1976"> Schiller, 1976</a>). Because of the historical power of the USA, this perspective on globalisation has often focused on how the USA has dominated cultural industries globally, with Hollywood, and other programming, advertising and consumer culture influencing that of the rest of the world.
 
 Given an overall context of US dominance, it's important to remember that global streams of ideas, stories and images flow in **many directions**. For example, Bollywood and the film industry in India now entertain millions of viewers globally (<a href="references.html#mishra_2020"> Mishra, 2020</a>). In 2007, Nollywood, or the Nigerian movie industry, overtook Hollywood, becoming the second-largest movie producer in the world (<a href="references.html#agbese_2020">Agbese, 2020</a>).
 

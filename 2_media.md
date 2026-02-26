@@ -20,7 +20,7 @@ When we talk loosely about media, we tend to bundle several senses of the word t
 ### Media of production, distribution and reception 
 We use a wide range of physical media to produce, distribute or convey messages to one another. 
 
-As in the case of the <a href="1_media.html" id="iziko_rhino">Iziko rhino engraving</a>  humans have used durable materials such as rock to communicate with one another throughout history. Other examples of everyday media used to create and distribute messages include soundwaves, fabrics and paint. 
+As in the case of the <a href="1_media.html#iziko_rhino">Iziko rhino engraving</a>  humans have used durable materials such as rock to communicate with one another throughout history. Other examples of everyday media used to create and distribute messages include soundwaves, fabrics and paint. 
 
 Electronic and print media get more complex and involve reception technologies which extend the range of human senses such as sight and hearing. For example, a radio programme might be produced digitally, distributed over the air via  radio waves and received on a transistor radio, which generates the sound waves heard by the listener.  
   
@@ -31,7 +31,7 @@ The phrase "medium of communication" is often used to refer to **human languages
 
 We learn to use languages to make and share meaningful messages with others who have a shared understanding of the linguistic "code" we are using. These symbolic systems go beyond language and also include the **visual and other modes** of communication which humans use to make meaning, such as images, clothing, gestures, expressions or music.
 
-In the case of the [Iziko Rhino example](1_media.html#example---iziko-rhino), the **visual meaning** of the image has many dimensions. 
+In the case of the [Iziko Rhino example](1_media.html#iziko_rhino), the **visual meaning** of the image has many dimensions. 
 Some of these dimensions of meaning are are based on the visual resemblance between a rhino and the engraving. For this reason, we can still recognise the shape of the rhino
 if we have encountered rhinos or images of rhinos today. 
 

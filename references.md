@@ -363,7 +363,7 @@ Ugboajah, F.O. 1985\. ‘Oramedia’ in Africa. In Ugboajah, F.O., ed. *Mass Com
 <a name="ugboajah_1987"></a>
 Ugboajah, F.O. 1987\. Current debates in the field of mass communication research: An African viewpoint. *Africa Media Review*. 1(2): 1–17.
 
-<a name="uzuegbunam_1987"></a>
+<a name="uzuegbunam_2020"></a>
 Uzuegbunam, C. 2020. Concentration of Media Ownership. In: The SAGE International Encyclopedia of Mass Media and Society. , Thousand Oaks,, CA: SAGE Publications, Inc. pp. 368-369 Available at: <https://doi.org/10.4135/9781483375519.n144> [Accessed 17 Feb 2026].
 
 <a name="van_leeuwen_2004"></a>
@@ -372,6 +372,7 @@ Van Leeuwen, T. 2004. *Introducing Social Semiotics: An Introductory Textbook*. 
 <a name="walder_2009"></a>
 Walder, A. G. 2009. Political Sociology and Social Movements. *Annual review of sociology*. 35 (1): 393–412.
 
+<a name="wasserman_2009"></a>
 Wasserman, H. 2009. Learning a new language: Culture, ideology and economics in Afrikaans media after apartheid. _International journal of cultural studies_. \[Online] 12 (1), 61–80.
 
 <a name="wasserman_2020"></a>

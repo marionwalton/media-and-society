@@ -74,7 +74,7 @@ the electromagnetic spectrum (e.g. radio waves and cellphone signals), the inter
 ## Oramedia
 
 {: .definition}
-[**Oramedia**](https://media-and-society.glitch.me/ideas/definitions/#oramedia) includes traditionally *oral forms* such as **storytelling, proverbs, folklore, folktales, drama, puppetry, spoken word performance and oral poetry** (<a href="references.html#ugboajah_1985">Ugbuojah, 1985</a>), many of which are produced using only the human body. 
+[**Oramedia**](definitions.html#oramedia) includes traditionally *oral forms* such as **storytelling, proverbs, folklore, folktales, drama, puppetry, spoken word performance and oral poetry** (<a href="references.html#ugboajah_1985">Ugbuojah, 1985</a>), many of which are produced using only the human body. 
 
 Oral forms often go beyond the spoken word, using vivid performances, improvisation, mimicry, music, dance, the tonal character of many African languages, and the responses of the audience to make the most of the potential affordances of the oral medium ([Finnegan, 2012:5-10](references.html#finnegan_2012))
 
