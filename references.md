@@ -323,15 +323,18 @@ Schiller, H. I. (1975). Communication and cultural domination. *International Jo
 <a name="serra_1973"></a>
 Serra, R. 1973\. “Television Delivers People”. [KunstSpektrum Youtube Channel.](https://www.youtube.com/@kunstspektrum) Available: [https://www.youtube.com/watch?v=LvZYwaQlJsg](https://www.youtube.com/watch?v=LvZYwaQlJsg)
 
+<a name="shehata_2021"></a>
+Shehata, A. & Strömbäck, J. (2021) Learning Political News From Social Media: Network Media Logic and Current Affairs News Learning in a High-Choice Media Environment. _Communication research_. \[Online] 48 (1), 125–147.
+
+<a name="siu_2025"></a>
+Siu, A. 2025, February 20. Publicis acquisition signals that creator M&A is not slowing down in 2025. Digiday.
+Available: https://digiday.com/marketing/publicis-acquisition-signals-that-creator-ma-is-not-slowing-down-in-2025.
+
 <a name="smit_2020"></a>
 Smit, A. and Bosch, T. (2020) ‘Television and Black Twitter in South Africa: Our Perfect Wedding’, Media, Culture & Society, p. 016344372092604\. doi: 10.1177/0163443720926040.
 
 <a name="stokel-walker_2021"></a>
 Stokel-Walker, C. 2021\. *Tiktok Boom: China, the Us and the Superpower Race for Social Media*. Naperville: Canbury Press. 
-
-<a name="siu_2025"></a>
-Siu, A. 2025, February 20. Publicis acquisition signals that creator M&A is not slowing down in 2025. Digiday.
-Available: https://digiday.com/marketing/publicis-acquisition-signals-that-creator-ma-is-not-slowing-down-in-2025.
 
 <a name="statista_2025"></a>
 Statista Research Department. 2025, February 18. Global influencer marketing value 2015-2025. https://www.statista.com/statistics/1092819/global-influencer-market-size/

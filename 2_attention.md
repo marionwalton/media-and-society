@@ -18,8 +18,8 @@ The **one-to-many** model of **mass media** was dominant in the era when the med
 Here **one sender** sent messages to **many** **receivers**. 
 
 One way of describing this era is to say that mass media industries had a **monopoly on attention** 
-([Tufekci, 2013](/ideas/references/index.html#tufekci_2013)). This led to their considerable social [power](/ideas/3_power/) and
-and meant that our ideas of a [public](/ideas/3_publics/) have been shaped by the audiences of news publications and
+([Tufekci, 2013](references.html#tufekci_2013)). This led to their considerable social power and
+and meant that our ideas of a [public](1_publics.html) have been shaped by the audiences of news publications and
 broadcasters.
 
 ![One to many communication with one sender and many receivers](img/one_to_many.png)
@@ -32,15 +32,14 @@ turns in each role.
 
 ![network](img/Screenshot%202025-02-25%20at%2017.15.44.png)
 
-In the current era, these two models have **converged** into a **many-to-many** model of the internet 
-and most social media platforms. 
+In the current era, these two models have converged into a **many-to-many** model. In other words, many people are connected to many others via the internet and most social media platforms. 
 
 On these platforms there are many more sources of information and entertainment than anyone could possibly process in a lifetime.
 
-Crucially, **anyone with access to the internet can also send messages**. 
+Crucially, anyone with access to the internet can also send messages. 
 
 This many-to-many model means that increasingly, we are confronted with an abundance of sources of media and entertainment 
-which all vie for our **limited time and attention**. This is known as a **high choice media environment** ([Shehata & Strömbäck,2021](/ideas/references/index.html#shehata_and_strömbäck_2021)).
+which all vie for our limited time and attention. This is known as a **high choice media environment** ([Shehata & Strömbäck,2021](references.html#shehata_2021)).
 
 ### New monopolies and intermediaries
 
@@ -77,8 +76,7 @@ range of people, or which (from a marketer’s perspective), appeal to a mass ma
 ### Attention and television
 
 For this reason, television executives pay careful attention to **audience data**, or information about who watches which programs, 
-and what rates advertisers are prepared to pay to reach particular **demographic groups**. They use this information to make predictions regarding
-how profitable a show might be for a network. These metrics commonly include how many people watched the show, what focus groups 
+and what rates advertisers are prepared to pay to reach particular **demographic groups**. They use this information to make predictions regarding how profitable a show might be for a network. These metrics commonly include how many people watched the show, what focus groups 
 thought about it, and whether advertisers were keen to advertise to that audience. 
 
 ### Case studies
