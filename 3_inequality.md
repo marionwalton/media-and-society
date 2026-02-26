@@ -42,25 +42,26 @@ favour the powerful (for more see about this, see O’Shaughnessy,  Stadler, & C
 In African countries in particular, people’s media use has to contend with racism, colonialism and a range of
 inequalities and stereotypical representations of the continent itself. Because media products and practices 
 are often imported from the West, until recently, even middle class African media audiences have had limited
-access to what Nyamnjoh (2011) calls “first-hand consumption” of cultural products \- in other words, the 
-television programming and news on offer was often not produced specifically for them as audiences, and was 
+access to what Nyamnjoh ([2011](references.html#nyamnjoh_2011)) calls “first-hand consumption” of cultural products. In other words, the 
+television programming and news on offer was often not produced specifically for African audiences, and was 
 probably riddled with potentially hurtful and stereotypical portrayals. 
 
-Stereotypes are based on generalisations about specific categories of people. They can be both positive and 
+[Stereotypes](definitions.html#stereotype) are based on generalisations about specific categories of people. They can be both positive and 
 negative but, either way, these generalisations tend to reinforce social hierarchies and identities. Stereotypical 
 representations in the media continue to perpetuate forms of inequality such as racism, sexism and 
 homophobia. 
 
 These stereotypes persist because globally, the media have historically reflected the economic dominance of 
-Hollywood industries (and increasingly of Silicon Valley) and catered to the beliefs and ideologies of white 
-US audiences. Similarly, in South Africa the audiences often targeted by advertising and media are 
-disproportionately middle class and often largely white. 
+Hollywood industries (and increasingly of Silicon Valley), reflect men's control of these industries, and have catered to the beliefs and ideologies of white 
+US audiences. 
+
+Similarly, in South Africa the audiences often targeted by advertising and media are disproportionately middle class and often largely white. 
 
 ### AI, bias and inequality
 
 Artificial intelligence models are [trained](/ideas/definitions/index.html#training) on data which 
 includes media discourses. As a result, Generative AI continue to perpetuate existing racial and gendered biases 
-present in their training data when they output **synthetic media**, as in Figure 1 below. We will discuss these issues in detail, and explore ways to challenge these biases in other parts of the course. 
+present in their training data when they output [synthetic media](definitions.html#synthetic-media), as in Figure 1 below. We will discuss these issues in detail, and explore ways to challenge these biases in other parts of the course. 
 
 ### Media, power and racism
 
@@ -72,7 +73,18 @@ and to express their cultural diversity (<a href="references/index.html#nyamnjoh
 
 ### Media, power and sexism
 
-Feminists have highlighted how a Hollywood film industry dominated by white men created conventions where white women in 
+![Extract from DTWOF comic](https://the-artifice.com/wp-content/uploads/2014/01/bechdel-test.jpg)
+Credit - Alison Bechdel via [The Artifice](https://the-artifice.com/rethinking-the-bechdel-test/)
+
+In 1985, in her landmark queer comic strip, DTWOF, Alison Bechdel drew a famous comic which jokingly highlighted the sexist way in which Hollywood narratives represented women as only being of interest in relation to (heterosexual) romance. Bechdel's comic suggested what has become widely known as "the Bechdel Test", which measures whether a film features at least two women, preferably as named characters, who at some point in the story talk to one another about something other than a man. 
+
+
+![Bechdel chart](https://i0.wp.com/www.shortcutstv.com/wp-content/uploads/2022/06/hickey-bechdel-11.webp?resize=305%2C250&ssl=1)
+Credit - Alison McCann via [ShortCutstv](https://www.shortcutstv.com/blog/researching-media-inequalities-beyond-bechdel/)
+
+Feminist scholars have developed many more powerful and nuanced ways of exploring the intersectional representation of gender and sexuality in the movie industry. Nonetheless, Bechdel's extremely limited measure has been widely used to document failures of representation in the industry and (in relation to this very low bar) shifts in the movie industry over time. 
+
+Film scholars have highlighted how a male-dominated Hollywood film industry also created conventions where women and white women in 
 particular were viewed from the perspective of a cinematic "male gaze" (<a href="/ideas/references/index.html#mulvey_1975">Mulvey, 1975</a>)
 which represents them primarily as sexual objects, for the visual pleasure of the heterosexual male viewer.
 
@@ -98,10 +110,10 @@ stereotypes (<a href="/ideas/references/index.html#hooks_1992">hooks, 1992</a>).
 <figcaption>Figure 3: bell hooks in 2014. Credit - <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg">Wikimedia</a></figcaption>
 </figure>
 
-Despite this history of inequality and stereotyping in Hollywood, people's thinking is not controlled by the media they encounter. For example, Black feminist theorist bell hooks remembers watching movies as a young Black girl in the USA and becoming aware that Black women were excluded from the male gaze while white women were idealised. 
+Despite the prevalence of inequality and stereotyping in Hollywood, people's thinking is not controlled by the media they encounter. Black feminist theorist bell hooks ([1992]()) remembers watching movies as a young Black girl in the USA and becoming aware that Black women were excluded from the male gaze while white women were idealised. 
 
 This led her to develop the idea of an **"oppositional gaze"** . In this case, the act of spectatorship becomes 
-a gesture of resistance (<a href="/ideas/references/index.html#hooks_1992">hooks, 1992</a>). 
+a gesture of resistance (<a href="references.html#hooks_1992">hooks, 1992</a>). 
 
 ## Questions
 
