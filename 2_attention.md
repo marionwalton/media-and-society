@@ -225,7 +225,7 @@ In response to the proliferation of media and the number of questionable sources
 practices have also shifted to emphasise greater **media literacy**, and the use of fact-checking sites, advanced **verification** 
 practices and activist campaigns against misleading and hate-fuelled sources. 
 
-This brings us back to **social semiotics** where scholars have highlighted the **active** way in which human beings **[make meaning](/ideas/1_meaning/)**
+This brings us back to **social semiotics** where scholars have highlighted the **active** way in which human beings make meaning
 from media. We are selective with our attention, when we encounter a **semiotic resource**
 we draw on our own prior experiences and what we've learned from communities we belong to, and "frame" it contextually and in accord with our own interests, 
 and we always produce our own inner representation of its meaning:
@@ -237,7 +237,7 @@ new ("inner") sign" ([Kress, 2009:42](references.html#kress_2009))
 ### Class research project
 
 
-![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small") 
+![Activity](img/pencilpencil.svg) 
 [Activity 4: Who is influencing you?](https://forms.gle/69wPRMX8j1s9Vkdr8)
 Participate in our class research project where we will share screenshots of products promoted by influencers which you encounter on social media in the
 course of one week and share them with our class research project. We are investigating how influencers are
