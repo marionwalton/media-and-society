@@ -241,14 +241,11 @@ and we always produce our own inner representation of its meaning:
 leading to a framing of these elements, which leads to their transformation and transduction, which produces a 
 new ("inner") sign" ([Kress, 2009:42](references.html#kress_2009))
 
-### Class research project
+### Alternatives
 
 
 ![Activity](img/pencilpencil.svg) 
-[Activity 4: Who is influencing you?](https://forms.gle/69wPRMX8j1s9Vkdr8)
-Participate in our class research project where we will share screenshots of products promoted by influencers which you encounter on social media in the
-course of one week and share them with our class research project. We are investigating how influencers are
-being used to target students by gender.
+Given what you've learned about the contemporary media landscape and people's attention, how would you use media to disrupt the way that vehicle advertising fuels fossil fuel consumption?
 
 
 ## Questions
