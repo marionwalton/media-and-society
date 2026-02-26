@@ -99,9 +99,8 @@ stereotypes (<a href="/ideas/references/index.html#hooks_1992">hooks, 1992</a>).
 <figure>
 <img title="bell hooks in 2014" 
      alt="bell hooks" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg" 
-     class="illustration"/>
-<figcaption>Figure 3: Author bell hooks in 2014. Credit <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg">Wikimedia</a></figcaption>
 </figure>
+<figcaption>Figure 3: Author bell hooks in 2014. Credit <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bell_hooks%2C_October_2014.jpg/340px-Bell_hooks%2C_October_2014.jpg">Wikimedia</a></figcaption>
 
 Despite the prevalence of inequality and stereotyping in Hollywood, people's thinking is not controlled by the media they encounter. Black feminist theorist bell hooks ([1992]()) remembers watching movies as a young Black girl in the USA and becoming aware that Black women were excluded from the male gaze while white women were idealised. 
 
