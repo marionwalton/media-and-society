@@ -92,7 +92,7 @@ thought about it, and whether advertisers were keen to advertise to that audienc
  <iframe width="560" height="315" src="https://www.youtube.com/embed/eOo4_p58rl8?si=M9Gw8FxREfu7Gs9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 </figure>
 
-![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small") 
+![Activity](img/pencilpencil.svg) 
 What strategies do these television ads use to gain attention? What audiences do you think they were targeting and why? What shows you that?
 
 ### Mass audiences
@@ -117,7 +117,7 @@ To reach even bigger audiences these rates can be even more expensive. For examp
 
 The steep price tag of these television advertisements illustrates how the mass media sells people’s attention to advertisers. 
 
-This point is highlighted in a video by artist Richard Serra ([1973](/ideas/references/index.html#serra_1973)) entitled “Television Delivers People”: 
+This point is highlighted in a video by artist Richard Serra ([1973](references.html#serra_1973)) entitled “Television Delivers People”: 
 
 >You are the product of t.v.  
 You are delivered to the advertiser who is the customer.  
