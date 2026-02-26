@@ -165,8 +165,15 @@ organisations found it relatively easy to gain and hold the public’s attention
 Over the past few decades though, this model has declined in the face of the challenges of many-to-many publishing. 
 
 A growing share of people’s attention goes to websites and apps and so advertising revenue increasingly goes to two **online advertisers** 
-(Google/Alphabet and Meta/Facebook/Instagram), who collect, or **aggregate** content such as an index of websites or people’s social media posts. As a result, they also
- have access to much of the data about what people do online. 
+(Google/Alphabet and Meta/Facebook/Instagram), who collect, or **aggregate** content such as an index of websites or people’s social media posts. As a result, they also have access to much of the data about what people do online. 
+
+For example, how do you think these targeted ads for Toyota Hilux gain attention?
+
+![Armoured Hilux](img/armour-hilux.png)
+Targeted Google Ad for armoured Toyota Hilux, placed on Al Jazeera news website.
+
+![Wesbank loan ad on Meta](img/wesbank-meta.png)
+Targeted Meta ad for a WesBank loan to buy a Toyota LandCruiser  - credit Facebook Ad Library.
  
 This shift in attention has challenged the revenue stream of the news industry in particular and is causing major changes to employment practices and the business 
 of news, including in South Africa, where many publications have been closed and newsrooms have retrenched staff ([Dugmore, 2018](references.html#dugmore_2018)). 
