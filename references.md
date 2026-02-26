@@ -324,7 +324,7 @@ Schiller, H. I. (1975). Communication and cultural domination. *International Jo
 Serra, R. 1973\. “Television Delivers People”. [KunstSpektrum Youtube Channel.](https://www.youtube.com/@kunstspektrum) Available: [https://www.youtube.com/watch?v=LvZYwaQlJsg](https://www.youtube.com/watch?v=LvZYwaQlJsg)
 
 <a name="shehata_2021"></a>
-Shehata, A. & Strömbäck, J. (2021) Learning Political News From Social Media: Network Media Logic and Current Affairs News Learning in a High-Choice Media Environment. _Communication research_. \[Online] 48 (1), 125–147.
+Shehata, A. & Strömbäck, J. (2021) Learning Political News From Social Media: Network Media Logic and Current Affairs News Learning in a High-Choice Media Environment. _Communication research_. 48 (1):125–147.
 
 <a name="siu_2025"></a>
 Siu, A. 2025, February 20. Publicis acquisition signals that creator M&A is not slowing down in 2025. Digiday.
