@@ -89,17 +89,10 @@ thought about it, and whether advertisers were keen to advertise to that audienc
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZKEvtA74ac?si=P8jqbYMDEMv1NrcL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
-**Case study Example 2: # Introducing the all-new [#ToyotaStarlet](https://www.youtube.com/hashtag/toyotastarlet) **
+**Case study Example 2: Introducing the all-new #ToyotaStarlet**
 <figure>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/eOo4_p58rl8?si=M9Gw8FxREfu7Gs9F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 </figure>
-
-**Case study \- [Example 2: \- KFC SA Originals Anthem has landed! 😎](https://www.youtube.com/watch?v=sQdmiyUJf0s&list=PLMCBC7Liz8Op1zXXlYefJxXoHnvECRDJR&index=3)”**
-
-<figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AAk2ciY9G84?si=tbVnQqpAU4L-gSKT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</figure>
-
 
 ![Activity](https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/pencilpencil.svg?v=1739011370699 "small") 
 What strategies do these television ads use to gain attention? What audiences do you think they were targeting and why? What shows you that?
