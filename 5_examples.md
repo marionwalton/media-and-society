@@ -7,17 +7,17 @@ title: 03.6. Examples - Consuming fossil fuels
 {: .no_toc }
 *By Marion Walton, University of Cape Town*
 
-Dramatic changes to the earth's climate are directly linked to the explosion in human consumption of fossil fuels such as petrol, coal and gas. Our use of fossil fuels has increased rapidly since the industrial revolution, and as a result of the greenhouse effect in the earth's atmosphere, leading to steadily rising average global temperatures. 
+Dramatic changes to the earth's climate are directly linked to the explosion in human consumption of fossil fuels such as petrol, coal and gas, which produce greenhouse gases such as carbon dioxide and methane. Our use of fossil fuels has increased rapidly since the industrial revolution, and as a result of the greenhouse effect in the earth's atmosphere, is leading to steadily rising average global temperatures. 
 
 ![bars](img/bars.png)
-
+Figure 1: Temperature change in Cape Town. Credit - [Showyourstripes](https://showyourstripes.info/c/africa/southafrica/capetown)
 These environmental disruptions are currently causing extreme weather events like storms, floods and droughts, with serious consequences especially in countries like South Africa. 
 
-We know that continued consumption of fossil fuels will threaten everyone's future, and yet companies continue to market and advertise environmentally harmful products such as fossil fuels and related products like cars. Plastics and AI chatbots also consume large quantities of fossil fuels. 
+We know that continued consumption of fossil fuels will threaten everyone's future, and yet companies continue to market and advertise environmentally harmful products such as fossil fuels (e.g. petrol and gas) and related products like cars, which release carbon dioxide and methane into the atmosphere. The manufacture of electricity from coal and producing plastics and AI chatbots also generates large quantities of fossil fuels. 
 
 The billions spent on marketing and advertising such products encourages people to consume more fossil fuels. Campaigns also often use greenwashing techniques to confuse people about the known causes and remedies for the climate emergency. 
 
-For this reason, cities like Amsterdam have already banned fossil fuel advertising in public places.  
+For this reason, cities like Amsterdam have already banned fossil fuel advertising in public places.  (They also ban red meat advertising since cows produce a lot of methane.)
 
 In this case study, we'll look at marketing and advertising strategies used by some South African car brands and discuss how they engage with consumer culture to encourage continued consumption of fossil fuels.
 
