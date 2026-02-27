@@ -7,7 +7,11 @@ title: 03.6. Examples - Consuming fossil fuels
 {: .no_toc }
 *By Marion Walton, University of Cape Town*
 
-Dramatic changes to the earth's climate are directly linked to the explosion in human consumption of fossil fuels such as petrol, coal and gas since the industrial revolution. These environmental disruptions are currently causing extreme weather events like storms, floods and droughts, with serious consequences especially in countries like South Africa. 
+Dramatic changes to the earth's climate are directly linked to the explosion in human consumption of fossil fuels such as petrol, coal and gas. Our use of fossil fuels has increased rapidly since the industrial revolution, and as a result of the greenhouse effect in the earth's atmosphere, leading to steadily rising average global temperatures. 
+
+![bars](img/bars.png)
+
+These environmental disruptions are currently causing extreme weather events like storms, floods and droughts, with serious consequences especially in countries like South Africa. 
 
 We know that continued consumption of fossil fuels will threaten everyone's future, and yet companies continue to market and advertise environmentally harmful products such as fossil fuels and related products like cars. Plastics and AI chatbots also consume large quantities of fossil fuels. 
 
