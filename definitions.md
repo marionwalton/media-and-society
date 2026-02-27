@@ -64,6 +64,9 @@ A citation supports the claims you're making in academic writing, gives credit t
 ## Counter-hegemony
 A world view or activity that is in opposition to and challenges the dominant world view. (O'Shaugnessy & Stadler)
 
+## Consumer culture
+People’s values, meanings, and identities develop as they engage in activities associated with consuming goods and services and encounter the marketing, public relations, advertising and branding industries in their cultural context. 
+
 ## Cultural studies
 Cultural Studies is an academic subject or area of study which is closely related to media studies. In cultural studies, "culture" is approached as an everyday activity, where people make sense of the world, relate to others, and participate in society in ever-changing and contextually nuanced ways. This goes beyond the common sense understanding of culture as artistic products such as paintings, books, music or films. In this course we study scholars who have contributed to this tradition including Antonio Gramsci, Stuart Hall, Raymond Williams, Adam Haupt and others.
 

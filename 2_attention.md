@@ -245,8 +245,9 @@ new ("inner") sign" ([Kress, 2009:42](references.html#kress_2009))
 
 
 ![Activity](img/pencilpencil.svg) 
-Given what you've learned about the contemporary media landscape and people's attention, how would you use media to disrupt the way that vehicle advertising fuels fossil fuel consumption?
+Do you think South Africa should also ban fossil fuel advertising?
 
+Given what you've learned about the contemporary media landscape and people's attention, how would you use media to highlight the links between vehicle advertising and fossil fuel consumption?
 
 ## Questions
 
