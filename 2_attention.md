@@ -32,7 +32,7 @@ turns in each role.
 
 ![network](img/Screenshot%202025-02-25%20at%2017.15.44.png)
 
-In the current era, these two models have converged into a **many-to-many** model. In other words, many people are connected to many others via the internet and most social media platforms. 
+In the current era, the **one-to-one** and **one-to-many** models have converged into a **many-to-many** model. In other words, many people are connected to many others via the internet and most social media platforms. 
 
 On these platforms there are many more sources of information and entertainment than anyone could possibly process in a lifetime.
 

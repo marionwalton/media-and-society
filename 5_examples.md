@@ -9,70 +9,40 @@ title: 03.6. Examples - Consuming fossil fuels
 
 Dramatic changes to the earth's climate are directly linked to the explosion in human consumption of fossil fuels such as petrol, coal and gas since the industrial revolution. These environmental disruptions are currently causing extreme weather events like storms, floods and droughts, with serious consequences especially in countries like South Africa. 
 
-We know that continued consumption of fossil fuels will threaten everyone's future, and yet companies continue to market and advertise environmentally harmful products such as fossil fuels, related products like cars, and even plastics and AI chatbots. The billions spent on marketing and advertising such products encourages people to consume more fossil fuels, or uses greenwashing techniques to confuse people about the known causes and remedies for the climate emergency. 
+We know that continued consumption of fossil fuels will threaten everyone's future, and yet companies continue to market and advertise environmentally harmful products such as fossil fuels and related products like cars. Plastics and AI chatbots also consume large quantities of fossil fuels. 
+
+The billions spent on marketing and advertising such products encourages people to consume more fossil fuels. Campaigns also often use greenwashing techniques to confuse people about the known causes and remedies for the climate emergency. 
 
 For this reason, cities like Amsterdam have already banned fossil fuel advertising in public places.  
 
 In this case study, we'll look at marketing and advertising strategies used by some South African car brands and discuss how they engage with consumer culture to encourage continued consumption of fossil fuels.
 
-### Case studies
+## Case studies
+### Television: It's not a bakkie
 ![Activity](img/pencilpencil.svg) 
-What strategies do these television ads use to gain attention? What associations do they create with cars and driving? What audiences do you think they were targeting and why?
+What strategies does this ad use to gain attention? What associations does Toyota want to create with cars and driving? What audiences do you think they were targeting and why?
 
 **Case study \- [Example 1 \- Toyota “It’s a not a bakkie, it’s a Hilux](https://www.youtube.com/watch?v=iZKEvtA74ac)”**
-
-![bae39606-f97c-49fb-910f-d8e552e6edb3.image.png](img/bae39606-f97c-49fb-910f-d8e552e6edb3.image.png)
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZKEvtA74ac?si=lpfCqI2TKlPPa3vL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Example 1 - TV Spot - Toyota “It’s a not a bakkie, it’s a Hilux" - [YouTube](https://www.youtube.com/watch?v=iZKEvtA74ac)
+Example 1 - TV Spot - Toyota “It’s a not a bakkie, it’s a Hilux" -broadcast version (English) via [YouTube](https://www.youtube.com/watch?v=iZKEvtA74ac)
 
-<figure>
-  <img class="illustration" src="https://i.ytimg.com/vi/iZKEvtA74ac/maxresdefault.jpg" title="YouTube thumbnail - example 1" ></iframe>
-<figcaption>Example 2 \- Toyota Hilux Youtube thumbnail</figcaption>
-</figure>
+On their [website](https://www.toyota.co.za/connect/article/its-not-a-bakkie-its-a-hilux), Toyota SA commented on the campaign.
+"It was important that the family felt real and that they spoke both English and Afrikaans (campaign elements launched in both languages, as well as in isiZulu, isiXhosa and Sepedi), explains Clayton. A hardworking oupa with a soft spot for his grandson, a relatable ouma and a city-dwelling daughter visiting her parents with her son on his birthday make up the family. The biggest challenge was casting the grandson. ‘Many kids auditioned, but this little guy’s performance was just so believable. The moment we saw him, we knew we had the right one.’” 
 
-<figure>
-  <img class="illustration" src="https://cdn.glitch.global/cf95248c-36c9-4c16-8fd1-053cbc9fd048/bae39606-f97c-49fb-910f-d8e552e6edb3.image.png?v=1739374259985" title="Still for Radio campaign - RiseFM" ></iframe>
-<figcaption>Example 2 \- Toyota Hilux Still for [RiseFM radio campaign](https://risefm.co.za/its-not-a-bakkie-its-a-hilux/)</figcaption>
-</figure>
+### Digital advertising
 
-Toyota SA commented on the multilingual aspects of the campaign.
-"We are also excited to launch some of the campaign elements not only in English, but also in isiZulu, isiXhosa, Sepedi and Afrikaans.” 
+![Single frame digital](img/bae39606-f97c-49fb-910f-d8e552e6edb3.image.png)
+Example 2: Single frame digital ad
 
-<figure>
-  <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bobbypetkov1/video/7432560360462224646" data-video-id="7432560360462224646" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@bobbypetkov1" href="https://www.tiktok.com/@bobbypetkov1?refer=embed">@bobbypetkov1</a> <p>The Bakkie with a LEGENDARY status, the one and only... Toyota Hilux!!! #toyota #hilux #toyotahilux #toyotahiluxclub #legend #toyotaholics #toyotaholicsafrica #carreview #richelieu #bfgoodrich #toughguy #hiluxadventures #mitmakmotors #bobbypetkov #staypowerful</p> <a target="_blank" title="♬ original sound  - Bobby Petkov" href="https://www.tiktok.com/music/original-sound-Bobby-Petkov-7432560391509936901?refer=embed">♬ original sound  - Bobby Petkov</a> </section> </blockquote>   <figcaption>Example 2 \- Toyota Hilux Influencer TikTok</figcaption>
-</figure>
+### Targeted advertising
 
 ![Armoured Hilux](img/armour-hilux.png)
 Targeted Google Ad for armoured Toyota Hilux, placed on news website.
 
-**Case study \- [Example 2 \- VW “#DoItBig with AutoTrader in 2025"](https://www.youtube.com/watch?v=nUtd-pG6nl0&t=1s)”**
-
-
-<figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ln8re69f8Hw?si=_YcNyu6p_ag101yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<figcaption>Example 2 \- #DoItBig with AutoTrader in 2025!</figcaption>
-
-</figure>
-
-
-**Case study \- [Example 3 \- VW “German tech meets Mzansi craftsmanship #GottaGetAVivo](https://www.youtube.com/watch?v=nUtd-pG6nl0&t=1s)”**
-
-<figure>
-<iframe width="560" height="auto" src="https://www.youtube.com/embed/nUtd-pG6nl0?si=Ibe1RTIWrIKxvQmf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<figcaption>Example 3 \- VW “German tech meets Mzansi craftsmanship #GottaGetAVivo</figcaption>
-</figure>
-
-<figure>
-  <img class="illustration" src="https://i.ytimg.com/vi/nUtd-pG6nl0/maxresdefault.jpg" title="YouTube thumbnail - example 2" ></iframe>
-<figcaption>Example 3 \- VW Vivo Youtube thumbnail</figcaption>
-</figure>
-
-### Influencers
+## Influencer campaign - VW #ShouldaGottaVivo
 ![Activity](img/pencilpencil.svg) 
-What strategies do these influencer posts use to gain attention? What audiences do you think they were targeting and why?
+What strategies does this influencer post use to gain attention? Which audiences do you think Volkswagen was targeting by sponsoring this influencer? Why?
 
 **[Case study Influencer marketing #shouldagotavivo](https://www.tiktok.com/@volkswagensouthafrica/video/7379928341823900934)**
 
