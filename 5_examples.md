@@ -24,8 +24,9 @@ What strategies do these television ads use to gain attention? What associations
 ![bae39606-f97c-49fb-910f-d8e552e6edb3.image.png](img/bae39606-f97c-49fb-910f-d8e552e6edb3.image.png)
 
 
-<iframe width="560" height="auto" src="https://www.youtube.com/embed/iZKEvtA74ac?si=HxIEN5xOc6jlQtV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-Example 1 - TV Spot - Toyota “It’s a not a bakkie, it’s a Hilux
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iZKEvtA74ac?si=lpfCqI2TKlPPa3vL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Example 1 - TV Spot - Toyota “It’s a not a bakkie, it’s a Hilux" - [YouTube](https://www.youtube.com/watch?v=iZKEvtA74ac)
 
 <figure>
   <img class="illustration" src="https://i.ytimg.com/vi/iZKEvtA74ac/maxresdefault.jpg" title="YouTube thumbnail - example 1" ></iframe>
