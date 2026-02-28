@@ -11,10 +11,10 @@ These are the important sources used in _Media & Society_.
 Abidin, C. 2018. Internet celebrity: Understanding fame online. Emerald.
 
 <a name="agbese_2020"></a>
-Agbese, A. 2020. Nollywood. In The SAGE international encyclopedia of mass media and society (Vol. 5, pp. 1266-1268). SAGE Publications, Inc., https://doi.org/10.4135/9781483375519.n481
+Agbese, A. 2020. Nollywood. In The SAGE international encyclopedia of mass media and society (Vol. 5, pp. 1266-1268). SAGE Publications, Inc. https://doi.org/10.4135/9781483375519.n481
 
 <a name="alim_2021"></a>
-Alim, H.S., Williams, Q.E., Haupt, A. and Jansen, E. 2021\. “Kom Khoi San, kry trug jou land”: Disrupting White Settler Colonial Logics of Language, Race, and Land with Afrikaaps. *Journal of Linguistic Anthropology*. 31(2):194-217.
+Alim, H.S., Williams, Q.E., Haupt, A. and Jansen, E. 2021. “Kom Khoi San, kry trug jou land”: Disrupting White Settler Colonial Logics of Language, Race, and Land with Afrikaaps. *Journal of Linguistic Anthropology*. 31(2):194-217.
 
 <a name="are_2021"></a>
 Are, C. & Paasonen, S. 2021\. Sex in the shadows of celebrity. *Porn Studies*. 8(4): 411-419.
@@ -32,19 +32,19 @@ Bailey, Moya. 2021. Misogynoir Transformed: Black Women's Digital Resistance. Ne
 Barker, Meg-John. 2016. Queer: A graphic history. London: Icon Books.
 
 <a name="bender_2021"></a>
-Bender, E.M., Gebru, T., McMillan-Major, A. and Shmitchell, S., 2021, March. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency (pp. 610-623).
+Bender, E.M., Gebru, T., McMillan-Major, A. and Shmitchell, S. 2021. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency: 610-623.
 
 <a name="bosch_mutsvairo_2017"></a>
-Bosch, T. and Mutsvairo, B. 2017. ‘Pictures, Protests and Politics: Mapping Twitter Images during South Africa’s Fees Must Fall Campaign’, African Journalism Studies, 38(2), pp. 71–89. doi: 10.1080/23743670.2017.1368869.
+Bosch, T. and Mutsvairo, B. 2017. ‘Pictures, Protests and Politics: Mapping Twitter Images during South Africa’s Fees Must Fall Campaign’, African Journalism Studies, 38(2):71–89. doi: 10.1080/23743670.2017.1368869.
 
 <a name="bosch_2022"></a>
 Bosch,T. 2022, February 11\. Radio is thriving in South Africa: 80% are tuning in. *The Conversation.* Available: https://theconversation.com/radio-is-thriving-in-south-africa-80-are-tuning-in-176846
 
 <a name="butler_1999"></a>
-Butler, J. 1999. Gender Trouble. London: Routledge.
+Butler, J. 1999. *Gender Trouble*. London: Routledge.
 
 <a name="bronstein_2018"></a>
-Bronstein, V., & Katzew, J. (2018). Safeguarding the South African public broadcaster: Governance, civil society and the SABC. *Journal of Media Law*. 10.2. 244-272.
+Bronstein, V., & Katzew, J. 2018. Safeguarding the South African public broadcaster: Governance, civil society and the SABC. *Journal of Media Law*. 10.2. 244-272.
 
 <a name="bruns_2023"></a>
 Bruns, Axel. 2023. From “the” public sphere to a network of publics: towards
@@ -52,41 +52,40 @@ an empirically founded model of contemporary public
 communication spaces *Communication Theory* 33:70–81 https://doi.org/10.1093/ct/qtad007.
 
 <a name="cascini_2022"></a>
-Cascini, F. et al. 2022\. Social media and attitudes towards a COVID-19 vaccination: A systematic review of the literature *eClinicalMedicine*, 48 (101454).
+Cascini, F. et al. 2022. Social media and attitudes towards a COVID-19 vaccination: A systematic review of the literature *eClinicalMedicine*, 48 (101454).
 
 <a name="castells_2015"></a>
 Castells, M. 2015. *Networks of outrage and hope*. Malden: Polity Press.
 
 <a name="chandler_munday_2020a"></a>
-Chandler, D., & Munday, R. 2020a. network. In A Dictionary of Media and Communication. Oxford: Oxford University Press. Retrieved 25 Feb. 2025, from https://www.oxfordreference.com/view/10.1093/acref/9780198841838.001.0001/acref-9780198841838-e-1851.
+Chandler, D., & Munday, R. 2020a. network. In A Dictionary of Media and Communication. Oxford: Oxford University Press. Available https://www.oxfordreference.com/view/10.1093/acref/9780198841838.001.0001/acref-9780198841838-e-1851.
 
 <a name="chuma_2010"></a>
-Chuma, W. 2010\. Western paradigms, African media experiences. *Rhodes Journalism Review*, 2010(30), pp.15-17.
+Chuma, W. 2010. Western paradigms, African media experiences. *Rhodes Journalism Review*. 2010(30):15-17.
 
 <a name="chuma_2019"></a>
-Chuma, W. 2019\. Political Economy of the Media in Africa. In S. Chiumbu & M. Iqani (Eds) *Media Studies: Critical African and Decolonial Approache*s. Cape Town: Oxford University Press. 
+Chuma, W. 2019. Political Economy of the Media in Africa. In S. Chiumbu & M. Iqani (Eds) *Media Studies: Critical African and Decolonial Approaches*. Cape Town: Oxford University Press. 114-131.
 
 <a name="coded_2020"></a>
-Coded Bias \[Video\]. 2020\. Produced by S. Hoffman & Directed by S. Kantayya. United States of America: 7th Empire Media & Women Make Movies.
+Coded Bias Video. 2020. Produced by S. Hoffman & Directed by S. Kantayya. United States of America: 7th Empire Media & Women Make Movies.
 
 <a name="competition_2025"></a>
-Competition Commission, South Africa. 2025, February. Media and Digital Platforms Market Inquiry (MDPMI). Available <https://www.compcom.co.za/wp-content/uploads/2025/02/MDPMI-Annexure-4-Social-Media__Redacted.pdf>
-
+Competition Commission, South Africa. 2025, February. Media and Digital Platforms Market Inquiry (MDPMI). Available: https://www.compcom.co.za/wp-content/uploads/2025/02/MDPMI-Annexure-4-Social-Media__Redacted.pdf
 
 <a name="cooke_2022"></a>
 Cooke, Lucy. 2022. *Bitch: On the Female of the Species*. New York: Basic Books. 
 
 <a name="couldry_2004"></a>
-Couldry, N. 2004\. Theorizing media as practice. *Social Semiotics* 14(2): 115-132.
+Couldry, N. 2004. Theorizing media as practice. *Social Semiotics* 14(2): 115-132.
 
 <a name="crenshaw_1991"></a>
-Crenshaw, Kimberle. 1991 “Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color”. Stanford Law Review 43.6.1241-1299.
+Crenshaw, Kimberle. 1991. “Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color”. *Stanford Law Review* 43(6):1241-1299.
 
 <a name="dewaal_2012"></a>
 De Waal, M. 2012, 24 Aug. Marikana: The matter of embedded journalism. *Daily Maverick*. Available: https://www.dailymaverick.co.za/article/2012-08-24-marikana-the-matter-of-embedded-journalism/
 
 <a name="de_lanerolle_et_al_2017"></a>
-De Lanerolle, I. Walton, M. & Schoon, A. 2017\. Izolo: mobile diaries of the less connected, Making All Voices Count Research Report, Brighton: [IDS](https://vula.uct.ac.za/portal/site/10b5a417-579d-4598-8f55-0b2019c243ce/tool/3bca772b-a684-425c-ab7a-ef5ba3f11f5b#).
+De Lanerolle, I. Walton, M. & Schoon, A. 2017. Izolo: mobile diaries of the less connected, Making All Voices Count Research Report, Brighton: [IDS](https://vula.uct.ac.za/portal/site/10b5a417-579d-4598-8f55-0b2019c243ce/tool/3bca772b-a684-425c-ab7a-ef5ba3f11f5b#). Available: https://opendocs.ids.ac.uk/articles/report/Izolo_mobile_diaries_of_the_less_connected/26482942?file=48257626
 
 <a name="delphy_1993"></a>
 Delphy, Christine. 1993. Rethinking sex and gender. Women's Studies International Forum. 16(1): 1-9.
@@ -95,13 +94,13 @@ Delphy, Christine. 1993. Rethinking sex and gender. Women's Studies Internationa
 Digital News Report. 2021, 23 June. Reuters Instittute. Available: https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2021/dnr-executive-summary
 
 <a name="dugmore_2018"></a>
-Dugmore, Harry. 2018\. Paying the Piper: The Sustainability of the News Industry and Journalism in South Africa in a Time of Digital Transformation and Political Uncertainty. Available: https://themediaonline.co.za/wp-content/uploads/ 2018/05/PAYING-THE-PIPER-The-sustainability-of-the-news-industry-and-journalism-in-South-Africa-in--time-of-digital-transformation-and-political-uncertainty.pdf.
+Dugmore, Harry. 2018. Paying the Piper: The Sustainability of the News Industry and Journalism in South Africa in a Time of Digital Transformation and Political Uncertainty. Available: [https://themediaonline.co.za/wp-content/uploads/ 2018/05/PAYING-THE-PIPER-The-sustainability-of-the-news-industry-and-journalism-in-South-Africa-in--time-of-digital-transformation-and-political-uncertainty.pdf](https://themediaonline.co.za/wp-content/uploads/ 2018/05/PAYING-THE-PIPER-The-sustainability-of-the-news-industry-and-journalism-in-South-Africa-in--time-of-digital-transformation-and-political-uncertainty.pdf).
 
 <a name="dunham_2023"></a>
-Dunham, J. 2023\. Deadly year for journalists as killings rose sharply in 2022\. Committee to Protect Journalists. Available: https://cpj.org/reports/2023/01/deadly-year-for-journalists-as-killings-rose-sharply-in-2022/
+Dunham, J. 2023. Deadly year for journalists as killings rose sharply in 2022\. Committee to Protect Journalists. Available: https://cpj.org/reports/2023/01/deadly-year-for-journalists-as-killings-rose-sharply-in-2022/
 
 <a name="fraser_1990"></a>
-Fraser, N. (1990). Rethinking the public sphere: A contribution to the
+Fraser, N. 1990. Rethinking the public sphere: A contribution to the
 critique of actually existing democracy. Social Text (25/26): 56–80.
 https://doi.org/10.2307/466240 
 
@@ -109,51 +108,51 @@ https://doi.org/10.2307/466240
 Freelon, D. G., McIlwain, C. D., & Clark, M. D. (2016). Beyond the
 hashtags: #Ferguson, #Blacklivesmatter, and the online struggle for
 offline justice. Center for Media and Social Impact, American
-University. http://papers.ssrn.com/sol3/papers.cfm?abstract_id=27
-47066
+University. Available: [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=27
+47066](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2747066)
 
 <a name="finnegan_2012"></a>
 Finnegan, R. 2012. *Oral Literature in Africa*. Cambridge, UK: Open Book Publishers. https://doi.org/10.11647/OBP.0025
 
 <a name="fletcher_nielsen_2018"></a>
-Fletcher, R.,&Nielsen, R. K. (2018). Are people incidentally exposed to
+Fletcher, R.,&Nielsen, R. K. 2018. Are people incidentally exposed to
 news on social media? A comparative analysis. New Media &
-Society, 20(7), 2450–2468. https://doi.org/10.1177/14614448177
+Society, 20(7):2450–2468. https://doi.org/10.1177/14614448177
 24170
 
 <a name="foucault_1980"></a>
-Foucault, Michel. (1980). Power/Knowledge. (Ed.) Gordon, Colin. Pantheon: New York  
+Foucault, Michel. 1980. Power/Knowledge. (Ed.) Gordon, Colin. Pantheon: New York.  
 
 <a name="foucault_1972"></a>
-Foucault, Michel. (1972). The Archaeology of Knowledge and the Discourse on Language. Pantheon: New York
+Foucault, Michel. 1972. *The Archaeology of Knowledge and the Discourse on Language*. Pantheon: New York
 
 <a name="gadamer_1982"></a>
 Gadamer, Hans-Georg. 1982. *Truth and method*. New York:Crossroad.
 
 <a name="gamble_2024"></a>
-Gamble, S. 2024. _Digital flows : online hip hop music and culture_. New York: Oxford University Press.
+Gamble, S. 2024. *Digital flows : online hip hop music and culture*. New York: Oxford University Press.
 
 <a name="gentleman_2026"></a>
-Gentleman, Amelia and Horton, Helena. 2026.  ‘Add blood, forced smile’: how Grok’s nudification tool went viral. _The Guardian_. 11 Jan. Available. https://www.theguardian.com/profile/helena-horton
+Gentleman, Amelia and Horton, Helena. 2026.  ‘Add blood, forced smile’: how Grok’s nudification tool went viral. *The Guardian*. 11 Jan. Available. https://www.theguardian.com/profile/helena-horton
 
 <a name="gill_2010"></a>
-Gill, Rosalind (2010) Chapter “Gender” in The Media: An Introduction (3rd Edition), edited by Daniele Albertazzi and Paul Cobley, Edinburgh: Pearson Education, pp. 410—26.
+Gill, Rosalind. 2010. Chapter “Gender” in *The Media: An Introduction (3rd Edition)*,  Daniele Albertazzi and Paul Cobley ed. Edinburgh: Pearson Education. 410—26.
 
 <a name="goffman_1979"></a>
-Goffman, E. 1979\. *Gender Advertisements*. London:Macmillan.
+Goffman, E. 1979. *Gender Advertisements*. London:Macmillan.
 
 <a name="govenden_2022"></a>
-Govenden, P. 2022\. Does Black Economic Empowerment Ownership Matter? A Decolonial Analysis of ‘Black Visibility’ in South Africa’s Print Media Content, 1994-2014. *African Journalism Studies*. 43 (2): 1–20.
+Govenden, P. 2022. Does Black Economic Empowerment Ownership Matter? A Decolonial Analysis of ‘Black Visibility’ in South Africa’s Print Media Content, 1994-2014. *African Journalism Studies*. 43 (2): 1–20.
 
 <a name="granovetter_1973"></a>
-Granovetter, M.S., 1973. The strength of weak ties. American journal of sociology, 78(6): 1360-1380.
+Granovetter, M.S., 1973. The strength of weak ties. *American journal of sociology*. 78(6): 1360-1380.
 
 <a name="graves_2018"></a>
 Graves. J. 2018. What makes you a man or a woman? Geneticist Jenny Graves explains. Available
  https://theconversation.com/what-makes-you-a-man-or-a-woman-geneticist-jenny-graves-explains-102983
 
 <a name="grison_2024"></a>
- Grison, T. 2024. Playing Hide and Seek with Algorithms in the “Gay TikTok”: From Shadowbanning to Platform Affordances. In: Schafer, V. and Pailler, F. ed. Online Virality: Spread and Influence. Berlin, Boston: De Gruyter Oldenbourg, pp. 249-268. https://doi.org/10.1515/9783111311371-013
+ Grison, T. 2024. Playing Hide and Seek with Algorithms in the “Gay TikTok”: From Shadowbanning to Platform Affordances. In: Schafer, V. and Pailler, F. Eds. Online Virality: Spread and Influence. Berlin, Boston: De Gruyter Oldenbourg, pp. 249-268. https://doi.org/10.1515/9783111311371-013
 
 <a name="gunner_2012"></a>
 Gunner, L., Ligaga, D., Moyo, D., Bosch, T., Chibita, M.B. and Coplan, D.B., 2012\. *Radio in Africa: Publics, cultures, communities*. Johannesburg: Wits University Press.
@@ -165,64 +164,63 @@ Guo, M. 2019. Social Television Viewing with Second Screen Platforms: Antecedent
 GWI. 2022. South Africa Key digital behaviors and trends over time and across demographics. Available https://archive.org/details/market-snapshot-south-africa-2022-shareable
 
 <a name="gwi_2025"></a>
-GWI. 2025\. South Africa: 2024 Stats Snapshot. Available: https://www.industryreports.co.za/sites/default/files/2025-03/GWI%20SA%20Stats%20Snapshot%202024.pdf
+GWI. 2025. South Africa: 2024 Stats Snapshot. Available: [https://www.industryreports.co.za/sites/default/files/2025-03/GWI%20SA%20Stats%20Snapshot%202024.pdf](https://www.industryreports.co.za/sites/default/files/2025-03/GWI%20SA%20Stats%20Snapshot%202024.pdf)
 
 <a name="habermas_1989"></a>
-Habermas, Jürgen 1989. The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society, Thomas Burger, Cambridge Massachusetts: The MIT Press.
+Habermas, Jürgen 1989. *The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society*. Translated by Thomas Burger. Cambridge Massachusetts: The MIT Press.
 
 <a name="habermas_2006"></a>
-Habermas, Jürgen 2006. "Political Communication in Media Society: Does Democracy Still Enjoy an Epistemic Dimension? The Impact of Normative Theory on Empirical Research" Communication Theory 16 (4): 411–426.
+Habermas, Jürgen 2006. "Political Communication in Media Society: Does Democracy Still Enjoy an Epistemic Dimension? The Impact of Normative Theory on Empirical Research" *Communication Theory*. 16 (4): 411–426.
 
 <a name="hill_et_al_2022"></a>
-Hill, Benjamin Mako, and Aaron Shaw. 2013, June 26. “The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with Propensity Score Estimation.” Edited by Angel Sánchez. PLoS ONE 8.6.
+Hill, Benjamin Mako, and Aaron Shaw. 2013, June 26. “The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with Propensity Score Estimation.” Edited by Angel Sánchez. *PLoS ONE* 8.6.
 
 <a name="hall_2006"></a>
-Hall, S. 2006. Encoding/Decoding. In Durham, M & Keller, D. (eds.). Media and Cultural Studies: KeyWorks. Revised Edition. Oxford: Blackwell. 163–73. 
+Hall, S. 2006. Encoding/Decoding. In Durham, M & Keller, D. Eds. Media and Cultural Studies: KeyWorks. Revised Edition. Oxford: Blackwell. 163–73. 
 
 <a name="harber_2018"></a>
-Harber, Anton. 2018\. *Southern African Muckraking: 300 years of investigative journalism that has shaped the region*. Jacana: Sunnyside.
+Harber, Anton. 2018. *Southern African Muckraking: 300 years of investigative journalism that has shaped the region*. Jacana: Sunnyside.
 
 <a name="harper_nd"></a>
-Harper, D. (n.d.). Etymology of media. Online Etymology Dictionary. Available: [https://www.etymonline.com/word/media](https://www.etymonline.com/word/media).  [2025, February 8] 
+Harper, D. (n.d.). Etymology of media. Online Etymology Dictionary. Available: [https://www.etymonline.com/word/media](https://www.etymonline.com/word/media).  
 
 <a name="harper_2_nd"></a>
-Harper, D. (n.d.). Etymology of semiotic. Online Etymology Dictionary. Available: [https://www.etymonline.com/word/semiotic](https://www.etymonline.com/word/semiotic).  [2025, February 10] 
+Harper, D. (n.d.). Etymology of semiotic. Online Etymology Dictionary. Available: [https://www.etymonline.com/word/semiotic](https://www.etymonline.com/word/semiotic).  
 
 <a name="haupt_2008"></a>
-Haupt, A. 2008\. *Stealing Empire: P2P, intellectual property and hip-hop subversion*. HSRC Press: Cape Town.
+Haupt, A. 2008. *Stealing Empire: P2P, intellectual property and hip-hop subversion*. HSRC Press: Cape Town.
 
 <a name="haupt_2012"></a>
 Haupt, A. 2012\. *Static: Race and representation in post-apartheid music, media and film*. Cape Town: HSRC Press.
 
 <a name="haupt_2017"></a>
-Haupt, A. 2017\. “’Non-Poor Only’: Culture Jamming and the Limits of Free Speech in South Africa”. In H. Wasserman and A. Garman (Eds). *Media and Citizenship*. HSRC Press: Cape Town.
+Haupt, A. 2017. “’Non-Poor Only’: Culture Jamming and the Limits of Free Speech in South Africa”. In H. Wasserman and A. Garman (Eds). *Media and Citizenship*. HSRC Press: Cape Town.
 
 <a name="haupt_2018"></a>
 Haupt, A. 2018\. “Inhale Determination, We Will Overcome: Eavesdrop, Mr Devious and Brasse vannie Kaap’s Representational Politics”. *Journal of World Popular Music.* 5(2): 152-168.
 
 <a name="heidegger_1971"></a>
-Heidegger M. 1971. *On the way to language.* Translated by Peter D Hertz. San Francisco: Harper and Row. (Original work
-published 1959)
+Heidegger M. 1971. *On the way to language.* Translated by Peter D Hertz. San Francisco: Harper and Row. (Original work published 1959)
 
 <a name="herman_1988"></a>
-Herman, E.S, & Chomsky, N. 1988. Manufacturing Consent: A Propaganda Model. Available:[ www.thirdworldtraveler.com/Herman%20/Manufac\_Consent\_Prop\_Model.html](http://www.thirdworldtraveler.com/Herman%20/Manufac_Consent_Prop_Model.html)
+Herman, E.S, & Chomsky, N. 1988. *Manufacturing Consent: A Propaganda Model*. Available:[ www.thirdworldtraveler.com/Herman%20/Manufac\_Consent\_Prop\_Model.html](http://www.thirdworldtraveler.com/Herman%20/Manufac_Consent_Prop_Model.html)
 
 <a name="hodgskiss_esterhuysen_2019"></a>
-Hodgskiss, T. Esterhuysen, A. 2019, December 2017. "Ancient southern African rock engravings finally find a fitting home." *The Conversation*. Available: https://theconversation.com/ancient-southern-african-rock-engravings-finally-find-a-fitting-home-128646
+Hodgskiss, T. Esterhuysen, A. 2019. "Ancient Southern African rock engravings finally find a fitting home." *The Conversation*. 17 December. Available: https://theconversation.com/ancient-southern-african-rock-engravings-finally-find-a-fitting-home-128646
 
 <a name="hodgskiss_2015"></a>
-Hodgskiss, T. 2015, Sept 7. "What the use of ochre tells us about the capabilities of our African ancestry". *The Conversation*. Available: https://theconversation.com/what-the-use-of-ochre-tells-us-about-the-capabilities-of-our-african-ancestry-47081
+Hodgskiss, T. 2015.  "What the use of ochre tells us about the capabilities of our African ancestry". *The Conversation*. 7 September. Available: https://theconversation.com/what-the-use-of-ochre-tells-us-about-the-capabilities-of-our-african-ancestry-47081
 
 <a name="hooks_1992"></a>
-hooks, bell 1992. "The Oppositional Gaze: Black Female Spectator". The Feminism and Visual Culture Reader. New York: Routledge. 94–105.  <a name="hooks_1992"></a> 
+hooks, bell 1992. "The Oppositional Gaze: Black Female Spectator". The Feminism and Visual Culture Reader. New York: Routledge. 94–105.   
 
 <a name="ito_et_al_2005"></a>
-Ito, M.E., Okabe, D.E. and Matsuda, M.E., 2005\. *Personal, portable, pedestrian: Mobile phones in Japanese life*. Cambridge: MIT Press.
+Ito, M.E., Okabe, D.E. and Matsuda, M.E., 2005. *Personal, portable, pedestrian: Mobile phones in Japanese life*. Cambridge: MIT Press.
 
 <a name="iyengar_et_al_2012"></a>
 Iyengar, S., Sood, G., & Lelkes, Y. 2012. Affect, not ideology: A social
-identity perspective on polarization. Public Opinion Quarterly,
-76(3), 405–431. https://doi.org/10.1093/poq/nfs038
+identity perspective on polarization. *Public Opinion Quarterly*
+76(3): 405–431. https://doi.org/10.1093/poq/nfs038
 
 <a name="jewitt_oyama_2001"></a>
 Jewitt, C., & Oyama, R. 2001\. “Visual meaning: A social semiotic approach”. In T. Van Leeuwen & C. Jewitt (Eds.), Handbook of Visual Analysis. London: Sage.
