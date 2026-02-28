@@ -225,77 +225,78 @@ identity perspective on polarization. *Public Opinion Quarterly*
 <a name="jewitt_oyama_2001"></a>
 Jewitt, C., & Oyama, R. 2001\. “Visual meaning: A social semiotic approach”. In T. Van Leeuwen & C. Jewitt (Eds.), Handbook of Visual Analysis. London: Sage.
 
-Kloenne, U., Nauels, A., Pearson, P., DeConto, R.M., Findlay, H.S., Hugelius, G., Robinson, A., Rogelj, J., Schuur, E.A., Stroeve, J. and Schleussner, C.F. 2022\. Only halving emissions by 2030 can minimize risks of crossing cryosphere thresholds. *Nature Climate Change*. 1-3.
+<a name="kloenne_2023"></a>
+Kloenne, U., Nauels, A., Pearson, P. _et al._ 2023. Only halving emissions by 2030 can minimize risks of crossing cryosphere thresholds. *Nat. Clim. Chang*. 13:9–11. https://doi.org/10.1038/s41558-022-01566-4
 
 <a name="kress_2010"></a>
 Kress, G. 2010. *Multimodality*. London: Routledge.
 
 <a name="kurultay_2020"></a>
-Kurultay, A. 2020. Consumer Culture. In: The SAGE International Encyclopedia of Mass Media and Society. , Thousand Oaks,, CA: SAGE Publications, Inc. pp. 383-384 Available at: <https://doi.org/10.4135/9781483375519.n150> [Accessed 17 Feb 2026].
+Kurultay, A. 2020. Consumer Culture. In: *The SAGE International Encyclopedia of Mass Media and Society*.  Thousand Oaks, CA: SAGE Publications, Inc. 383-384 Available at: https://doi.org/10.4135/9781483375519.n150.
 
 <a name="kress_van_leeuwen_2006"></a>
-Kress, G. and Van Leeuwen, T. 2006\. *Reading Images: The Grammar of Visual Design*. London: Routledge.
+Kress, G. and Van Leeuwen, T. 2006. *Reading Images: The Grammar of Visual Design*. London: Routledge.
 
 <a name="kress_2009"></a>
 Kress, G. 2009. Multimodality: A Social Semiotic Approach to Contemporary Communication (1st ed.). Routledge. https://doi.org/10.4324/9780203970034
 
 <a name="lewis_2020"></a>
-Lewis, Molly, and Gary Lupyan. 2020. “Gender Stereotypes Are Reflected in the Distributional Structure of 25 Languages.” Nature Human Behaviour 4 (10): 1021–28. https://doi.org/10.1038/s41562-020-0918-6.
+Lewis, Molly, and Gary Lupyan. 2020. Gender Stereotypes Are Reflected in the Distributional Structure of 25 Languages. *Nature Human Behaviour*. 4 (10): 1021–28. https://doi.org/10.1038/s41562-020-0918-6.
 
 <a name="lomas_2025"></a>
-Lomas, N. 2025, February 19. Study of TikTok, X ‘For You’ feeds in Germany finds far-right political bias ahead of federal elections. Techcrunch. Available https://techcrunch.com/2025/02/19/study-of-tiktok-x-for-you-feeds-in-germany-finds-far-right-political-bias-ahead-of-federal-elections/
+Lomas, N. 2025. Study of TikTok, X ‘For You’ feeds in Germany finds far-right political bias ahead of federal elections. *Techcrunch*. 19 February. Available: https://techcrunch.com/2025/02/19/study-of-tiktok-x-for-you-feeds-in-germany-finds-far-right-political-bias-ahead-of-federal-elections/
 
 <a name="mccombs_and_shaw_1972"></a>
-McCombs, M. E., & Shaw, D. L. 1972. The Agenda-Setting Function of Mass Media. The Public Opinion Quarterly, 36(2): 176–187. http://www.jstor.org/stable/2747787
+McCombs, M. E., & Shaw, D. L. 1972. The Agenda-Setting Function of Mass Media. The Public Opinion Quarterly, 36(2): 176–187. Available: http://www.jstor.org/stable/2747787
 
-Macharia, Sarah. 2020\. Who Makes the News: 6th Global Media Monitoring Project. Available: [https://www.comminit.com/global/content/who-makes-news-6th-global-media-monitoring-project](https://www.comminit.com/global/content/who-makes-news-6th-global-media-monitoring-project)
+Macharia, Sarah. 2020. Who Makes the News: 6th Global Media Monitoring Project. Available: [https://www.comminit.com/global/content/who-makes-news-6th-global-media-monitoring-project](https://www.comminit.com/global/content/who-makes-news-6th-global-media-monitoring-project)
 
 <a name="manne_2017"></a>
 Manne, Kate., 2017. Down girl: The logic of misogyny. Oxford: Oxford University Press.
 
-M\&G Data Desk. 2019\. Who runs SA’s media is a black-and-white issue. *Mail & Guardian*. Available: [https://mg.co.za/article/2019-01-04-00-who-runs-sas-media-is-a-black-and-white-issue/](https://mg.co.za/article/2019-01-04-00-who-runs-sas-media-is-a-black-and-white-issue/)
+M&G Data Desk. 2019. Who runs SA’s media is a black-and-white issue. *Mail & Guardian*. Available: [https://mg.co.za/article/2019-01-04-00-who-runs-sas-media-is-a-black-and-white-issue/](https://mg.co.za/article/2019-01-04-00-who-runs-sas-media-is-a-black-and-white-issue/)
 
 <a name="maps_2024"></a>
-MAPS. 2024, November. MAPS Webinar. Available [https://mrfsa.org.za/maps-docs/november-2024/]([https://mrfsa.org.za/maps-docs/november-2024/])
+MAPS. 2024, November. MAPS Webinar. Available: [https://mrfsa.org.za/maps-docs/november-2024/]([https://mrfsa.org.za/maps-docs/november-2024/])
 
 <a name="mills_2008"></a>
 Mills, S. 2008. Language and Sexism. Cambridge: Cambridge University Press. 
 
 <a name="mishra_2020"></a>
-Mishra, P. (2020). Bollywood. In The SAGE international encyclopedia of mass media and society (Vol. 5, pp. 192-194). SAGE Publications, Inc., https://doi.org/10.4135/9781483375519.n79
+Mishra, P. 2020. Bollywood. In *The SAGE international encyclopedia of mass media and society*. Thousand Oaks,, CA: SAGE Publications, Inc. 5:192-194. https://doi.org/10.4135/9781483375519.n79
 
 <a name="mpofu_2020"></a>
-Mpofu, S. 2020. South Africa. In: The SAGE International Encyclopedia of Mass Media and Society. , Thousand Oaks,, CA: SAGE Publications, Inc. pp. 1635-1637 Available at: <https://doi.org/10.4135/9781483375519.n632> [Accessed 17 Feb 2026].
+Mpofu, S. 2020. South Africa. In: *The SAGE International Encyclopedia of Mass Media and Society*. Thousand Oaks, CA: SAGE Publications, Inc. 1635-1637. Available: https://doi.org/10.4135/9781483375519.n632
 
 <a name="mulvey_1975"></a>
-Mulvey, L. 1975\. Visual Pleasure and Narrative Cinema. *Screen*. 16(3):6-18.
+Mulvey, L. 1975. Visual Pleasure and Narrative Cinema. *Screen*. 16(3):6-18.
 
 <a name="nkoala_2023"></a>
-Nkoala, S. 2023\. Radio in South Africa turns 100 – and collides with podcasting and streaming. *The Conversation*. Available: [https://theconversation.com/radio-in-south-africa-turns-100-and-collides-with-podcasting-and-streaming-198021](https://theconversation.com/radio-in-south-africa-turns-100-and-collides-with-podcasting-and-streaming-198021)
+Nkoala, S. 2023. Radio in South Africa turns 100 – and collides with podcasting and streaming. *The Conversation*. Available: [https://theconversation.com/radio-in-south-africa-turns-100-and-collides-with-podcasting-and-streaming-198021](https://theconversation.com/radio-in-south-africa-turns-100-and-collides-with-podcasting-and-streaming-198021)
 
 <a name="navargill_2020"></a>
-Navar-Gill, A. (2020) ‘The Golden Ratio of Algorithms to Artists? Streaming Services and the Platformization of Creativity in American Television Production’, *Social Media \+ Society*. 6(3)
+Navar-Gill, A. 2020. ‘The Golden Ratio of Algorithms to Artists? Streaming Services and the Platformization of Creativity in American Television Production’, *Social Media + Society*. 6(3).
 
 <a name="nyamnjoh_2005"></a>
-Nyamnjoh, F.B., 2005\. *Africa's media, democracy and the politics of belonging*. London: Zed Books.
+Nyamnjoh, F.B., 2005. *Africa's media, democracy and the politics of belonging*. London: Zed Books.
 
 <a name="nyamnjoh_2011"></a>
-Nyamnjoh, F. B. 2011\. “De-Westernizing media theory to make room for African experience.” In Wasserman (Ed) *Popular Media, Democracy and Development in Africa.* London: Routledge:  20-31. 
+Nyamnjoh, F. B. 2011. “De-Westernizing media theory to make room for African experience.” In Wasserman (Ed) *Popular Media, Democracy and Development in Africa.* London: Routledge:  20-31. 
 
 <a name="oshaughnessy_2016"></a>
-O’Shaughnessy, M.,  Stadler, J. & Casey, S. 2016\. *Media & Society*. Melbourne: Oxford University Press.
+O’Shaughnessy, M.,  Stadler, J. & Casey, S. 2016. *Media & Society*. Melbourne: Oxford University Press.
 
 <a name="oakley_1972"></a>
-Oakley, A. 1972. Sex, Gender and Society. Revised Edition. Hampshire: Arena Gower Publishing.  
+Oakley, A. 1972. *Sex, Gender and Society. Revised Edition*. Hampshire: Arena Gower Publishing.  
 
 <a name="oyedemi_2024"></a>
-Oyedemi, T. & Smith, R. A. (eds.) (2024) *Media in Africa : Issues and Critiques*. First edition. New York, NY: Routledge.
+Oyedemi, T. & Smith, R. A. Eds. 2024. *Media in Africa : Issues and Critiques*. First edition. New York, NY: Routledge.
 
 <a name="oyeronke_1997"></a>
-Oyewumi, Oyeronke. 1997\. The Invention of Women: Making an African Sense of Western Gender Discourse. Minneapolis: University of Minnesota Press.
+Oyewumi, Oyeronke. 1997. The Invention of Women: Making an African Sense of Western Gender Discourse. Minneapolis: University of Minnesota Press.
 
 <a name="payne_2020"></a>
-Payne, S. & Shoba, S. 2020\. How did Clicks – and so many other brands – get it so wrong? *The Daily Maverick.* Available: https://www.dailymaverick.co.za/article/2020-09-11-how-did-clicks-and-so-many-other-brands-get-it-so-wrong/
+Payne, S. & Shoba, S. 2020. How did Clicks – and so many other brands – get it so wrong? *The Daily Maverick.* Available: https://www.dailymaverick.co.za/article/2020-09-11-how-did-clicks-and-so-many-other-brands-get-it-so-wrong/
 
 <a name="pariser_2011"></a>
 Pariser, Eli. 2011. The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think. Penguin. ISBN 9781101515129.
@@ -313,44 +314,44 @@ Rettberg, J. 2014. Seeing Ourselves Through Technology: How We Use Selfies, Blog
 Schippers, Mimi. 2007. “Recovering the Feminine Other: Masculinity, Femininity, and Gender Hegemony.” Theory and Society 36(1): 85-102.
 
 <a name="shehata_and_strömbäck_2021"></a>
-Shehata, A., & Strömbäck, J. (2021). Learning Political News From Social Media: Network Media Logic and Current Affairs News Learning in a High-Choice Media Environment. Communication Research, 48(1), 125-147. https://doi.org/10.1177/0093650217749354
+Shehata, A., & Strömbäck, J. 2021. Learning Political News From Social Media: Network Media Logic and Current Affairs News Learning in a High-Choice Media Environment. Communication Research, 48(1), 125-147. https://doi.org/10.1177/0093650217749354
 
 <a name="schiller_1975"></a>
-Schiller, H. I. (1975). Communication and cultural domination. *International Journal of Politics* 5.4. 1–127. [http://www.jstor.org/stable/27868829]( http://www.jstor.org/stable/27868829)
+Schiller, H. I. 1975. Communication and cultural domination. *International Journal of Politics* 5.4. 1–127. [http://www.jstor.org/stable/27868829]( http://www.jstor.org/stable/27868829)
 
 <a name="serra_1973"></a>
-Serra, R. 1973\. “Television Delivers People”. [KunstSpektrum Youtube Channel.](https://www.youtube.com/@kunstspektrum) Available: [https://www.youtube.com/watch?v=LvZYwaQlJsg](https://www.youtube.com/watch?v=LvZYwaQlJsg)
+Serra, R. 1973. “Television Delivers People”. [KunstSpektrum Youtube Channel.](https://www.youtube.com/@kunstspektrum) Available: [https://www.youtube.com/watch?v=LvZYwaQlJsg](https://www.youtube.com/watch?v=LvZYwaQlJsg)
 
 <a name="shehata_2021"></a>
-Shehata, A. & Strömbäck, J. (2021) Learning Political News From Social Media: Network Media Logic and Current Affairs News Learning in a High-Choice Media Environment. _Communication research_. 48 (1):125–147.
+Shehata, A. & Strömbäck, J. 2021. Learning Political News From Social Media: Network Media Logic and Current Affairs News Learning in a High-Choice Media Environment. _Communication research_. 48 (1):125–147.
 
 <a name="siu_2025"></a>
-Siu, A. 2025, February 20. Publicis acquisition signals that creator M&A is not slowing down in 2025. Digiday.
+Siu, A. 2025. Publicis acquisition signals that creator M&A is not slowing down in 2025. Digiday. 20 February. 
 Available: https://digiday.com/marketing/publicis-acquisition-signals-that-creator-ma-is-not-slowing-down-in-2025.
 
 <a name="smit_2020"></a>
-Smit, A. and Bosch, T. (2020) ‘Television and Black Twitter in South Africa: Our Perfect Wedding’, Media, Culture & Society, p. 016344372092604\. doi: 10.1177/0163443720926040.
+Smit, A. and Bosch, T. 2020. ‘Television and Black Twitter in South Africa: Our Perfect Wedding’, *Media, Culture & Society*. 016344372092604. doi: 10.1177/0163443720926040.
 
 <a name="stokel-walker_2021"></a>
-Stokel-Walker, C. 2021\. *Tiktok Boom: China, the Us and the Superpower Race for Social Media*. Naperville: Canbury Press. 
+Stokel-Walker, C. 2021. *Tiktok Boom: China, the Us and the Superpower Race for Social Media*. Naperville: Canbury Press. 
 
 <a name="statista_2025"></a>
-Statista Research Department. 2025, February 18. Global influencer marketing value 2015-2025. https://www.statista.com/statistics/1092819/global-influencer-market-size/
+Statista Research Department. 2025. Global influencer marketing value 2015-2025. 18 February. https://www.statista.com/statistics/1092819/global-influencer-market-size/
 
 <a name="supran_and_oreskes_2017"></a>
-Supran, G. and Oreskes, N., 2017\. Assessing ExxonMobil’s climate change communications (1977–2014). *Environmental Research Letters*. 12(8): 084019\.
+Supran, G. and Oreskes, N. 2017. Assessing ExxonMobil’s climate change communications (1977–2014). *Environmental Research Letters*. 12(8): 084019.
 
 <a name="szorenyi_2022"></a>
 Szorenyi, Anna. 2022. Judith Butler: their philosophy of gender explained. Available https://theconversation.com/judith-butler-their-philosophy-of-gender-explained-192166
 
 <a name="thussu_2022"></a>
-Thussu, D. K. 2022\. De-colonizing Global News-flows: A Historical Perspective. *Journalism studies*. 23 (13): 1578–1592.
+Thussu, D. K. 2022. De-colonizing Global News-flows: A Historical Perspective. *Journalism studies*. 23 (13): 1578–1592.
 
 <a name="titley_2019"></a>
-Titley, G., 2019. Racism and Media. London: SAGE. Available: [https://doi.org/10.4135/9781529714791] [Accessed 9 Feb 2025].
+Titley, G., 2019. Racism and Media. London: SAGE. Available: https://doi.org/10.4135/9781529714791.
 
 <a name="tufekci_2017"></a>
-Tufekci, Z. 2017\. Twitter and tear gas: The power and fragility of networked protest. New Haven: Yale University Press. Available: [https://www.twitterandteargas.org/downloads/twitter-and-tear-gas-by-zeynep-tufekci.pdf](https://www.twitterandteargas.org/downloads/twitter-and-tear-gas-by-zeynep-tufekci.pdf)
+Tufekci, Z. 2017. Twitter and tear gas: The power and fragility of networked protest. New Haven: Yale University Press. Available: [https://www.twitterandteargas.org/downloads/twitter-and-tear-gas-by-zeynep-tufekci.pdf](https://www.twitterandteargas.org/downloads/twitter-and-tear-gas-by-zeynep-tufekci.pdf)
 
 <a name="tufekci_2013"></a>
 Tufekci, Z. 2013. “Not This One”: Social Movements, the Attention Economy, and Microcelebrity Networked Activism. American Behavioral Scientist, 57(7), 848-870. https://doi-org.ezproxy.uct.ac.za/10.1177/0002764213479369
@@ -362,13 +363,13 @@ SABC. 2024. Charter. Available: https://www.sabc.co.za/sabc/charter/
 Schiller, Herbert I. 1976. _Communication and cultural domination_. White Plains, N.Y.: International Arts and Sciences Press.
 
 <a name="ugboajah_1985"></a>
-Ugboajah, F.O. 1985\. ‘Oramedia’ in Africa. In Ugboajah, F.O., ed. *Mass Communication, Culture and Society in West Africa*. München: Hans Zell, 165–176. 
+Ugboajah, F.O. 1985. ‘Oramedia’ in Africa. In Ugboajah, F.O., ed. *Mass Communication, Culture and Society in West Africa*. München: Hans Zell. 165–176. 
 
 <a name="ugboajah_1987"></a>
-Ugboajah, F.O. 1987\. Current debates in the field of mass communication research: An African viewpoint. *Africa Media Review*. 1(2): 1–17.
+Ugboajah, F.O. 1987. Current debates in the field of mass communication research: An African viewpoint. *Africa Media Review*. 1(2): 1–17.
 
 <a name="uzuegbunam_2020"></a>
-Uzuegbunam, C. 2020. Concentration of Media Ownership. In: The SAGE International Encyclopedia of Mass Media and Society. , Thousand Oaks,, CA: SAGE Publications, Inc. pp. 368-369 Available at: <https://doi.org/10.4135/9781483375519.n144> [Accessed 17 Feb 2026].
+Uzuegbunam, C. 2020. Concentration of Media Ownership. In: *The SAGE International Encyclopedia of Mass Media and Society*.  Thousand Oaks,, CA: SAGE Publications, Inc. 368-369. Available at: <https://doi.org/10.4135/9781483375519.n144> [Accessed 17 Feb 2026].
 
 <a name="van_leeuwen_2004"></a>
 Van Leeuwen, T. 2004. *Introducing Social Semiotics: An Introductory Textbook*. London: Routledge.
@@ -377,30 +378,30 @@ Van Leeuwen, T. 2004. *Introducing Social Semiotics: An Introductory Textbook*. 
 Walder, A. G. 2009. Political Sociology and Social Movements. *Annual review of sociology*. 35 (1): 393–412.
 
 <a name="wasserman_2009"></a>
-Wasserman, H. 2009. Learning a new language: Culture, ideology and economics in Afrikaans media after apartheid. _International journal of cultural studies_. \[Online] 12 (1), 61–80.
+Wasserman, H. 2009. Learning a new language: Culture, ideology and economics in Afrikaans media after apartheid. _International journal of cultural studies_.  12 (1), 61–80.
 
 <a name="wasserman_2020"></a>
-Wasserman. H. 2020\. The state of South African media: a space to contest democracy. *Publizistik*, 65(3): 451–465. 
+Wasserman. H. 2020. The state of South African media: a space to contest democracy. *Publizistik*, 65(3): 451–465. 
 
 <a name="wehustleclips_2025"></a>
-wehustleclips. 2025, February 11. Kendrick Lamar's Super Bowl Halftime Show Symbolism. Available https://www.tiktok.com/@wehustleclips/video/7469872080104820001
+wehustleclips. 2025. Kendrick Lamar's Super Bowl Halftime Show Symbolism. 11 February. Available https://www.tiktok.com/@wehustleclips/video/7469872080104820001
 
 <a name="weidinger_2021"></a>
 Weidinger, Laura, John Mellor, Maribeth Rauh, et al. 2021. “Ethical and Social Risks of Harm from Language Models.” CoRR abs/2112.04359. https://arxiv.org/abs/2112.04359.
 
 <a name="willems_2014"></a>
-Willems, W. 2014\. Provincializing hegemonic histories of media and communication studies: towards a genealogy of epistemic resistance in Africa. *Communication Theory*. 24 (4): 415–434.
+Willems, W. 2014. Provincializing hegemonic histories of media and communication studies: towards a genealogy of epistemic resistance in Africa. *Communication Theory*. 24(4): 415–434.
 
 <a name="wilson_et_al_2024"></a>
 Wilson, N. Cronje, J. & J Wicks. 2024. Inside Iqbal Survé's glitchy propaganda machine: Goebbels, AI and slippery writers. Available https://specialprojects.news24.com/Inside-Iqbal-Surves-glitchy-propaganda-machine/index.html
 
 <a name="woolley_2023"></a>
-Woolley, S. 2023\. *Manufacturing Consensus: Understanding Propaganda in the Era of Automation and Anonymity*. New Haven: Yale. 
+Woolley, S. 2023. *Manufacturing Consensus: Understanding Propaganda in the Era of Automation and Anonymity*. New Haven: Yale. 
 
 <a name="york_2021"></a>
 York, J. C. 2021. *Silicon Values: The Future of Free Speech Under Surveillance Capitalism*. Verso Books.
 
 <a name="zwane_2024"></a>
-Zwane, D. 2024, Nov 26. "How much can you make on YouTube in SA? Lerato Nxumalo reveals her earnings". IOL. Available https://www.iol.co.za/technology/software-and-internet/how-much-can-you-make-on-youtube-in-sa-lerato-nxumalo-reveals-her-earnings-8919a1af-7a3b-43d6-9e66-102120326258
+Zwane, D. 2024. "How much can you make on YouTube in SA? Lerato Nxumalo reveals her earnings". *IOL*. 26 November. Available https://www.iol.co.za/technology/software-and-internet/how-much-can-you-make-on-youtube-in-sa-lerato-nxumalo-reveals-her-earnings-8919a1af-7a3b-43d6-9e66-102120326258
 
 
