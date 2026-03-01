@@ -11,7 +11,7 @@ These are the important sources used in _Media & Society_.
 Abidin, C. 2018. Internet celebrity: Understanding fame online. Emerald.
 
 <a name="agbese_2020"></a>
-Agbese, A. 2020. Nollywood. In The SAGE international encyclopedia of mass media and society (Vol. 5, pp. 1266-1268). SAGE Publications, Inc. DOI:[10.4135/9781483375519.n481](https://doi.org/10.4135/9781483375519.n481)
+Agbese, A. 2020. Nollywood. In *The SAGE international encyclopedia of mass media and society* 5:1266-1268. SAGE Publications, Inc. DOI:[10.4135/9781483375519.n481](https://doi.org/10.4135/9781483375519.n481)
 
 <a name="alim_2021"></a>
 Alim, H.S., Williams, Q.E., Haupt, A. & Jansen, E. 2021. “Kom Khoi San, kry trug jou land”: Disrupting White Settler Colonial Logics of Language, Race, and Land with Afrikaaps. *Journal of Linguistic Anthropology*. 31(2):194-217. DOI: [10.1080/17405904.2022.2092165](https://doi.org/10.1080/17405904.2022.2092165).
@@ -33,7 +33,7 @@ Bailey, Moya. 2021. Misogynoir Transformed: Black Women's Digital Resistance. Ne
 Barker, Meg-John. 2016. Queer: A graphic history. London: Icon Books.
 
 <a name="bender_2021"></a>
-Bender, E.M., Gebru, T., McMillan-Major, A. & Shmitchell, S. 2021. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency: 610-623. [10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922).
+Bender, E.M., Gebru, T., McMillan-Major, A. & Shmitchell, S. 2021. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In *Proceedings of the 2021 ACM conference on fairness, accountability, and transparency*: 610-623. [10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922).
 
 <a name="bosch_mutsvairo_2017"></a>
 Bosch, T. & Mutsvairo, B. 2017. ‘Pictures, Protests and Politics: Mapping Twitter Images during South Africa’s Fees Must Fall Campaign’, African Journalism Studies, 38(2):71–89. [doi: 10.1080/23743670.2017.1368869](https://doi.org/10.1080/23743670.2017.1368869).
@@ -59,13 +59,13 @@ Cascini, F. et al. 2022. Social media and attitudes towards a COVID-19 vaccinati
 Castells, M. 2015. *Networks of outrage and hope*. Malden: Polity Press.
 
 <a name="chandler_munday_2020a"></a>
-Chandler, D., & Munday, R. 2020a. network. In A Dictionary of Media and Communication. Oxford: Oxford University Press. Available: https://www.oxfordreference.com/view/10.1093/acref/9780198841838.001.0001/acref-9780198841838-e-1851.
+Chandler, D., & Munday, R. 2020. Network. In *A Dictionary of Media and Communication*. Oxford: Oxford University Press. Available: https://www.oxfordreference.com/view/10.1093/acref/9780198841838.001.0001/acref-9780198841838-e-1851.
 
 <a name="chuma_2010"></a>
 Chuma, W. 2010. Western paradigms, African media experiences. *Rhodes Journalism Review*. 2010(30):15-17. Available: [https://rjr.ru.ac.za/rjrpdf/rjr_no30/Western_paradigms_African_media.pdf](https://rjr.ru.ac.za/rjrpdf/rjr_no30/Western_paradigms_African_media.pdf)
 
 <a name="chuma_2019"></a>
-Chuma, W. 2019. Political Economy of the Media in Africa. In Chiumbu, S. & M. Iqani, M. Eds. *Media Studies: Critical African and Decolonial Approaches*. Cape Town: Oxford University Press. 114-131.
+Chuma, W. 2019. Political Economy of the Media in Africa. In *Media Studies: Critical African and Decolonial Approaches*. Chiumbu, S. & Iqani, M. Eds. Cape Town: Oxford University Press. 114-131.
 
 <a name="coded_2020"></a>
 Coded Bias Video. 2020. Produced by S. Hoffman & Directed by S. Kantayya. United States of America: 7th Empire Media & Women Make Movies.
@@ -154,10 +154,10 @@ Graves. J. 2018. What makes you a man or a woman? Geneticist Jenny Graves expla
  https://theconversation.com/what-makes-you-a-man-or-a-woman-geneticist-jenny-graves-explains-102983
 
 <a name="grison_2024"></a>
- Grison, T. 2024. Playing Hide and Seek with Algorithms in the “Gay TikTok”: From Shadowbanning to Platform Affordances. In: Schafer, V. & Pailler, F. Eds. Online Virality: Spread and Influence. Berlin, Boston: De Gruyter Oldenbourg, pp. 249-268. https://doi.org/10.1515/9783111311371-013
+ Grison, T. 2024. Playing Hide and Seek with Algorithms in the “Gay TikTok”: From Shadowbanning to Platform Affordances. In *Online Virality: Spread and Influence*. Schafer, V. & Pailler, F. Eds. Berlin, Boston: De Gruyter Oldenbourg, pp. 249-268. https://doi.org/10.1515/9783111311371-013
 
 <a name="gunner_2012"></a>
-Gunner, L., Ligaga, D., Moyo, D., Bosch, T., Chibita, M.B. & Coplan, D.B., 2012\. *Radio in Africa: Publics, cultures, communities*. Johannesburg: Wits University Press.
+Gunner, L., Ligaga, D., Moyo, D., Bosch, T., Chibita, M.B. & Coplan, D.B. 2012. *Radio in Africa: Publics, cultures, communities*. Johannesburg: Wits University Press.
 
 <a name="guo_2019"></a>
 Guo, M. 2019. Social Television Viewing with Second Screen Platforms: Antecedents and Consequences. *Media and Communication*. 7(1): 139-152. https://doi.org/10.17645/mac.v7i1.1745.
@@ -178,7 +178,7 @@ Habermas, Jürgen 2006. "Political Communication in Media Society: Does Democrac
 Hill, B., & Shaw, A. 2013, June 26. “The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with Propensity Score Estimation.” Edited by Angel Sánchez. *PLoS ONE* 8.6.
 
 <a name="hall_2006"></a>
-Hall, S. 2006. Encoding/Decoding. In Durham, M & Keller, D. Eds. *Media and Cultural Studies: KeyWorks. Revised Edition*. Oxford: Blackwell. 163–73. 
+Hall, S. 2006. Encoding/Decoding. In *Media and Cultural Studies: KeyWorks. Revised Edition*. Durham, M & Keller, D. Eds. Oxford: Blackwell. 163–73. 
 
 <a name="harber_2018"></a>
 Harber, Anton. 2018. *Southern African Muckraking: 300 years of investigative journalism that has shaped the region*. Jacana: Sunnyside.
@@ -196,10 +196,10 @@ Haupt, A. 2008. *Stealing Empire: P2P, Intellectual Property and Hip-hop Subvers
 Haupt, A. 2012. *Static: Race and Representation in Post-apartheid Music, Media and Film*. Cape Town: HSRC Press.
 
 <a name="haupt_2017"></a>
-Haupt, A. 2017. “’Non-Poor Only’: Culture Jamming and the Limits of Free Speech in South Africa”. In H. Wasserman & Garman, A. Eds. *Media and Citizenship*. HSRC Press: Cape Town.
+Haupt, A. 2017. “’Non-Poor Only’: Culture Jamming and the Limits of Free Speech in South Africa”. In H. Wasserman & Garman, A. Eds. *Media and Citizenship*. H. Wasserman & Garman, A. Eds.HSRC Press: Cape Town.
 
 <a name="haupt_2018"></a>
-Haupt, A. 2018\. “Inhale Determination, We Will Overcome: Eavesdrop, Mr Devious and Brasse vannie Kaap’s Representational Politics”. *Journal of World Popular Music.* 5(2): 152-168.
+Haupt, A. 2018. “Inhale Determination, We Will Overcome: Eavesdrop, Mr Devious and Brasse vannie Kaap’s Representational Politics”. *Journal of World Popular Music.* 5(2): 152-168.
 
 <a name="heidegger_1971"></a>
 Heidegger M. 1971. *On the Way to Language.* Translated by Peter D Hertz. San Francisco: Harper and Row. (Original work published 1959)
@@ -283,7 +283,7 @@ Navar-Gill, A. 2020. ‘The Golden Ratio of Algorithms to Artists? Streaming Ser
 Nyamnjoh, F.B., 2005. *Africa's Media, Democracy and the Politics of Belonging*. London: Zed Books.
 
 <a name="nyamnjoh_2011"></a>
-Nyamnjoh, F. B. 2011. “De-Westernizing Media Theory to Make Room for African Experience.” In Wasserman, H. Ed. *Popular Media, Democracy and Development in Africa.* London: Routledge:  20-31. 
+Nyamnjoh, F. B. 2011. “De-Westernizing Media Theory to Make Room for African Experience.” In *Popular Media, Democracy and Development in Africa.* Wasserman, H. Ed. London: Routledge:  20-31. 
 
 <a name="oshaughnessy_2016"></a>
 O’Shaughnessy, M.,  Stadler, J. & Casey, S. 2016. *Media & Society*. Melbourne: Oxford University Press.
@@ -365,7 +365,7 @@ SABC. 2024. Charter. Available: https://www.sabc.co.za/sabc/charter/
 Schiller, Herbert I. 1976. _Communication and Cultural Domination_. White Plains, N.Y.: International Arts and Sciences Press.
 
 <a name="ugboajah_1985"></a>
-Ugboajah, F.O. 1985. ‘Oramedia’ in Africa. In Ugboajah, F.O. Ed. *Mass Communication, Culture and Society in West Africa*. München: Hans Zell. 165–176. 
+Ugboajah, F.O. 1985. ‘Oramedia’ in Africa. In *Mass Communication, Culture and Society in West Africa*. Ugboajah, F.O. Ed. München: Hans Zell. 165–176. 
 
 <a name="ugboajah_1987"></a>
 Ugboajah, F.O. 1987. Current debates in the field of mass communication research: An African viewpoint. *Africa Media Review*. 1(2): 1–17.
