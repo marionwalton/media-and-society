@@ -65,7 +65,7 @@ Chandler, D., & Munday, R. 2020. Network. In *A Dictionary of Media and Communic
 Chuma, W. 2010. Western paradigms, African media experiences. *Rhodes Journalism Review*. 2010(30):15-17. Available: [https://rjr.ru.ac.za/rjrpdf/rjr_no30/Western_paradigms_African_media.pdf](https://rjr.ru.ac.za/rjrpdf/rjr_no30/Western_paradigms_African_media.pdf)
 
 <a name="chuma_2019"></a>
-Chuma, W. 2019. Political Economy of the Media in Africa. In *Media Studies: Critical African and Decolonial Approaches*. Chiumbu, S. & Iqani, M. Eds. Cape Town: Oxford University Press. 114-131.
+Chuma, W. 2019. Political Economy of the Media in Africa. In *Media Studies: Critical African and Decolonial Approaches*. S. Chiumbu & M. Iqani, Eds. Cape Town: Oxford University Press. 114-131.
 
 <a name="coded_2020"></a>
 Coded Bias Video. 2020. Produced by S. Hoffman & Directed by S. Kantayya. United States of America: 7th Empire Media & Women Make Movies.
@@ -92,7 +92,7 @@ De Lanerolle, I. Walton, M. & Schoon, A. 2017. Izolo: mobile diaries of the less
 Delphy, Christine. 1993. Rethinking sex and gender. Women's Studies International Forum. 16(1): 1-9.
 
 <a name="digital_2021"></a>
-Digital News Report. 2021, 23 June. Reuters Instittute. Available: https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2021/dnr-executive-summary
+Digital News Report. 2021, 23 June. Reuters Institute. Available: https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2021/dnr-executive-summary
 
 <a name="dugmore_2018"></a>
 Dugmore, Harry. 2018. Paying the Piper: The Sustainability of the News Industry and Journalism in South Africa in a Time of Digital Transformation and Political Uncertainty. Available: [https://themediaonline.co.za/wp-content/uploads/ 2018/05/PAYING-THE-PIPER-The-sustainability-of-the-news-industry-and-journalism-in-South-Africa-in--time-of-digital-transformation-and-political-uncertainty.pdf](https://themediaonline.co.za/wp-content/uploads/ 2018/05/PAYING-THE-PIPER-The-sustainability-of-the-news-industry-and-journalism-in-South-Africa-in--time-of-digital-transformation-and-political-uncertainty.pdf).
@@ -154,7 +154,7 @@ Graves. J. 2018. What makes you a man or a woman? Geneticist Jenny Graves expla
  https://theconversation.com/what-makes-you-a-man-or-a-woman-geneticist-jenny-graves-explains-102983
 
 <a name="grison_2024"></a>
- Grison, T. 2024. Playing Hide and Seek with Algorithms in the “Gay TikTok”: From Shadowbanning to Platform Affordances. In *Online Virality: Spread and Influence*. Schafer, V. & Pailler, F. Eds. Berlin, Boston: De Gruyter Oldenbourg, pp. 249-268. https://doi.org/10.1515/9783111311371-013
+ Grison, T. 2024. Playing Hide and Seek with Algorithms in the “Gay TikTok”: From Shadowbanning to Platform Affordances. In *Online Virality: Spread and Influence*. V. Schafer & F. Pailler, Eds. Berlin, Boston: De Gruyter Oldenbourg. 249-268. DOI: [10.1515/9783111311371-013](https://doi.org/10.1515/9783111311371-013)
 
 <a name="gunner_2012"></a>
 Gunner, L., Ligaga, D., Moyo, D., Bosch, T., Chibita, M.B. & Coplan, D.B. 2012. *Radio in Africa: Publics, cultures, communities*. Johannesburg: Wits University Press.
@@ -178,7 +178,7 @@ Habermas, Jürgen 2006. "Political Communication in Media Society: Does Democrac
 Hill, B., & Shaw, A. 2013, June 26. “The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with Propensity Score Estimation.” Edited by Angel Sánchez. *PLoS ONE* 8.6.
 
 <a name="hall_2006"></a>
-Hall, S. 2006. Encoding/Decoding. In *Media and Cultural Studies: KeyWorks. Revised Edition*. Durham, M & Keller, D. Eds. Oxford: Blackwell. 163–73. 
+Hall, S. 2006. Encoding/Decoding. In *Media and Cultural Studies: KeyWorks. Revised Edition*. M. Durham & D. Keller, Eds. Oxford: Blackwell. 163–73. 
 
 <a name="harber_2018"></a>
 Harber, Anton. 2018. *Southern African Muckraking: 300 years of investigative journalism that has shaped the region*. Jacana: Sunnyside.
@@ -196,7 +196,7 @@ Haupt, A. 2008. *Stealing Empire: P2P, Intellectual Property and Hip-hop Subvers
 Haupt, A. 2012. *Static: Race and Representation in Post-apartheid Music, Media and Film*. Cape Town: HSRC Press.
 
 <a name="haupt_2017"></a>
-Haupt, A. 2017. “’Non-Poor Only’: Culture Jamming and the Limits of Free Speech in South Africa”. In H. Wasserman & Garman, A. Eds. *Media and Citizenship*. H. Wasserman & Garman, A. Eds.HSRC Press: Cape Town.
+Haupt, A. 2017. “’Non-Poor Only’: Culture Jamming and the Limits of Free Speech in South Africa”. In H. Wasserman & A. Garman, Eds. *Media and Citizenship*. H. Wasserman & Garman, A. Eds.HSRC Press: Cape Town.
 
 <a name="haupt_2018"></a>
 Haupt, A. 2018. “Inhale Determination, We Will Overcome: Eavesdrop, Mr Devious and Brasse vannie Kaap’s Representational Politics”. *Journal of World Popular Music.* 5(2): 152-168.
@@ -225,7 +225,7 @@ identity perspective on polarization. *Public Opinion Quarterly*
 76(3): 405–431. https://doi.org/10.1093/poq/nfs038
 
 <a name="jewitt_oyama_2001"></a>
-Jewitt, C., & Oyama, R. 2001. Visual meaning: A social semiotic approach. In Van Leeuwen, T. & Jewitt, C. Eds. *Handbook of Visual Analysis*. London: Sage.
+Jewitt, C., & Oyama, R. 2001. Visual meaning: A social semiotic approach. In T. Van Leeuwen & C. Jewitt, Eds. *Handbook of Visual Analysis*. London: Sage.
 
 <a name="kloenne_2023"></a>
 Kloenne, U., Nauels, A., Pearson, P. _et al._ 2023. Only halving emissions by 2030 can minimize risks of crossing cryosphere thresholds. *Nat. Clim. Chang*. 13:9–11. https://doi.org/10.1038/s41558-022-01566-4
@@ -265,7 +265,7 @@ MAPS. 2024, November. MAPS Webinar. Available: [https://mrfsa.org.za/maps-docs/n
 Mills, S. 2008. *Language and Sexism*. Cambridge: Cambridge University Press. 
 
 <a name="mishra_2020"></a>
-Mishra, P. 2020. Bollywood. In *The SAGE international Encyclopedia of Mass Media and Society*. Thousand Oaks,, CA: SAGE Publications, Inc. 5:192-194. DOI: [doi.org/10.4135/9781483375519.n79](https://doi.org/10.4135/9781483375519.n79).
+Mishra, P. 2020. Bollywood. In *The SAGE international Encyclopedia of Mass Media and Society*. Thousand Oaks, CA: SAGE Publications, Inc. 5:192-194. DOI: [doi.org/10.4135/9781483375519.n79](https://doi.org/10.4135/9781483375519.n79).
 
 <a name="mpofu_2020"></a>
 Mpofu, S. 2020. South Africa. In: *The SAGE International Encyclopedia of Mass Media and Society*. Thousand Oaks, CA: SAGE Publications, Inc. 1635-1637. DOI: [10.4135/9781483375519.n632](https://doi.org/10.4135/9781483375519.n79).
@@ -365,7 +365,7 @@ SABC. 2024. Charter. Available: https://www.sabc.co.za/sabc/charter/
 Schiller, Herbert I. 1976. _Communication and Cultural Domination_. White Plains, N.Y.: International Arts and Sciences Press.
 
 <a name="ugboajah_1985"></a>
-Ugboajah, F.O. 1985. ‘Oramedia’ in Africa. In *Mass Communication, Culture and Society in West Africa*. Ugboajah, F.O. Ed. München: Hans Zell. 165–176. 
+Ugboajah, F.O. 1985. ‘Oramedia’ in Africa. In *Mass Communication, Culture and Society in West Africa*. F.O. Ugboajah, Ed. München: Hans Zell. 165–176. 
 
 <a name="ugboajah_1987"></a>
 Ugboajah, F.O. 1987. Current debates in the field of mass communication research: An African viewpoint. *Africa Media Review*. 1(2): 1–17.
