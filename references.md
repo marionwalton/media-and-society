@@ -138,7 +138,7 @@ Gamble, S. 2024. *Digital flows : online hip hop music and culture*. New York:
 Gentleman, Amelia & Horton, Helena. 2026.  ‘Add blood, forced smile’: how Grok’s nudification tool went viral. *The Guardian*. 11 Jan. Available: https://www.theguardian.com/profile/helena-horton
 
 <a name="gill_2010"></a>
-Gill, Rosalind. 2010. Chapter “Gender” in *The Media: An Introduction (3rd Edition)*.  Albertazzi, D. & Cobley, P. Eds. Edinburgh: Pearson Education. 410—26.
+Gill, Rosalind. 2010. Gender. In *The Media: An Introduction.* 3rd Edition.  D. Albertazzi. & P. Cobley, Eds. Edinburgh: Pearson Education. 410—26.
 
 <a name="goffman_1979"></a>
 Goffman, E. 1979. *Gender Advertisements*. London:Macmillan.
