@@ -133,7 +133,6 @@ Gadamer, Hans-Georg. 1982. *Truth and method*. New York:Crossroad.
 <a name="gamble_2024"></a>
 Gamble, S. 2024. *Digital flows : online hip hop music and culture*. New York: Oxford University Press. DOI:[10.1093/oso/9780197656389.001.0001](https://doi.org/10.1093/oso/9780197656389.001.0001,).
 
-
 <a name="gentleman_2026"></a>
 Gentleman, Amelia & Horton, Helena. 2026.  ‘Add blood, forced smile’: how Grok’s nudification tool went viral. *The Guardian*. 11 Jan. Available: https://www.theguardian.com/profile/helena-horton
 
@@ -150,7 +149,7 @@ Govenden, P. 2022. Does Black Economic Empowerment Ownership Matter? A Decolonia
 Granovetter, M.S., 1973. The strength of weak ties. *American Journal of Sociology*. 78(6): 1360-1380.
 
 <a name="graves_2018"></a>
-Graves. J. 2018. What makes you a man or a woman? Geneticist Jenny Graves explains. Available
+Graves. J. 2018. What makes you a man or a woman? Geneticist Jenny Graves explains. Available:
  https://theconversation.com/what-makes-you-a-man-or-a-woman-geneticist-jenny-graves-explains-102983
 
 <a name="grison_2024"></a>
@@ -320,6 +319,10 @@ Shehata, A., & Strömbäck, J. 2021. Learning Political News From Social Media: 
 
 <a name="schiller_1975"></a>
 Schiller, H. I. 1975. Communication and cultural domination. *International Journal of Politics* 5(4):1–127. Available: [http://www.jstor.org/stable/27868829]( http://www.jstor.org/stable/27868829)
+
+<a name="schoon_2023"></a>
+Schoon, A., & Bosch, T. 2023. TikTok and memetic activism against racism in South Africa. Information, Communication & Society. 27 (16): 2760–2775. DOI: [10.1080/1369118X.2023.2295356](https://doi.org
+/10.1080/1369118X.2023.2295356).
 
 <a name="serra_1973"></a>
 Serra, R. 1973. “Television Delivers People”. [KunstSpektrum Youtube Channel.](https://www.youtube.com/@kunstspektrum) Available: [https://www.youtube.com/watch?v=LvZYwaQlJsg](https://www.youtube.com/watch?v=LvZYwaQlJsg)
