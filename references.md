@@ -337,6 +337,9 @@ Available: https://digiday.com/marketing/publicis-acquisition-signals-that-creat
 <a name="smit_2020"></a>
 Smit, A., & Bosch, T. 2020. ‘Television and Black Twitter in South Africa: Our Perfect Wedding’, *Media, Culture & Society*. DOI:[10.1177/0163443720926040](https://doi.org/10.1177/0163443720926040).
 
+<a name="statisticssa_2025"></a>
+Statistics South Africa. General Household Survey 2024 \[dataset]. Version 1. Pretoria: Statistics SA \[producer], 2025. Cape Town: DataFirst \[distributor], 2025. DOI: <https://doi.org/10.25828/rx6h-3r34>
+
 <a name="stokel-walker_2021"></a>
 Stokel-Walker, C. 2021. *Tiktok Boom: China, the Us and the Superpower Race for Social Media*. Naperville: Canbury Press. 
 

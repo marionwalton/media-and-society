@@ -15,8 +15,7 @@ by belonging to various social groups and communities.
 
 ### Everyday media practices
 
-Media practices are activities, habits and routines where people use media (individually or 
-together) as part of a socially meaningful activity. Many of these practices involve being together with others
+Media practices are activities, habits and routines where people use media (individually or together) as part of a socially meaningful activity. Many of these practices involve being together with others
 while we consume, create, use, or play with media. 
 
 To study media practices, we need to pay attention to what people are up to and why they use media in the ways that they do: 
@@ -52,7 +51,7 @@ contemporary individual cellphone use. In such cases, it's not always clear whet
 ![Activity](img/pencilpencil.svg) Sharing memes such as the Simpsons cartoon in Figure 1 is also another media practice. When have you shared memes, and why? What does sharing memes
 mean in your friends group? 
 
-### Everyday practices in SA
+### Everyday media practices in SA
 
 As part of your everyday routine, you may also have **created media** by sending a  message to a friend on 
 a messaging app, scribbling a note to yourself, using a search engine, taking a photograph or video and sharing 
@@ -64,8 +63,7 @@ and affordable access to fast internet and how old they were when they first lea
 
 ### Language and media 
 
-The news media landscape in South Africa is dominated by publications in English, and (to a lesser extent) Afrikaans.
-Broadcasting is somewhat more diverse, mostly because the public broadcaster (SABC) is required to provide information in all the official languages ([SABC, 2024](references.html#sabc_2024)).
+The news media landscape in South Africa is dominated by news published in English, and (to a lesser extent) Afrikaans. Broadcasting is somewhat more diverse, mostly because the public broadcaster (SABC) is required to provide information in all the official languages ([SABC, 2024](references.html#sabc_2024)).
 
 Thus the languages used in mass media look very different to the languages which people actually speak.
 
@@ -76,22 +74,32 @@ Thus the languages used in mass media look very different to the languages which
   </figure>
   
   ![Activity](img/pencilpencil.svg)
- Use the Statssa chart (Figure 2) to work out how many people in South Africa speak your first language. Which language/s do you
-  use for news and entertainment?  Check your knowledge by filling in the Exercise 2 at the bottom of the page. 
+ Use the Statssa chart (Figure 2) to work out how many people in South Africa speak your first language. Which language/s do you use for news and entertainment?  Check your knowledge by filling in the Exercise 2 at the bottom of the page. 
   
-### Digital inequalities
+### Digital and media inequalities
 
-Differences in internet access create [digital inequalities](/ideas/definitions/#digital_inequality) (also known as the **digital divide**). 
-Such inequalities tend to reflect other **social inequalities** such as age, gender, and whether people live in cities, towns or small 
-villages. For example, according to a recent survey, only 19% of South Africans did not use the Internet in 2024 ([GWI, 2025](references.html#gwi_2025)). Internet users are most likely to be younger urban dwellers in full-time employment. For this reason studies of online media consumption such as the above GWI survey tend to focus on 16 to 64-year-old South Africans, who are considered to be the "connected generation". 
+Media consumption of electronic media requires people to have various  consumer electronic devices, which are not universally accessible. Differences in internet access create [digital inequalities](/ideas/definitions/#digital_inequality) (also known as the **digital divide**). 
 
-South Africa also has relatively **high prices for mobile data**, and so, in lower income groups in particular, people are “less connected” and their access to the internet is highly constrained ([de Lanerolle, et al, 2017](references.html#de_lanerolle_et_al_2017)) 
+Digital inequalities tend to reflect other **social inequalities** such as age, gender, and whether people live in cities, towns or small villages. For example, according to a 2024 survey, just under 18% of South African households didn't have any form of Internet access at all ([Statistics South Africa, 2025](references.html#statisticssa_24)). The same study showed that highest levels of all types of internet access were found in the Western Cape (92,0%) and Gauteng (86,0%), and lowest in Northern Cape (70,3%) and Eastern Cape (70,7%). Just under one in five South African households (17,4%)  have access to fixed Internet at home, while three-quarters (75,6%) of households rely on their mobile devices (see Figure 3).
+![Types of household internet access in SA, by province](img/type_internet.png)
+Figure 3: Major form of household internet access in South Africa by province, 2024
 
-**Radio** is a more easily accessible medium in this context. A recent survey found that around 94% of South Africans (15+) owned a radio, and millions of people tune in regularly to a wide range of public and community stations, of which  indigenous language stations attract the largest audiences. Nonetheless, people’s listening practices are shifting as they turn to online radio and podcasts ([Nkoala, 2023](references.html#nkoala_2023)).
+South Africa also has relatively **high prices for mobile data**, and so, in lower income groups in particular, people are “less connected” and their access to the internet is highly constrained ([de Lanerolle, et al, 2017](references.html#de_lanerolle_et_al_2017)).
+
+All of these inequalities mean that internet users are most likely to be younger urban dwellers in full-time employment. For this reason studies of online media consumption such as the GWI survey ([2025](references.html#gwi_2025))  tend to focus on 16 to 64-year-old South Africans, who are considered to be the "connected generation". 
+
+**Radio** is a more easily accessible medium in this context. A recent survey found that millions of people tune in regularly to a wide range of public and community stations, of which  indigenous language stations attract the largest audiences. Nonetheless, people’s listening practices are shifting as they turn to online radio and podcasts ([Nkoala, 2023](references.html#nkoala_2023)). 
+
+As Figure 3 illustrates, television is still the most accessible form of media in the country, and more than half of South African households have some form of pay TV decoder. People are still more likely to own a radio than a computer in rural areas. Other devices such as solar panels (which allow people to consume media without relying on the electricity grid) and home theatre are restricted to a small minority even in urban and metro areas.
+
+![Media device ownership in South Africa](img/media_devices.png)
+Figure 4: Media device ownership in South African rural, urban and metro households (2024).
 
 ### Online media practices
 
 ![GWI 2022 survey](img/GWI_2022.png)
+Figure 5: Time spent using media in SA and globally
+
 According to the GWI ([2022](references.html#gwi_2022)) study, South Africans who use the internet spend considerably more time every day on social media (3:41 hours) compared to their counterparts in the rest of the world (2.28 hours). The survey 
 also found that internet users in South Africa were more likely to read the news online (0:55 hours) than in print 
 (0:37 hours), both slightly lower figures than global averages. Online South Africans also spent more time streaming music (2.14) than they spent listening to the radio (1.31). Yet these internet
