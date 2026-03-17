@@ -7,13 +7,22 @@ title:  03.2.2. Publics & power
 
 *By Marion Walton, University of Cape Town*
 
-Media plays a central role in creating our sense of community, and the feeling of participating in a [**public**](/ideas/definitions/index.html#public). We may
-experience this sense of being part of a public (rather than an audience) 
+Media plays a central role in creating our sense of community, and by staging debates and facilitating deliberation and engagement around contemporary issues, they help to create the feeling of participating in a [**public**](/ideas/definitions/index.html#public). The word "public" comes from a Latin word which means both the "people", the "state" or government, and what is shared or commonly owned.
+
+We may experience this sense of being part of a public (rather than an audience) 
 when engaging with others by participating in a protest, tuning into a talk radio show, watching short videos created by other 
 fans of our favourite musicians, or following social media commentary while watching a TV show. 
 
 - TOC
 {:toc}
+
+## The public sphere and counterpublics
+
+Historically, media have amplified the voices of particular groups of people and excluded and dehumanised others. Thus when people use media when fighting for their rights it's always important to be aware that some people may be excluded from the discussion and may also be oppressed as a result of how the discussion is conducted. 
+
+In particular, media scholars have been interested in how an arena of public discourse or a "public sphere" ([Habermas, 1991](references.html#habermas_1991)) is formed to deliberate about political matters, and to hold the government to account. Media studies has relied on the idea of a singular public, or  "**the public sphere**" ([Habermas, 1991; 2006](references.html#habermas_1991)), where mass media is seen to provide a space for rational debate of important issues for a mass audience. 
+
+People excluded by the dominant elite have long developed alternative "**counterpublics**" or parallel communication spaces ([Fraser, 1990](references.html#fraser_1990)). For example, when newspapers first arose as middle class men gathered to assert themselves against the aristocracy and church in the coffee shops of Western Europe, women were excluded from this bourgeois public sphere, instead forming **counterpublics** ([Fraser, 1990](references.html#fraser_1990)), which included women's and working class associations and movements. At the same time as challenging certain kinds of state power, the newspapers were also enacting racism and colonial oppression, carrying advertisements for slaves and notices about runaways; the merchants themselves and the coffee and sugar consumed in the coffee shops were also part of the slave trade, European colonialism and racism ([Willems, 2023](references.html#willems_2023)).
 
 Media and communication are essential to the kind of active publics known as [**social movements**](/ideas/definitions/index.html#social_movements) ([Walder, 2009](references.html#walder_2009)). 
 Social movements often arise when people realise that some form of social oppression isn't
@@ -23,7 +32,6 @@ just an individual problem, but is something they share with many others:
 And they overcome their fear by the extreme expression of anger, in the form of outrage, when learning 
 of an unbearable event suffered from someone with whom they identify. This identification is better 
 achieved by sharing feelings in some form of togetherness created in the process of communication."" ([Castells, 2015:15](references.html#castells_2015)) 
-
 
 When people pay attention to some injustice together, and communicate their emotions about it, 
 this shared attention can inspire or persuade them to act
@@ -96,15 +104,9 @@ who had not initially even been acknowledged before as a potential audience ([Gu
  For this reason, creating media can be a powerful way to bring about social change:  “The imagination is today a 
  staging ground for action, and not only for escape" ([Appadurai, 1996:7](references.html#appadurai_1996)). 
 
-### Public spheres and networked publics
+### Publics and networked publics
 
-Media studies has relied on the idea of a "**public sphere**" ([Habermas, 1989; 2006](references.html#habermas_1989)), 
-which depends on mass media providing a space for rational debate of important issues for a mass audience. 
-
-The idea of a single "public sphere" has been contested and challenged because of the way in which such mediated deliberation tends to be dominated by social elites.
-People excluded by the dominant elite have long 
-developed alternative "**counterpublics**" or parallel communication 
-spaces ([Fraser, 1990](references.html#fraser_1990)). Furthermore, contemporary technologies lend themselves to multiple spaces and diverse publics, often driven 
+The idea of a single "public sphere" has been contested and challenged because of the way in which such mediated deliberation tends to be dominated by social elites. Furthermore, contemporary technologies lend themselves to multiple spaces and diverse publics, often driven 
 by **affective** (emotional) dynamics ([Papacharissi, 2014](references.html#papacharissi_2014); [Iyengar et al, 2012](references.html#iyengar_et_al_2012)).
 
 Social media spaces have become synonymous with the spread of mis-and disinformation as well as hate speech and propaganda. 
@@ -120,8 +122,7 @@ debate and discuss the issues and interests that matter to them.
 
 ### Personal publics
 Personal publics ([Schmidt, 2011; 2014](references.html#schmidt_2011)) exist where people discuss issues with others they encounter often on various platforms, such as in a
-WhatsApp group, or by commenting in Facebook or Instagram DMs . Such personal
-publics can be powerful because people's personal relationships and their trust in people close to them can act
+WhatsApp group, or by commenting in Facebook or Instagram DMs . Such personal publics can be powerful because people's personal relationships and their trust in people close to them can act
 as powerful motivators for social change. Issues associated with the rise of personal publics 
 involve "context collapse" or the breaches of privacy and confidence often seen in online spaces 
 ([Marwick & boyd, 2011](references.html#marwick_boyd_2011)).

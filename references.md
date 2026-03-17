@@ -400,6 +400,9 @@ Weidinger, Laura, John Mellor, Maribeth Rauh, et al. 2021. “Ethical and Social
 <a name="willems_2014"></a>
 Willems, W. 2014. Provincializing hegemonic histories of media and communication studies: towards a genealogy of epistemic resistance in Africa. *Communication Theory*. 24(4): 415–434.
 
+<a name="willems_2023"></a>
+Willems, W. (2023). The reproduction of canonical silences: re-reading Habermas in the context of slavery and the slave trade. _Communication, Culture & Critique_, _16_(1), 17–24. https://doi.org/10.1093/ccc/tcac047
+
 <a name="wilson_et_al_2024"></a>
 Wilson, N. Cronje, J. & J Wicks. 2024. Inside Iqbal Survé's glitchy propaganda machine: Goebbels, AI and Slippery Writers. Available https://specialprojects.news24.com/Inside-Iqbal-Surves-glitchy-propaganda-machine/index.html
 
