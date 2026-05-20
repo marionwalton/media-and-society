@@ -16,7 +16,7 @@ GenerativeAI models tend to perpetuate the biases in its training data. For this
 Black feminist researchers have played a leading role in highlighting these concerns. 
 
 {: .activity}
-![Activity](img/pencilpencil.svg)Read more about how [generative AI models](https://marionwalton.github.io/media-and-society/Copy%20of%204_automation.html) work. 
+![Activity](img/pencilpencil.svg)Read more about how [generative AI models](https://marionwalton.github.io/media-and-society/4_automation_1.html) work. 
 
 ### Bias in computer vision
 

@@ -80,9 +80,12 @@ Thus the languages used in mass media look very different to the languages which
 
 Media consumption of electronic media requires people to have various  consumer electronic devices, which are not universally accessible. Differences in internet access create [digital inequalities](/ideas/definitions/#digital_inequality) (also known as the **digital divide**). 
 
-Digital inequalities tend to reflect other **social inequalities** such as age, gender, and whether people live in cities, towns or small villages. For example, according to a 2024 survey, just under 18% of South African households didn't have any form of Internet access at all ([Statistics South Africa, 2025](references.html#statisticssa_24)). The same study showed that highest levels of all types of internet access were found in the Western Cape (92,0%) and Gauteng (86,0%), and lowest in Northern Cape (70,3%) and Eastern Cape (70,7%). Just under one in five South African households (17,4%)  have access to fixed Internet at home, while three-quarters (75,6%) of households rely on their mobile devices (see Figure 3).
+Digital inequalities tend to reflect other **social inequalities** such as age, gender, and whether people live in cities, towns or small villages. For example, according to a 2024 survey, just under 18% of South African households didn't have any form of Internet access at all ([Statistics South Africa, 2025](references.html#statisticssa_25)). The same study showed that highest levels of access were found in the Western Cape, where 92% of households had some kind of internet access, and in Gauteng, where 86% of households reported having access. Levels of access were lowest in rural provinces, particularly the Northern Cape (70,3%) and Eastern Cape (70,7%). 
+
+When it comes to media use though, there are still major inequalities depending on whether people are using fast fixed broadband or relying on their mobile devices for internet acces, since mobile data connections are often slower and more expensive. Just under one in five South African households (17,4%)  have access to fixed Internet at home, while three-quarters (75,6%) of households rely on their mobile devices (see Figure 3).
 ![Types of household internet access in SA, by province](img/type_internet.png)
-Figure 3: Major form of household internet access in South Africa by province, 2024
+
+Figure 3: Major types of household internet access in South Africa by province, 2024
 
 South Africa also has relatively **high prices for mobile data**, and so, in lower income groups in particular, people are “less connected” and their access to the internet is highly constrained ([de Lanerolle, et al, 2017](references.html#de_lanerolle_et_al_2017)).
 

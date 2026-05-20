@@ -65,8 +65,7 @@ A citation supports the claims you're making in academic writing, gives credit t
 A world view or activity that is in opposition to and challenges the dominant world view. (O'Shaugnessy & Stadler)
 
 ## Consumer culture
-Consumer culture theory explains how people’s values, meanings, and identities develop as they engage in activities associated with consuming goods and services and encounter the marketing, public relations, advertising and branding industries and interpret them in their local cultural context. 
-
+c
 ## Cultural studies
 Cultural Studies is an academic subject or area of study which is closely related to media studies. In cultural studies, "culture" is approached as an everyday activity, where people make sense of the world, relate to others, and participate in society in ever-changing and contextually nuanced ways. This goes beyond the common sense understanding of culture as artistic products such as paintings, books, music or films. In this course we study scholars who have contributed to this tradition including Antonio Gramsci, Stuart Hall, Raymond Williams, Adam Haupt and others.
 
@@ -261,8 +260,17 @@ functionality for sharing media (text, photos, and videos) with family or friend
 Synthetic media refers to media which has been created or modified by algorithmic (computational) means, 
 especially through the use of Gen AI or Large Language Models (LLMs), also known as artificial intelligence (AI). Examples of GenAI are  OpenAI's ChatGPT or Google's Gemini. Synthetic media are also known as AI-generated media, generative media, personalised media or  "**AI slop**"
 
+## Semiology
+Semiology (or semiotics) is the academic field of study of signs and sign systems.
+
+## Sign
+A sign is used in communication to represent a particular idea or thing.
+
+## Signifier
+A signifier is the physical component of a sign (which may be tangible, audible and/or visual). The signifier is used to convey meaning within a sign system.
+
 ## Social semiotics
-Social semiotics is an academic subject or area of study which focuses on meaning making and how people go about making meaning. Social semitics is interested in how people represent their understanding of the world using different media (to disseminate messages) and how they develop semiotic resources or modes of representation (such as images, sound, and written language). Social semiotics also explores how people use media and semiotic resources to shape power relations with others. Scholars who have worked to develop this tradition include Michael Halliday, Gunther Kress, Robert Hodge, Theo van Leeuwen, and Carey Jewitt. 
+Social semiotics is an academic area of study which focuses on meaning making and how people go about making meaning. Social semiotics is interested in how people represent their understanding of the world using different media (to disseminate messages) and how they develop semiotic resources or modes of representation (such as images, sound, and written language). Social semiotics also explores how people use media and semiotic resources to shape power relations with others. Scholars who have worked to develop this tradition include Michael Halliday, Gunther Kress, Robert Hodge, Theo van Leeuwen, and Carey Jewitt. 
 
 ## Training data 
 This is the labelled or unlabelled data that is used to create an AI model’s artificial neural network.
