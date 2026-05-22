@@ -14,7 +14,9 @@ Generative AI chatbots (LLMs) work by predicting the most likely words to follow
 
 Similarly, visual models predict the most likely pixel based on patterns they've encoded from downloading and processing many online photographs and artworks. 
 
-Think of synthetic media as a kind of linguistic or visual average of what other people have created on that topic.  
+Multimodal prompting combines LLMs and visual models. These systems encode verbal user prompts using statistical models created from sources such as the labels of large collections of online images. The output images are composite patterns of pixels which the model associates with labels similar to the encoded user prompt. 
+
+Think of synthetic media as a kind of linguistic or visual average of what is in the training data (media which other people have created).  
 
 This chapter provides an introductory explanation of how the models and systems underlying **Generative AI** 
 models are used to create synthetic media. 
