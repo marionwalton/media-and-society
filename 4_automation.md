@@ -22,7 +22,9 @@ societies that produce them.
 
 Generative AI chatbots (LLMs) work by predicting the most likely words to follow your prompt, based on patterns recorded in a statistic model created from billions of human-created sources (such as online news articles). 
 
-Similarly, visual models predict the most likely pixel based on patterns they've encoded from downloading and processing many online photographs and artworks. 
+Similarly, visual models reconstruct the most likely pixel based on patterns they've encoded from downloading and processing many online photographs and artworks. 
+
+Multimodal prompting combines LLMs and visual models. These systems encode verbal user prompts using statistical models created from sources such as the labels of large collections of online images. The output images are composite patterns of pixels which the model associates with the encoded user prompt. 
 
 Think of synthetic media as a kind of linguistic or visual average of what other people have created on that topic.  This probability-based technique means that the **source** of synthetic media is unknown. Furthermore, the information it conveys is often incorrect and works to exacerbate social biases. 
 
