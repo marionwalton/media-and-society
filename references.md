@@ -32,6 +32,9 @@ Bailey, Moya. 2021. Misogynoir Transformed: Black Women's Digital Resistance. Ne
 <a name="barker_2016"></a>
 Barker, Meg-John. 2016. Queer: A graphic history. London: Icon Books.
 
+<a name="bender_2026"></a>
+Bender, Emily M, 'Artificial Intelligence' (2026), in Rayvon Fouché Ed. _Oxford Research Encyclopedia of Science, Technology, and Society_. Oxford Academic: New York. NY <https://doi.org/10.1093/9780197852712.003.0067>, [preprint](https://faculty.washington.edu/ebender/papers/Bender-AI-2026.pdf)
+
 <a name="bender_2021"></a>
 Bender, E.M., Gebru, T., McMillan-Major, A. & Shmitchell, S. 2021. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In *Proceedings of the 2021 ACM conference on fairness, accountability, and transparency*: 610-623. [10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922).
 

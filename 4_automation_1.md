@@ -7,10 +7,16 @@ title: 04. GenAI - automating media production
 
 *By Marion Walton, University of Cape Town*
 
-If you’ve used a chatbot such as ChatGPT, Meta AI or Bing chat or if you’ve used Dall-E or Midjourney to generate
-images you’ve interacted with **[Generative Artificial Intelligence](definitions.html#generative-ai) (GenAI) models**. GenAI usually takes the form of a chat interface to a statistical model, which returns responses (text and or images) to user **prompts**. 
+If you’ve used a chatbot such as ChatGPT (OpenAI), Meta AI, Copilot (Microsoft), Claude (Anthropic), if you’ve used Gemini (Google) for search, or Canva AI, DaVinci AI, Dall-E or Midjourney to generate images and video you’ve interacted with **[Generative Artificial Intelligence](definitions.html#generative-ai) (GenAI) models**. 
 
-Generative AI chatbots (LLMs) work by predicting the most likely words to follow your prompt, based on patterns recorded in a statistic model created from billions of human-created sources (such as online news articles). 
+GenAI usually takes the form of a chat interface to a statistical model, which returns responses (e.g. text, images, videos) to user **prompts**. 
+
+There is no widely accepted definition of "Artificial Intelligence" (AI) and the term is used very broadly for marketing purposes ([Bender, 2026](definitions.html#bender_2026)). For now we'll focus on defining Generative AI and explaining how GenAI systems work.
+
+{: .definition}
+Generative AI are computational systems which respond to prompts from users as **input** (text and various forms of digital media) and produce synthetic media **output** (such as digital text, images, videos, audio, and software code) using **generative (statistical) models**. 
+
+Generative AI chatbots (LLMs) work by predicting the most likely words to follow your prompt, based on patterns recorded in a statistical model created from billions of human-created sources (such as online news articles, wikipedia, social media posts etc). 
 
 Similarly, visual models predict the most likely pixel based on patterns they've encoded from downloading and processing many online photographs and artworks. 
 
@@ -36,13 +42,13 @@ Large language models such as OpenAI's ChatGPT and Google's Gemini are created f
 ### Training data
 This text is known as the model's **training data** since it provides the source material which the model will use to synthesise and output text. 
 
-Such training data is copied (usually without permission) from sources such as Wikipedia, and from digital versions of books and websites.  
+Such training data is copied from online sources such as Wikipedia, and (usually without permission) from digital versions of books and websites.  
 
 ### From text to numbers
 
 The text from the training data is broken up into tokens (in simple terms, a token is a word or a part of a word), which is converted to numbers (known as an embedding). 
 
-When the user generates a text prompt, it is also tokenised and converted to numbers. These numbers are then matched with numbers from the training data.
+When the user generates a text prompt, the prompt is also tokenised and converted to numbers. These numbers are then matched with numbers from the training data.
 
 ### Finding the most probable next word
 
@@ -75,13 +81,15 @@ These types of models are trained to convert an **image and its text description
 ### Prompt -> numbers -> image
 When prompted with a text prompt, the model converts the text prompt into numbers (much as an LLM would), and then generates visual signifiers which are a numeric match for the prompt.
 
-Synthetic images are superficially cohesive because GenAI models reconstruct their training data. Generating logical coherence in images is more challenging (e.g. differentiating between a left and a right arm).
+Synthetic images are superficially cohesive because GenAI models reconstruct their training data. Generating logical coherence in images is challenging (e.g. differentiating between a left and a right arm).
 
 ![Activity](img/pencilpencil.svg) Try out this Image generation [Explainer](https://poloclub.github.io/diffusion-explainer/) to get a feeling for how a multimodal LLM works  ([Poloclub Diffusion Explainer, nd](references.html#poloclub_diffusion_nd)). Try varying the prompt.
 
 ## Problems with models
 Models can be biased, erroneous or harmful when they make assumptions about people, or when the data used to train 
-them comes only from one hegemonic cultural group or gender. As a simple example of this, clothing manufacturers work with models so that clothing will fit children at different ages or people of different sizes. Some children will not fit into the clothing manufactured for their age group and certain kinds of fashion are not even made in “plus size” ranges. 
+them comes only from one hegemonic cultural group or gender. 
+
+As a simple example of bias in a model, clothing manufacturers work with models of human body shapes and sizes so that the  clothing they sell is likely to fit children at different ages or people of different sizes. Some children will not fit into the clothing manufactured for their age group, some adults need to buy children's sizes and certain kinds of fashion are not even made in “plus size” ranges. 
 
 
 
