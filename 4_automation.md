@@ -7,18 +7,41 @@ title: 04.2. Chatbots & automation
 
 *By Marion Walton, University of Cape Town*
 
-If you’ve used a chatbot such as ChatGPT, Meta AI or Bing chat or if you’ve used Dall-E or Midjourney to generate
-images you’ve interacted with **[Generative Artificial Intelligence](definitions.html#generative-ai) (GenAI) models**. GenAI usually takes the form of a chat interface to a statistical model, which returns responses (text and or images) to user **prompts**. 
+Chatbot responses are designed to make us want to trust their responses. Their impressive fluency with language 
+and visual communication give us the impression that the chatbot has a relatively sophisticated understanding, perhaps appreciates our ideas and acknowledges us as a person. 
+
+Relying on chatbots for academic work without verifying everything has several drawbacks. Apart from potential negative effects on learning, they are not designed to accurately show the **sources** of the information they synthesize, are often prone to serious **factual errors** and tend to **reproduce biases** and dominant xideologies of the societies that produce them.
 
 - TOC
 {:toc}
 
-Chatbot responses are designed to make us want to trust their responses. Their impressive fluency with language 
-and visual communication give us the impression that the chatbot has a relatively sophisticated understanding. 
-In fact they are prone to serious **factual errors** and tend to **reproduce biases** and ideologies of the 
-societies that produce them.
+### How do chatbots work?
 
-### How does Gen AI work?
+As explained in the discussion of [GenAI](definitions.html#generative_ai), Large Language Models in chatbot systems manipulate the form of language (in semiotic terms, the signifier), but do not understand or make meaning. 
+
+The simulated conversation or "chat" works because we, as human users, make meaning (a signified) from the texts produced by a chatbot in response to our prompts. 
+
+### Anthropomorphism
+
+One of the [affordances](definitions.html#affordance) of Generative AI is ease of use, but this is often deceptive. 
+
+The design of many GenAI systems are anthropomorphic, and chatbots particularly so. Anthropomorphism means the interpretation of something non-human as a human, or of something as someone. 
+
+Chatbots are designed to output human language in a way which mimics the structures of interpersonal dialogue. For example, they speak in the first person. While they are taking a long time to process a prompt animations appear to suggest they are busily "typing" an answer. 
+
+Many of the words we use to speak about chatbots are also anthropomorphic, such as intelligence, learn, training, chat, understand, and hallucinate. Anthropomorphic designs also exploit the fact that users assume that computer systems which fluently output human language are also understanding, thinking or engaging in meaning-making. This is known as the "ELIZA effect", named after the first chatbot. 
+
+As Bender ([2026:11](references.html#bender_2026)) explains, the sense we develop of another person is a fundamental aspect of how humans interact with one another through language: "to make sense of language, we have to imagine a mind behind the text".
+
+### AI as automated cognitive labour
+
+Given this background, we can consider a definition of "AI" as “a relationship between technology and humans where it appears that artifacts can perform, to a greater or lesser extent, human cognitive labour.” ([Guest, 2026](references.html#guest_2026)). Guest's definition encourages us to consider the many motivations for why  machines would be used to automate human cognitive labour. 
+
+For example, this definition highlights the relationship between a specific technology and the humans who use it, such as when a marketer uses a robo-caller to sell insurance, a professor uses ChatGPT to grade assignments, or a dissatisfied customer is directed to a chatbot on a website rather than the CEO of a company. We'd also need to consider relationships which are hidden. For example, people such as artists or data labellers do cognitive work which creates training data for Generative AI companies and the automation of their work means they can be paid for the work once or not at all even though the record of their work in the generative model is used many times. 
+
+### Dehumanisation
+
+These kinds of interactions often dehumanise people by removing them from relationships that are important for their survival.
 
 Generative AI chatbots (LLMs) work by predicting the most likely words to follow your prompt, based on patterns recorded in a statistic model created from billions of human-created sources (such as online news articles). 
 
@@ -26,9 +49,8 @@ Similarly, visual models reconstruct the most likely pixel based on patterns the
 
 Multimodal prompting combines LLMs and visual models. These systems encode verbal user prompts using statistical models created from sources such as the labels of large collections of online images. The output images are composite patterns of pixels which the model associates with the encoded user prompt. 
 
-Think of synthetic media as a kind of linguistic or visual average of what other people have created on that topic.  This probability-based technique means that the **source** of synthetic media is unknown. Furthermore, the information it conveys is often incorrect and works to exacerbate social biases. 
+Think of synthetic media as a kind of linguistic or visual average of what other people have created on that topic.  
 
-One of the [affordances](definitions.html#affordance) of Generative AI is ease of use. Chatbots in particular are designed to output human language in a way which mimics the structures of interpersonal dialogue (e.g. they seem to be typing). 
 
 Just as we need to evaluate all sources of information, we need to be particularly careful about double-checking information created with Generative AI. Synthetic media creates many difficulties regarding trustworthiness, bias and [provenance](definitions.html#provenance).   
 

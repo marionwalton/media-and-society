@@ -58,7 +58,7 @@ Marketers have discovered that [threads on Reddit are the sources](https://searc
 
 ### Deterministic vs probabilistic
 
-Even when the overviews are linked to a "source", the relationship between the overview and the linked document is _probabilistic _rather than _deterministic_. You'd need to check the document to find out whether the summary accurately reflects the source (or whether the source has any resemblance to the summary). this is a possible source, rather than a definite (deterministic) one. probabilistic rather than deterministic
+Contemporary search results are often generated with a combination of information retrieval and GenAI - these provide a overview responding to your query as well as a link to a likely source. Even when the overviews are linked to a "source", the relationship between the overview and the linked document is _probabilistic _rather than _deterministic_. You'd need to check the document to find out whether the summary in the overview accurately reflects the source. This is a possible source, rather than a definite (deterministic) one. 
 
 {: .example}
 Search engines have started to provide synthetic "AI Overviews" or summaries in response to people's search queries. Here is an "AI overview" from Google's Search Labs responding to a question about the association between Pink Floyd's song  "Another Brick in the Wall (Part 2) and the Soweto Uprising of 1976:

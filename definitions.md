@@ -139,18 +139,13 @@ Intersectionality refers to the way social categorisations and hierarchies such 
 The way we understand who we are. (O'Shaugnessy & Stadler)
 
 ## Ideology
-Sets of social values, ideas, beliefs, feelings, and representations by which people collectively make sense of the world (a world view). (O'Shaugnessy & Stadler)
-
-## LM or Language Model 
-Language Models (LM) are trained on text, and tend to be specialised. 
+Sets of social values, ideas, beliefs, feelings, and representations by which people collectively make sense of the world (a world view) (O'Shaugnessy & Stadler)
 
 ## LLM or Large Language Model 
-Large Language Models include OpenAI’s ChatGPT, Google’s Gemini (previously Bard) and Meta’s Llama. LLMs are able to generate lengthy plausible sounding text answers and simulate convincing conversations fluently. 
+Large Language Models include OpenAI’s ChatGPT, Google’s Gemini, Anthropic's Claude and Meta’s Llama. LLMs are trained on large collections of text, are able to generate lengthy plausible sounding text answers and simulate convincing conversations fluently. 
 
 ## Machine Learning 
 Most contemporary uses of the term AI actually refer to Machine Learning.  Machine Learning is a subfield of AI which identifies patterns in data in order to use them for prediction. The word “learning” is used to refer to the way these systems can produce outputs which have not been explicitly programmed. Learning algorithms can be supervised or unsupervised. Supervised algorithms learn by example. Unsupervised learning algorithms classify data into groups of similar items.
-
-The term “learning” in machine learning is another example of anthropomorphism. The processes of Machine Learning are very different to how biological learning takes place. The way neural network models are constructed from the patterns in training data is not the same as the way animal brains form new connections whenever they learn something new. 
 
 ## Media
 Media include the physical media, languages and industries which transmit and encode the messages we use to communicate with one another.
@@ -177,8 +172,7 @@ Misogyny enforces patriarchal social structures by punishing women (in particula
 Misogynoir is a term for racism combined with misogyny directed towards Black women in particular. 
 
 ## Network
-A network can be defined as any system of relationships ([Chandler & Munday,2020a](/ideas/references/index.html#chandler_munday_2020a))
-which may represent relationships between people and things, or between words and other semiotic resources.
+A network can be defined as any system of relationships ([Chandler & Munday,2020a](/ideas/references/index.html#chandler_munday_2020a)) which may represent relationships between people and things, or between words and other semiotic resources.
 
 ## Neural Networks  
 A neural network is a statistical data structure based on early ideas about how the human brain works with trillions of interconnected cells or neurons. The artificial neural network is constructed or “trained” by being fed large  amounts of data (such as images from a museum gallery website, wikipedia articles, or chat logs). The network identifies patterns in the data (such as characteristic uses of colour by a particular artist) and processes them to build a mathematical model of an interconnected set of billions or trillions of parameters (numbers). Each numerical parameter is called a “neuron”, by analogy to the cellular structures in animal brains. The patterns in multidimensional sequences (vectors) of these neurons are used to synthesise media. 
@@ -210,16 +204,12 @@ Postfeminism emerged as a response to second wave feminism, when advances in wom
 
 ## Public
 Traditionally scholars have talked about "the public", which includes all members of a community such as a nation, city or region, and their legal and political institutions of government.
-In media studies it is also common to talk about "publics", which acknowledges that people often have a sense of living, working and communicating together in groups which may be smaller, such as 
-a family group chat, or very large, such as a global audience for big media events.
+In media studies it is also common to talk about "publics", which acknowledges that people often have a sense of living, working and communicating together in groups which may be smaller, such as a family group chat, or very large, such as a global audience for big media events.
 
 ## Provenance
-Provenance aims for more transparency regarding the origins and operations of Generative AI.
-It responds to the need to know where media and ideas come from, not only to avoid plagiarism, but 
-also to be aware of their different contexts of use. Academic referencing is one system of
-establishing provenance. Provenance goes beyond the basic information usually included in citations 
-(author, date, publisher etc), but also identifies where a media text has "travelled", 
-and how it is used in these contexts. This is particularly important for synthetic media and Generative AI, since LLMs often don't reveal these details at all. 
+Provenance aims for more transparency regarding the origins and operations of Generative AI. It responds to the need to know where media and ideas come from, not only to avoid plagiarism, but 
+also to be aware of their different contexts of use. Academic referencing is one system of establishing provenance. Provenance goes beyond the basic information usually included in citations 
+(author, date, publisher etc), but also identifies where a media text has "travelled",  and how it is used in these contexts. This is particularly important for synthetic media and Generative AI, since LLMs often don't reveal these details at all. 
 
 ## Queer
 The term “queer” is a reclaimed homophobic insult, which now encompasses a wide range of identities. Queer identities refuse heterosexuality as the standard for all sexualities. ([Barker, 2016](references.html#barker_2016))

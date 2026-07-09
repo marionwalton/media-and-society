@@ -142,6 +142,9 @@ Gentleman, Amelia & Horton, Helena. 2026.  ‘Add blood, forced smile’: how 
 <a name="gill_2010"></a>
 Gill, Rosalind. 2010. Gender. In *The Media: An Introduction.* 3rd Edition.  D. Albertazzi. & P. Cobley, Eds. Edinburgh: Pearson Education. 410—26.
 
+<a name="guest_2026"></a>
+Guest, Olivia. 2026. What Does ‘Human-Centred AI’ Mean? _Behavioral Sciences_, 16 (4): 583. https://doi.org/10.3390/bs16040583
+
 <a name="goffman_1979"></a>
 Goffman, E. 1979. *Gender Advertisements*. London:Macmillan.
 
