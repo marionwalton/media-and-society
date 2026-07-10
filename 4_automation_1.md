@@ -40,9 +40,10 @@ The generative models in chatbots which produce synthetic text are known as Larg
 #### Whose language?
 Despite the fact that so many sources have been used to train LLMs, the training data and consequently the linguistic patterns LLMs reproduce are dominated by English and other "high resource" languages (languages which are well represented online).  African languages, although they comprise 30% of spoken languages, are far less well represented online or in digital resources used by LLMs ([Matsilele & Tshuma , 2025](references.html#matsilele_2025)). Using chatbots means we're missing out on the practices and perspectives of many African language speakers. 
 
-### Prompting
+#### Prompting
 In future courses, we'll study techniques for prompting. The more you know about a subject, the more you'll command the specialised language needed to control the output of a GenAI system. This knowledge also makes it easier to evaluate GenAI output using your own knowledge of the topic.
 
+##### Protecting privacy
 For now, it's important to remember that, when prompting a model, any information you provide (including highly personal information) is being harvested by the system to create a model of you. Many people accidentally publish their interactions, leaving their chats exposed and making them vulnerable to hackers, identity theft, stalkers and other harms. You should also not upload copyrighted material such as published articles as part of your prompt. 
  
 #### Visual models
@@ -57,8 +58,9 @@ As we've already learned, this output is known as synthetic media. Once you unde
 
 ### Generative AI, academic work and sources
 
-Relying on chatbots for academic work without verifying their output has serious drawbacks. 
+Relying on chatbots for academic work without verifying their output has some serious drawbacks. 
 
+#### Potential pitfalls
 Chatbots are not designed to show accurately the sources of the information they synthesize. The case studies we've already discussed show us that their responses have a highly confident tone but are often prone to serious factual errors. We'll also look at case studies showing how they tend to reproduce biases and dominant ideologies of the societies that produce them. Because language reflects and perpetuates many social inequalities chatbots may in fact exacerbate social biases present in the training data.  
 
 In particular it's important for you to know that if you use Generative AI to generate citations, the model synthesizes likely-looking sources which follow the pattern of the references in its training data. Some models are trained to please you at all costs, and so the fabricated references they offer you may not exist at all.
@@ -69,14 +71,14 @@ As you learn more about the political economy of digital media and the revenue m
 
 > “We see a future where intelligence is a utility, like electricity or water, and people buy it from us on a meter,” [Sam Altman, CEO of OpenAI](https://x.com/TheChiefNerd/status/2032012809433723158). March 11 2026 at the BlackRock 2026 Infrastructure Summit in Washington, D.C.  
 
-### Provenance
-Think of [synthetic media](definitions.html#synthetic_media) as a kind of linguistic or visual average of what is in the training data (media which other people have created and posted online). 
+#### Provenance - where ideas come from
+Think of [synthetic media](definitions.html#synthetic_media) as a kind of linguistic or visual average of what is in the training data (media which other people have created and posted online) which doesn't tell us much about the sources of ideas or where they come from. 
 
-In academic and many other contexts, we need to know where media and ideas come from, not only to avoid plagiarism, but also to be aware of the different contexts in which ideas arise and have been used. This is known as provenance. 
+In academic and many other contexts, we need to know where media and ideas come from, not only to avoid plagiarism, but also to be aware of the different contexts in which ideas arise and have been used. This is known as _provenance_. 
 
-Provenance requires transparency regarding the origins and operations of information. Academic referencing is one system of establishing provenance. Provenance goes beyond the basic information usually included in citations (author, date, publisher etc), but also identifies where a media text has "travelled",  and how it is used in these contexts. 
+Provenance requires transparency regarding the origins and operations of information. Academic referencing is one system of establishing provenance. Provenance goes beyond the basic information usually included in citations (author, date, publisher etc), but also identifies where an idea or media text has "travelled",  and how it is used in these contexts. 
 
-Provenance is particularly important for synthetic media and Generative AI, since LLMs often don't reveal these details at all. If the dominant perspective becomes your default or only source,you are likely missing out. You are surrounding yourself with primarily Western ideas and are unlikely to encounter decolonial perspectives or alternative approaches.  
+Provenance is particularly important in African contexts. If the dominant perspective becomes your default or only source,you are likely missing out. You are surrounding yourself with primarily Western ideas and are unlikely to encounter decolonial perspectives or alternative approaches.  
 
 #### Retrieval Augmented Generation 
 
