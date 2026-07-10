@@ -206,6 +206,9 @@ Postfeminism emerged as a response to second wave feminism, when advances in wom
 Traditionally scholars have talked about "the public", which includes all members of a community such as a nation, city or region, and their legal and political institutions of government.
 In media studies it is also common to talk about "publics", which acknowledges that people often have a sense of living, working and communicating together in groups which may be smaller, such as a family group chat, or very large, such as a global audience for big media events.
 
+## Prompt
+A prompt is the text you type or the words you speak into a generative AI interface to get a synthesized response. A prompt can also include various digital files, such as images, pdfs etc. 
+
 ## Provenance
 Provenance aims for more transparency regarding the origins and operations of Generative AI. It responds to the need to know where media and ideas come from, not only to avoid plagiarism, but 
 also to be aware of their different contexts of use. Academic referencing is one system of establishing provenance. Provenance goes beyond the basic information usually included in citations 

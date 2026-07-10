@@ -261,6 +261,9 @@ Macharia, Sarah. 2020. Who Makes the News: 6th Global Media Monitoring Project. 
 <a name="manne_2017"></a>
 Manne, Kate., 2017. *Down Girl: The Logic of Misogyny*. Oxford: Oxford University Press.
 
+<a name="matsilele_2025"></a>
+Matsilele, T., & Tshuma, L. A. 2025. _Generative AI in African News Media : Opportunities and Challenges._ (1st ed.). Taylor & Francis Group. https://doi.org/10.4324/9781003627524
+
 M&G Data Desk. 2019. Who runs SA’s media is a black-and-white issue. *Mail & Guardian*. Available: [https://mg.co.za/article/2019-01-04-00-who-runs-sas-media-is-a-black-and-white-issue/](https://mg.co.za/article/2019-01-04-00-who-runs-sas-media-is-a-black-and-white-issue/)
 
 <a name="maps_2024"></a>

@@ -24,29 +24,44 @@ The term "Artificial Intelligence" (AI) refers to a wide range of technologies a
 {: .definition}
 Generative AI are computational systems which respond to prompts from users as **input** (text and various forms of digital media) and produce synthetic media **output** (such as digital text, images, videos, audio, and software code) using **generative (statistical) models**. 
 
+[Generative AI](definitions.html#generative-ai){: .btn .btn-blue }
+
 ### How do generative models work?
 
-The generative models in chatbots (LLMs) work by predicting the most likely words to follow your prompt, based on patterns recorded in a statistical model created from billions of human-created sources (such as online news articles, Wikipedia, social media posts etc). 
+#### Large language models
+The generative models in chatbots which produce synthetic text are known as Large Language Models (LLMs) which work by predicting the most likely words to follow your prompt, based on patterns recorded in a statistical model created from billions of human-created sources (such as online news articles, Wikipedia, social media posts etc). 
 
-Similarly, visual models predict the most likely pixel based on patterns they've encoded from downloading and processing many online photographs and artworks, which are matched with the prompts that users enter. 
+#### Whose language?
+Despite the fact that so many sources have been used to train LLMs, the training data and consequently the linguistic patterns LLMs reproduce are dominated by English and other "high resource" languages (languages which are well represented online).  African languages, although they comprise 30% of spoken languages, are far less well represented online or in digital resources used for natural language processing ([Matsilele & Tshuma , 2025](references.html#matsilele_2025)), thus missing the practices and perspectives of African language speakers. 
+ 
+#### Visual models
+While language models predict the most likely next word, visual models predict the most likely pixel based on patterns they've encoded from downloading and processing many online photographs and artworks. This visual data is matched with the prompts that users enter. 
 
 Multimodal means that a model processes text, image, and audio. Multimodal prompting combines LLMs and visual models. Multimodal GenAI systems encode verbal user prompts using statistical models created from sources such as the labels of large collections of online images. The output images are composite patterns of pixels which the model associates with labels similar to the encoded user prompt. 
 
-[Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
+As we've already learned, this output is known as synthetic media. Once you understand how GenAI works, you should find it easier to evaluate whether and when to use a text, image or video which is synthesized with GenAI.
 
-We have already discussed synthetic media. Once you understand how GenAI works, you should find it easier to evaluate whether and when to use a text, image or video which is synthesized with GenAI.
+[Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
 
 ### Generative AI, academic work and sources
 
 Relying on chatbots for academic work without verifying their output has serious drawbacks. 
 
-Chatbots are not designed to show accurately the **sources** of the information they synthesize. Their responses have a highly confident tone but are often prone to serious **factual errors** and tend to **reproduce biases** and dominant ideologies of the societies that produce them. Because language reflects and perpetuates many social inequalities chatbots may in fact exacerbate social **biases** present in the training data.  
+Chatbots are not designed to show accurately the sources of the information they synthesize. The case studies we've already discussed show us that their responses have a highly confident tone but are often prone to serious factual errors. We'll also look at case studies showing how they tend to reproduce biases and dominant ideologies of the societies that produce them. Because language reflects and perpetuates many social inequalities chatbots may in fact exacerbate social biases present in the training data.  
 
 In particular it's important for you to know that if you use Generative AI to generate citations, the model synthesizes likely-looking sources which follow the pattern of the references in its training data. Some models are trained to please you at all costs, and so the fabricated references they offer you may not exist at all.
 
-If you make a habit of taking shortcuts with your work, you're less likely to learn to read quickly, widely and with an eye for detail, and to develop your ideas as you write. This can have negative effects on your learning throughout your life and may leave you deskilled when you need to work without GenAI, or to evaluate GenAI output using your own knowledge. You'll also find yourself in a vulnerable position when popular chatbots increase their prices. 
+If you make a habit of using GenAI to speed up your work, you're less likely to learn to read quickly, widely and with an eye for detail, and to develop your ideas as you write. This can have negative effects on your learning and may leave you deskilled when you need to work without GenAI.
 
-> “We see a future where intelligence is a utility, like electricity or water, and people buy it from us on a meter,” Sam Altman, CEO of OpenAI. March 11 2026 at the BlackRock 2026 Infrastructure Summit in Washington, D.C.  
+As you learn more about the political economy of digital media and the revenue models of the GenAI industry, you'll understand that relying too heavily on GenAI at the cost of developing your own skills and knowledge leaves you in a vulnerable position when popular chatbots inevitably increase their prices. 
+
+> “We see a future where intelligence is a utility, like electricity or water, and people buy it from us on a meter,” [Sam Altman, CEO of OpenAI](https://x.com/TheChiefNerd/status/2032012809433723158). March 11 2026 at the BlackRock 2026 Infrastructure Summit in Washington, D.C.  
+
+### Prompting
+
+In future courses, we'll study techniques for prompting. The more you know about a subject, the more you have command of the specialised language used for prompts, and the easier it is to evaluate GenAI output using your own knowledge of the topic.
+
+For now, it's important to remember that, when prompting a model, any information you provide (including highly personal information) is being harvested by the system to create a model of you. You should also not upload copyrighted material such as published articles as part of your prompt. Many people accidentally publish their interactions, which leaves their chats exposed.
 
 ### Provenance
 Think of [synthetic media](definitions.html#synthetic_media) as a kind of linguistic or visual average of what is in the training data (media which other people have created and posted online). 
@@ -59,7 +74,7 @@ Provenance is particularly important for synthetic media and Generative AI, sinc
 
 #### Retrieval Augmented Generation 
 
-Retrieval Augmented Generation (RAG) is used by search engines in AI mode (e.g. Google's Gemini) in order to link to sources (websites) and to access recently updated information. Unfortunately most people do not check these links. 
+As discussed in the case study of synthetic media, Retrieval Augmented Generation (RAG) is used by search engines in AI mode (e.g. Google's Gemini) in order to provide an overview which links to probable sources (websites) and to access recently updated information. 
 
 RAG is also used on academic platforms, where models are trained on peer reviewed sources such as academic journal articles not available to commercial chatbots.  
 
