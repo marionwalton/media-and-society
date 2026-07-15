@@ -16,7 +16,7 @@ title: 02.1. Case Study - Synthetic Media & GenAI
 
 Generative Artificial Intelligence or _[Generative AI](https://marionwalton.github.io/media-and-society/definitions.html)_ systems are statistical techniques used to automate media production by computers in response to a [prompt](definitions.html#prompt) from a user.
 
-The techniques work because the system has already copied massive collections of media for use as a "training" dataset, and then encodes a mathematical summary of the patterns in this dataset. This summary is known as a "model". Generative models include OpenAI's GPT  models, or the DALL-E model in the example below. The user's prompt and the patterns of text and images encoded in the model are used to synthesize similar patterns to those found in the media in the “training” dataset. 
+GenAI techniques work because the system has already copied massive collections of media for use as a "training" dataset, and then encodes a mathematical summary of the patterns in this dataset. This summary is known as a "model". Generative models include OpenAI's GPT  models, or the DALL-E model in the example below. The user's prompt and the patterns of text and images encoded in the model are used to synthesize similar patterns to those found in the media in the “training” dataset. 
 
 ## GenAI and synthetic images
 

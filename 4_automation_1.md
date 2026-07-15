@@ -12,7 +12,7 @@ If you’ve used a chatbot such as ChatGPT (OpenAI), Meta AI, Copilot (Microsoft
 GenAI usually takes the form of a chat interface to a statistical model, which returns responses (e.g. text, images, videos) to user **prompts**. These interactions are a type of automated media production.
 
 This chapter provides an introductory explanation of how the models and systems underlying **Generative AI** 
- are used to create synthetic media and briefly addresses questions about using GenAi in your academic work, and the potential impact on work in media industries. 
+ are used to create synthetic media and briefly addresses questions about using GenAI in your academic work, and the potential impact of GenAI on work in media industries. 
 
 - TOC
 {:toc}
@@ -24,8 +24,11 @@ The term "Artificial Intelligence" (AI) refers to a wide range of technologies, 
 {: .definition}
 Generative Artificial Intelligence or _[Generative AI](https://marionwalton.github.io/media-and-society/definitions.html)_ systems are statistical techniques used to automate media production by computers. The techniques work by summarising and then synthesizing similar patterns to those found in the media copied as a “training” dataset. The training data is encoded in generative models used to produce synthetic text, images, and other forms of media in response to a user's prompt. They include well known commercial systems such as ChatGPT (OpenAI), Gemini (Google), Claude (Anthropic) or Copilot (Microsoft). 
 
+### What is a GenAI model?
+A GenAI model (e.g. LLM or GANS) models a training dataset. When we use the word "model" in this way, we mean a **statistical model**, as used in machine learning, which is not an exact replica or copy of the training dataset. Instead, it's intended to be used to synthesize data from the training dataset to generate similar texts and images to those included in the training data. 
+
 {: .definition}
-_Generative models_ are statistical encodings of huge collections of training data which can include text, images and other forms of media. There are several types of generative model, such as Large Language Models (LLMs), which encode text, or diffusion models, which encode images. 
+A _generative model_ is a machine learning model designed to synthesize new data which is similar to its training data. Generative models rely on training data which can include text, images and other forms of media and produce synthetic media. There are several types of generative model, such as Large Language Models (LLMs), which encode text, or diffusion models, which encode images. 
 
 {: .definition}
 Generative AI systems respond to _prompts_ from users as input. Prompts can include text and various forms of digital media.
@@ -104,9 +107,7 @@ Governments are struggling to respond with new laws in time to curb the social, 
 
 ## Definitions
 
-### What is a GenAI model?
-{: .definition}
-A GenAI model (e.g. LLM or GANS) models a training dataset. When we use the word "model" in this way, we mean a **statistical model**, which is not an exact replica or copy of the training dataset. Instead, it's intended to be used to synthesize data from the training dataset to generate similar texts and images to those included in the training data. 
+
 
 ### Large Language Models 
 {: .definition}

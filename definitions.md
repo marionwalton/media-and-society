@@ -108,8 +108,10 @@ Contemporary ideas and beliefs shared by a majority of people. (O'Shaugnessy & S
 New ideas and beliefs held by a few people at first, gradually becoming accepted by more people. (O'Shaugnessy & Stadler)
 
 ## Generative AI
-Generative AI, or GenAI refer to generative models such as LLMs or diffusion models. Used as media production tools, these are leading to dramatic shifts in both professional and everyday media practices. Four tech companies, namely Alphabet (Google), Amazon, Microsoft and Meta (Facebook) have recently 
-invested billions of dollars in their respective Artificial Intelligence (AI) systems which will have major consequences for the media production ecosystem. GenAI AIGC (Artificial Intelligence generated content) is already being incorporated in a wide range of image editing and graphic design software (e.g. Adobe, Canva) as well as short form video production apps for social platforms (e.g. Douyin/TikTok). The use of generative models to produce media raises various ethical issues and is facing several legal challenges.
+Generative AI, or GenAI refer to computational systems which include generative models such as LLMs or diffusion models. Generative AI systems respond to prompts from users as input, which can include text and various forms of digital media. The systems produce synthetic media output (such as digital text, simulated dialogue, images, videos, audio, and software code) using generative models, which are statistical encodings of their training data. 
+
+## Generative Model
+A generative model is a machine learning model designed to synthesize new data which is similar to its training data. _Generative models_ rely on training data which can include text, images and other forms of media and produce synthetic media. There are several types of generative model, such as Large Language Models (LLMs), which encode text, or diffusion models, which encode images. 
 
 ## Gender
 Gender refers to “social and cultural roles, personality traits, and behaviours that are deemed socially acceptable for men and women in relation to concepts of masculinity and femininity” ([O’Shaughnessy,  Stadler, & Casey, 2016:360](references.html#oshaughnessy_2016)). 

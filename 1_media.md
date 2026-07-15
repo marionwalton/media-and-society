@@ -146,7 +146,7 @@ Figure 3: This synthetic image of a rhino was produced by OpenAI's DALL-E model 
 Synthetic media refers to media which has been created or modified by algorithmic (computational) means, 
 especially through the use of Gen AI or Large Language Models (LLMs), also known as artificial intelligence (AI). 
 
-Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. While  Synthetic media can be generated in bulk, is not reliably accurate, and can't be clearly attributed to a specific source. Because it can be easily and cheaply produced it is sometimes referred to dismissively as "**AI slop**", which is a metaphor for its poor quality and excessive quantity. 
+Generative AI can easily be used to bulk generate **spam** or targeted **dis- or misinformation** and **deepfakes**. While  Synthetic media can be generated in bulk, is not reliably accurate, and can't be clearly attributed to a specific source. Because it can be easily and cheaply produced at scale it is sometimes referred to dismissively as "**AI slop**", which is a metaphor for its poor, mass produced quality and excessive quantity, or for how it is often designed to bait users to react and push engagement metrics.
 
 [Synthetic media](definitions.html#synthetic-media){: .btn .btn-blue }
 
