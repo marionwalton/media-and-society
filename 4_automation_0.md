@@ -139,10 +139,19 @@ Synthetic images are superficially cohesive because GenAI models reconstruct th
 
 ![Activity](img/pencilpencil.svg) Try out this Image generation [Explainer](https://poloclub.github.io/diffusion-explainer/) to get a feeling for how a multimodal LLM works  ([Poloclub Diffusion Explainer, nd](references.html#poloclub_diffusion_nd)). Try varying the prompt.
 
-## Problems with models
-Models can be biased, erroneous or harmful  when the data used to train them comes only from one hegemonic cultural group or gender. 
+## Activity - GenAI for good?
 
-As a simple example of bias in a model, clothing manufacturers work with models of human body shapes and sizes so that the  clothing they sell is likely to fit children at different ages or people of different sizes. Some children will not fit into the clothing manufactured for their age group, some adults need to buy children's sizes and certain kinds of fashion are not even made in “plus size” ranges. 
+![Activity](img/pencilpencil.svg) What would be needed to produce an ethical form of GenAI?
+
+Dash, Anil. 28 Apr 2026. (One) Good AI is here.
+https://www.anildash.com/2026/04/28/one-good-ai-is-here/
+
+Read this case study of a system developed with consensually gathered training data consensually gathered, which was released as an open source and open weights project, and which can run on an ordinary computer. 
+
+ Now debate the following questions: 
+ 
+* Do you think this is an example of "Good AI"?  
+* Are commercial models "AI for bad"?
 
 
 
