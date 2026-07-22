@@ -143,13 +143,12 @@ Synthetic images are superficially cohesive because GenAI models reconstruct th
 
 {: .activity}
 ![Activity](img/pencilpencil.svg) What would be needed to produce an ethical form of GenAI?
+Read this case study of a system developed with consensually gathered training data which was released as an open source and open weights project, and which can run on an ordinary computer. 
 
 Dash, Anil. 28 Apr 2026. (One) Good AI is here.
 https://www.anildash.com/2026/04/28/one-good-ai-is-here/
 
-Read this case study of a system developed with consensually gathered training data consensually gathered, which was released as an open source and open weights project, and which can run on an ordinary computer. 
-
- Now debate the following questions: 
+![Activity](img/pencilpencil.svg)  Now debate the following questions: 
  
 * Do you think this is an example of "Good AI"?  
 * Are commercial models "AI for bad"?
