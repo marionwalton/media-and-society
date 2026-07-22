@@ -63,7 +63,7 @@ interacting with global corporations motivated by profit rather than the public 
 
 ### Activity
 
-Try out a dialogue with [Anthony Hay's recreation of *Eliza*](https://findingeliza.org/try.html) after reading a short introduction to this [first chatbot](https://findingeliza.org/about.html). 
+Read about Eliza, the [first chatbot](https://findingeliza.org/about.html) and then try out a dialogue with [Anthony Hay's recreation of *Eliza*](https://findingeliza.org/try.html).
 
 * What do you notice about how you feel while chatting?   
 * Did you create a coherent meaning for your interaction?   
