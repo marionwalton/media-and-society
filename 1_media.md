@@ -52,7 +52,7 @@ The long-lasting medium of the rock engraving has survived many centuries. The c
 
 <img title="Rock engraving of Iziko Rhino from Kinderdam.Nkansah Rexford, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" 
      alt="Iziko Rhino" id="iziko_rhino"
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Iziko_Rhino.JPG/512px-Iziko_Rhino.JPG?20140701092425"/>
+     src="https://upload.wikimedia.org/wikipedia/commons/7/75/Iziko_Rhino.JPG"/>
 
 Figure 1: "Iziko Rhino" - Rock engraving of rhino from Kinderdam. Credit - <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">Wikimedia Commons</a>
 
@@ -88,7 +88,7 @@ Figure 3: Zolani Mkiva performing a praise poem. Credit - [Wikimzansi](https://w
 {: .definition}
 Analogue media store analogue signals (such as the physical texture on a vinyl record), transmit them in the form of electromagnetic waves, such as radio waves, or play them back as analogue audio.
 
-![Vinyl record](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Motown_7%22_Single_%28Side_1%29.jpg/1282px-Motown_7%22_Single_%28Side_1%29.jpg?20231126212905)
+![Vinyl record](https://upload.wikimedia.org/wikipedia/commons/d/d3/Motown_7%22_Single_%28Side_1%29.jpg)
 Figure 2: Vinyl record from Motown. Credit - [Wikimedia](https://commons.wikimedia.org/wiki/File:Motown_7%22_Single_(Side_1).jpg) 
 
 Analogue media were created for mass audiences in the pre-digital era. Analogue media include sound recordings on vinyl records (see Figure 2), print newspapers created by physically laying out blocks of type, and analogue radio and television broadcasts. 

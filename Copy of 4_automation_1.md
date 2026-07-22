@@ -9,10 +9,10 @@ title: 04. GenAI - automating media production
 
 If you’ve used a chatbot such as ChatGPT (OpenAI), Meta AI, Copilot (Microsoft), Claude (Anthropic), if you’ve used Gemini (Google) for search, or Canva AI, DaVinci AI, Dall-E or Midjourney to generate synthetic images and video you’ve interacted with **[Generative Artificial Intelligence](definitions.html#generative-ai) (GenAI) models**. 
 
-GenAI usually takes the form of a chat interface to a statistical model, which returns responses (e.g. text, images, videos) to user **prompts**. These interactions are a type of automated media production and are currently being adopted in tech and media industries as well as many workplaces. For example, in 2026, [Netflix reported](https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings) that 300 of their titles had used GenAI in production.
+GenAI usually takes the form of a chat interface to a statistical model, which returns responses (e.g. text, images, videos) to user **prompts**. These interactions are a type of automated media production currently being adopted in tech and media industries as well as more broadly. For example, In 2026, [Netflix reported](https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings) that 300 of their titles had used GenAI in production.
 
 This chapter provides an introductory explanation of how the models and systems underlying **Generative AI** 
- are used to create synthetic media and briefly addresses the potential impact of GenAI on work in media industries. 
+ are used to create synthetic media and briefly addresses questions about using GenAI in your academic work, and the potential impact of GenAI on work in media industries. 
 
 - TOC
 {:toc}
@@ -139,19 +139,10 @@ Synthetic images are superficially cohesive because GenAI models reconstruct th
 
 ![Activity](img/pencilpencil.svg) Try out this Image generation [Explainer](https://poloclub.github.io/diffusion-explainer/) to get a feeling for how a multimodal LLM works  ([Poloclub Diffusion Explainer, nd](references.html#poloclub_diffusion_nd)). Try varying the prompt.
 
-## Activity - GenAI for good?
+## Problems with models
+Models can be biased, erroneous or harmful  when the data used to train them comes only from one hegemonic cultural group or gender. 
 
-{: .activity}
-![Activity](img/pencilpencil.svg) What would be needed to produce an ethical form of GenAI?
-Read this case study of a system developed with consensually gathered training data which was released as an open source and open weights project, and which can run on an ordinary computer. 
-
-Dash, Anil. 28 Apr 2026. (One) Good AI is here.
-https://www.anildash.com/2026/04/28/one-good-ai-is-here/
-
-![Activity](img/pencilpencil.svg)  Now debate the following questions: 
- 
-* Do you think this is an example of "Good AI"?  
-* Are commercial models "AI for bad"?
+As a simple example of bias in a model, clothing manufacturers work with models of human body shapes and sizes so that the  clothing they sell is likely to fit children at different ages or people of different sizes. Some children will not fit into the clothing manufactured for their age group, some adults need to buy children's sizes and certain kinds of fashion are not even made in “plus size” ranges. 
 
 
 
