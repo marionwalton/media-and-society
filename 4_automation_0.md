@@ -141,6 +141,7 @@ Synthetic images are superficially cohesive because GenAI models reconstruct th
 
 ## Activity - GenAI for good?
 
+{: .activity}
 ![Activity](img/pencilpencil.svg) What would be needed to produce an ethical form of GenAI?
 
 Dash, Anil. 28 Apr 2026. (One) Good AI is here.
