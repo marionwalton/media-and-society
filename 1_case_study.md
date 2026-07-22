@@ -95,5 +95,3 @@ We will discuss how these processes are used to [automate media production]() an
 
  {: .activity}
 ![Activity](img/pencilpencil.svg) Given the problems with this synthesised summary, how should we  approach AI overviews when looking for information with a search engine or using Generative AI (e.g. ChatGPT)?
-
-![Screeenshot from Google AI Labs which reads: In 1976, Pink Floyd's song "Another Brick in the Wall (Part 2) became an anthem of resistance during the Soweto Uprising, a student-led protest against the apartheid system in South Africa. The song's lyrics resonated with the students' frustration with the Bantu Eudcation system and their fight for educational equality. While the song was released in 1979, it became a powerful symbol of their struggle and was subsequently banned in South Africa due to its association with the protests.](img/google_ai_labs.png)

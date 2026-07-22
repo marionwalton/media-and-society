@@ -17,12 +17,12 @@ In cases where there the definitions aren't included in your readings, you shoul
 - TOC
 {:toc}
 
-### Affordance
+## Affordance
 An affordance of a mode of communication is what it is possible to express and represent or communicate easily with 
 the resources of a mode, and what is less straightforward or even impossible. Thus all modes of communication
 have potential and constraints. 
 
-### Algorithm
+## Algorithm
 An algorithm is a  set of rules that are followed in calculations and other problems. Contemporary cameras and 
 apps such as Instagram and TikTok include graphical algorithms ("filters") which can create certain visual effects ("beautifying", blurring etc).
 On social media platforms common algorithms include **editorial tasks** such as sorting, recommendations, content moderation and so on. 
@@ -31,17 +31,15 @@ that perform a range of natural language processing (NLP) tasks.
 The algorithms of Generative AI systems can also be set up to avoid producing certain kinds of content present in the training data or responding to 
 certain types of prompts, which can be seen as a new form of **content moderation** or **censorship**. 
 
-### Analogue media 
+## Analogue media 
 Analogue media store analogue signals (such as the physical texture on a vinyl record), transmit them in the form of electromagnetic waves, such as radio waves, or play them back as analogue audio.
 
-### Artificial Intelligence or AI  
+## Artificial Intelligence  
 
-Artificial intelligence is an academic field with a 60 year history but the term does not have a generally 
-accepted definition. The term “artificial intelligence” is more often used by marketers than researchers, and broadly refers to machines “acting like humans”, or passing the Turing test, where a human would not be able to distinguish a machine from a human in conversation (Verdegem, 2021:4). Apart from its scientific meanings, the term “artificial intelligence” is also currently used by the tech industry as part of a wave of marketing hype intended to sell a range of software products which often promise to reduce costs or increase speed by automating various human tasks. More precisely, AI refers to 
-the ways in which we use machine learning, neural networks and various statistical models to automate certain tasks.
+Artificial intelligence or AI is an academic field with a 60 year history but the term does not have a generally accepted definition. The term “artificial intelligence” is more often used by marketers than researchers, and broadly refers to machines “acting like humans”, or passing the Turing test, where a human would not be able to distinguish a machine from a human in conversation (Verdegem, 2021:4). Apart from its scientific meanings, the term “artificial intelligence” is also currently used by the tech industry to sell a range of software products which often promise to reduce costs or increase speed by automating various human tasks. More precisely, AI refers to the ways in which we use machine learning, neural networks and various statistical models to automate certain cognitive tasks.
 
 ## AGI or Artificial General Intelligence 
-This idea of a godlike (or malevolent) superintelligence lies somewhere between science fiction and fantasy. 
+Artificial General Intelligence refers to the idea of a godlike (or malevolent) superintelligence and lies somewhere between science fiction and fantasy. 
 
 ## Binary oppositions
  Binary oppositions are a system of opposing and mutually exclusive categories or signifiers (“man” vs “woman”, “she” vs “he”,“straight” vs “gay”, “logical” vs “emotional”) which underpin **hegemonic** social hierarchies.
@@ -49,8 +47,7 @@ This idea of a godlike (or malevolent) superintelligence lies somewhere between 
 ## Chatbot
 Contemporary Generative AI systems are connected to a chatbot interface, which allows users to ask questions via text or speech interfaces and then uses 
 statistical models to predict and synthesize a likely "answer" to the user's prompt. By simulating "typing" and "thinking", the interface often encourages
-users to humanise or **anthropomorphise** the system (as do terms such as "intelligence" and "training") 
-as a when it is really simply a new form of **automation**.
+users to humanise or **anthropomorphise** the system (as do terms such as "chat", "think", "reason","intelligence" and "training") rather than consider it as a new form of **automation**.
 
 ## Cisgender  
 Cisgender is a term for individuals whose gender identity generally matches with their assigned sex, and who express a normative gender identity outwardly in terms of clothing, hair, and tone of voice.
@@ -65,7 +62,8 @@ A citation supports the claims you're making in academic writing, gives credit t
 A world view or activity that is in opposition to and challenges the dominant world view. (O'Shaugnessy & Stadler)
 
 ## Consumer culture
-c
+Consumer culture theory explains how people’s values, meanings, and identities develop as they engage in activities associated with consuming goods and services and encounter the marketing, public relations, advertising and branding industries and interpret them in their local cultural context. 
+
 ## Cultural studies
 Cultural Studies is an academic subject or area of study which is closely related to media studies. In cultural studies, "culture" is approached as an everyday activity, where people make sense of the world, relate to others, and participate in society in ever-changing and contextually nuanced ways. This goes beyond the common sense understanding of culture as artistic products such as paintings, books, music or films. In this course we study scholars who have contributed to this tradition including Antonio Gramsci, Stuart Hall, Raymond Williams, Adam Haupt and others.
 
