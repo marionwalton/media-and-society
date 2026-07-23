@@ -7,7 +7,7 @@ title: 04.2. Chatbots & anthropomorphism
 
 *By Marion Walton, University of Cape Town*
 
-To understand how GenAI works, we also need to understand how people make sense of their interactions with chatbots. For example, chatbot responses are designed for ease of use and to make us trust their responses. Their confident tone and impressive fluency with language and visual communication give us the impression that the chatbot has a relatively sophisticated understanding. The eager responses make us feel it's keen to help, or perhaps even that it appreciates our ideas and acknowledges us as a person. 
+An important dimension of GenAI works relates to how we make sense of our interactions with chatbots. Chatbot responses are designed for ease of use and to make us trust their responses. Their confident tone and impressive fluency with language and visual communication give us the impression that the chatbot has a relatively sophisticated "understanding". The eager responses make us feel it's keen to help, or perhaps even that it appreciates our ideas and acknowledges us as a person. This user experience has been carefully designed around how people respond to linguistic interactions.
 
 - TOC
 {:toc}
