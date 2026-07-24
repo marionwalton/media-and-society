@@ -60,7 +60,9 @@ As we've already learned, this output is known as synthetic media. Once you unde
 
 ## Concerns about GenAI
 
-Our focus in this course is the potential representational harms which come about as a result of reliance on training data which reflects the gendered, racist, classist and other discourses and media images around us.
+
+### Bias 
+Our focus in this course is the potential representational harms which come about as a result of reliance on biased training data which reflects and reinforces hegemonic gendered, racist, classist and other discourses and media images around us. We'll discuss this in more detail when we talk about [Gender bias and AI](https://marionwalton.github.io/media-and-society/10_gender_2.html).
 
 In future courses, we will discuss the ethical concerns which have led many people to call for tighter control of GenAI industries or to refuse GenAI completely.
 
