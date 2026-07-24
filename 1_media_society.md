@@ -1,14 +1,16 @@
 ---
-title: 03.0. Media and society 
+title: 03.0. Media and Society 
 layout: home
 ---
-# Media and society
+# Media and Society
 {: .no_toc }
 *By Marion Walton & Wallace Chuma, University of Cape Town*
 
 Media reflect and shape power relations in societies in many ways. 
 
 In this part of the course, we'll investigate the social, political, cultural and economic role of the media, and especially of the mass media and social media, in different contexts around the world. 
+
+We'll round up this overview by investigating who owns the sources of news and information we encounter every day.
 
 ## News media
 
