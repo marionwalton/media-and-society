@@ -146,7 +146,7 @@ Synthetic images are superficially cohesive because GenAI models reconstruct th
 Read this case study of a system developed with consensually gathered training data which was released as an open source and open weights project, and which can run on an ordinary computer. 
 
 Dash, Anil. 28 Apr 2026. (One) Good AI is here.
-https://www.anildash.com/2026/04/28/one-good-ai-is-here/
+[https://www.anildash.com/2026/04/28/one-good-ai-is-here/](https://www.anildash.com/2026/04/28/one-good-ai-is-here/)
 
 ![Activity](img/pencilpencil.svg)  Now debate the following questions: 
  

@@ -85,6 +85,12 @@ Couldry, N. 2004. Theorizing media as practice. *Social Semiotics* 14(2): 115-13
 <a name="crenshaw_1991"></a>
 Crenshaw, Kimberle. 1991. “Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color”. *Stanford Law Review* 43(6):1241-1299.
 
+<a name="dejager_2016"></a>
+De Jager, K. & Steele, D. 2016. UCT Author-Date Reference Guide: Based on the Harvard Referencing style.
+
+Available: _<https://open.uct.ac.za/bitstream/handle/11427/31646/UCT%20Author-Date%20Reference%20Guide_Book_2016.pdf>_
+
+
 <a name="dewaal_2012"></a>
 De Waal, M. 2012, 24 Aug. Marikana: The matter of embedded journalism. *Daily Maverick*. Available: https://www.dailymaverick.co.za/article/2012-08-24-marikana-the-matter-of-embedded-journalism/
 
