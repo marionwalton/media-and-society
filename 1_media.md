@@ -41,12 +41,12 @@ These media all play important roles in transmitting and encoding messages betwe
 
 We tend to think of media as print or electronic media, but people have been using media to communicate for a very long time.
 
-### Example - Iziko Rhino
+## Example - Iziko Rhino
 
 {: .example}
-For example, the <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">"Iziko Rhino"</a> (see Figure 2) is thought to have been created thousands of years ago when someone carefully engraved the image of a rhino
-on a rock. The creators of the engraving are thought to be the Later Stone Age ancestors of the /Xam San at Kinderdam in North West Province, who created images such as this between 1,000 and 10,000 years ago. 
-The long-lasting medium of the rock engraving has survived many centuries. The carved line in the stone is still a **medium** between us (as contemporary viewers) and the original creators of the engraving. The engraving connects us despite the destruction of the /Xam society under colonialism. 
+For example, the <a href="https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG">"Iziko Rhino"</a> (see Figure 2) is believed to have been created thousands of years ago when someone carefully engraved the image of a rhino on a rock. The creators of the engraving are thought to be the Later Stone Age ancestors of the /Xam San at Kinderdam in North West Province, who created images such as this between 1,000 and 10,000 years ago. 
+
+The long-lasting medium of the rock engraving has survived many centuries. The carved line in the stone is still a **medium** between us (as contemporary viewers) and the original creators of the engraving. The engraving still connects us with them despite the destruction of the /Xam society under colonialism. 
 
 [Media](definitions.html#media){: .btn .btn-blue }
 
@@ -66,8 +66,7 @@ The long-lasting nature of a rock engraving is one of its [**affordances**](defi
 
 Another affordance is that the engraving on the rock interacts with its surroundings. For example, at certain times of day, or in certain angles of light, the engravings may suddenly become more visible, or may seem to move in flickering firelight ([Hodgskiss & Esterhuysen, 2019](references.html#hodgskiss_esterhuysen_2019)). 
 
-In subsequent eras, many other communication technologies have been developed, including print media, digital images, audio and video formats,
-the electromagnetic spectrum (e.g. radio waves and cellphone signals), the internet and generative AI. All these media and communication technologies have different affordances.
+In subsequent eras, many other communication technologies have been developed, including print media, digital images, audio and video formats, the electromagnetic spectrum (e.g. radio waves and cellphone signals), the internet and generative AI. All these media and communication technologies have different affordances.
 
 [Affordance](definitions.html#affordance){: .btn .btn-blue }
 
@@ -101,7 +100,7 @@ Analogue media were created for mass audiences in the pre-digital era. Analogue 
 Digital media are created using signals expressed as a series of the numbers (digits) 0 and 1. This means that they can be processed by a computer.
 
 Today many forms of **digital media** are encoded in different formats and depend on a specific configuration of 
-**technologies and infrastructure** such as electricity, internet connectivity, fibre optic cables, electromagnetic signals transmitted by radio or television broadcasters  or mobile phone signals. Contemporary technologies of production and distribution mean that it is possible to communicate across long distances with people around the world. 
+**technologies and infrastructure** such as electricity, internet connectivity, fibre optic cables, electromagnetic signals transmitted by radio or television broadcasters  or mobile phone signals and many layers of software. Contemporary technologies of production and distribution mean that it is possible to communicate across long distances with people around the world. 
 
 Digital media also have affordances. For example, digital media can be easily copied and transmitted across a computer network. In the case of the Iziko Rhino depicted in [Figure 1](#example---iziko-rhino), a Wikipedian working at the Africa Centre in Cape Town published a digital photograph of the rhino engraving to [Wikimedia](https://commons.wikimedia.org/wiki/File:Iziko_Rhino.JPG), a website which allows everyone to contribute and edit information in encyclopedic format. Now people around the world can connect to the internet and see the image.
 

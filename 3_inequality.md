@@ -52,8 +52,7 @@ representations in the media continue to perpetuate forms of inequality such as 
 homophobia. 
 
 These stereotypes persist because globally, the media have historically reflected the economic dominance of 
-Hollywood industries (and increasingly of Silicon Valley), reflect men's control of these industries, and have catered to the beliefs and ideologies of white 
-US audiences. 
+Hollywood industries (and increasingly of Silicon Valley), reflect men's control of these industries, and have catered to the beliefs and ideologies of white US audiences. 
 
 Similarly, in South Africa the audiences often targeted by advertising and media are disproportionately middle class and often largely white. 
 
@@ -80,8 +79,7 @@ Credit - Alison McCann via [ShortCutstv](https://www.shortcutstv.com/blog/resear
 
 Feminist scholars have developed many more powerful and nuanced ways of exploring the intersectional representation of gender and sexuality in the movie industry. Nonetheless, Bechdel's extremely limited measure has been widely used to document failures of representation in the industry and (in relation to this very low bar) shifts in the movie industry over time. 
 
-Film scholars have highlighted how a male-dominated Hollywood film industry also created conventions where women and white women in 
-particular were viewed from the perspective of a cinematic "male gaze" (<a href="/ideas/references/index.html#mulvey_1975">Mulvey, 1975</a>)
+Film scholars have highlighted how a male-dominated Hollywood film industry also created conventions where women and white women in particular were viewed from the perspective of a cinematic "male gaze" (<a href="/ideas/references/index.html#mulvey_1975">Mulvey, 1975</a>)
 which represents them primarily as sexual objects, for the visual pleasure of the heterosexual male viewer.
 
 <figure>
@@ -94,7 +92,7 @@ which represents them primarily as sexual objects, for the visual pleasure of th
 
 ### The oppositional gaze
 
-By contrast, in the Hollywood tradition, Black women were likely to be entirely excluded or represented as one-dimensional racist and sexist 
+By contrast to the hyper-visibility of idealised white women, in the Hollywood tradition, Black women were likely to be entirely excluded or represented as one-dimensional racist and sexist 
 stereotypes (<a href="/ideas/references/index.html#hooks_1992">hooks, 1992</a>).
 
 <figure>
@@ -105,7 +103,7 @@ stereotypes (<a href="/ideas/references/index.html#hooks_1992">hooks, 1992</a>).
 
 Despite the prevalence of inequality and stereotyping in Hollywood, people's thinking is not controlled by the media they encounter. Black feminist theorist bell hooks ([1992]()) remembers watching movies as a young Black girl in the USA and becoming aware that Black women were excluded from the male gaze while white women were idealised. 
 
-This led hooks to develop the idea of an "[oppositional gaze](definitions.html#hooks_1992)" . In this case, the act of spectatorship becomes 
+This led hooks to develop the idea of an "[oppositional gaze](definitions.html#hooks_1992)" . Her idea shows us that the act of spectatorship can become 
 a gesture of resistance (<a href="references.html#hooks_1992">hooks, 1992</a>). 
 
 ### AI, bias and inequality
