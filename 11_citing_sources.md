@@ -58,7 +58,7 @@ Plagiarism is a form of academic dishonesty. If you haven't written something yo
 {: .definition}
 A paraphrase is a summary of the author’s point in your own words. 
 
-As an undergraduate using the UCT Author-Date style of references, you will need to provide a page reference for your paraphrases. 
+As an undergraduate using the [UCT Author-Date](references.html#dejager_2016) style of references, you will need to provide a page reference for your paraphrases. 
 
 ## When may I quote exactly?
 
