@@ -76,6 +76,9 @@ Coded Bias Video. 2020. Produced by S. Hoffman & Directed by S. Kantayya. United
 <a name="competition_2025"></a>
 Competition Commission, South Africa. 2025, February. Media and Digital Platforms Market Inquiry (MDPMI). Available: https://www.compcom.co.za/wp-content/uploads/2025/02/MDPMI-Annexure-4-Social-Media__Redacted.pdf
 
+<a name="opland_1975">
+Opland, J. 1975. Imbongi Nezibongo: The Xhosa Tribal Poet and the Contemporary Poetic Tradition. _PMLA_. 90(2). 185–208. https://doi.org/10.2307/461604
+    
 <a name="cooke_2022"></a>
 Cooke, Lucy. 2022. *Bitch: On the Female of the Species*. New York: Basic Books. 
 
@@ -184,6 +187,9 @@ Habermas, Jürgen 1989. *The Structural Transformation of the Public Sphere: An 
 
 <a name="habermas_2006"></a>
 Habermas, Jürgen 2006. "Political Communication in Media Society: Does Democracy Still Enjoy an Epistemic Dimension? The Impact of Normative Theory on Empirical Research" *Communication Theory*. 16 (4): 411–426.
+
+<a name="hallin_2004"></a>
+Hallin, D. C., & Mancini, P. (2004). _Comparing media systems : three models of media and politics_. Cambridge University Press.
 
 <a name="hill_et_al_2022"></a>
 Hill, B., & Shaw, A. 2013, June 26. “The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with Propensity Score Estimation.” Edited by Angel Sánchez. *PLoS ONE* 8.6.

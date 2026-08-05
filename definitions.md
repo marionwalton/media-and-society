@@ -192,9 +192,15 @@ Open access means anyone should be able to access a resource. There are no finan
 ## Oppositional Gaze
 The oppositional gaze refers to a space of viewer resistance and a critical perspective on mass media's lack of meaningful Black representation (bell hooks)
 
+## Paraphrase
+A paraphrase is a summary of the author’s point in your own words. As an undergraduate using the UCT Author-Date style of references, you will need to provide a page reference for your paraphrases. 
+
 ## Patriarchal social structures 
 
 Social systems where most women are dominated by some men, where gender oppression **intersects** with other systems of oppression (race, class, sexuality, disability, age etc). 
+
+## Plagiarism
+Plagiarism is using work by someone else without acknowledging and properly referencing it. Plagiarism is considered a form of academic dishonesty or misconduct and can include copying from someone else or the use of Generative AI for generating text or images and passing it off as your own work. Plagiarism has serious consequences which can include a zero grade, expulsion from university, a permanent disciplinary note on your record, or dismissal from your job.
 
 ## Post-structuralist
 Post-structuralism is a philosophical approach to discourse and representation, which argues that language is not directly connected to a “reality” outside of language and which challenges binary oppositions (man/woman,rational/emotional). Post-structuralism approaches language as a set of inter-related and shifting significations, which derive their meaning from the fluid and changing relationships shaping social reality. 
@@ -220,10 +226,13 @@ The term “queer” is a reclaimed homophobic insult, which now encompasses a w
 ## Queer theory
 Queer theory is used to challenge essentialism, break down oversimplifying **binaries**, and to question **heteronormative** identities, categories, and assumptions through the argument that gender norms are performative signifying practices.
 
-By showing how sexuality may be shaped by race and gender in many ways, queer theory exposes how sexual and gender identities are socially constructed. ([Barker, 2016](references.html#barker_2016))
+By showing how sexuality may be shaped by race and gender in many ways, queer theory exposes how sexual and gender identities are socially constructed. ([Barker, 2016](references.html#barker_2016)).
+
+## Quotation
+A quotation is where you repeat another author's words exactly in quotation marks. A quotation needs an in-text citation including page number or section title, as well as a full reference in the list of references. Without these citational details, any exactly copied sequence of words is considered plagiarism. 
 
 ## Reference
-A full reference is included in the [list of references](definitions.html#reference) at the end of an assignment. A reference provides all the information the reader would need to find and check a source you've referred to. A full reference also includes the author's name and the date of publication, as well as (depending on the kind of source you're citing), the publisher, place of publication and page numbers or URL of the material you're referencing.  The in-text citation appears when you use the source in the text of the essay and in the list of references at the end of the essay.
+A full reference is included in the [list of references](definitions.html#reference) at the end of an assignment. A reference provides all the information the reader would need to find and check a source you've referred to. A full reference includes the author's name and the date of publication, a title, as well as (depending on the kind of source you're citing), the journal name, issue details and page numbers, or the book publisher, place of publication and page numbers or, in the case of a website, the URL and the date you visited the website.  The in-text citation shows the exact sentence where you're using the source in the text of the essay and the list of references appears at the end of the essay.
 
 ## Residual discourses
 Sets of ideas and beliefs from the past that are still accepted by some. (O'Shaugnessy & Stadler)

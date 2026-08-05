@@ -7,11 +7,9 @@ title:  03.2.2. Publics & power
 
 *By Marion Walton, University of Cape Town*
 
-Media plays a central role in creating our sense of community, and by staging debates and facilitating deliberation and engagement around contemporary issues, they help to create the feeling of participating in a [**public**](/ideas/definitions/index.html#public). The word "public" comes from a Latin word which means both the "people", the "state" or government, and what is shared or commonly owned.
+Media plays a central role in creating our sense of community, and by staging debates and facilitating deliberation and engagement around contemporary issues, they help to create the feeling of participating in a [**public**](/ideas/definitions/index.html#public). The word "public" comes from a Latin word which means both the "people", the "state" or government, and what is shared or commonly owned. The history of media shows us how media industries have played an important role alongside governments, political parties and ordinary people in shaping our sense of belonging to a public.
 
-We may experience this sense of being part of a public (rather than an audience) 
-when engaging with others by participating in a protest, tuning into a talk radio show, watching short videos created by other 
-fans of our favourite musicians, or following social media commentary while watching a TV show. 
+We may experience this sense of being part of a public (rather than an audience) when engaging with others by participating in a protest, tuning into a talk radio show, watching short videos created by other fans of our favourite musicians, or following social media commentary while watching a TV show. 
 
 - TOC
 {:toc}
@@ -47,52 +45,37 @@ and **ridicule** or **parody** those in power ([Nyamnjoh, 2005](references.html#
 
 ### Publics and journalism
 
-In liberal democracies, the media, and particularly investigative journalists, are expected to play an important 
-role as political watchdogs, or the “fourth estate”. The term comes from the French revolution, where the 
-judiciary, parliament and church were known as the first, second and third estates. The press (known as the fourth 
-estate) commented on the activities of these other estates, and thus the term “fourth estate” emphasises the 
-independence of a free press and the importance of informing the public and holding government power to account 
-(for more about this see [O’Shaughnessy,  Stadler, & Casey, 2016: 17](references.html#oshaughnessy_et_al_2016)).
+In Western liberal democracies the media, and particularly investigative journalists, are seen to play an important democratic role within complex media systems ([Hallin & Mancini, 2004](references.html#hallin_2004)). The media are often assumed to play the role of political watchdogs, or the “fourth estate”. The term comes from the French revolution, where the judiciary, parliament and church were known as the first, second and third estates. The press (known as the fourth estate) commented on the activities of these other estates. The term “fourth estate” highlighted the independence of a free press and its important democratic role - informing the public and holding government power to account (for more about this see [O’Shaughnessy,  Stadler, & Casey, 2016: 17](references.html#oshaughnessy_et_al_2016)).
 
 ![Portrait of Henry Nxumalo holding a pipe](https://www.sahistory.org.za/sites/default/files/styles/biography_pic_style/public/biography_pics/nxumalo_henry.jpg?itok=1ioO4iS9)
 
 Figure 1: Henry Nxumalo - Credit - [SA history online](https://www.sahistory.org.za/people/henry-mr-drum-nxumalo)
 
-Despite the suppression of free expression under colonialism and apartheid which we will discuss as we consider
-media and social power there are many examples in South African history where media have in fact played this
-role, such as where journalists, activists and whistleblowers brought racism, labour exploitation, government corruption and apartheid’s crimes 
+In practice, media systems are intertwined with complex systems of cultural influence, political propaganda or patronage, and government and commercial power ([Jones & Hadland, 2024](references.html#jones_2024)).
+
+For example, in the history of South Africa, oral traditions included important roles for oral poets or _imbongi_ who praised and celebrated leaders, both past and present ([Finnegan, 2012: 84-85](reference.html#finnegan_2012)) and in some contexts were also able to criticize leaders in very public ways with impunity ([Opland, 1975:193](references.html#opland_1975)). 
+
+In the colonial and apartheid eras, free expression was suppressed by many draconian laws under authoritarian regimes. South Africa subsequently introduced laws to protect media freedom after the end of apartheid, and the media have played an important role in the country’s democracy. Yet the media tend to pursue investigations that interest wealthier audiences, and seldom challenge the economic status quo which underpins the media business. The ANC, as governing party, has had a complex, often antagonistic relationship with the media, particularly when their political or economic interests are threatened by a story. 
+
+Nonetheless, there are many examples in South African history where media have in fact played a key role in bringing to light the abuse of economic and government power.  Journalists, activists and whistleblowers have highlighted racism, labour exploitation, government corruption and apartheid’s crimes 
 against humanity to light. For example, during the apartheid era, Henry Nxumalo, (known as Mr Drum), worked for 
 *Drum* magazine in the 1950s. Nxumalo often worked undercover, subjecting himself to the harsh conditions and 
 abuse endured by prisoners and farm workers at the time and challenging the segregation of apartheid churches 
 in his investigations ([Harber, 2018: 69-75](references.html#harber_2018)). 
 
-While *Drum* magazine gave expression to political protest and defiance 
-of black urban publics, the white press were generally silent about and even complicit with labour exploitation 
-and publications were seldom prepared to flout the apartheid regime’s draconian censorship laws. Instead, lawyers, 
-activists and  religious figures took on the role of “muckraking” or exposing stories which those in power 
-preferred to suppress, sometimes doing so at great personal cost ([Harber, 2018](references.html#harber_2018)). 
+While *Drum* magazine gave expression to political protest and defiance of black urban publics, the white press were generally silent about and even complicit with labour exploitation and publications were seldom prepared to flout the apartheid regime’s draconian censorship laws. Instead, lawyers, activists and  religious figures took on the role of “muckraking” or exposing stories which those in power preferred to suppress, sometimes doing so at great personal cost ([Harber, 2018](references.html#harber_2018)). 
 
-In another example, socialist and political journalist Ruth First authored political pamphlets and also exposed the 
-exploitation of farmworkers in international leftist publications, such as *Fighting Talk* and the *Guardian* 
-(she also edited the *Guardian*’s Johannesburg edition). First’s journalism and activism led to her being banned
-from practising journalism and she was imprisoned and later murdered in exile by the South African Security Branch 
-in Mozambique ([Harber, 2018:61-69](references.html#harber_2018)), 
+In another example, socialist and political journalist Ruth First authored political pamphlets and also exposed the exploitation of farmworkers in international leftist publications, such as *Fighting Talk* and the *Guardian* (she also edited the *Guardian*’s Johannesburg edition). First’s journalism and activism led to her being banned from practising journalism and she was imprisoned and later murdered in exile by the South African Security Branch in Mozambique ([Harber, 2018:61-69](references.html#harber_2018)), 
 
-South Africa subsequently introduced laws to protect media freedom after the end of apartheid, and the media have
-played an important role in the country’s democracy, particularly in breaking important stories about government
-corruption, corporate malfeasance and state capture. Notably, whistleblowers and investigators from several news 
+After democracy, journalists have played an important role  in breaking important stories about government corruption, corporate malfeasance and state capture. Notably, whistleblowers and investigators from several news 
 organisations, including amaBhungane, the *Daily Maverick*, *News24* and others worked together to tell stories 
 based on an email leak, known as the Guptaleaks, which revealed massive money laundering of state funds, and the 
 influence of the Gupta brothers on government ([Harber, 2018:260-267 and 326-335](references.html#harber_2018)). This expose played an important 
 part in the removal of former President Jacob Zuma. 
 
-Even when countries such as South Africa guarantee freedom of expression, they still struggle with massive 
-inequalities in the kinds of stories told and the voices which are heard in the media. Media practices are ingrained,
-profit motives are powerful, and semiotic languages change slowly. For this reason,  it takes more than laws 
-protecting free expression to ensure that important stories are told ([Wasserman, 2020](references.html#wasserman_2020)). When people’s stories
-*are* told, there’s no guarantee that anyone in a powerful position is listening. For example, even though indigenous 
-language radio stations have the largest audiences in South Africa, English radio stations tend to be associated 
-with the elite and the public sphere ([Bosch, 2022](references.html#bosch_2022)). While everyone is theoretically free to speak, it is still 
+Even when countries such as South Africa guarantee freedom of expression, they still struggle with massive inequalities in the kinds of stories told and the voices which are heard in the media. Media practices are ingrained, profit motives are powerful, and semiotic languages change slowly. For this reason,  it takes more than laws protecting free expression to ensure that important stories are told ([Wasserman, 2020](references.html#wasserman_2020)). 
+
+When people’s stories*are* told, there’s no guarantee that anyone in a powerful position is listening. For example, even though indigenous language radio stations have the largest audiences in South Africa, English radio stations tend to be associated with the elite and the public sphere ([Bosch, 2022](references.html#bosch_2022)). While everyone is theoretically free to speak, it is still 
 extremely difficult for marginalised people to gain **public attention**.
 
 Despite these limitations, one of the important roles of media is to help **bring people together** around a shared 
