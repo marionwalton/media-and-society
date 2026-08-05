@@ -45,7 +45,9 @@ and **ridicule** or **parody** those in power ([Nyamnjoh, 2005](references.html#
 
 ### Publics and journalism
 
-In Western liberal democracies the media, and particularly investigative journalists, are seen to play an important democratic role within complex media systems ([Hallin & Mancini, 2004](references.html#hallin_2004)). The media are often assumed to play the role of political watchdogs, or the “fourth estate”. The term comes from the French revolution, where the judiciary, parliament and church were known as the first, second and third estates. The press (known as the fourth estate) commented on the activities of these other estates. The term “fourth estate” highlighted the independence of a free press and its important democratic role - informing the public and holding government power to account (for more about this see [O’Shaughnessy,  Stadler, & Casey, 2016: 17](references.html#oshaughnessy_et_al_2016)).
+In Western liberal democracies the media, and particularly investigative journalists, are seen to play an important democratic role within complex media systems ([Hallin & Mancini, 2004](references.html#hallin_2004)). 
+
+In everyday parlance, the media are often assumed to play the role of political watchdogs, or the “fourth estate”. The term comes from the French revolution, where the judiciary, parliament and church were known as the first, second and third estates. The press (known as the fourth estate) commented on the activities of these other estates. The term “fourth estate” highlighted the independence of a free press and its important democratic role - informing the public and holding government power to account (for more about this see [O’Shaughnessy,  Stadler, & Casey, 2016: 17](references.html#oshaughnessy_et_al_2016)).
 
 ![Portrait of Henry Nxumalo holding a pipe](https://www.sahistory.org.za/sites/default/files/styles/biography_pic_style/public/biography_pics/nxumalo_henry.jpg?itok=1ioO4iS9)
 
@@ -57,8 +59,9 @@ For example, in the history of South Africa, oral traditions included important 
 
 In the colonial and apartheid eras, free expression was suppressed by many draconian laws under authoritarian regimes. South Africa subsequently introduced laws to protect media freedom after the end of apartheid, and the media have played an important role in the country’s democracy. Yet the media tend to pursue investigations that interest wealthier audiences, and seldom challenge the economic status quo which underpins the media business. The ANC, as governing party, has had a complex, often antagonistic relationship with the media, particularly when their political or economic interests are threatened by a story. 
 
-Nonetheless, there are many examples in South African history where media have in fact played a key role in bringing to light the abuse of economic and government power.  Journalists, activists and whistleblowers have highlighted racism, labour exploitation, government corruption and apartheid’s crimes 
-against humanity to light. For example, during the apartheid era, Henry Nxumalo, (known as Mr Drum), worked for 
+Nonetheless, there are many examples in South African history where media have in fact played a key role in bringing to light the abuse of economic and government power or surfacing what scholars have called "pavement radio" ([Ellis, 1989](references.html#ellis_1989), [Nyamnjoh, 2005](references.html#nyamnjoh_2005), [Bosch, 2010](references.html#bosch_2010)), the everyday talk and mockery by which ordinary people criticize those with power.  
+
+Journalists, activists and whistleblowers have highlighted racism, labour exploitation, government corruption and apartheid’s crimes against humanity to light. For example, during the apartheid era, Henry Nxumalo, (known as Mr Drum), worked for 
 *Drum* magazine in the 1950s. Nxumalo often worked undercover, subjecting himself to the harsh conditions and 
 abuse endured by prisoners and farm workers at the time and challenging the segregation of apartheid churches 
 in his investigations ([Harber, 2018: 69-75](references.html#harber_2018)). 

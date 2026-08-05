@@ -41,6 +41,9 @@ Bender, E.M., Gebru, T., McMillan-Major, A. & Shmitchell, S. 2021. On the Danger
 <a name="bosch_mutsvairo_2017"></a>
 Bosch, T. & Mutsvairo, B. 2017. ‘Pictures, Protests and Politics: Mapping Twitter Images during South Africa’s Fees Must Fall Campaign’, African Journalism Studies, 38(2):71–89. [doi: 10.1080/23743670.2017.1368869](https://doi.org/10.1080/23743670.2017.1368869).
 
+<a name="bosch_2010"></a>
+Bosch, T., 2010. Talk radio, democracy and citizenship in (South) Africa. _Popular media, democracy and development in Africa_, pp.75-87.
+
 <a name="bosch_2022"></a>
 Bosch,T. 2022, February 11\. Radio is thriving in South Africa: 80% are tuning in. *The Conversation.* Available: https://theconversation.com/radio-is-thriving-in-south-africa-80-are-tuning-in-176846
 
@@ -75,9 +78,6 @@ Coded Bias Video. 2020. Produced by S. Hoffman & Directed by S. Kantayya. United
 
 <a name="competition_2025"></a>
 Competition Commission, South Africa. 2025, February. Media and Digital Platforms Market Inquiry (MDPMI). Available: https://www.compcom.co.za/wp-content/uploads/2025/02/MDPMI-Annexure-4-Social-Media__Redacted.pdf
-
-<a name="opland_1975">
-Opland, J. 1975. Imbongi Nezibongo: The Xhosa Tribal Poet and the Contemporary Poetic Tradition. _PMLA_. 90(2). 185–208. https://doi.org/10.2307/461604
     
 <a name="cooke_2022"></a>
 Cooke, Lucy. 2022. *Bitch: On the Female of the Species*. New York: Basic Books. 
@@ -111,6 +111,9 @@ Dugmore, Harry. 2018. Paying the Piper: The Sustainability of the News Industry 
 
 <a name="dunham_2023"></a>
 Dunham, J. 2023. Deadly year for journalists as killings rose sharply in 2022\. Committee to Protect Journalists. Available: https://cpj.org/reports/2023/01/deadly-year-for-journalists-as-killings-rose-sharply-in-2022/
+
+<a name="ellis_1989"></a>
+Ellis, S. 1989. Tuning in to pavement radio. African Affairs. 88 (352):321-330
 
 <a name="fraser_1990"></a>
 Fraser, N. 1990. Rethinking the public sphere: A contribution to the
@@ -310,6 +313,9 @@ O’Shaughnessy, M.,  Stadler, J. & Casey, S. 2016. *Media & Society*. Melbourne
 
 <a name="oakley_1972"></a>
 Oakley, A. 1972. *Sex, Gender and Society. Revised Edition*. Hampshire: Arena Gower Publishing.  
+
+<a name="opland_1975">
+Opland, J. 1975. Imbongi Nezibongo: The Xhosa Tribal Poet and the Contemporary Poetic Tradition. _PMLA_. 90(2). 185–208. https://doi.org/10.2307/461604
 
 <a name="oyedemi_2024"></a>
 Oyedemi, T. & Smith, R. A. Eds. 2024. *Media in Africa : Issues and Critiques*. First edition. New York, NY: Routledge.
