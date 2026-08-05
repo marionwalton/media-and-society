@@ -53,7 +53,7 @@ In everyday parlance, the media are often assumed to play the role of political 
 
 Figure 1: Henry Nxumalo - Credit - [SA history online](https://www.sahistory.org.za/people/henry-mr-drum-nxumalo)
 
-In practice, media systems are intertwined with complex systems of cultural influence, political propaganda or patronage, and government and commercial power ([Jones & Hadland, 2024](references.html#jones_2024)).
+In practice, it's not so simple. Media systems, including those in South Africa, are intertwined with complex systems of cultural influence, political propaganda or patronage, and government and commercial power (for more see [Jones & Hadland, 2024](references.html#jones_2024)).
 
 For example, in the history of South Africa, oral traditions included important roles for oral poets or _imbongi_ who praised and celebrated leaders, both past and present ([Finnegan, 2012: 84-85](reference.html#finnegan_2012)) and in some contexts were also able to criticize leaders in very public ways with impunity ([Opland, 1975:193](references.html#opland_1975)). 
 
