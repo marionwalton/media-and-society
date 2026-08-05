@@ -46,14 +46,16 @@ For an academic essay in this course you should use the [UCT Author-Date](refere
 ## What about references?
 
 {: .definition}
-A full reference is included in the [list of references](definitions.html#reference) at the end of an assignment. A reference provides all the information the reader would need to find and check a source you've referred to. A full reference includes the author's name and the date of publication, a title, as well as (depending on the kind of source you're citing), the journal name, issue details and page numbers, or the book publisher, place of publication and page numbers or, in the case of a website, the URL and the date you visited the website. The in-text citation shows the exact sentence where you're using the source in the text of the essay and the list of references appears at the end of the essay.
+A full reference is included in the [list of references](definitions.html#reference) at the end of an assignment. A reference provides all the information the reader would need to find and check a source you've referred to. 
+
+A full reference includes the author's name and the date of publication, a title, as well as (depending on the kind of source you're citing), the journal name, issue details and page numbers, or the book publisher, place of publication and page numbers or, in the case of a website, the URL and the date you visited the website. The in-text citation shows the exact sentence where you're using the source in the text of the essay and the list of references appears at the end of the essay.
 
 ## What is plagiarism?
 
 {: .definition}
 Plagiarism is a form of academic dishonesty. If you haven't written something yourself you need to acknowledge the author by citing your source, [paraphrasing](definitions.html#paraphrase) any ideas you use and using an exact [quotation](definitions.html#quotation) to differentiate the author's words from your own. If you haven't read a source yourself, you should not cite it. 
 
-## What is a paraphrase
+## What is a paraphrase?
 
 {: .definition}
 A paraphrase is a summary of the author’s point in your own words. 
