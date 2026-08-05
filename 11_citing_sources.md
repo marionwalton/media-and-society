@@ -54,12 +54,14 @@ A full reference is included in the [list of references](definitions.html#refere
 Plagiarism is a form of academic dishonesty. If you haven't written something yourself you need to acknowledge the author by citing your source, [paraphrasing](definitions.html#paraphrase) any ideas you use and using an exact [quotation](definitions.html#quotation) to differentiate the author's words from your own. If you haven't read a source yourself, you should not cite it. 
 
 ## What is a paraphrase
+
 {: .definition}
 A paraphrase is a summary of the author’s point in your own words. 
 
 As an undergraduate using the UCT Author-Date style of references, you will need to provide a page reference for your paraphrases. 
 
 ## When may I quote exactly?
+
 {: .definition}
 A quotation is where you repeat another author's words exactly and reference the source correctly. In such cases the quoted words need to appear in quotation marks and you need to provide an in-text citation including page number or section title, as well as a full reference in the list of references. Without these citational details, any exactly copied sequence of words is considered plagiarism. 
 
